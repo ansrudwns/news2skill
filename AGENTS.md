@@ -4,6 +4,7 @@ This is the primary Harness configuration and skill registry.
 Before embarking on any task, you MUST check this registry. If a task implies one of the domains below, you MUST use `view_file` to read the exact instructions from the respective `.md` file before proceeding.
 
 ## Track A: Executable Skills Registry
+- **BotCTL_Watchdog**: 자율 에이전트 데몬 프로세스 추적 및 무한루프 강제 종료 스킬 (Path: `.agents/skills/BotCTL_Watchdog.md`)
 - **Structured_Output_Forcer**: Ensure robust payload exchanges by forcing LLM interfaces to output strict JSON schemas with fail-safes. (Path: `.agents/skills/Structured_Output_Forcer.md`)
 - **Karpathy_Strict_Mode**: Suppress AI hallucination and over-engineering by enforcing minimal, surgical code modifications. (Path: `.agents/skills/Karpathy_Strict_Mode.md`)
 - **Defensive_Fallback_Throttle**: Prevent infinite loops and 429 errors in asynchronous pipelines using backoffs and degradation. (Path: `.agents/skills/Defensive_Fallback_Throttle.md`)

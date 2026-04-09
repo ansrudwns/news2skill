@@ -4,15 +4,9 @@ https://huggingface.co/blog/gemma4
 https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/
 https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/
 https://deepmind.google/blog/protecting-people-from-harmful-manipulation/
+https://botctl.dev/
 https://astral.sh/blog/open-source-security-at-astral
 https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire
-https://obdev.at/products/littlesnitch-linux/index.html
 https://github.com/login?return_to=%2Felebumm%2FRedditVideoMakerBot
 https://github.com/login?return_to=%2Fimmich-app%2Fimmich
 https://github.com/sponsors/jesseduffield
-https://botctl.dev/
-https://arxiv.org/abs/2604.07350v1
-https://arxiv.org/abs/2604.07349v1
-https://arxiv.org/abs/2604.07348v1
-https://arxiv.org/abs/2604.07345v1
-https://arxiv.org/abs/2604.07343v1
