@@ -4,8 +4,9 @@ This is the primary Harness configuration and skill registry.
 Before embarking on any task, you MUST check this registry. If a task implies one of the domains below, you MUST use `view_file` to read the exact instructions from the respective `.md` file before proceeding.
 
 ## Track A: Executable Skills Registry
+- **Critical_Execution_Loop**: Test-Driven Execution protocol to strictly eliminate LLM hallucination and force rigorous mathematical/empirical validation before emitting code. (Path: `.agents/skills/Critical_Execution_Loop.md`)
 - **Anthropic_Prompting**: Implement Anthropic Agentic best practices including XML Scratchpads, Undercover Mode, and Layered Prompts. (Path: `.agents/skills/Anthropic_Prompting.md`)
-- **BotCTL_Watchdog**: 자율 에이전트 데몬 프로세스 추적 및 무한루프 강제 종료 스킬 (Path: `.agents/skills/BotCTL_Watchdog.md`)
+- **BotCTL_Watchdog**: Autonomous agent daemon tracking and infinite-loop termination protocol. (Path: `.agents/skills/BotCTL_Watchdog.md`)
 - **Structured_Output_Forcer**: Ensure robust payload exchanges by forcing LLM interfaces to output strict JSON schemas with fail-safes. (Path: `.agents/skills/Structured_Output_Forcer.md`)
 - **Karpathy_Strict_Mode**: Suppress AI hallucination and over-engineering by enforcing minimal, surgical code modifications. (Path: `.agents/skills/Karpathy_Strict_Mode.md`)
 - **Defensive_Fallback_Throttle**: Prevent infinite loops and 429 errors in asynchronous pipelines using backoffs and degradation. (Path: `.agents/skills/Defensive_Fallback_Throttle.md`)
@@ -14,7 +15,7 @@ Before embarking on any task, you MUST check this registry. If a task implies on
 - **Blocking_Budget**: Restrict autonomous background actions (pings/commands) to avoid blocking the user. (Path: `.agents/skills/Blocking_Budget.md`)
 
 ## Track B: Architectural Diaries Registry
-- **LaCT_Spatial_Memory**: 긴 컨텍스트 3D/영상 환경에서의 탄력적 Test-Time Training (망각 방지) 아키텍처 패턴 (Path: `.agents/diaries/LaCT_Spatial_Memory.md`)
+- **LaCT_Spatial_Memory**: Resilient Test-Time Training architecture for long-context 3D/video environments. (Path: `.agents/diaries/LaCT_Spatial_Memory.md`)
 - **Routing_Before_Thinking**: Optimize token expenditure by utilizing lightweight model routing before invoking heavy reasoning models. (Path: `.agents/diaries/Routing_Before_Thinking.md`)
 - **Harness_Engineering**: Design patterns for control layers and execution-intelligence splits. (Path: `.agents/diaries/Harness_Engineering.md`)
 - **MCP**: Best practices for generic verb routing to minimize Tool Sprawl. (Path: `.agents/diaries/MCP.md`)
@@ -27,4 +28,4 @@ Before embarking on any task, you MUST check this registry. If a task implies on
 - **Archives**: `.agents/backlog/archives/`
 
 ## Track D: Experimental Laboratory
-- **01_Agent_Cryptographic_Identity**: 에이전트 공급망 공격 방어용 암호학적 서명 인프라 연구실 (Path: `.agents/laboratory/01_Agent_Cryptographic_Identity/`)
+- **01_Agent_Cryptographic_Identity**: Cryptographic signature infrastructure research for agent supply-chain security. (Path: `.agents/laboratory/01_Agent_Cryptographic_Identity/`)
