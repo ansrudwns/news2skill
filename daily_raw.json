@@ -1,0 +1,78 @@
+{
+  "timestamp": "2026-04-09T15:37:25.360092",
+  "total_items": 12,
+  "data": [
+    {
+      "source": "Hugging Face",
+      "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve",
+      "summary": "..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Safetensors is Joining the PyTorch Foundation",
+      "link": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
+      "summary": "..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+      "link": "https://huggingface.co/blog/gemma4",
+      "summary": "..."
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Gemma 4: Byte for byte, the most capable open models",
+      "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+      "summary": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows...."
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "link": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+      "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise...."
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Protecting people from harmful manipulation",
+      "link": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+      "summary": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures...."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Open Source Security at Astral",
+      "link": "https://astral.sh/blog/open-source-security-at-astral",
+      "summary": "<p>Article URL: <a href=\"https://astral.sh/blog/open-source-security-at-astral\">https://astral.sh/blog/open-source-security-at-astral</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47699181\">https://news.ycombinator.com/item?id=47699181</a></p>\n<p>Points: 90</p>\n<p># Comments..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Newly created Polymarket accounts win big on well-timed Iran ceasefire bets",
+      "link": "https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire\">https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47698082\">https://news.ycombinator...."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "LittleSnitch for Linux",
+      "link": "https://obdev.at/products/littlesnitch-linux/index.html",
+      "summary": "<p>Article URL: <a href=\"https://obdev.at/products/littlesnitch-linux/index.html\">https://obdev.at/products/littlesnitch-linux/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47697870\">https://news.ycombinator.com/item?id=47697870</a></p>\n<p>Points: 460</p>\n<p># Com..."
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "elebumm /RedditVideoMakerBot",
+      "link": "https://github.com/login?return_to=%2Felebumm%2FRedditVideoMakerBot",
+      "summary": "Scraped from blog."
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "immich-app /immich",
+      "link": "https://github.com/login?return_to=%2Fimmich-app%2Fimmich",
+      "summary": "Scraped from blog."
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "jesseduffield /lazygit",
+      "link": "https://github.com/sponsors/jesseduffield",
+      "summary": "Scraped from blog."
+    }
+  ]
+}

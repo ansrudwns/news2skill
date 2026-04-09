@@ -1,0 +1,105 @@
+import os
+import shutil
+import glob
+import re
+from datetime import datetime
+
+def extract_metadata(filepath):
+    description = "No description provided."
+    try:
+        with open(filepath, "r", encoding="utf-8") as f:
+            content = f.read()
+            match = re.search(r'description:\s*(.+)', content)
+            if match:
+                description = match.group(1).strip()
+    except Exception as e:
+        pass
+    return description
+
+def update_agents_index(track_type, name, description, dest_path):
+    agents_file = "AGENTS.md"
+    if not os.path.exists(agents_file):
+        return
+    
+    with open(agents_file, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+        
+    # Check if already exists to prevent duplicate lines
+    if any(name in line for line in lines):
+        return
+
+    new_lines = []
+    inserted = False
+    
+    if track_type == "skill":
+        target_header = "## Track A:"
+    elif track_type == "diary":
+        target_header = "## Track B:"
+    else:
+        target_header = "## Track C:" # Backlog
+        
+        # If Track C doesn't exist yet, we will append it at the end
+        if not any(line.startswith("## Track C:") for line in lines):
+            lines.append("\n## Track C: Research Backlog\n")
+
+    for line in lines:
+        new_lines.append(line)
+        if line.startswith(target_header) and not inserted:
+            formatted_entry = f"- **{name}**: {description} (Path: `{dest_path}`)\n"
+            new_lines.append(formatted_entry)
+            inserted = True
+            
+    with open(agents_file, "w", encoding="utf-8") as f:
+        f.writelines(new_lines)
+
+def main():
+    staging_dir = os.path.join(".agents", "staging")
+    if not os.path.exists(staging_dir):
+        print("✅ Staging directory not found. Nothing to commit.")
+        return
+
+    files = glob.glob(os.path.join(staging_dir, "draft_*.md"))
+    if not files:
+        print("✅ No valid drafts to commit in staging.")
+        return
+
+    for file in files:
+        basename = os.path.basename(file)
+        is_skill = basename.startswith("draft_skill_")
+        is_diary = basename.startswith("draft_diary_")
+        is_backlog = basename.startswith("draft_backlog_")
+        
+        if not (is_skill or is_diary or is_backlog):
+            continue
+            
+        track_type = "skill" if is_skill else ("diary" if is_diary else "backlog")
+        folder = "skills" if is_skill else ("diaries" if is_diary else "backlog")
+        
+        clean_name = basename.replace("draft_skill_", "").replace("draft_diary_", "").replace("draft_backlog_", "")
+        dest_dir = os.path.join(".agents", folder)
+        dest_path = os.path.join(dest_dir, clean_name)
+        
+        # Collision protection (Never overwrite existing knowledge)
+        if os.path.exists(dest_path):
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            name_part, ext = os.path.splitext(clean_name)
+            clean_name = f"{name_part}_{timestamp}{ext}"
+            dest_path = os.path.join(dest_dir, clean_name)
+            
+        # Extract metadata for the index
+        description = extract_metadata(file)
+        
+        # Safely move file across any OS
+        os.makedirs(dest_dir, exist_ok=True)
+        shutil.move(file, dest_path)
+        print(f"📦 Moved {basename} -> {dest_path}")
+        
+        # Update AGENTS.md Index automatically
+        asset_name = os.path.splitext(clean_name)[0]
+        # Replace backslashes with forward slashes for clean Markdown paths
+        update_agents_index(track_type, asset_name, description, dest_path.replace("\\", "/"))
+        
+    print("🚀 Auto-commit and Index Registration Complete.")
+
+if __name__ == "__main__":
+    main()
