@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "draft_skill_safe.md",
+        "digest": {
+          "sha256": "27d0bdf756ba31084ef3363bbd96e5a527b635f1636473702b9c6ce1fa818eeb"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Isolated-Auditor-Node"
+      },
+      "metadata": {
+        "ruleSet": "Heuristic-Anti-Injection-v1",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-09T09:02:10.649991+00:00"
+    }
+  },
+  "signature": "1785e1cc53a9f8323cd0feed47b477e34188641e5a17affd708338b94ce24d6d"
+}

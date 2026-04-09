@@ -2,7 +2,58 @@ import os
 import shutil
 import glob
 import re
+import hashlib
 from datetime import datetime
+from dotenv import load_dotenv
+
+load_dotenv()
+
+def get_secret_key() -> str:
+    key = os.getenv("AGENT_PRIVATE_SIGNATURE_KEY")
+    if not key:
+        return "fallback_insecure_key"
+    return key
+
+def generate_file_hash(filepath: str) -> str:
+    hasher = hashlib.sha256()
+    with open(filepath, 'rb') as f:
+        buf = f.read()
+        hasher.update(buf)
+    return hasher.hexdigest()
+
+import json
+
+def verify_commit_safety_audit_mode(filepath: str) -> bool:
+    """Audit-only mode: Verifies .intoto.json SLSA provenance and rejects legacy/missing."""
+    sig_path = filepath + ".intoto.json"
+    legacy_sig = filepath + ".sig"
+    
+    if os.path.exists(legacy_sig):
+        print(f"🚨 AUDIT BLOCK: Legacy .sig file detected for {os.path.basename(filepath)}. Possible Downgrade Attack! Rejecting.")
+        return False
+        
+    if not os.path.exists(sig_path):
+        print(f"⚠️ AUDIT WARNING: No .intoto.json provenance found for {os.path.basename(filepath)}. Soft-passing...")
+        return False
+        
+    try:
+        with open(sig_path, 'r', encoding='utf-8') as f:
+            attestation = json.load(f)
+            
+        payload_str = json.dumps(attestation["payload"], sort_keys=True)
+        public_key = get_secret_key() 
+        expected_signature = hashlib.sha256((payload_str + public_key).encode()).hexdigest()
+            
+        if attestation["signature"] == expected_signature:
+            builder_id = attestation["payload"]["predicate"]["builder"]["id"]
+            print(f"🔒 VERIFIED PROVENANCE: {os.path.basename(filepath)} is authentically audited by [{builder_id}].")
+            return True
+        else:
+            print(f"🚨 AUDIT ALERT: Provenance Signature mismatch! {os.path.basename(filepath)} may be compromised.")
+            return False
+    except Exception as e:
+        print(f"⚠️ AUDIT WARNING: Could not parse .intoto.json for {os.path.basename(filepath)}. Error: {e}")
+        return False
 
 def extract_metadata(filepath):
     description = "No description provided."
@@ -65,6 +116,10 @@ def main():
 
     for file in files:
         basename = os.path.basename(file)
+
+        # [Phase 3] Audit-only verification
+        verify_commit_safety_audit_mode(file)
+
         is_skill = basename.startswith("draft_skill_")
         is_diary = basename.startswith("draft_diary_")
         is_backlog = basename.startswith("draft_backlog_")
@@ -93,6 +148,13 @@ def main():
         os.makedirs(dest_dir, exist_ok=True)
         shutil.move(file, dest_path)
         print(f"📦 Moved {basename} -> {dest_path}")
+        
+        # Move signature file if exists (.intoto.json)
+        sig_file = file + ".intoto.json"
+        if os.path.exists(sig_file):
+            dest_sig_path = dest_path + ".intoto.json"
+            shutil.move(sig_file, dest_sig_path)
+            print(f"📦 Moved Provenance to {dest_sig_path}")
         
         # Update AGENTS.md Index automatically
         asset_name = os.path.splitext(clean_name)[0]
