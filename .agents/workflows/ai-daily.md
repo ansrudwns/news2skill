@@ -15,8 +15,10 @@ python scripts/fetch_ai_trends.py
 ## 2. Integrated Data Analysis
 Analyze the raw JSON output AND the findings from your web search. Select the 4~5 most insightful and actionable topics for our development/product team.
 
-## 3. Report Generation
-Write a markdown artifact named `AI_Trend_Report.md` in **Korean** based on the selected items. Format each item with the Title, Source Link, Core Summary, and an Actionable Item detailing how our team can integrate the technology.
+## 3. Report Generation (Daily Archiving)
+Write a permanent markdown file using the `write_to_file` tool to save the daily summary. 
+The file MUST be saved in `.agents/reports/` using the current date formatting: `.agents/reports/YYYY-MM-DD_Daily_Briefing.md`.
+The report should be written in **Korean**. Format each item with the Title, Source Link, Core Summary, and an Actionable Item detailing how our team can integrate the technology.
 
 ## 4. Autonomous Draft & Staging
 Based on the generated report, autonomously perform the following:

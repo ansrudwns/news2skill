@@ -23,7 +23,11 @@ The system is constructed upon a strict "Harness Engineering" philosophy designe
 3. **Zero-Click Auto-Commit**: A deployment script (`scripts/auto_commit.py`) securely commits validated insights into the `skills/` or `diaries/` directories and automatically synchronizes the root `AGENTS.md` index file.
 
 ## Operation & Usage
-No manual intervention is required. 
-The GitHub Action `.github/workflows/ai-daily-pipeline.yml` fires autonomously at 22:00 UTC (07:00 KST) daily. It executes the entire pipeline, generates localized assets, and automatically commits directly into this main repository branch.
+This framework operates in **Local Execution Mode** to minimize continuous API costs while maximizing analytical control.
 
-**Integration Note**: To utilize this dynamically updating context in your local development environment, establish a symbolic link (`mklink`) from the `.agents` directory to your active workspace environments. This ensures local IDEs or Agent systems always utilize the latest verification rules.
+Instead of running fully autonomously in the cloud, the user triggers the pipeline directly in their local IDE.
+1. Open this repository in your local environment.
+2. Provide the following prompt to the Agent: `Run the /ai-daily workflow`.
+3. The Agent will automatically fire the python scraper, evaluate the concepts, generate a daily report inside `.agents/reports/YYYY-MM-DD_Daily_Briefing.md`, and securely formulate the `skills/` or `diaries/`.
+
+*Note: GitHub is currently utilized solely as a remote backup repository for these localized context assets.*
