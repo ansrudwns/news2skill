@@ -14,6 +14,10 @@ jobs:
     # 봇이 새로운 지식을 커밋하고 푸시할 수 있도록 권한 부여
     permissions:
       contents: write
+      
+    # Node.js 20 Deprecation 경고 해결을 위한 v24 강제 할당
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: 1. 저장소 가져오기
