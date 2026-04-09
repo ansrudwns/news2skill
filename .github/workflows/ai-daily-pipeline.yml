@@ -1,8 +1,9 @@
 name: AI Daily Zero-Click Pipeline
 
 on:
-  # schedule:
-  #   - cron: '0 22 * * *'
+  schedule:
+    # 매일 아침 7시 수집 발동
+    - cron: '0 22 * * *'
   workflow_dispatch:
     # GitHub 사이트에서 수동 버튼으로도 돌릴 수 있게 허용
 

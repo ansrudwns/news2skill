@@ -128,16 +128,23 @@ def main():
                 f.write(f"{url}\n")
     # -------------------------------------
     
-    final_output = {
-        "timestamp": datetime.now().isoformat(),
-        "total_items": len(filtered_results),
-        "data": filtered_results
-    }
-    
-    with open("daily_raw.json", "w", encoding="utf-8") as f:
-        json.dump(final_output, f, ensure_ascii=False, indent=2)
-    
-    print(f"✅ Successfully extracted {len(filtered_results)} NEW items to daily_raw.json (Skipped {len(results) - len(filtered_results)} old items)")
+    queue_file = "pending_queue.json"
+    queue_data = {"data": []}
+    if os.path.exists(queue_file):
+        try:
+            with open(queue_file, "r", encoding="utf-8") as f:
+                queue_data = json.load(f)
+        except Exception:
+            pass
 
+    if filtered_results:
+        queue_data["data"].extend(filtered_results)
+        queue_data["timestamp"] = datetime.now().isoformat()
+        queue_data["total_items"] = len(queue_data["data"])
+        
+        with open(queue_file, "w", encoding="utf-8") as f:
+            json.dump(queue_data, f, ensure_ascii=False, indent=2)
+            
+    print(f"✅ Successfully extracted {len(filtered_results)} NEW items to {queue_file} (Queue length: {len(queue_data.get('data', []))})")
 if __name__ == "__main__":
     main()

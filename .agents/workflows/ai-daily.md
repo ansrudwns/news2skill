@@ -13,7 +13,7 @@ python scripts/fetch_ai_trends.py
 ```
 
 ## 2. Integrated Data Analysis
-Analyze the raw JSON output AND the findings from your web search. Select the 4~5 most insightful and actionable topics for our development/product team.
+Analyze the raw JSON output in `pending_queue.json` AND the findings from your web search. Select the 4~5 most insightful and actionable topics for our development/product team.
 
 ## 3. Report Generation (Daily Archiving)
 Write a permanent markdown file using the `write_to_file` tool to save the daily summary. 
@@ -42,4 +42,5 @@ For the drafted files, autonomously perform the following shell command to deplo
 python scripts/auto_commit.py
 ```
 - The `auto_commit.py` script will automatically handle Collision Protection, create the `backlog/` folder if needed, and update `AGENTS.md` natively.
+- After all deployment is complete, **MUST EMPTY THE QUEUE** by modifying `pending_queue.json` to just `{"data": []}` using the `write_to_file` tool so we don't process them again next time.
 - Once the pipeline is complete, briefly summarize the results to the user in **Korean** (mentioning what trends were found, what drafts were passed, and what was stashed in the backlog).
