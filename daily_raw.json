@@ -1,78 +1,42 @@
 {
-  "timestamp": "2026-04-09T15:37:25.360092",
-  "total_items": 12,
+  "timestamp": "2026-04-09T07:00:17.075935",
+  "total_items": 6,
   "data": [
     {
-      "source": "Hugging Face",
-      "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
-      "link": "https://huggingface.co/blog/ibm-research/altk-evolve",
-      "summary": "..."
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Safetensors is Joining the PyTorch Foundation",
-      "link": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
-      "summary": "..."
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
-      "link": "https://huggingface.co/blog/gemma4",
-      "summary": "..."
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Gemma 4: Byte for byte, the most capable open models",
-      "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
-      "summary": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows...."
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-      "link": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
-      "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise...."
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Protecting people from harmful manipulation",
-      "link": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
-      "summary": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures...."
-    },
-    {
       "source": "Hacker News (Frontpage)",
-      "title": "Open Source Security at Astral",
-      "link": "https://astral.sh/blog/open-source-security-at-astral",
-      "summary": "<p>Article URL: <a href=\"https://astral.sh/blog/open-source-security-at-astral\">https://astral.sh/blog/open-source-security-at-astral</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47699181\">https://news.ycombinator.com/item?id=47699181</a></p>\n<p>Points: 90</p>\n<p># Comments..."
+      "title": "Process Manager for Autonomous AI Agents",
+      "link": "https://botctl.dev/",
+      "summary": "<p>Article URL: <a href=\"https://botctl.dev/\">https://botctl.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47699814\">https://news.ycombinator.com/item?id=47699814</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>..."
     },
     {
-      "source": "Hacker News (Frontpage)",
-      "title": "Newly created Polymarket accounts win big on well-timed Iran ceasefire bets",
-      "link": "https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire\">https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47698082\">https://news.ycombinator...."
+      "source": "ArXiv",
+      "title": "Fast Spatial Memory with Elastic Test-Time Training",
+      "link": "https://arxiv.org/abs/2604.07350v1",
+      "summary": "Large Chunk Test-Time Training (LaCT) has shown strong performance on long-context 3D reconstruction, but its fully plastic inference-time updates remain vulnerable to catastrophic forgetting and overfitting. As a result, LaCT is typically instantiated with a single large chunk spanning the full inp..."
     },
     {
-      "source": "Hacker News (Frontpage)",
-      "title": "LittleSnitch for Linux",
-      "link": "https://obdev.at/products/littlesnitch-linux/index.html",
-      "summary": "<p>Article URL: <a href=\"https://obdev.at/products/littlesnitch-linux/index.html\">https://obdev.at/products/littlesnitch-linux/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47697870\">https://news.ycombinator.com/item?id=47697870</a></p>\n<p>Points: 460</p>\n<p># Com..."
+      "source": "ArXiv",
+      "title": "Toward a Tractability Frontier for Exact Relevance Certification",
+      "link": "https://arxiv.org/abs/2604.07349v1",
+      "summary": "Exact relevance certification asks which coordinates are necessary to determine the optimal action in a coordinate-structured decision problem. The tractable families treated here admit a finite primitive basis, but optimizer-quotient realizability is maximal, so quotient shape alone cannot characte..."
     },
     {
-      "source": "GitHub Trending",
-      "title": "elebumm /RedditVideoMakerBot",
-      "link": "https://github.com/login?return_to=%2Felebumm%2FRedditVideoMakerBot",
-      "summary": "Scraped from blog."
+      "source": "ArXiv",
+      "title": "MoRight: Motion Control Done Right",
+      "link": "https://arxiv.org/abs/2604.07348v1",
+      "summary": "Generating motion-controlled videos--where user-specified actions drive physically plausible scene dynamics under freely chosen viewpoints--demands two capabilities: (1) disentangled motion control, allowing users to separately control the object motion and adjust camera viewpoint; and (2) motion ca..."
     },
     {
-      "source": "GitHub Trending",
-      "title": "immich-app /immich",
-      "link": "https://github.com/login?return_to=%2Fimmich-app%2Fimmich",
-      "summary": "Scraped from blog."
+      "source": "ArXiv",
+      "title": "Measurement of Generative AI Workload Power Profiles for Whole-Facility Data Center Infrastructure Planning",
+      "link": "https://arxiv.org/abs/2604.07345v1",
+      "summary": "The rapid growth of generative artificial intelligence (AI) has introduced unprecedented computational demands, driving significant increases in the energy footprint of data centers. However, existing power consumption data is largely proprietary and reported at varying resolutions, creating challen..."
     },
     {
-      "source": "GitHub Trending",
-      "title": "jesseduffield /lazygit",
-      "link": "https://github.com/sponsors/jesseduffield",
-      "summary": "Scraped from blog."
+      "source": "ArXiv",
+      "title": "Personalized RewardBench: Evaluating Reward Models with Human Aligned Personalization",
+      "link": "https://arxiv.org/abs/2604.07343v1",
+      "summary": "Pluralistic alignment has emerged as a critical frontier in the development of Large Language Models (LLMs), with reward models (RMs) serving as a central mechanism for capturing diverse human values. While benchmarks for general response quality are prevalent, evaluating how well reward models acco..."
     }
   ]
 }
