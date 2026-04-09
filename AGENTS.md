@@ -20,3 +20,10 @@ Before embarking on any task, you MUST check this registry. If a task implies on
 - **Progressive_Disclosure**: Memory efficiency pattern - load only single focused docs rather than heavy context. (Path: `.agents/diaries/Progressive_Disclosure.md`)
 - **autoDream**: Context maintenance and background memory healing strategies. (Path: `.agents/diaries/autoDream.md`)
 - **Context_Collapse**: Compression techniques for large system logs using subagents. (Path: `.agents/diaries/Context_Collapse.md`)
+
+## Track C: Research Backlog (Epics)
+- **Research Proposals**: `.agents/backlog/research_proposals/`
+- **Archives**: `.agents/backlog/archives/`
+
+## Track D: Experimental Laboratory
+- **01_Agent_Cryptographic_Identity**: 에이전트 공급망 공격 방어용 암호학적 서명 인프라 연구실 (Path: `.agents/laboratory/01_Agent_Cryptographic_Identity/`)

@@ -10,24 +10,21 @@ The framework operates fully autonomously every day via GitHub Actions.
 ## System Architecture
 The system is constructed upon a strict "Harness Engineering" philosophy designed to mitigate LLM context collapse and hallucinated outputs.
 
-* **`workflows/`**: The orchestration layer. Contains execution pipelines such as `ai-daily.md` which run the 6-step zero-click deployment from data aggregation to index registration.
+* **`workflows/`**: The orchestration layer. Contains execution pipelines such as `ai-daily.md` (Daily ingestion) and `ai-rd-planning.md` (Macro R&D Strategist).
 * **`skills/` (Track A)**: Actionable, highly defensive system instructions.
-  * Examples: *Karpathy_Strict_Mode*, *Structured_Output_Forcer*, *Defensive_Fallback_Throttle*.
 * **`diaries/` (Track B)**: Conceptual architecture repositories utilized by the LLM when planning extensive system designs.
-  * Examples: *Progressive_Disclosure*, *Context_Collapse*, *Routing_Before_Thinking*.
-* **`backlog/` (Track C)**: A persistent storage layer for theoretical AI implementations that lack immediate execution paths.
+* **`backlog/` (Track C)**: A persistent storage layer for theoretical AI implementations (Epics) and archived quests.
+* **`laboratory/` (Track D)**: An isolated workspace preserving the trial-and-error logs (`Experiment_Log.md`) of novel research projects.
 
-## Execution Pipeline
-1. **Hybrid Data Extraction**: A dedicated execution script (`scripts/fetch_ai_trends.py`) scrapes bleeding-edge engineering trends from Hacker News, Reddit (LocalLLaMA, MachineLearning), Hugging Face, and Google DeepMind.
-2. **Adversarial Verification**: The LLM objectively analyzes the ingested ideas. Concepts lacking concrete code implementations are relegated to the `backlog/`. Any unverified or hallucinated proposals are purged.
-3. **Zero-Click Auto-Commit**: A deployment script (`scripts/auto_commit.py`) securely commits validated insights into the `skills/` or `diaries/` directories and automatically synchronizes the root `AGENTS.md` index file.
+## Execution Pipeline (Hybrid Cloud-Local)
+1. **Cloud Data Queuing**: GitHub Actions autonomously scrapes AI news every morning at 07:00 KST, appending the raw data into `pending_queue.json`.
+2. **Local Ingestion & Report**: The user downloads the queue via `git pull` and triggers `/ai-daily`. The LLM Agent summarizes the queue into a Daily Briefing and empties the queue.
+3. **Meta-Research Ideation**: Periodically, the user triggers `/ai-rd-planning`. The Agent reads all past reports to formulate actionable R&D Epics in the Backlog.
+4. **Execution & Mastery**: The User approves an Epic. The LLM Agent builds it inside the `laboratory/` (if novel) or directly auto-commits it as a `skill/` (if integration).
 
 ## Operation & Usage
-This framework operates in **Local Execution Mode** to minimize continuous API costs while maximizing analytical control.
-
-Instead of running fully autonomously in the cloud, the user triggers the pipeline directly in their local IDE.
-1. Open this repository in your local environment.
-2. Provide the following prompt to the Agent: `Run the /ai-daily workflow`.
-3. The Agent will automatically fire the python scraper, evaluate the concepts, generate a daily report inside `.agents/reports/YYYY-MM-DD_Daily_Briefing.md`, and securely formulate the `skills/` or `diaries/`.
-
-*Note: GitHub is currently utilized solely as a remote backup repository for these localized context assets.*
+This framework operates in a **Hybrid Cloud-Local Mode** to minimize API costs.
+1. Cloud runs 24/7 autonomously collecting data to the Queue.
+2. Open terminal and run `git pull` to fetch the accumulated queue to your laptop.
+3. Chat with the Agent: **"Run the `/ai-daily` workflow"** to process the news into intelligence.
+4. (Optional) Chat: **"Run the `/ai-rd-planning` workflow"** to generate new architectural Epics.
