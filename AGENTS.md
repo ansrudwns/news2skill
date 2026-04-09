@@ -13,6 +13,7 @@ Before embarking on any task, you MUST check this registry. If a task implies on
 - **Blocking_Budget**: Restrict autonomous background actions (pings/commands) to avoid blocking the user. (Path: `.agents/skills/Blocking_Budget.md`)
 
 ## Track B: Architectural Diaries Registry
+- **LaCT_Spatial_Memory**: 긴 컨텍스트 3D/영상 환경에서의 탄력적 Test-Time Training (망각 방지) 아키텍처 패턴 (Path: `.agents/diaries/LaCT_Spatial_Memory.md`)
 - **Routing_Before_Thinking**: Optimize token expenditure by utilizing lightweight model routing before invoking heavy reasoning models. (Path: `.agents/diaries/Routing_Before_Thinking.md`)
 - **Harness_Engineering**: Design patterns for control layers and execution-intelligence splits. (Path: `.agents/diaries/Harness_Engineering.md`)
 - **MCP**: Best practices for generic verb routing to minimize Tool Sprawl. (Path: `.agents/diaries/MCP.md`)

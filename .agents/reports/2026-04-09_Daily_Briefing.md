@@ -23,3 +23,15 @@
 - **링크:** https://astral.sh/blog/open-source-security-at-astral
 - **핵심 요약:** uv, ruff 등을 만든 Astral.sh 재단의 오픈소스 공급망 보안 파이프라인(Supply Chain Security) 아키텍처 소개입니다.
 - **도입 적용점:** 깃허브 액션을 통해 무인 자동화를 돌리고 있는 현 파이프라인 구조에, 파이썬 패키지 해시 무결성 검증을 덧붙이는 보안 강화 지식(Diary)에 활용합니다.
+
+## 5. Fast Spatial Memory with Elastic Test-Time Training (LaCT)
+- **출처:** ArXiv (cs.AI)
+- **링크:** https://arxiv.org/abs/2604.07350v1
+- **핵심 요약:** длин(Long-context) 3D 환경에서 망각 없이 공간 정보를 처리하는 탄력적 Test-Time Training 최적화 구조입니다.
+- **도입 적용점:** 에이전트의 영상/공간 분석 파이프라인 설계에 적용할 수 있는 훌륭한 아키텍처 패턴이므로, `draft_diary`로 분리하여 지식 베이스에 영구 저장합니다.
+
+## 6. 로컬 환경을 위한 Gemma 4 GGUF 배포 동향
+- **출처:** Reddit (r/LocalLLaMA)
+- **링크:** https://www.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/
+- **핵심 요약:** 커뮤니티에서 Gemma 4 모델의 초경량화 버전(GGUF / Unsloth 포팅) 다운로드 링크와 로컬 실행 후기가 활발히 공유되고 있습니다.
+- **도입 적용점:** 당사의 로컬 Fallback 모델 옵션으로 Gemma 4 GGUF를 백로그에 기록하고, 무인 서버(API)가 마비되었을 때 로컬 모델로 오프라인 구동하는 방안을 모색합니다.
