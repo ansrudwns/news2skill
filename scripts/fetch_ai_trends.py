@@ -4,12 +4,27 @@ import urllib.error
 import bs4
 import feedparser
 from datetime import datetime, timedelta
+import ssl
 
+# SSL 인증서 확인 우회 (로컬 환경에서의 인증서 에러 방지)
+try:
+    _create_unverified_https_context = ssl._create_unverified_context
+except AttributeError:
+    pass
+else:
+    ssl._create_default_https_context = _create_unverified_https_context
+
+# 진짜 브라우저처럼 보이기 위한 고급 헤더
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.9'
+}
 def fetch_rss(feed_url, source_name):
     print(f"Fetching RSS from {source_name}...")
     items = []
     try:
-        req = urllib.request.Request(feed_url, headers={'User-Agent': 'Mozilla/5.0'})
+        req = urllib.request.Request(feed_url, headers=HEADERS)
         response = urllib.request.urlopen(req, timeout=10).read()
         feed = feedparser.parse(response)
         
@@ -29,7 +44,7 @@ def fetch_arxiv():
     items = []
     try:
         url = "http://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.LG+OR+cat:cs.CL&sortBy=submittedDate&sortOrder=descending&max_results=5"
-        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        req = urllib.request.Request(url, headers=HEADERS)
         response = urllib.request.urlopen(req, timeout=10).read()
         feed = feedparser.parse(response)
         for entry in feed.entries:
@@ -47,7 +62,7 @@ def fetch_generic_blog(url, source_name, container_selector, title_selector, lin
     print(f"Scraping {source_name}...")
     items = []
     try:
-        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'})
+        req = urllib.request.Request(url, headers=HEADERS)
         html = urllib.request.urlopen(req, timeout=10).read()
         soup = bs4.BeautifulSoup(html, 'html.parser')
         
