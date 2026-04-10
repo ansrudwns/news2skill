@@ -83,7 +83,7 @@ def update_agents_index(track_type, name, description, dest_path):
     inserted = False
     
     if track_type == "skill":
-        target_header = "## Track A:"
+        target_header = "### [STANDARD MODE]"
     elif track_type == "diary":
         target_header = "## Track B:"
     else:

@@ -6,6 +6,7 @@ Before embarking on any task, you MUST check this registry. If a task implies on
 ## Track A: Executable Skills Registry
 
 ### [RESEARCH MODE] AI Scientist Protocol
+- **Fallback_RAG (Delayed Knowledge Retrieval)**: When tackling algorithms or hackathons, FIRST brainstorm autonomously using `Self-Discover` and `Tree_Search` without checking archives to prevent cognitive poisoning. SECOND, if the logic fails validation, ONLY THEN use `grep_search` and `list_dir` on the `.agents/backlog/archives/` sub-directories to retrieve specific advisory methodologies for a breakthrough.
 - **Research_Toy_Sandboxing**: "[RESEARCH MODE] Sub-scaling active exploratory sandboxing prior to full execution." (Path: `.agents/skills/Research_Toy_Sandboxing.md`)
 - **Research_Self_Discover**: "[RESEARCH MODE] Autonomous meta-reasoning logic topology composer." (Path: `.agents/skills/Research_Self_Discover.md`)
 - **Research_Progressive_Tree_Search**: "[RESEARCH MODE] Multi-branch algorithmic tree search and empirical benchmarking." (Path: `.agents/skills/Research_Progressive_Tree_Search.md`)
@@ -13,24 +14,20 @@ Before embarking on any task, you MUST check this registry. If a task implies on
 
 ### [STANDARD MODE] Automation & Engineering
 - **Anthropic_Prompting**: Implement Anthropic Agentic best practices including XML Scratchpads, Undercover Mode, and Layered Prompts. (Path: `.agents/skills/Anthropic_Prompting.md`)
-- **BotCTL_Watchdog**: Autonomous agent daemon tracking and infinite-loop termination protocol. (Path: `.agents/skills/BotCTL_Watchdog.md`)
-- **Structured_Output_Forcer**: Ensure robust payload exchanges by forcing LLM interfaces to output strict JSON schemas with fail-safes. (Path: `.agents/skills/Structured_Output_Forcer.md`)
+- **Defensive_Execution_Protocol**: Unified robust execution enforcing dummy returns, exponential backoffs, and strict JSON schemas, suppressing infinite loops and pipeline crashes. (Path: `.agents/skills/Defensive_Execution_Protocol.md`)
 - **Karpathy_Strict_Mode**: Suppress AI hallucination and over-engineering by enforcing minimal, surgical code modifications. (Path: `.agents/skills/Karpathy_Strict_Mode.md`)
-- **Defensive_Fallback_Throttle**: Prevent infinite loops and 429 errors in asynchronous pipelines using backoffs and degradation. (Path: `.agents/skills/Defensive_Fallback_Throttle.md`)
 - **Skeptical_Memory**: Ensure factual accuracy by actively verifying system file states before code editing. (Path: `.agents/skills/Skeptical_Memory.md`)
 - **Adversarial_Verification**: Pause and self-critique/verify for edge cases before outputting the final result. (Path: `.agents/skills/Adversarial_Verification.md`)
 - **Blocking_Budget**: Restrict autonomous background actions (pings/commands) to avoid blocking the user. (Path: `.agents/skills/Blocking_Budget.md`)
 
 ## Track B: Architectural Diaries Registry
+- **Hardware_Profile**: Host hardware benchmarks and offline fallback constraints (24GB VRAM). (Path: `.agents/diaries/Hardware_Profile.md`)
+- **Harness_Engineering**: The definitive meta-cognitive Control Layer playbook?combining structural guardrails, context pruning (Progressive Disclosure), and tool routing architectures (MCP). (Path: `.agents/diaries/Harness_Engineering.md`)
 - **LaCT_Spatial_Memory**: Resilient Test-Time Training architecture for long-context 3D/video environments. (Path: `.agents/diaries/LaCT_Spatial_Memory.md`)
-- **Routing_Before_Thinking**: Optimize token expenditure by utilizing lightweight model routing before invoking heavy reasoning models. (Path: `.agents/diaries/Routing_Before_Thinking.md`)
-- **Harness_Engineering**: Design patterns for control layers and execution-intelligence splits. (Path: `.agents/diaries/Harness_Engineering.md`)
-- **MCP**: Best practices for generic verb routing to minimize Tool Sprawl. (Path: `.agents/diaries/MCP.md`)
-- **Progressive_Disclosure**: Memory efficiency pattern - load only single focused docs rather than heavy context. (Path: `.agents/diaries/Progressive_Disclosure.md`)
 - **autoDream**: Context maintenance and background memory healing strategies. (Path: `.agents/diaries/autoDream.md`)
-- **Context_Collapse**: Compression techniques for large system logs using subagents. (Path: `.agents/diaries/Context_Collapse.md`)
 
 ## Track C: Research Backlog (Epics)
+- **TurboQuant_Compression**: "Optimization architecture implementing TurboQuant compression patterns for bounded environments." (Path: `.agents/backlog/TurboQuant_Compression.md`)
 - **Research Proposals**: `.agents/backlog/research_proposals/`
 - **Archives**: `.agents/backlog/archives/`
 

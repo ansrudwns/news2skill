@@ -110,12 +110,16 @@ def main():
     # 3. HTML Scraping (Fallback for those without standard RSS)
     # Anthropic
     results.extend(fetch_generic_blog("https://www.anthropic.com/news", "Anthropic", "a.PostCard_root__c1rU0", "h3", None))
-    # OpenAI (Often blocked without headless browser, but let's try basic)
-    results.extend(fetch_generic_blog("https://openai.com/news/", "OpenAI", ".ui-list-card", "h3", "a"))
+    # OpenAI Research / News
+    results.extend(fetch_generic_blog("https://openai.com/research/", "OpenAI Research", ".ui-list-card, article", "h3, h2", "a"))
+    # Meta FAIR Publications
+    results.extend(fetch_generic_blog("https://ai.meta.com/research/publications/", "Meta FAIR", ".publication-item, article", "h3, h2", "a"))
     # xAI
     results.extend(fetch_generic_blog("https://x.ai/blog", "xAI", "a[class*='blog']", "h2", None))
-    # Krafton AI
+    # Krafton AI Blog
     results.extend(fetch_generic_blog("https://krafton.ai/en/blog/", "Krafton AI", "article", ".post-title", "a"))
+    # Krafton AI Publications (논문 전용 페이지)
+    results.extend(fetch_generic_blog("https://www.krafton.ai/publications/", "Krafton AI Publications", "article, .mix, div.post", "h1, h2, .post-title", "a"))
     # Github Trending
     results.extend(fetch_generic_blog("https://github.com/trending?spoken_language_code=en", "GitHub Trending", "article.Box-row", "h2.h3", "a"))
     

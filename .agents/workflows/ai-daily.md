@@ -20,6 +20,9 @@ Write a permanent markdown file using the `write_to_file` tool to save the daily
 The file MUST be saved in `.agents/reports/` using the current date formatting: `.agents/reports/YYYY-MM-DD_Daily_Briefing.md`.
 The report should be written in **Korean**. Format each item with the Title, Source Link, Core Summary, and an Actionable Item detailing how our team can integrate the technology.
 
+**CRITICAL REPORT RULE (System Modification Log):**
+At the very bottom of the report, you MUST include a `## System Modification Log (Changelog)` section. Detail all files you created, edited, or deleted in the workspace during this daily session. Use labels `[NEW]`, `[MODIFIED]`, and `[DELETED]` along with a brief rationale for the architectural change. This ensures the user has a black-box trace of all your file-system modifications.
+
 ## 4. Autonomous Draft & Staging
 Based on the generated report, autonomously perform the following:
 - Classify the technology as either an **Executable Skill (Track A)** or **Conceptual Knowledge (Track B)**.
