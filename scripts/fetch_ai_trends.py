@@ -28,7 +28,7 @@ def fetch_rss(feed_url, source_name):
         response = urllib.request.urlopen(req, timeout=10).read()
         feed = feedparser.parse(response)
         
-        for entry in feed.entries[:3]: # top 3
+        for entry in feed.entries:
             items.append({
                 "source": source_name,
                 "title": entry.get("title", "No Title"),
@@ -43,7 +43,7 @@ def fetch_arxiv():
     print("Fetching ArXiv (cs.AI, cs.LG, cs.CL)...")
     items = []
     try:
-        url = "http://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.LG+OR+cat:cs.CL&sortBy=submittedDate&sortOrder=descending&max_results=5"
+        url = "http://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.LG+OR+cat:cs.CL&sortBy=submittedDate&sortOrder=descending&max_results=50"
         req = urllib.request.Request(url, headers=HEADERS)
         response = urllib.request.urlopen(req, timeout=10).read()
         feed = feedparser.parse(response)
@@ -66,7 +66,7 @@ def fetch_generic_blog(url, source_name, container_selector, title_selector, lin
         html = urllib.request.urlopen(req, timeout=10).read()
         soup = bs4.BeautifulSoup(html, 'html.parser')
         
-        posts = soup.select(container_selector)[:3]
+        posts = soup.select(container_selector)
         for post in posts:
             title_node = post.select_one(title_selector)
             link_node = post.select_one(link_selector) if link_selector else post
@@ -164,6 +164,6 @@ def main():
         with open(queue_file, "w", encoding="utf-8") as f:
             json.dump(queue_data, f, ensure_ascii=False, indent=2)
             
-    print(f"✅ Successfully extracted {len(filtered_results)} NEW items to {queue_file} (Queue length: {len(queue_data.get('data', []))})")
+    print(f"Successfully extracted {len(filtered_results)} NEW items to {queue_file} (Queue length: {len(queue_data.get('data', []))})")
 if __name__ == "__main__":
     main()

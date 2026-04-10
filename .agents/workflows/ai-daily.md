@@ -12,8 +12,12 @@ Second, execute the python script below to scrape structured data from global ha
 python scripts/fetch_ai_trends.py
 ```
 
-## 2. Integrated Data Analysis
-Analyze the raw JSON output in `pending_queue.json` AND the findings from your web search. Select the 4~5 most insightful and actionable topics for our development/product team.
+## 2. Integrated Data Analysis (Batch Processing & The Frontier Sieve)
+If `pending_queue.json` contains a massive number of entries, do NOT attempt to summarize them all at once. Process the JSON array in batches (e.g., 15 items per batch).
+For every item, apply **The Frontier Sieve**:
+1. Discard generic PR news, shallow blogs, or minor version updates.
+2. ONLY extract deep architectural methodologies, novel mathematical breakthroughs, or code-implementable paradigms.
+There is **NO LIMIT** on the number of topics you can extract. If 30 topics pass the sieve, extract all 30. Append findings from each batch sequentially.
 
 ## 3. Report Generation (Daily Archiving)
 Write a permanent markdown file using the `write_to_file` tool to save the daily summary. 
