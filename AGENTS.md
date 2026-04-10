@@ -4,7 +4,14 @@ This is the primary Harness configuration and skill registry.
 Before embarking on any task, you MUST check this registry. If a task implies one of the domains below, you MUST use `view_file` to read the exact instructions from the respective `.md` file before proceeding.
 
 ## Track A: Executable Skills Registry
-- **Critical_Execution_Loop**: Test-Driven Execution protocol to strictly eliminate LLM hallucination and force rigorous mathematical/empirical validation before emitting code. (Path: `.agents/skills/Critical_Execution_Loop.md`)
+
+### [RESEARCH MODE] AI Scientist Protocol
+- **Research_Toy_Sandboxing**: "[RESEARCH MODE] Sub-scaling active exploratory sandboxing prior to full execution." (Path: `.agents/skills/Research_Toy_Sandboxing.md`)
+- **Research_Self_Discover**: "[RESEARCH MODE] Autonomous meta-reasoning logic topology composer." (Path: `.agents/skills/Research_Self_Discover.md`)
+- **Research_Progressive_Tree_Search**: "[RESEARCH MODE] Multi-branch algorithmic tree search and empirical benchmarking." (Path: `.agents/skills/Research_Progressive_Tree_Search.md`)
+- **Research_Formal_Verifier**: "[RESEARCH MODE] Neuro-symbolic mathematical logic verification constraint." (Path: `.agents/skills/Research_Formal_Verifier.md`)
+
+### [STANDARD MODE] Automation & Engineering
 - **Anthropic_Prompting**: Implement Anthropic Agentic best practices including XML Scratchpads, Undercover Mode, and Layered Prompts. (Path: `.agents/skills/Anthropic_Prompting.md`)
 - **BotCTL_Watchdog**: Autonomous agent daemon tracking and infinite-loop termination protocol. (Path: `.agents/skills/BotCTL_Watchdog.md`)
 - **Structured_Output_Forcer**: Ensure robust payload exchanges by forcing LLM interfaces to output strict JSON schemas with fail-safes. (Path: `.agents/skills/Structured_Output_Forcer.md`)

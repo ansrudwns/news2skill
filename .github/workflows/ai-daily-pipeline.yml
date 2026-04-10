@@ -44,8 +44,12 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           
+          # 파일들이 없을 경우 git add에서 에러(128)가 나지 않도록 빈 파일이라도 생성 보장
+          touch pending_queue.json
+          touch seen_urls.txt
+          
           # 새롭게 크롤링된 뉴스나 에이전트 폴더의 변화를 전부 스테이징
-          git add daily_raw.json seen_urls.txt .agents/
+          git add pending_queue.json seen_urls.txt .agents/
           
           # 변경사항이 있을 때만 커밋하여 에러 방지
           git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 [auto] Daily AI Trends and Agent Asset Sync" && git push)
