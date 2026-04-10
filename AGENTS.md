@@ -6,7 +6,7 @@ Before embarking on any task, you MUST check this registry. If a task implies on
 ## Track A: Executable Skills Registry
 
 ### [RESEARCH MODE] AI Scientist Protocol
-- **Fallback_RAG (Delayed Knowledge Retrieval)**: When tackling algorithms or hackathons, FIRST brainstorm autonomously using `Self-Discover` and `Tree_Search` without checking archives to prevent cognitive poisoning. SECOND, if the logic fails validation, ONLY THEN use `grep_search` and `list_dir` on the `.agents/backlog/archives/` sub-directories to retrieve specific advisory methodologies for a breakthrough.
+- **Fallback_RAG (Delayed Knowledge Retrieval)**: When tackling algorithms or hackathons, FIRST brainstorm autonomously using `Self-Discover` and `Tree_Search` without checking archives to prevent cognitive poisoning. SECOND, if the logic fails validation, ONLY THEN use `grep_search` and `list_dir` on the `.agents/archives/` sub-directories to retrieve specific advisory methodologies for a breakthrough.
 - **Research_Toy_Sandboxing**: "[RESEARCH MODE] Sub-scaling active exploratory sandboxing prior to full execution." (Path: `.agents/skills/Research_Toy_Sandboxing.md`)
 - **Research_Self_Discover**: "[RESEARCH MODE] Autonomous meta-reasoning logic topology composer." (Path: `.agents/skills/Research_Self_Discover.md`)
 - **Research_Progressive_Tree_Search**: "[RESEARCH MODE] Multi-branch algorithmic tree search and empirical benchmarking." (Path: `.agents/skills/Research_Progressive_Tree_Search.md`)
@@ -29,9 +29,7 @@ Before embarking on any task, you MUST check this registry. If a task implies on
 
 ## Track C: Research Backlog (Epics)
 - **TurboQuant_Compression**: "Optimization architecture implementing TurboQuant compression patterns for bounded environments." (Path: `.agents/backlog/TurboQuant_Compression.md`)
-- **Mathematical_Optimization**: "Frequency domain translations, Cosine Gradient Bypasses, and non-linear metric smoothing techniques via SIREN/FNO/SAM." (Path: `.agents/backlog/archives/Mathematical_Optimization/Reference_Gradient_Bypass.md`)
 - **Research Proposals**: `.agents/backlog/research_proposals/`
-- **Archives**: `.agents/backlog/archives/`
 
 ## Track D: Experimental Laboratory
 - **01_Agent_Cryptographic_Identity**: Cryptographic signature infrastructure research for agent supply-chain security. (Path: `.agents/laboratory/01_Agent_Cryptographic_Identity/`)
@@ -39,3 +37,7 @@ Before embarking on any task, you MUST check this registry. If a task implies on
 ## Track E: Analytics & Staging
 - **Reports**: Aggregated collection of AI-generated summaries and daily briefings. (Path: `.agents/reports/`)
 - **Staging Area**: A secure holding area for cryptographic signatures and verified skills prior to permanent integration. (Path: `.agents/staging/`)
+
+## Track F: Knowledge Archives
+- **Archives**: Past reference solutions, methodologies, and closed epics used strictly as contextual memory. (Path: `.agents/archives/`)
+- **Mathematical_Optimization**: "Frequency domain translations, Cosine Gradient Bypasses, and non-linear metric smoothing techniques via SIREN/FNO/SAM." (Path: `.agents/archives/Mathematical_Optimization/Reference_Gradient_Bypass.md`)

@@ -28,7 +28,7 @@ If the theory is too heavy or cannot be executed locally:
   2. **Algorithmic Paradigm:** The theoretical mapping used to bypass the bottleneck.
   3. **Advisory Application:** "How the user's system might conceptually borrow this pattern in future lightweight architectures."
   
-- **Taxonomy Routing:** Save this document permanently in `.agents/backlog/archives/` using a **Broad Folder + Deep Tags** strategy:
+- **Taxonomy Routing:** Save this document permanently in `.agents/archives/` using a **Broad Folder + Deep Tags** strategy:
   - Create/Choose one of the 5 Broad Domains: `LLM_Reasoning/`, `Vision_Multimodal/`, `Agent_Orchestration/`, `Hardware_Optimization/`, or `Safety_Alignment/`.
   - Add highly granular search tags inside the markdown front-matter (e.g., `tags: [Quantization, Speculative Decoding, Krafton]`).
 - Name the file `[Topic_Name]_Reference.md`. 

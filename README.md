@@ -23,6 +23,7 @@ The system is constructed upon a strict **Harness Engineering** philosophy (heav
 * **`.agents/laboratory/` (Track D)**: An isolated workspace preserving the trial-and-error logs of novel research projects.
 * **`.agents/reports/`**: Aggregated collection of AI-generated summaries and daily briefings.
 * **`.agents/staging/`**: A secure holding area for cryptographic signatures and verified skills prior to permanent integration.
+* **`.agents/archives/` (Track F)**: Past reference solutions, methodologies, and closed epics used strictly as contextual memory.
 
 ## Execution Pipeline (Hybrid Cloud-Local)
 1. **Cloud Data Queuing**: GitHub Actions autonomously scrapes AI news every morning at 07:00 KST, appending the raw data into `pending_queue.json`.
