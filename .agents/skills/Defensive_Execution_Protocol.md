@@ -24,3 +24,9 @@ Naively constructed agent loops (Ouroboros anti-pattern) will retry failing acti
 ### 4. Telemetry & Observability (Langfuse Philosophy)
 - **Silent Success, Loud Failure**: Dummy returns ensure the pipeline compiler stays quiet and survives, but you MUST forcefully alert the human operator of the exact failure.
 - Whenever a Dummy payload is emitted and handled, simultaneously log an aggressive asynchronous warning (a "Loud Failure") into an independent `failed_items_queue.json` or `.log` file detailing the specific chunk ID and failure reason. Do not bury the failure in standard outputs.
+
+### 5. Visual Telemetry (Popup Dashboard Caching)
+- **Conflict Resolution (vs Blocking_Budget.md)**: While autonomous background actions generally must not block the user's GUI, long-running ML training or heavy computation tasks are an explicit EXCEPTION. To prevent human anxiety (Opaque Execution), you MUST aggressively spawn front-end visual popups.
+- **Protocol**: When executing long tasks autonomously via terminal, strictly utilize `Start-Process powershell -NoExit -Command ...` to pop up an interactive real-time monitoring dashboard on the user's physical desktop.
+- **Dual Logging (Prevent Blindness)**: Because the Popup detaches stdout from the agent's pipe, the executed Python script MUST universally import the `logging` module configured with BOTH a `StreamHandler` (for the human popup) and a `FileHandler` (for the Agent to read logs natively). Never rely on print statements alone.
+- **Anti-Zombie Garbage Collection**: Never let popup windows replicate infinitely. Before spawning a retry popup during failure loops, you MUST automatically detect and kill the previous hanging terminal session (Auto-kill) and manage `.flag` files to synchronize agent polling.

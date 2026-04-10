@@ -34,4 +34,4 @@
 *   `[DELETED]` **.agents/skills/ (BotCTL, Output_Forcer 등 3종)**: `Defensive_Protocol`로 이관 후 물리적 영구 삭제.
 *   `[MODIFIED]` **.agents/backlog/archives/ (5종)**: 초기 생성되었던 한국어 버전을 글로벌 코어 룰(`STRICT ENGLISH POLICY`)에 맞게 전부 사이버네틱 영문으로 오버라이트 (RAG 토큰 최적화).
 *   `[MODIFIED]` **.agents/workflows/ai-daily.md**: 향후 데일리 리포트 하단에 System Modification Log를 의무적으로 작성하도록 템플릿 변경.
-
+*   `[MODIFIED]` **.agents/skills/Defensive_Execution_Protocol.md**: 장기 구동 연산 시 시각적 관제(팝업 듀얼 로깅) 및 좀비 창 파괴(Auto-Kill) 글로벌 룰(Rule 5) 추가 배포.
