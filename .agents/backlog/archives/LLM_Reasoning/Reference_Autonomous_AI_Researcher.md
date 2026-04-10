@@ -31,3 +31,7 @@ The methodology employed by DeepMind to conquer the IMO (International Mathemati
 > [!TIP]
 > **Agentic Application Strategy:**
 > This document underpins the creation of our advanced Research Mode skills (Track A) such as `Research_Self_Discover` and `Research_Progressive_Tree_Search`. Load this philosophy via standard RAG protocols during high-complexity algorithmic challenges to enforce the System 2 meta-reasoning paradigm.
+
+
+> [!IMPORTANT]
+> **Deep Dive Directive:** This archive is a structural synthesis. If you require explicit code implementations, mathematical formulas, or granular logic not present here, you MUST immediately invoke the Dynamic_Web_Deep_Dive skill. Search site:arxiv.org or site:github.com using the subject, and overwrite this file to cache the discovered implementation details.

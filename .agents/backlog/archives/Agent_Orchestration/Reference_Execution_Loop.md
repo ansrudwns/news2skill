@@ -25,3 +25,7 @@ To structurally eradicate the "Satisficing / Hallucination" phenomenon (where th
 ### 4. Monolithic Reproducibility (E2E Validation)
 - **Symptom:** Returning fragmented functions or skipping critical training loops with comments like `... # your code here`.
 - **Architectural Constraint:** Every script response MUST be a complete, end-to-end monolithic script. Copying and pasting line 1 to EOF must perfectly execute the entire pipeline without human modification. Violation of this rule triggers internal penalty heuristics.
+
+
+> [!IMPORTANT]
+> **Deep Dive Directive:** This archive is a structural synthesis. If you require explicit code implementations, mathematical formulas, or granular logic not present here, you MUST immediately invoke the Dynamic_Web_Deep_Dive skill. Search site:arxiv.org or site:github.com using the subject, and overwrite this file to cache the discovered implementation details.

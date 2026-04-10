@@ -18,3 +18,7 @@ Embed an OpenTelemetry interface directly within the agent orchestration pipelin
 
 ## Expected Impact
 Eradicates "memory amnesia" loops where the agent repeatedly commits identical errors across different sessions. Procures a supreme observation vector (Panopticon Dashboard) to govern the overall health of the agentic mesh.
+
+
+> [!IMPORTANT]
+> **Deep Dive Directive:** This archive is a structural synthesis. If you require explicit code implementations, mathematical formulas, or granular logic not present here, you MUST immediately invoke the Dynamic_Web_Deep_Dive skill. Search site:arxiv.org or site:github.com using the subject, and overwrite this file to cache the discovered implementation details.

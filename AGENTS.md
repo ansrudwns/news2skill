@@ -11,6 +11,7 @@ Before embarking on any task, you MUST check this registry. If a task implies on
 - **Research_Self_Discover**: "[RESEARCH MODE] Autonomous meta-reasoning logic topology composer." (Path: `.agents/skills/Research_Self_Discover.md`)
 - **Research_Progressive_Tree_Search**: "[RESEARCH MODE] Multi-branch algorithmic tree search and empirical benchmarking." (Path: `.agents/skills/Research_Progressive_Tree_Search.md`)
 - **Research_Formal_Verifier**: "[RESEARCH MODE] Neuro-symbolic mathematical logic verification constraint." (Path: `.agents/skills/Research_Formal_Verifier.md`)
+- **Dynamic_Web_Deep_Dive**: "[RESEARCH MODE] Intercept information gaps during RAG, search the internet to fetch raw academic papers/code, and overwrite archives with cached implementation." (Path: `.agents/skills/Dynamic_Web_Deep_Dive.md`)
 
 ### [STANDARD MODE] Automation & Engineering
 - **Anthropic_Prompting**: Implement Anthropic Agentic best practices including XML Scratchpads, Undercover Mode, and Layered Prompts. (Path: `.agents/skills/Anthropic_Prompting.md`)

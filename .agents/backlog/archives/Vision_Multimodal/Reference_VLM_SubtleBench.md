@@ -13,3 +13,7 @@ SubtleBench introduces a dataset of minimal-variance pairs, forcing the VLM to p
 
 ## 3. Advisory Application
 **Future System Integration:** If the user ever requests building an AI QA/Inspection automation (like defect detection in manufacturing or UI testing), we MUST recall this paper. We cannot trust a single VLM prompt for "defect detection." Instead, we must employ zooming, crop-based iteration, or explicit comparative prompting to bypass the inherent subtle-reasoning blindness documented here.
+
+
+> [!IMPORTANT]
+> **Deep Dive Directive:** This archive is a structural synthesis. If you require explicit code implementations, mathematical formulas, or granular logic not present here, you MUST immediately invoke the Dynamic_Web_Deep_Dive skill. Search site:arxiv.org or site:github.com using the subject, and overwrite this file to cache the discovered implementation details.

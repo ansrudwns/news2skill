@@ -10,3 +10,7 @@ TurboQuant is designed to compress LLM and vector parameters by 6x while enhanci
 
 ## Research Directive
 Wait until official Google source code or open-source HuggingFace implementation is merged into transformers, then map to an executable Python pipeline.
+
+
+> [!IMPORTANT]
+> **Deep Dive Directive:** This archive is a structural synthesis. If you require explicit code implementations, mathematical formulas, or granular logic not present here, you MUST immediately invoke the Dynamic_Web_Deep_Dive skill. Search site:arxiv.org or site:github.com using the subject, and overwrite this file to cache the discovered implementation details.

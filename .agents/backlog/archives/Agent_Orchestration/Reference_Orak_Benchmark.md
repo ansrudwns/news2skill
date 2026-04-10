@@ -13,3 +13,7 @@ Orak introduces a massive, diverse suite of video game environments wrapped in a
 
 ## 3. Advisory Application
 **Future System Integration:** While we cannot run a heavy 3D game simulator on the 24GB laptop, we can extract the *Action-Space Mapping* theories from Orak. If the user wants to build a trading bot or an OS-control agent, we can apply Orak's spatial/temporal reasoning patterns (like framing visual UI as a grid) to non-game contexts.
+
+
+> [!IMPORTANT]
+> **Deep Dive Directive:** This archive is a structural synthesis. If you require explicit code implementations, mathematical formulas, or granular logic not present here, you MUST immediately invoke the Dynamic_Web_Deep_Dive skill. Search site:arxiv.org or site:github.com using the subject, and overwrite this file to cache the discovered implementation details.
