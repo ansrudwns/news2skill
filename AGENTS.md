@@ -35,3 +35,7 @@ Before embarking on any task, you MUST check this registry. If a task implies on
 
 ## Track D: Experimental Laboratory
 - **01_Agent_Cryptographic_Identity**: Cryptographic signature infrastructure research for agent supply-chain security. (Path: `.agents/laboratory/01_Agent_Cryptographic_Identity/`)
+
+## Track E: Analytics & Staging
+- **Reports**: Aggregated collection of AI-generated summaries and daily briefings. (Path: `.agents/reports/`)
+- **Staging Area**: A secure holding area for cryptographic signatures and verified skills prior to permanent integration. (Path: `.agents/staging/`)

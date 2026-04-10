@@ -16,11 +16,13 @@ The system tackles LLM Prompt Injection and Supply Chain attacks natively withou
 ## System Architecture
 The system is constructed upon a strict **Harness Engineering** philosophy (heavily integrating leaked *Anthropic Claude Code* architectures) designed to mitigate LLM context collapse and hallucinated outputs:
 
-* **`workflows/`**: The orchestration layer. Contains execution pipelines such as `ai-daily.md` (Daily ingestion).
-* **`skills/` (Track A)**: Actionable, highly defensive system instructions. Uses XML boundaries (`<thinking>`, `<system>`) for deterministic behavior.
-* **`diaries/` (Track B)**: Conceptual architecture repositories utilized via **Progressive Disclosure** (loading only single focused docs rather than heavy context).
-* **`backlog/` (Track C)**: A persistent storage layer for theoretical AI implementations (Epics) and archived quests.
-* **`laboratory/` (Track D)**: An isolated workspace preserving the trial-and-error logs of novel research projects.
+* **`.agents/workflows/`**: The orchestration layer. Contains execution pipelines such as `ai-daily.md` (Daily ingestion).
+* **`.agents/skills/` (Track A)**: Actionable, highly defensive system instructions. Uses XML boundaries (`<thinking>`, `<system>`) for deterministic behavior.
+* **`.agents/diaries/` (Track B)**: Conceptual architecture repositories utilized via **Progressive Disclosure** (loading only single focused docs rather than heavy context).
+* **`.agents/backlog/` (Track C)**: A persistent storage layer for theoretical AI implementations (Epics) and archived quests.
+* **`.agents/laboratory/` (Track D)**: An isolated workspace preserving the trial-and-error logs of novel research projects.
+* **`.agents/reports/`**: Aggregated collection of AI-generated summaries and daily briefings.
+* **`.agents/staging/`**: A secure holding area for cryptographic signatures and verified skills prior to permanent integration.
 
 ## Execution Pipeline (Hybrid Cloud-Local)
 1. **Cloud Data Queuing**: GitHub Actions autonomously scrapes AI news every morning at 07:00 KST, appending the raw data into `pending_queue.json`.
