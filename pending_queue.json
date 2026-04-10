@@ -5795,8 +5795,248 @@
       "title": "supabase /supabase",
       "link": "https://github.com/sponsors/supabase",
       "summary": "Scraped from blog."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Combining spicy foods with mint boosts anti-inflammatory effects 100x or more",
+      "link": "https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/",
+      "summary": "<p>Article URL: <a href=\"https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/\">https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "DOJ Top Antitrust Litigators Exit After Ticketmaster Accord",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-08/doj-top-antitrust-litigators-exit-after-ticketmaster-settlement",
+      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-04-08/doj-top-antitrust-litigators-exit-after-ticketmaster-settlement\">https://www.bloomberg.com/news/articles/2026-04-08/doj-top-antitrust-litigators-exit-after-ticketmaster-settlement</a></p>\n<p>Comments URL: <a href=\"https://ne..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "DOJ wants to scrap Watergate-era rule that makes presidential records public",
+      "link": "https://theintercept.com/2026/04/09/trump-documents-library-presidential-records-act/",
+      "summary": "<p>Article URL: <a href=\"https://theintercept.com/2026/04/09/trump-documents-library-presidential-records-act/\">https://theintercept.com/2026/04/09/trump-documents-library-presidential-records-act/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47722566\">https://news.ycombina..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Nowhere Is Safe",
+      "link": "https://steveblank.com/2026/04/09/nowhere-is-safe/",
+      "summary": "<p>Article URL: <a href=\"https://steveblank.com/2026/04/09/nowhere-is-safe/\">https://steveblank.com/2026/04/09/nowhere-is-safe/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47722562\">https://news.ycombinator.com/item?id=47722562</a></p>\n<p>Points: 59</p>\n<p># Comments: 93</..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
+      "link": "https://www.bbc.com/news/articles/cr71lkzv49po",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cr71lkzv49po\">https://www.bbc.com/news/articles/cr71lkzv49po</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47722333\">https://news.ycombinator.com/item?id=47722333</a></p>\n<p>Points: 152</p>\n<p># Comments: 81</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Watgo – A WebAssembly Toolkit for Go",
+      "link": "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/",
+      "summary": "<p>Article URL: <a href=\"https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/\">https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47722262\">https://news.ycombinator.com/item?id=47722262</a></..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Molotov cocktail is hurled at home of Sam Altman",
+      "link": "https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html",
+      "summary": "<p><a href=\"https://archive.ph/aoXIY\" rel=\"nofollow\">https://archive.ph/aoXIY</a><p><a href=\"https://www.bbc.com/news/articles/czx91rdxpyeo\" rel=\"nofollow\">https://www.bbc.com/news/articles/czx91rdxpyeo</a><p><a href=\"https://www.cnn.com/2026/04/10/tech/suspect-arrest-openai-ceo-sam-altman\" rel=\"nof..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: A WYSIWYG word processor in Python",
+      "link": "https://codeberg.org/chrisecker/miniword",
+      "summary": "<p>Hi all,<p>Finding a good data structure for a word processor is a difficult problem. My notebook diaries on the problem go back 25 years when I was frustrated with using Word for my diploma thesis - it was slow and unstable at that time. I ended up getting pretty hooked on the problem.<p>Right no..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: FluidCAD – Parametric CAD with JavaScript",
+      "link": "https://fluidcad.io/",
+      "summary": "<p>Hello HN users,<p>This is a CAD by code project I have been working on on my free time for more than year now.<p>I built it with 3 goals in mind:<p>- It should be familiar to CAD designers who have used other programs. Same workflow, same terminology.<p>- Reduce the mental effort required to crea..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "AI assistance when contributing to the Linux kernel",
+      "link": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+      "summary": "<p>Article URL: <a href=\"https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst\">https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47721953\">https://news...."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "JSON Formatter Chrome Plugin Now Closed and Injecting Adware",
+      "link": "https://github.com/callumlocke/json-formatter",
+      "summary": "<p>Article URL: <a href=\"https://github.com/callumlocke/json-formatter\">https://github.com/callumlocke/json-formatter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47721946\">https://news.ycombinator.com/item?id=47721946</a></p>\n<p>Points: 97</p>\n<p># Comments: 55</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Eve – Managed OpenClaw for work",
+      "link": "https://eve.new/login",
+      "summary": "<p>Eve is an AI agent harness that runs in an isolated Linux sandbox (2 vCPUs, 4GB RAM, 10GB disk) with a real filesystem, headless Chromium, code execution, and connectors to 1000+ services.<p>You give it a task and it works in the background until it's done.<p>I built this because I wanted OpenCla..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+      "link": "https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer",
+      "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer\">https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47720918\">https://news.ycombinato..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "A compelling title that is cryptic enough to get you to take action on it",
+      "link": "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/",
+      "summary": "<p>Article URL: <a href=\"https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/\">https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/</a></p>\n<p>Comments URL: <a href=\"https://news.y..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The difficulty of making sure your website is broken",
+      "link": "https://letsencrypt.org/2026/04/10/test-sites.html",
+      "summary": "<p>Article URL: <a href=\"https://letsencrypt.org/2026/04/10/test-sites.html\">https://letsencrypt.org/2026/04/10/test-sites.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47720719\">https://news.ycombinator.com/item?id=47720719</a></p>\n<p>Points: 48</p>\n<p># Comments: 21</..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Industrial design files for Keychron keyboards and mice",
+      "link": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
+      "summary": "<p>Article URL: <a href=\"https://github.com/Keychron/Keychron-Keyboards-Hardware-Design\">https://github.com/Keychron/Keychron-Keyboards-Hardware-Design</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47720419\">https://news.ycombinator.com/item?id=47720419</a></p>\n<p>Points: 24..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
+      "link": "https://twill.ai",
+      "summary": "<p>Hey HN, we're Willy and Dan, co-founders of Twill.ai (<a href=\"https://twill.ai/\">https://twill.ai/</a>). Twill runs coding CLIs like Claude Code and Codex in isolated cloud sandboxes. You hand it work through Slack, GitHub, Linear, our web app or CLI, and it comes back with a PR, a review, a dia..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Bluesky April 2026 Outage Post-Mortem",
+      "link": "https://pckt.blog/b/jcalabro/april-2026-outage-post-mortem-219ebg2",
+      "summary": "<p>Article URL: <a href=\"https://pckt.blog/b/jcalabro/april-2026-outage-post-mortem-219ebg2\">https://pckt.blog/b/jcalabro/april-2026-outage-post-mortem-219ebg2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47719975\">https://news.ycombinator.com/item?id=47719975</a></p>\n<p>Po..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "WireGuard makes new Windows release following Microsoft signing resolution",
+      "link": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
+      "summary": "<p>Recent and related: <i>Microsoft terminated the account VeraCrypt used to sign Windows drivers</i> - <a href=\"https://news.ycombinator.com/item?id=47686549\">https://news.ycombinator.com/item?id=47686549</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47719942\">https:..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "1D Chess",
+      "link": "https://rowan441.github.io/1dchess/chess.html",
+      "summary": "<p>Article URL: <a href=\"https://rowan441.github.io/1dchess/chess.html\">https://rowan441.github.io/1dchess/chess.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47719740\">https://news.ycombinator.com/item?id=47719740</a></p>\n<p>Points: 556</p>\n<p># Comments: 106</p>..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "[D] 60% MatMul Performance Bug in cuBLAS on RTX 5090 [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1shtv0r/d_60_matmul_performance_bug_in_cublas_on_rtx_5090/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>cuBLAS dispatches an inefficient kernel for every batched FP32 workload, from 256×256 to 8192×8192×8. It only uses ~40% of the available compute on RTX GPUs. Tested with RTX 5090, but likely all RTX non-Pro GPUs are affected.</p> <p>I tested with the latest CUDA 13...."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "[P] ibu-boost: a GBDT library where splits are *absolutely* rejected, not just relatively ranked[P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1shpdm2/p_ibuboost_a_gbdt_library_where_splits_are/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I built a small gradient-boosted tree library based on the screening transform from <a href=\"https://arxiv.org/abs/2604.01178\">&quot;Screening Is Enough&quot; (Nakanishi 2026, arXiv:2604.01178)</a>. The paper was originally written for Transformers, but the core ide..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Is google deepmind known to ghost applicants? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1shwc5d/is_google_deepmind_known_to_ghost_applicants_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey sub, I'm sorry if this is a wrong place to ask but I don't see a sub for ML roles separately. I was wondering if deepmind is known to send rejections, or if you don't hear back for a few weeks it's just a rejection? I've read they regularly ghost applicants.</p>..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "How does the ML community view AI-assisted writing in technical discussions? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1shmx8k/how_does_the_ml_community_view_aiassisted_writing/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've noticed an interesting contrast between professional and casual technical discussions.</p> <p>In the corporate engineering environment where I work, AI-assisted writing is increasingly encouraged. When I produce structured technical explanations — often polishe..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Final voting results for Qwen 3.6",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shk8ia/final_voting_results_for_qwen_36/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1shk8ia/final_voting_results_for_qwen_36/\"> <img alt=\"Final voting results for Qwen 3.6\" src=\"https://preview.redd.it/6g8jt1w4pcug1.png?width=140&amp;height=56&amp;auto=webp&amp;s=aba722d21b3a42443b6fcf8f7dccd761cb7e62d5\" title=\"..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "GLM 5.1 tops the code arena rankings for open models",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shq4ty/glm_51_tops_the_code_arena_rankings_for_open/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1shq4ty/glm_51_tops_the_code_arena_rankings_for_open/\"> <img alt=\"GLM 5.1 tops the code arena rankings for open models\" src=\"https://preview.redd.it/ienycmczudug1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=573d99ac138833636..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "More Gemma4 fixes in the past 24 hours",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shs6sx/more_gemma4_fixes_in_the_past_24_hours/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Reasoning budget fix</strong> (merged): <a href=\"https://github.com/ggml-org/llama.cpp/pull/21697\">https://github.com/ggml-org/llama.cpp/pull/21697</a></p> <p><strong>New chat templates from Google to fix tool calling:</strong></p> <p>31B: <a href=\"https://h..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "National University of Singapore Presents \"DMax\": A New Paradigm For Diffusion Language Models (dLLMs) Enabling Aggressive Parallel Decoding.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sht2yo/national_university_of_singapore_presents_dmax_a/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sht2yo/national_university_of_singapore_presents_dmax_a/\"> <img alt=\"National University of Singapore Presents &quot;DMax&quot;: A New Paradigm For Diffusion Language Models (dLLMs) Enabling Aggressive Parallel Decoding.\" src=\"h..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "GLM 5.1 crushes every other model except Opus in agentic benchmark at about 1/3 of the Opus cost",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shus54/glm_51_crushes_every_other_model_except_opus_in/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1shus54/glm_51_crushes_every_other_model_except_opus_in/\"> <img alt=\"GLM 5.1 crushes every other model except Opus in agentic benchmark at about 1/3 of the Opus cost\" src=\"https://preview.redd.it/s9lg647zjeug1.png?width=140&amp;h..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "[Model Release] I trained a 9B model to be agentic Data Analyst (Qwen3.5-9B + LoRA). Base model failed 100%, this LoRA completes 89% of workflows without human intervention.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shlk5v/model_release_i_trained_a_9b_model_to_be_agentic/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1shlk5v/model_release_i_trained_a_9b_model_to_be_agentic/\"> <img alt=\"[Model Release] I trained a 9B model to be agentic Data Analyst (Qwen3.5-9B + LoRA). Base model failed 100%, this LoRA completes 89% of workflows without human..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "gemma-4-26B-A4B with my coding agent Kon",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shkqj5/gemma426ba4b_with_my_coding_agent_kon/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1shkqj5/gemma426ba4b_with_my_coding_agent_kon/\"> <img alt=\"gemma-4-26B-A4B with my coding agent Kon\" src=\"https://preview.redd.it/dlhfzz0rtcug1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d7d60b8643930caaccd57be1a5529b9a731..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Can we talk about the reasoning token format chaos?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shnurl/can_we_talk_about_the_reasoning_token_format_chaos/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><ul> <li>Qwen/DeepSeek: <code>&lt;think&gt;...&lt;/think&gt;</code></li> <li>Gemma: <code>&lt;|channel&gt;...&lt;channel|&gt;</code> Ok weird but sure.</li> <li>Gemma again, sometimes: just bare <code>thought\\n</code> with no delimiters at all</li> </ul> <p>vLLM has <c..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Using OCR models with llama.cpp",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shqwgi/using_ocr_models_with_llamacpp/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1shqwgi/using_ocr_models_with_llamacpp/\"> <img alt=\"Using OCR models with llama.cpp\" src=\"https://external-preview.redd.it/8EtYzaNxchO6_aD_T0BNqTHhhrMn-hFME25cAt64AzQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7e8907d7d326..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Open-sourcing 23,759 cross-modal prompt injection payloads - splitting attacks across text, image, document, and audio",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shkwn3/opensourcing_23759_crossmodal_prompt_injection/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1shkwn3/opensourcing_23759_crossmodal_prompt_injection/\"> <img alt=\"Open-sourcing 23,759 cross-modal prompt injection payloads - splitting attacks across text, image, document, and audio\" src=\"https://external-preview.redd.it/G8x..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Stanford: Self improving Meta-Harness",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shyczh/stanford_self_improving_metaharness/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1shyczh/stanford_self_improving_metaharness/\"> <img alt=\"Stanford: Self improving Meta-Harness\" src=\"https://preview.redd.it/bpsazafbbfug1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=78ba308e51ea055d319a89910fcf2ec860f5a067\"..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Gemma 4 26B fabricated an entire code audit. I have the forensic evidence from the database.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shdhui/gemma_4_26b_fabricated_an_entire_code_audit_i/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I run Gemma 4 26B-A4B locally via Ollama as part of a custom self-hosted AI platform. The platform stores every model interaction in SQLite, including three columns most people never look at: content (the visible response), thinking (the model's chain-of-thought), a..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "TurboQuant + TriAttention (C/HIP): ~6.8× total KV cache reduction in llama.cpp",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shzjwx/turboquant_triattention_chip_68_total_kv_cache/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Edit (2026-04-11):</strong> Correction — my NIAH 28/28 results are TurboQuant-only, not the TriAttention combo. The ~6.8× figure is an arithmetic stack estimate (5.12× × 1.33×), not a validated end-to-end retrieval claim. TriAttention integration is promisin..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Tool for Creating Your Own High-Quality GGUF Quants (Docs + Web UI)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shysbc/tool_for_creating_your_own_highquality_gguf/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>For anyone interested in building their own GGUF quants, I’ve put together the <a href=\"https://github.com/Thireus/GGUF-Tool-Suite\">GGUF-Tool-Suite</a> docs and a simple web UI to make the process easier.</p> <ul> <li>Docs: <a href=\"https://github.com/Thireus/GGUF-T..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "96GB Vram. What to run in 2026?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shd5nm/96gb_vram_what_to_run_in_2026/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was all set on doing the 4x 3090 route but with the current releases of qwen 3.5 and gemma 4. I am having second doubts. 96gb of vram seems to be in a weird spot where it not enough to run larger models and more than needed for the mid models. What are you running..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Using OCR models with llama.cpp (by ngxson)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1shqf5a/using_ocr_models_with_llamacpp_by_ngxson/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1shqf5a/using_ocr_models_with_llamacpp_by_ngxson/\"> <img alt=\"Using OCR models with llama.cpp (by ngxson)\" src=\"https://external-preview.redd.it/a5HCFc96rWHIkQ9O93vvT5kIw1BkTAIYxlssCKB4i1c.png?width=640&amp;crop=smart&amp;auto=we..."
     }
   ],
-  "timestamp": "2026-04-10T20:56:27.905724",
-  "total_items": 966
+  "timestamp": "2026-04-10T22:40:17.973304",
+  "total_items": 1006
 }
