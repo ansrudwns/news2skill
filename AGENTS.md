@@ -6,7 +6,7 @@ Before embarking on any task, you MUST check this registry. If a task implies on
 ## Track A: Executable Skills Registry
 
 ### [RESEARCH MODE] AI Scientist Protocol
-- **Fallback_RAG (Delayed Knowledge Retrieval)**: When tackling algorithms or hackathons, FIRST brainstorm autonomously using `Self-Discover` and `Tree_Search` without checking archives to prevent cognitive poisoning. SECOND, if the logic fails validation, ONLY THEN use `grep_search` and `list_dir` on the `.agents/archives/` sub-directories to retrieve specific advisory methodologies for a breakthrough.
+- **Iterative_Dialectic_RAG (Evolutionary Cognition)**: When tackling algorithms or hackathons, do not blindly scatter random approaches. First, propose a single initial autonomous methodology. Immediately apply `Adversarial_Verification` to critically unearth its core mathematical or structural flaws. Based on this healthy critique, dynamically pivot to alternative paradigms or query `.agents/archives/` for theoretical benchmarking. Continuously loop this [Propose -> Critique -> Synthesize] dialectic until the absolute optimal and unified solution emerges.
 - **Research_Toy_Sandboxing**: "[RESEARCH MODE] Sub-scaling active exploratory sandboxing prior to full execution." (Path: `.agents/skills/Research_Toy_Sandboxing.md`)
 - **Research_Self_Discover**: "[RESEARCH MODE] Autonomous meta-reasoning logic topology composer." (Path: `.agents/skills/Research_Self_Discover.md`)
 - **Research_Progressive_Tree_Search**: "[RESEARCH MODE] Multi-branch algorithmic tree search and empirical benchmarking." (Path: `.agents/skills/Research_Progressive_Tree_Search.md`)
