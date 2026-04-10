@@ -20,7 +20,7 @@ If the theory is executable locally:
 - Log the Loss Curve, system errors, and empirical validation results in a `README.md` inside that directory.
 - **Empirical Extraction:** If successful, automatically convert the conceptual logic into an executable agent skill in `.agents/staging/` to be deployed later.
 
-## 3. Route B: Advisor Archive Extraction (Track C)
+## 3. Route B: Advisor Archive Extraction (Track F)
 If the theory is too heavy or cannot be executed locally:
 - You must digest the paper not as code, but as **Strategic Advisory Knowledge**.
 - Create a comprehensive markdown summary covering:
