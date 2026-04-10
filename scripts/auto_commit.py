@@ -86,11 +86,12 @@ def update_agents_index(track_type, name, description, dest_path):
         target_header = "### [STANDARD MODE]"
     elif track_type == "diary":
         target_header = "## Track B:"
+    elif track_type == "archive":
+        target_header = "## Track F:"
     else:
         target_header = "## Track C:" # Backlog
         
-        # If Track C doesn't exist yet, we will append it at the end
-        if not any(line.startswith("## Track C:") for line in lines):
+        if not any(line.startswith(target_header) for line in lines):
             lines.append("\n## Track C: Research Backlog\n")
 
     for line in lines:
@@ -123,14 +124,15 @@ def main():
         is_skill = basename.startswith("draft_skill_")
         is_diary = basename.startswith("draft_diary_")
         is_backlog = basename.startswith("draft_backlog_")
+        is_archive = basename.startswith("draft_archive_")
         
-        if not (is_skill or is_diary or is_backlog):
+        if not (is_skill or is_diary or is_backlog or is_archive):
             continue
             
-        track_type = "skill" if is_skill else ("diary" if is_diary else "backlog")
-        folder = "skills" if is_skill else ("diaries" if is_diary else "backlog")
+        track_type = "skill" if is_skill else ("diary" if is_diary else ("archive" if is_archive else "backlog"))
+        folder = "skills" if is_skill else ("diaries" if is_diary else ("archives" if is_archive else "backlog"))
         
-        clean_name = basename.replace("draft_skill_", "").replace("draft_diary_", "").replace("draft_backlog_", "")
+        clean_name = basename.replace("draft_skill_", "").replace("draft_diary_", "").replace("draft_backlog_", "").replace("draft_archive_", "")
         dest_dir = os.path.join(".agents", folder)
         dest_path = os.path.join(dest_dir, clean_name)
         

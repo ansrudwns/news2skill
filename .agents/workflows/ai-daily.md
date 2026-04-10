@@ -29,9 +29,9 @@ At the very bottom of the report, you MUST include a `## System Modification Log
 
 ## 4. Autonomous Draft & Staging
 Based on the generated report, autonomously perform the following:
-- Classify the technology as either an **Executable Skill (Track A)** or **Conceptual Knowledge (Track B)**.
+- Classify the technology into **Executable Skill (Track A)**, **Architectural Diary (Track B)**, or **Reference Archive (Track F)**.
 - **Deep Research**: If the original article lacks implementation code, you MUST actively use your `search_web` tool to search GitHub, StackOverflow, or official docs to find the missing instructions.
-- Create draft files in `.agents/staging/` (name them `draft_skill_[name].md` or `draft_diary_[name].md`). All draft contents MUST be written in **highly professional English** to optimize LLM token usage.
+- Create draft files in `.agents/staging/` (name them `draft_skill_[name].md`, `draft_diary_[name].md`, or `draft_archive_[name].md`). All draft contents MUST be written in **highly professional English** to optimize LLM token usage.
 
 ## 5. Adversarial Verification
 Act as a "Strict System Architect" to evaluate the drafts you just created. Score them out of 100. A draft must score >= 80 to pass.
