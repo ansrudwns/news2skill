@@ -29,6 +29,7 @@ Before embarking on any task, you MUST check this registry. If a task implies on
 
 ## Track C: Research Backlog (Epics)
 - **TurboQuant_Compression**: "Optimization architecture implementing TurboQuant compression patterns for bounded environments." (Path: `.agents/backlog/TurboQuant_Compression.md`)
+- **Mathematical_Optimization**: "Frequency domain translations, Cosine Gradient Bypasses, and non-linear metric smoothing techniques via SIREN/FNO/SAM." (Path: `.agents/backlog/archives/Mathematical_Optimization/Reference_Gradient_Bypass.md`)
 - **Research Proposals**: `.agents/backlog/research_proposals/`
 - **Archives**: `.agents/backlog/archives/`
 
