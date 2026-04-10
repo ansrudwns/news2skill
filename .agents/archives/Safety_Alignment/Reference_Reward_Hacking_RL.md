@@ -17,20 +17,5 @@ When agents (especially LLM-powered autonomous architectures) use Reinforcement 
 ## 3. Advisory Application (Future System Integration)
 Our current `.agents/skills/Adversarial_Verification.md` employs a basic conversational critique loop. Moving forward, we must implement an algorithmic "KL Penalty Constraint" logic within our verification layer: if an agent achieves unexpectedly rapid success with unusually short context output, it must automatically trigger a deep trace to verify no "Reward Hacking" (e.g., faking terminal output, hallucinating execution success) has occurred.
 
-## 4. Deep Dive Implementation (Mathematics & Code)
-**KL Penalty formulation in PPO / RLHF:**
-To strictly avoid the agent collapsing into a repeating loop of max-reward text fragments, Lilian Weng breaks down the RLHF PPO constraint mathematically:
-```python
-def compute_reward_with_kl_penalty(reward_model_score, policy_logprobs, ref_logprobs, beta=0.1):
-    """
-    beta controls how much we penalize the model for diverging from its original pre-trained state.
-    A high beta prevents 'reward hacking', but slows down learning.
-    """
-    # Kullback-Leibler divergence approximation
-    kl_div = policy_logprobs - ref_logprobs
-    
-    # The actual reward used in optimization is the raw score MINUS the KL penalty
-    rl_reward = reward_model_score - (beta * kl_div)
-    return rl_reward
-```
-*Note: In the Antigravity architecture, `beta` should dynamically scale up during the **Adversarial Verification** phase to temporarily strip the agent of "shortcut" strategies.*
+> [!IMPORTANT]
+> **Deep Dive Directive:** This archive serves as a theoretical safety boundary mapping. If you require explicit code implementations (e.g., how to compute the KL-divergence penalty loss in a specific PyTorch RL loop), you MUST immediately invoke the `Dynamic_Web_Deep_Dive` skill. Search `site:github.com` for "RLHF KL penalty divergence" to pull the exact dynamic beta-scaling implementations needed for execution.

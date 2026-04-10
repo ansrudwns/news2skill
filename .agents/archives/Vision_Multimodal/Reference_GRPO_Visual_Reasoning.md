@@ -17,23 +17,5 @@ Unlike standard PPO, GRPO eliminates the need for an explicit value network by d
 ## 3. Advisory Application (Future System Integration)
 When scaling our `LaCT_Spatial_Memory` or any visual integration for the `Antigravity` agent, we must implement GRPO instead of simple SFT for spatial reasoning. By bypassing the value-network overhead, we can train locally under 24GB VRAM while preventing hallucinations in spatial coordinates.
 
-## 4. Deep Dive Implementation (Mathematics & Code)
-**Lagrangian Dual Ascent for Constrained GRPO:**
-Instead of simple scalar rewards, FGRPO introduces explicit logical and grounding constraints via the Lagrangian multiplier $\lambda$.
-```python
-def fgrpo_loss(policy_logprobs, ref_logprobs, advantages, constraint_violations, lambda_multiplier):
-    # Standard GRPO clipped ratio
-    ratio = torch.exp(policy_logprobs - ref_logprobs)
-    clipped_ratio = torch.clamp(ratio, 1 - epsilon, 1 + epsilon)
-    
-    # 1. Base Advantage Optimization
-    base_loss = -torch.min(ratio * advantages, clipped_ratio * advantages)
-    
-    # 2. Lagrangian Dual Ascent Constraint (The 'Faithful' part)
-    # If a trajectory violates spatial logic or visual grounding, penalty scales dynamically.
-    constraint_penalty = lambda_multiplier * constraint_violations
-    
-    final_loss = base_loss + constraint_penalty
-    return final_loss.mean()
-```
-*Note: The $\lambda$ modifier adaptively increases during training steps if the VLM hallucinates a bounding box that contradicts the source visual patch.*
+> [!IMPORTANT]
+> **Deep Dive Directive:** This archive is a structural synthesis for visual reasoning logic. If you require explicit code implementations (e.g., how to code the Lagrangian multiplier adaptive update, or the exact bounding box penalty function in GRPO), you MUST immediately invoke the `Dynamic_Web_Deep_Dive` skill. Search the web for "Faithful GRPO implementation" or query related RLHF PyTorch code bases, and cache the implementation details only when actively running an experiment.

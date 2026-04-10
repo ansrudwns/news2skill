@@ -17,28 +17,5 @@ Instead of distilling pure input/output text mapping (which fails out-of-distrib
 ## 3. Advisory Application (Future System Integration)
 For `Antigravity` agent evolution, we should stop relying purely on API calls for heavy web parsing. By employing an `Agent-as-Annotator` logic in our `.agents/laboratory/`, we can generate synthetic DOM failure trees constraint-optimized for 24GB VRAM models, transitioning web-tasks locally.
 
-## 4. Deep Dive Implementation (Mathematics & Code)
-**Synthetic DOM Tree Sequence Generation:**
-The Teacher Agent explores a website and outputs a Directed Acyclic Graph (DAG) instead of a linear chat log. This DAG is serialized for Distillation.
-```python
-# Teacher Agent Annotated Output Format (Distilled to Local VLM)
-distillation_dataset = [
-    {
-        "state_observation": "<html><button id='checkout'>...</html>",
-        "action_tree": [
-            {"action": "click(checkout)", "expected_state": "payment_screen"},
-            {"fallback_action": "scroll(down)", "reason": "checkout_button_is_unclickable"}
-        ],
-        "reward_label": 1.0 # Successful endpoint
-    }
-]
-
-def distill_agent_trajectory(small_model, dataset):
-    """
-    Train local 8B model to predict the entire tree topology (Action -> Fallback -> Resolution)
-    rather than next-token predicting a single step.
-    """
-    optimizer = AdamW(small_model.parameters(), lr=2e-5)
-...
-```
-*Note: By forcing the local model to predict `fallback_action` alongside the primary action, it gains the "meta-cognitive" structural reasoning that larger models naturally possess.*
+> [!IMPORTANT]
+> **Deep Dive Directive:** This archive is a structural synthesis for conceptualizing Agent Distillation. If you require explicit code implementations (e.g., how to format the DAG outputs or set up the Sequence-to-Sequence loss for fallback nodes), you MUST immediately invoke the `Dynamic_Web_Deep_Dive` skill. Search for "Structured Distillation of Web Agent Capabilities" on GitHub or ArXiv and extract the caching implementation details recursively.
