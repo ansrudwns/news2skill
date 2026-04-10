@@ -1,0 +1,212 @@
+﻿============================================================
+1. Hugging Face Daily Papers (Top 30)
+[HuggingFace] 1. ClawBench: Can AI Agents Complete Everyday Online Tasks?
+   Abstract: AI agents may be able to automate your inbox, but can they automate other routine aspects of your life? Everyday online tasks offer a realistic yet unsolved testbed for evaluating the next generation ...
+   Link: https://huggingface.co/papers/2604.08523
+------------------------------------------------------------
+[HuggingFace] 2. Small Vision-Language Models are Smart Compressors for Long Video Understanding
+   Abstract: Adapting Multimodal Large Language Models (MLLMs) for hour-long videos is bottlenecked by context limits. Dense visual streams saturate token budgets and exacerbate the lost-in-the-middle phenomenon. ...
+   Link: https://huggingface.co/papers/2604.08120
+------------------------------------------------------------
+[HuggingFace] 3. Faithful GRPO: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization
+   Abstract: Multimodal reasoning models (MRMs) trained with reinforcement learning with verifiable rewards (RLVR) show improved accuracy on visual reasoning benchmarks. However, we observe that accuracy gains oft...
+   Link: https://huggingface.co/papers/2604.08476
+------------------------------------------------------------
+[HuggingFace] 4. AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors
+   Abstract: Zero-shot anomaly detection aims to detect and localise abnormal regions in the image without access to any in-domain training images. While recent approaches leverage vision-language models (VLMs), s...
+   Link: https://huggingface.co/papers/2601.20524
+------------------------------------------------------------
+[HuggingFace] 5. On the Global Photometric Alignment for Low-Level Vision
+   Abstract: Supervised low-level vision models rely on pixel-wise losses against paired references, yet paired training sets exhibit per-pair photometric inconsistency, say, different image pairs demand different...
+   Link: https://huggingface.co/papers/2604.08172
+------------------------------------------------------------
+[HuggingFace] 6. ImplicitMemBench: Measuring Unconscious Behavioral Adaptation in Large Language Models
+   Abstract: Existing memory benchmarks for LLM agents evaluate explicit recall of facts, yet overlook implicit memory where experience becomes automated behavior without conscious retrieval. This gap is critical:...
+   Link: https://huggingface.co/papers/2604.08064
+------------------------------------------------------------
+[HuggingFace] 7. Personalizing Text-to-Image Generation to Individual Taste
+   Abstract: Modern text-to-image (T2I) models generate high-fidelity visuals but remain indifferent to individual user preferences. While existing reward models optimize for "average" human appeal, they fail to c...
+   Link: https://huggingface.co/papers/2604.07427
+------------------------------------------------------------
+[HuggingFace] 8. POS-ISP: Pipeline Optimization at the Sequence Level for Task-aware ISP
+   Abstract: Recent work has explored optimizing image signal processing (ISP) pipelines for various tasks by composing predefined modules and adapting them to task-specific objectives. However, jointly optimizing...
+   Link: https://huggingface.co/papers/2604.06938
+------------------------------------------------------------
+[HuggingFace] 9. ViVa: A Video-Generative Value Model for Robot Reinforcement Learning
+   Abstract: Vision-language-action (VLA) models have advanced robot manipulation through large-scale pretraining, but real-world deployment remains challenging due to partial observability and delayed feedback. R...
+   Link: https://huggingface.co/papers/2604.08168
+------------------------------------------------------------
+[HuggingFace] 10. Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability
+   Abstract: A prevailing narrative in LLM post-training holds that supervised finetuning (SFT) memorizes while reinforcement learning (RL) generalizes. We revisit this claim for reasoning SFT with long chain-of-t...
+   Link: https://huggingface.co/papers/2604.06628
+------------------------------------------------------------
+[HuggingFace] 11. Lighting-grounded Video Generation with Renderer-based Agent Reasoning
+   Abstract: Diffusion models have achieved remarkable progress in video generation, but their controllability remains a major limitation. Key scene factors such as layout, lighting, and camera trajectory are ofte...
+   Link: https://huggingface.co/papers/2604.07966
+------------------------------------------------------------
+[HuggingFace] 12. SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds
+   Abstract: Robotic manipulation with deformable objects represents a data-intensive regime in embodied learning, where shape, contact, and topology co-evolve in ways that far exceed the variability of rigids. Al...
+   Link: https://huggingface.co/papers/2604.08544
+------------------------------------------------------------
+[HuggingFace] 13. Structured Distillation of Web Agent Capabilities Enables Generalization
+   Abstract: Frontier LLMs can navigate complex websites, but their cost and reliance on third-party APIs make local deployment impractical. We introduce Agent-as-Annotators, a framework that structures synthetic ...
+   Link: https://huggingface.co/papers/2604.07776
+------------------------------------------------------------
+[HuggingFace] 14. Structural Graph Probing of Vision-Language Models
+   Abstract: Vision-language models (VLMs) achieve strong multimodal performance, yet how computation is organized across populations of neurons remains poorly understood. In this work, we study VLMs through the l...
+   Link: https://huggingface.co/papers/2603.27070
+------------------------------------------------------------
+[HuggingFace] 15. OpenSpatial: A Principled Data Engine for Empowering Spatial Intelligence
+   Abstract: Spatial understanding is a fundamental cornerstone of human-level intelligence. Nonetheless, current research predominantly focuses on domain-specific data production, leaving a critical void: the abs...
+   Link: https://huggingface.co/papers/2604.07296
+------------------------------------------------------------
+[HuggingFace] 16. MegaStyle: Constructing Diverse and Scalable Style Dataset via Consistent Text-to-Image Style Mapping
+   Abstract: In this paper, we introduce MegaStyle, a novel and scalable data curation pipeline that constructs an intra-style consistent, inter-style diverse and high-quality style dataset. We achieve this by lev...
+   Link: https://huggingface.co/papers/2604.08364
+------------------------------------------------------------
+[HuggingFace] 17. Automating Database-Native Function Code Synthesis with LLMs
+   Abstract: Database systems incorporate an ever-growing number of functions in their kernels (a.k.a., database native functions) for scenarios like new application support and business migration. This growth cau...
+   Link: https://huggingface.co/papers/2604.06231
+------------------------------------------------------------
+[HuggingFace] 18. LPM 1.0: Video-based Character Performance Model
+   Abstract: Performance, the externalization of intent, emotion, and personality through visual, vocal, and temporal behavior, is what makes a character alive. Learning such performance from video is a promising ...
+   Link: https://huggingface.co/papers/2604.07823
+------------------------------------------------------------
+[HuggingFace] 19. Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models
+   Abstract: The advent of agentic multimodal models has empowered systems to actively interact with external environments. However, current agents suffer from a profound meta-cognitive deficit: they struggle to a...
+   Link: https://huggingface.co/papers/2604.08545
+------------------------------------------------------------
+[HuggingFace] 20. When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models
+   Abstract: Text-to-video diffusion models have enabled open-ended video synthesis, but often struggle with generating the correct number of objects specified in a prompt. We introduce NUMINA , a training-free id...
+   Link: https://huggingface.co/papers/2604.08546
+------------------------------------------------------------
+[HuggingFace] 21. Beyond Stochastic Exploration: What Makes Training Data Valuable for Agentic Search
+   Abstract: Reinforcement learning (RL) has become an effective approach for advancing the reasoning capabilities of large language models (LLMs) through the strategic integration of external search engines. Howe...
+   Link: https://huggingface.co/papers/2604.08124
+------------------------------------------------------------
+[HuggingFace] 22. FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On
+   Abstract: Given a person and a garment image, virtual try-on (VTO) aims to synthesize a realistic image of the person wearing the garment, while preserving their original pose and identity. Although recent VTO ...
+   Link: https://huggingface.co/papers/2604.08526
+------------------------------------------------------------
+[HuggingFace] 23. GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents
+   Abstract: Towards an embodied generalist for real-world interaction, Multimodal Large Language Model (MLLM) agents still suffer from challenging latency, sparse feedback, and irreversible mistakes. Video games ...
+   Link: https://huggingface.co/papers/2604.07429
+------------------------------------------------------------
+[HuggingFace] 24. RewardFlow: Generate Images by Optimizing What You Reward
+   Abstract: We introduce RewardFlow, an inversion-free framework that steers pretrained diffusion and flow-matching models at inference time through multi-reward Langevin dynamics. RewardFlow unifies complementar...
+   Link: https://huggingface.co/papers/2604.08536
+------------------------------------------------------------
+[HuggingFace] 25. Phantom: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics
+   Abstract: Recent advances in generative video modeling, driven by large-scale datasets and powerful architectures, have yielded remarkable visual realism. However, emerging evidence suggests that simply scaling...
+   Link: https://huggingface.co/papers/2604.08503
+------------------------------------------------------------
+[HuggingFace] 26. PokeGym: A Visually-Driven Long-Horizon Benchmark for Vision-Language Models
+   Abstract: While Vision-Language Models (VLMs) have achieved remarkable progress in static visual understanding, their deployment in complex 3D embodied environments remains severely limited. Existing benchmarks...
+   Link: https://huggingface.co/papers/2604.08340
+------------------------------------------------------------
+[HuggingFace] 27. SkillClaw: Let Skills Evolve Collectively with Agentic Evolver
+   Abstract: Large language model (LLM) agents such as OpenClaw rely on reusable skills to perform complex tasks, yet these skills remain largely static after deployment. As a result, similar workflows, tool usage...
+   Link: https://huggingface.co/papers/2604.08377
+------------------------------------------------------------
+[HuggingFace] 28. MolmoWeb: Open Visual Web Agent and Open Data for the Open Web
+   Abstract: Web agents--autonomous systems that navigate and execute tasks on the web on behalf of users--have the potential to transform how people interact with the digital world. However, the most capable web ...
+   Link: https://huggingface.co/papers/2604.08516
+------------------------------------------------------------
+[HuggingFace] 29. OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks
+   Abstract: Group Relative Policy Optimization (GRPO) has emerged as the de facto Reinforcement Learning (RL) objective driving recent advancements in Multimodal Large Language Models. However, extending this suc...
+   Link: https://huggingface.co/papers/2604.08539
+------------------------------------------------------------
+[HuggingFace] 30. HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents
+   Abstract: We introduce HY-Embodied-0.5, a family of foundation models specifically designed for real-world embodied agents. To bridge the gap between general Vision-Language Models (VLMs) and the demands of emb...
+   Link: https://huggingface.co/papers/2604.07430
+------------------------------------------------------------
+============================================================
+2. Papers With Code Trending (Top 30)
+PWC failed: Expecting value: line 1 column 1 (char 0)
+============================================================
+3/4. Lilian Weng RSS
+[Lilian Weng] 1. Why We Think
+   Abstract: <p><span class="update">Special thanks to <a href="https://scholar.google.com/citations?user=itSa94cAAAAJ&amp;hl=en">John Schulman</a> for a lot of super valuable feedback and direct edits on this pos...
+   Link: https://lilianweng.github.io/posts/2025-05-01-thinking/
+------------------------------------------------------------
+[Lilian Weng] 2. Reward Hacking in Reinforcement Learning
+   Abstract: <p>Reward hacking occurs when a <a href="(https://lilianweng.github.io/posts/2018-02-19-rl-overview/)">reinforcement learning (RL)</a> agent <a href="https://lilianweng.github.io/posts/2018-01-23-mult...
+   Link: https://lilianweng.github.io/posts/2024-11-28-reward-hacking/
+------------------------------------------------------------
+[Lilian Weng] 3. Extrinsic Hallucinations in LLMs
+   Abstract: <p>Hallucination in large language models usually refers to the model generating unfaithful, fabricated, inconsistent, or nonsensical content. As a term, hallucination has been somewhat generalized to...
+   Link: https://lilianweng.github.io/posts/2024-07-07-hallucination/
+------------------------------------------------------------
+[Lilian Weng] 4. Diffusion Models for Video Generation
+   Abstract: <p><a href="https://lilianweng.github.io/posts/2021-07-11-diffusion-models/">Diffusion models</a> have demonstrated strong results on image synthesis in past years. Now the research community has star...
+   Link: https://lilianweng.github.io/posts/2024-04-12-diffusion-video/
+------------------------------------------------------------
+[Lilian Weng] 5. Thinking about High-Quality Human Data
+   Abstract: <p><span class="update">[Special thank you to <a href="https://scholar.google.com/citations?user=FRBObOwAAAAJ&amp;hl=en">Ian Kivlichan</a> for many useful pointers (E.g. the 100+ year old Nature paper...
+   Link: https://lilianweng.github.io/posts/2024-02-05-human-data-quality/
+------------------------------------------------------------
+[Lilian Weng] 6. Adversarial Attacks on LLMs
+   Abstract: <p>The use of large language models in the real world has strongly accelerated by the launch of ChatGPT. We (including my team at OpenAI, shoutout to them) have invested a lot of effort to build defau...
+   Link: https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/
+------------------------------------------------------------
+[Lilian Weng] 7. LLM Powered Autonomous Agents
+   Abstract: <p>Building agents with LLM (large language model) as its core controller is a cool concept. Several proof-of-concepts demos, such as <a href="https://github.com/Significant-Gravitas/Auto-GPT">AutoGPT...
+   Link: https://lilianweng.github.io/posts/2023-06-23-agent/
+------------------------------------------------------------
+[Lilian Weng] 8. Prompt Engineering
+   Abstract: <p><strong>Prompt Engineering</strong>, also known as <strong>In-Context Prompting</strong>, refers to methods for how to communicate with LLM to steer its behavior for desired outcomes <em>without</e...
+   Link: https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
+------------------------------------------------------------
+[Lilian Weng] 9. The Transformer Family Version 2.0
+   Abstract: <p>Many new Transformer architecture improvements have been proposed since my last post on <a href="https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/"><ins>&ldquo;The Transformer F...
+   Link: https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/
+------------------------------------------------------------
+[Lilian Weng] 10. Large Transformer Model Inference Optimization
+   Abstract: <p><span class="update">[Updated on 2023-01-24: add a small section on <a href="#distillation">Distillation</a>.]</span><br/></p>
+<p>Large transformer models are mainstream nowadays, creating SoTA res...
+   Link: https://lilianweng.github.io/posts/2023-01-10-inference-optimization/
+------------------------------------------------------------
+[Lilian Weng] 11. Some Math behind Neural Tangent Kernel
+   Abstract: <p>Neural networks are <a href="https://lilianweng.github.io/posts/2019-03-14-overfit/">well known</a> to be over-parameterized and can often easily fit data with near-zero training loss with decent g...
+   Link: https://lilianweng.github.io/posts/2022-09-08-ntk/
+------------------------------------------------------------
+[Lilian Weng] 12. Generalized Visual Language Models
+   Abstract: <p>Processing images to generate text, such as image captioning and visual question-answering, has been studied for years. Traditionally such systems rely on an object detection network as a vision en...
+   Link: https://lilianweng.github.io/posts/2022-06-09-vlm/
+------------------------------------------------------------
+[Lilian Weng] 13. Learning with not Enough Data Part 3: Data Generation
+   Abstract: <p>Here comes the Part 3 on learning with not enough data (Previous: <a href="https://lilianweng.github.io/posts/2021-12-05-semi-supervised/">Part 1</a> and <a href="https://lilianweng.github.io/posts...
+   Link: https://lilianweng.github.io/posts/2022-04-15-data-gen/
+------------------------------------------------------------
+[Lilian Weng] 14. Learning with not Enough Data Part 2: Active Learning
+   Abstract: <!-- The performance of supervised learning tasks improves with more high-quality labels available. However, it is expensive to collect a large number of labeled samples. Active learning is one paradi...
+   Link: https://lilianweng.github.io/posts/2022-02-20-active-learning/
+------------------------------------------------------------
+[Lilian Weng] 15. Learning with not Enough Data Part 1: Semi-Supervised Learning
+   Abstract: <!-- The performance of supervised learning tasks improves with more high-quality labels available. However, it is expensive to collect a large number of labeled samples. There are several paradigms i...
+   Link: https://lilianweng.github.io/posts/2021-12-05-semi-supervised/
+------------------------------------------------------------
+[Lilian Weng] 16. How to Train Really Large Models on Many GPUs?
+   Abstract: <!-- How to train large and deep neural networks is challenging, as it demands a large amount of GPU memory and a long horizon of training time. This post reviews several popular training parallelism ...
+   Link: https://lilianweng.github.io/posts/2021-09-25-train-large/
+------------------------------------------------------------
+[Lilian Weng] 17. What are Diffusion Models?
+   Abstract: <!-- Diffusion models are a new type of generative models that are flexible enough to learn any arbitrarily complex data distribution while tractable to analytically evaluate the distribution. It has ...
+   Link: https://lilianweng.github.io/posts/2021-07-11-diffusion-models/
+------------------------------------------------------------
+[Lilian Weng] 18. Contrastive Representation Learning
+   Abstract: <!-- The main idea of contrastive learning is to learn representations such that similar samples stay close to each other, while dissimilar ones are far apart. Contrastive learning can be applied to b...
+   Link: https://lilianweng.github.io/posts/2021-05-31-contrastive/
+------------------------------------------------------------
+[Lilian Weng] 19. Reducing Toxicity in Language Models
+   Abstract: <!-- Toxicity prevents us from safely deploying powerful pretrained language models for real-world applications. To reduce toxicity in language models, in this post, we will delve into three aspects o...
+   Link: https://lilianweng.github.io/posts/2021-03-21-lm-toxicity/
+------------------------------------------------------------
+[Lilian Weng] 20. Controllable Neural Text Generation
+   Abstract: <!-- The modern language model with SOTA results on many NLP tasks is trained on large scale free text on the Internet. It is challenging to steer such a model to generate content with desired attribu...
+   Link: https://lilianweng.github.io/posts/2021-01-02-controllable-text-generation/
+------------------------------------------------------------
+============================================================
+3/4. Eugene Yan RSS
+Eugene Yan failed: HTTP Error 404: Not Found
+TOTAL GATHERED: 50
