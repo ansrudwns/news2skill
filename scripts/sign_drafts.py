@@ -15,18 +15,29 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)) + "/..")
 def sign_draft(filepath: str, signature_key: str):
     print(f"[Signer] Processing: {os.path.basename(filepath)}...")
     
-    # 0. Heuristic Security Auditor (Block destructive payload injection)
-    FORBIDDEN_KEYWORDS = ['os.system', 'subprocess.Popen', 'subprocess.run', 'rm -rf', 'requests.post', 'curl ', 'Invoke-WebRequest', 'powershell', 'import base64', 'b64decode', 'ignore previous instructions']
+    # 0. Heuristic Security Auditor — uses shared AUDIT_RULES from utils.py
+    #    P0/P1 → hard reject.  P2 → warning only, signing proceeds.
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
-            for kw in FORBIDDEN_KEYWORDS:
-                if kw in content:
-                    print(f"🚨 AUDITOR REJECT: Destructive keyword '{kw}' detected in {os.path.basename(filepath)}. Strict SLSA Rejection active.")
-                    return False
     except Exception as e:
         print(f"❌ Failed to parse {filepath} for heuristic audit: {e}")
         return False
+
+    audit = utils.audit_text(content)
+    hard_fail_levels = {"P0", "P1"}
+    hard_findings = [f for f in audit["findings"] if f["level"] in hard_fail_levels]
+
+    if hard_findings:
+        for finding in hard_findings:
+            print(f"🚨 AUDITOR REJECT [{finding['level']}]: keyword '{finding['keyword']}' "
+                  f"detected in {os.path.basename(filepath)}. Strict SLSA Rejection active.")
+        return False
+
+    warn_findings = [f for f in audit["findings"] if f["level"] == "P2"]
+    for finding in warn_findings:
+        print(f"⚠️  AUDITOR WARNING [P2]: keyword '{finding['keyword']}' "
+              f"in {os.path.basename(filepath)}. Signing proceeds with caution.")
     
     # 1. Compute original file hash
     hasher = hashlib.sha256()
@@ -51,7 +62,7 @@ def sign_draft(filepath: str, signature_key: str):
         "predicate": {
             "builder": {"id": "Antigravity-Automated-Signer-CLI"},
             "metadata": {
-                "ruleSet": "Basic-Heuristic-Static-Analysis",
+                "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
                 "completeness": {"parameters": True, "environment": True, "materials": False},
                 "reproducible": False
             },

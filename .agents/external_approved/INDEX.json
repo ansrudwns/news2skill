@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Warning Skill: Log Cleanup Advisor",
+    "summary": "Warning Skill: Log Cleanup Advisor This skill advises on how to clean up old log files manually. 1. Identify log files older than 30 days. 2. Present the file list to the user for review.",
+    "path": ".agents/external_approved/skills/warning_skill.md",
+    "source_path": "external_skills/test_fixtures/Warning_Skill.md",
+    "risk_level": "Medium",
+    "warnings": [
+      "os.remove",
+      "git push"
+    ],
+    "imported_at": "2026-04-11"
+  },
+  {
+    "title": "Good Skill: Safe Text Processor",
+    "summary": "Good Skill: Safe Text Processor This skill performs read-only text analysis on provided input strings. It does not interact with the filesystem, network, or shell. 1. Accept a text string from the user.",
+    "path": ".agents/external_approved/skills/good_skill.md",
+    "source_path": "external_skills/test_fixtures/Good_Skill.md",
+    "risk_level": "Low",
+    "warnings": [],
+    "imported_at": "2026-04-11"
+  },
+  {
+    "title": "MCP Server Best Practices",
+    "summary": "MCP Server Best Practices - **Python**: `{service}_mcp` (e.g., `slack_mcp`) - **Node/TypeScript**: `{service}-mcp-server` (e.g., `slack-mcp-server`) - Use snake_case with service prefix",
+    "path": ".agents/external_approved/skills/mcp_best_practices.md",
+    "source_path": "external_skills/skills/skills/mcp-builder/reference/mcp_best_practices.md",
+    "risk_level": "Low",
+    "warnings": [],
+    "imported_at": "2026-04-11"
+  }
+]

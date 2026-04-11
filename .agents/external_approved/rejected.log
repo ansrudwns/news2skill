@@ -1,0 +1,2 @@
+[2026-04-11T07:33:14Z] REJECTED external_skills/test_fixtures/Bad_Skill.md | P0:'os.system'; P0:'subprocess.run'; P0:'Invoke-WebRequest'; P0:'rm -rf'
+[2026-04-11T07:38:05Z] REJECTED external_skills\skills\skills\claude-api\shared\agent-design.md | P1:'curl '
