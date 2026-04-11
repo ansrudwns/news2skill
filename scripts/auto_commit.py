@@ -35,7 +35,7 @@ def verify_commit_safety_audit_mode(filepath: str) -> bool:
         return False
         
     if not os.path.exists(sig_path):
-        print(f"⚠️ AUDIT WARNING: No .intoto.json provenance found for {os.path.basename(filepath)}. Soft-passing...")
+        print(f"🚨 AUDIT REJECT: No .intoto.json provenance found for {os.path.basename(filepath)}. Strict rejection active.")
         return False
         
     try:

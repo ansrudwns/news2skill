@@ -104,10 +104,10 @@ class AuditorAgentMock:
         final_signature = hashlib.sha256((payload_str + self.signature_key).encode()).hexdigest()
         
         # 4. Attestation 번들링
-        attestation = {
-            "payload": provenance,
-            "signature": final_signature
-        }
+        attestation = dict(
+            payload=provenance,
+            signature=final_signature
+        )
 
         # 5. .intoto.json으로 저장 (기존 .sig 폐기)
         sig_path = filepath + ".intoto.json"

@@ -3,17 +3,27 @@ echo ========================================================
 echo Antigravity Local Environment Bootstrap (Windows)
 echo ========================================================
 
-:: Check for Python
+:: Check for Python and install via winget if missing
 python --version >nul 2>&1
 if %errorlevel% neq 0 (
-    echo [ERROR] Python 3.10+ is missing! Please install from python.org and add it to PATH.
+    echo [ERROR] Python 3.10+ is missing! 
+    echo [System] Attempting native bootstrap via winget...
+    winget install -e --id Python.Python.3.10 --accept-source-agreements --accept-package-agreements
+    if %errorlevel% neq 0 (
+        echo [CRITICAL] Automatic python installation failed. Please install Python manually from python.org.
+        pause
+        exit /b
+    )
+    echo [System] Python installed. Please RESTART this terminal and run setup.bat again.
     pause
     exit /b
 )
 
 :: Create virtual environment
 echo [1/3] Creating isolated virtual environment natively...
-python -m venv .venv
+if not exist .venv (
+    python -m venv .venv
+)
 call .venv\Scripts\activate.bat
 
 :: Upgrade Pip
@@ -27,8 +37,9 @@ pip install -r requirements.txt
 echo.
 echo [4/4] Initializing secure environment variables (.env)...
 if not exist .env (
-    copy .env.example .env >nul
-    echo   - Created .env correctly from template.
+    echo [System] Generating cryptographically unique Signature Key...
+    powershell -Command "$Guid = [guid]::NewGuid().ToString().Replace('-', ''); Set-Content -Path .env -Value \"AGENT_PRIVATE_SIGNATURE_KEY=$Guid\" -Encoding UTF8"
+    echo   - Created .env correctly with secure dynamic key.
 ) else (
     echo   - .env already exists.
 )

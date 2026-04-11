@@ -126,10 +126,18 @@ def main():
             
     filtered_results = []
     new_urls = []
+    
+    # Generic noise patterns to drop from the scraper to ensure high quality backlog
+    noise_keywords = ["login", "sponsors", "careers", "privacy", "signup", "terms", "policy", "jobs"]
+    
     for item in results:
         # 식별자로 link 사용, link가 없으면 title 사용
         url_key = item.get("link", item.get("title", ""))
-        if url_key and url_key not in seen_urls:
+        
+        # Check against noise filter
+        is_noise = any(noise in url_key.lower() or noise in item.get("title", "").lower() for noise in noise_keywords)
+        
+        if url_key and not is_noise and url_key not in seen_urls:
             filtered_results.append(item)
             new_urls.append(url_key)
             seen_urls.add(url_key) # 한 문서 내 중복 방지

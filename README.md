@@ -1,4 +1,4 @@
-# Antigravity Zero-Click Pipeline (Agentic Ouroboros)
+﻿# Antigravity Zero-Click Pipeline (Agentic Ouroboros)
 
 An autonomous, self-evolving Agentic Harness that aggregates global artificial intelligence trends and distills them into rigorously defined executable **Skills** and architectural **Diaries**. 
 
@@ -7,7 +7,7 @@ This repository serves as an Automated AI R&D Knowledge Pipeline designed around
 
 The framework operates fully autonomously every day via GitHub Actions and local LLM agents.
 
-## 🔒 Security & Provenance (Agentic SLSA)
+## ?뵏 Security & Provenance (Agentic SLSA)
 The system tackles LLM Prompt Injection and Supply Chain attacks natively without human intervention:
 * **Dual-Agent Auditor Node**: Raw LLM outputs are physically isolated and validated using strict heuristic rules.
 * **Cryptographic Attestation (`.intoto.json`)**: If an AI's output is safe, the Auditor node generates its own SLSA-compliant JSON provenance receipt embedded with an HMAC signature.
@@ -30,3 +30,4 @@ The system is constructed upon a strict **Harness Engineering** philosophy (heav
 2. **Local Ingestion & Report**: The user downloads the queue via `git pull` and triggers `/ai-daily`. The LLM Agent summarizes the queue into a Daily Briefing.
 3. **Research R&D (Ideation)**: Periodically, the user triggers `/ai-rd-planning`. The Agent reads all past reports to formulate actionable R&D Epics in the Backlog.
 4. **Execution & SLSA Absorption**: The Agent builds the Epic inside the `laboratory/`. If successful, the Dual-Agent framework signs the result, and `auto_commit.py` upgrades the code natively into a `skill/` for next-generation intelligence.
+
