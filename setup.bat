@@ -38,7 +38,7 @@ echo.
 echo [4/4] Initializing secure environment variables (.env)...
 if not exist .env (
     echo [System] Generating cryptographically unique Signature Key...
-    powershell -Command "$Guid = [guid]::NewGuid().ToString().Replace('-', ''); Set-Content -Path .env -Value \"AGENT_PRIVATE_SIGNATURE_KEY=$Guid\" -Encoding UTF8"
+    python -c "import uuid; open('.env', 'w', encoding='utf-8').write(f'AGENT_PRIVATE_SIGNATURE_KEY={uuid.uuid4().hex}\n')"
     echo   - Created .env correctly with secure dynamic key.
 ) else (
     echo   - .env already exists.
