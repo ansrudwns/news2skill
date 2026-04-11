@@ -5,14 +5,8 @@ import bs4
 import feedparser
 from datetime import datetime, timedelta
 import ssl
-
-# SSL 인증서 확인 우회 (로컬 환경에서의 인증서 에러 방지)
-try:
-    _create_unverified_https_context = ssl._create_unverified_context
-except AttributeError:
-    pass
-else:
-    ssl._create_default_https_context = _create_unverified_https_context
+# Strict SSL context enforced. Local proxies must provide valid cert bundles.
+# Removed old proxy bypass to respect SLSA supply chain safety.
 
 # 진짜 브라우저처럼 보이기 위한 고급 헤더
 HEADERS = {

@@ -11,7 +11,9 @@ load_dotenv()
 def get_secret_key() -> str:
     key = os.getenv("AGENT_PRIVATE_SIGNATURE_KEY")
     if not key:
-        return "fallback_insecure_key"
+        print("🚨 CRITICAL ERROR: AGENT_PRIVATE_SIGNATURE_KEY not found in .env. Halting to prevent insecure supply chain.")
+        import sys
+        sys.exit(1)
     return key
 
 def generate_file_hash(filepath: str) -> str:
@@ -118,8 +120,17 @@ def main():
     for file in files:
         basename = os.path.basename(file)
 
-        # [Phase 3] Audit-only verification
-        verify_commit_safety_audit_mode(file)
+        # [Phase 3] Strict Verification Enforcement
+        is_safe = verify_commit_safety_audit_mode(file)
+        if not is_safe:
+            print(f"❌ REJECTED: {basename} failed supply-chain verification. Dropping from staging.")
+            try:
+                os.remove(file)
+                if os.path.exists(file + ".intoto.json"):
+                    os.remove(file + ".intoto.json")
+            except:
+                pass
+            continue
 
         is_skill = basename.startswith("draft_skill_")
         is_diary = basename.startswith("draft_diary_")
