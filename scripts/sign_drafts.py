@@ -6,6 +6,8 @@ from datetime import datetime, timezone
 from dotenv import load_dotenv
 import sys
 
+sys.stdout.reconfigure(encoding='utf-8')
+
 def get_secret_key() -> str:
     # Ensure env is loaded securely
     load_dotenv()
@@ -19,6 +21,19 @@ def get_secret_key() -> str:
 def sign_draft(filepath: str, signature_key: str):
     print(f"[Signer] Processing: {os.path.basename(filepath)}...")
     
+    # 0. Heuristic Security Auditor (Block destructive payload injection)
+    FORBIDDEN_KEYWORDS = ['os.system', 'subprocess.Popen', 'subprocess.run', 'rm -rf', 'requests.post', 'curl ']
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            content = f.read()
+            for kw in FORBIDDEN_KEYWORDS:
+                if kw in content:
+                    print(f"🚨 AUDITOR REJECT: Destructive keyword '{kw}' detected in {os.path.basename(filepath)}. Strict SLSA Rejection active.")
+                    return False
+    except Exception as e:
+        print(f"❌ Failed to parse {filepath} for heuristic audit: {e}")
+        return False
+    
     # 1. Compute original file hash
     hasher = hashlib.sha256()
     try:
@@ -31,9 +46,13 @@ def sign_draft(filepath: str, signature_key: str):
         return False
     
     # 2. Construct SLSA Provenance payload
+    # Drop draft_ prefixes so the subject correctly represents the final deployed asset name.
+    basename = os.path.basename(filepath)
+    clean_name = basename.replace("draft_skill_", "").replace("draft_diary_", "").replace("draft_backlog_", "").replace("draft_archive_", "")
+    
     provenance = {
         "_type": "https://in-toto.io/Statement/v0.1",
-        "subject": [{"name": os.path.basename(filepath), "digest": {"sha256": file_hash}}],
+        "subject": [{"name": clean_name, "digest": {"sha256": file_hash}}],
         "predicateType": "https://slsa.dev/provenance/v0.2",
         "predicate": {
             "builder": {"id": "Antigravity-Automated-Signer-CLI"},

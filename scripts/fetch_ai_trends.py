@@ -4,6 +4,9 @@ import urllib.error
 import bs4
 import feedparser
 from datetime import datetime, timedelta
+import sys
+
+sys.stdout.reconfigure(encoding='utf-8')
 import ssl
 import certifi
 # Strict SSL context enforced via Certifi to natively bypass local system cert limitations securely.
@@ -37,7 +40,7 @@ def fetch_arxiv():
     print("Fetching ArXiv (cs.AI, cs.LG, cs.CL)...")
     items = []
     try:
-        url = "http://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.LG+OR+cat:cs.CL&sortBy=submittedDate&sortOrder=descending&max_results=50"
+        url = "https://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.LG+OR+cat:cs.CL&sortBy=submittedDate&sortOrder=descending&max_results=50"
         req = urllib.request.Request(url, headers=HEADERS)
         response = urllib.request.urlopen(req, timeout=10, context=SSL_CONTEXT).read()
         feed = feedparser.parse(response)

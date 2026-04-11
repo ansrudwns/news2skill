@@ -14,6 +14,8 @@ Before embarking on any task, you MUST check this registry. If a task implies on
 - **Dynamic_Web_Deep_Dive**: "[RESEARCH MODE] Intercept information gaps during RAG, search the internet to fetch raw academic papers/code, and overwrite archives with cached implementation." (Path: `.agents/skills/Dynamic_Web_Deep_Dive.md`)
 
 ### [STANDARD MODE] Automation & Engineering
+- **hnsw_3bit_quantization**: "Optimization architecture implementing 3-bit Lloyd-Max scalar quantization for HNSW vector embeddings." (Path: `.agents/skills/hnsw_3bit_quantization.md`)
+- **slsa_test**: "Optimization architecture implementing Test parameters." (Path: `.agents/skills/slsa_test.md`)
 - **Anthropic_Prompting**: Implement Anthropic Agentic best practices including XML Scratchpads, Undercover Mode, and Layered Prompts. (Path: `.agents/skills/Anthropic_Prompting.md`)
 - **Defensive_Execution_Protocol**: Unified robust execution enforcing dummy returns, exponential backoffs, and strict JSON schemas, suppressing infinite loops and pipeline crashes. (Path: `.agents/skills/Defensive_Execution_Protocol.md`)
 - **Karpathy_Strict_Mode**: Suppress AI hallucination and over-engineering by enforcing minimal, surgical code modifications. (Path: `.agents/skills/Karpathy_Strict_Mode.md`)
