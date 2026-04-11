@@ -6,7 +6,7 @@ This workflow is an advanced dual-pronged research methodology. It is invoked wh
 Your objective is to read the papers, evaluate their local implementability, and route the knowledge either into an executable local experiment or into the "Reference Knowledge Archive" for future advisory capabilities.
 
 ## 1. Academic Extraction & Triage
-- Utilize your `read_url_content`, `search_web`, or `view_file` tools to ingest the target papers or articles.
+- Utilize your available file-reading or web search tools to ingest the target papers or articles.
 - For each paper, extract the mathematical paradigms, core pseudo-code, and structural hypotheses.
 - **Triage Decision:** Check if the core thesis can be down-scaled and executed inside a strict 24GB VRAM local resource constraint.
   - If YES (e.g., Small Math Logic, Agent Tool Routing Algorithms, Search Trees, Pruning): Proceed to **Route A (Local Lab Experiment)**.
@@ -14,11 +14,11 @@ Your objective is to read the papers, evaluate their local implementability, and
 
 ## 2. Route A: Autonomous Local Lab Experiment (Track D)
 If the theory is executable locally:
-- Autonomously open a new sandbox directory inside `.agents/laboratory/` (e.g., `02_Small_Language_Model_Test/`).
-- Create a `experiment_sandbox.py` invoking the exact methodology described in the paper bounded exclusively over a Toy Dataset (N=10).
-- Present the python script to the user and request permission to execute. Once approved, use `run_command` to execute the experiment.
+- **Proposal Phase:** Propose the creation of a new sandbox directory inside `.agents/laboratory/` (e.g., `02_Small_Language_Model_Test/`) along with the draft code for an `experiment_sandbox.py` (which bounds the methodology over a Toy Dataset N=10). 
+- Request explicit user approval before writing any files or creating the directory.
+- Once approved, write the files and use an available terminal execution tool to execute the experiment.
 - Log the Loss Curve, system errors, and empirical validation results in a `README.md` inside that directory.
-- **Empirical Extraction:** If successful, automatically convert the conceptual logic into an executable agent skill in `.agents/staging/` to be deployed later.
+- **Empirical Extraction:** If successful, prepare a draft skill in an isolated proposal folder (e.g., `.agents/staging/proposals/`) and request explicit user approval before deploying it.
 
 ## 3. Route B: Advisor Archive Extraction (Track F)
 If the theory is too heavy or cannot be executed locally:
@@ -28,7 +28,7 @@ If the theory is too heavy or cannot be executed locally:
   2. **Algorithmic Paradigm:** The theoretical mapping used to bypass the bottleneck.
   3. **Advisory Application:** "How the user's system might conceptually borrow this pattern in future lightweight architectures."
   
-- **Taxonomy Routing:** Save this document permanently in `.agents/archives/` using a **Broad Folder + Deep Tags** strategy:
+- **Taxonomy Routing:** Draft this document in `.agents/archives/proposals/` using a **Broad Folder + Deep Tags** strategy, and request explicit user approval before permanently saving it to `.agents/archives/`:
   - Create/Choose one of the 5 Broad Domains: `LLM_Reasoning/`, `Vision_Multimodal/`, `Agent_Orchestration/`, `Hardware_Optimization/`, or `Safety_Alignment/`.
   - Add highly granular search tags inside the markdown front-matter (e.g., `tags: [Quantization, Speculative Decoding, Krafton]`).
 - Name the file `[Topic_Name]_Reference.md`. 

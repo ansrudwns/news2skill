@@ -1,10 +1,10 @@
 # Harness Engineering: The Definitive Meta-Cognitive Control Layer
 
 ## Architectural Insight
-The future of Agentic AI relies not just on foundational foundational capacities, but heavily on the "Control Layer" (Harness) wrapped around it. Prompting alone is highly susceptible to contextual degradation. Harness Engineering aims to structurally enforce behavior across routing, context pruning, and automated execution constraints. 
+The future of Agentic AI relies not just on foundational capacities, but heavily on the "Control Layer" (Harness) wrapped around it. Prompting alone is highly susceptible to contextual degradation. Harness Engineering aims to structurally enforce behavior across routing, context pruning, and automated execution constraints. 
 
 ## Pillar 1: Context Engineering & Progressive Disclosure (The Anchor)
-- **Defeat Context Rot**: Suppress context fatigue by loading only essential metadata upfront. Instead of feeding 1,000-page manuals, employ **Progressive Disclosure**?inject only the title and a 100-token summary initially, forcing the agent to dynamically "Pull" full knowledge only when triggered.
+- **Defeat Context Rot**: Suppress context fatigue by loading only essential metadata upfront. Instead of feeding 1,000-page manuals, employ **Progressive Disclosure**—inject only the title and a 100-token summary initially, forcing the agent to dynamically "Pull" full knowledge only when triggered.
 - **The Context Anchor**: Agents must read deterministic root files (e.g., `GEMINI.md`) upon initialization to establish an immutable structural anchor and rule boundary.
 - **Context Collapse (Log Compression)**: When massive unstructured payloads (e.g., 5,000 lines of console output) occur, truncate aggressively. 
   - *Conflict Resolution Standard*: **Always prefer deterministic truncation** (Regex/Python `tail`) first. Escalate to a costly "Summarizer Sub-Agent" *only* when deep semantic context is strictly required to proceed.

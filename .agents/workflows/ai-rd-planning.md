@@ -18,16 +18,15 @@ Propose 3 highly actionable, cutting-edge R&D project proposals (Epics). Each pr
 
 ## 3. Adversarial Novelty Verification (Pre-computation Check)
 **Do not skip this step.** For EACH of your 3 proposals, you MUST actively verify if it is already a solved problem.
-- **Global Verification**: Use your `search_web` tool to search Google and GitHub. Look for exact frameworks, papers, or OSS libraries that already do exactly what the proposal suggests.
+- **Global Verification**: Use available web search tools to search Google and GitHub. Look for exact frameworks, papers, or OSS libraries that already do exactly what the proposal suggests.
 - **Internal Verification**: Check if our existing `.agents/skills` or `backlog` already explicitly solves this.
 
 *If an existing robust solution or paper already exists*: You must PIVOT the proposal. Instead of "building it from scratch", change the Epic strategy to "Integrate [Existing Solution] into our architecture". We do not reinvent the wheel.
 
-## 4. Epic Publication & Deployment
-For the 3 verified/pivoted R&D Epics, use the `write_to_file` tool to save them inside `.agents/backlog/research_proposals/` naming them `Epic_1_[Name].md`, `Epic_2_[Name].md`, etc. (Create the directory first if needed).
+## 4. Epic Publication & Deployment Proposal
+For the 3 verified/pivoted R&D Epics, use a file-writing tool to save them inside `.agents/backlog/research_proposals/` naming them `Epic_1_[Name].md`, `Epic_2_[Name].md`, etc. (Create the directory first if needed).
 
-Execute the following deployment command to securely save them and push to the remote repository.
-// turbo-all
+Prepare the deployment command to securely save them and push to the remote repository. **You MUST request Explicit User Approval before running this command.**
 ```bash
 python scripts/auto_commit.py
 ```

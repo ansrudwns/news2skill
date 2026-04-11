@@ -4,11 +4,12 @@ import urllib.error
 import bs4
 import feedparser
 from datetime import datetime, timedelta
-import sys
-
-sys.stdout.reconfigure(encoding='utf-8')
 import ssl
 import certifi
+import os
+
+sys.stdout.reconfigure(encoding='utf-8')
+os.chdir(os.path.dirname(os.path.abspath(__file__)) + "/..")
 # Strict SSL context enforced via Certifi to natively bypass local system cert limitations securely.
 SSL_CONTEXT = ssl.create_default_context(cafile=certifi.where())
 # 진짜 브라우저처럼 보이기 위한 고급 헤더
@@ -86,7 +87,6 @@ def fetch_generic_blog(url, source_name, container_selector, title_selector, lin
         print(f"Failed {source_name}: {e}")
     return items
 
-import os
 
 def main():
     results = []
@@ -106,7 +106,7 @@ def main():
     
     # 3. HTML Scraping (Fallback for those without standard RSS)
     # Anthropic
-    results.extend(fetch_generic_blog("https://www.anthropic.com/news", "Anthropic", "a.PostCard_root__c1rU0", "h3", None))
+    results.extend(fetch_generic_blog("https://www.anthropic.com/news", "Anthropic", "article, [href*='/news/']", "h3", "a"))
     # OpenAI Research / News
     results.extend(fetch_generic_blog("https://openai.com/research/", "OpenAI Research", ".ui-list-card, article", "h3, h2", "a"))
     # Meta FAIR Publications

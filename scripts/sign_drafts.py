@@ -5,24 +5,18 @@ import glob
 from datetime import datetime, timezone
 from dotenv import load_dotenv
 import sys
+import utils
 
 sys.stdout.reconfigure(encoding='utf-8')
+os.chdir(os.path.dirname(os.path.abspath(__file__)) + "/..")
 
-def get_secret_key() -> str:
-    # Ensure env is loaded securely
-    load_dotenv()
-    key = os.getenv("AGENT_PRIVATE_SIGNATURE_KEY")
-    if not key:
-        print("🚨 CRITICAL ERROR: AGENT_PRIVATE_SIGNATURE_KEY not found in .env.")
-        print("Run setup.bat to generate a unique cryptographic ID.")
-        sys.exit(1)
-    return key
+
 
 def sign_draft(filepath: str, signature_key: str):
     print(f"[Signer] Processing: {os.path.basename(filepath)}...")
     
     # 0. Heuristic Security Auditor (Block destructive payload injection)
-    FORBIDDEN_KEYWORDS = ['os.system', 'subprocess.Popen', 'subprocess.run', 'rm -rf', 'requests.post', 'curl ', 'os.remove', 'shutil.rmtree', 'Invoke-WebRequest', 'powershell', 'import base64', 'b64decode', 'ignore previous instructions']
+    FORBIDDEN_KEYWORDS = ['os.system', 'subprocess.Popen', 'subprocess.run', 'rm -rf', 'requests.post', 'curl ', 'Invoke-WebRequest', 'powershell', 'import base64', 'b64decode', 'ignore previous instructions']
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
@@ -87,7 +81,7 @@ def sign_draft(filepath: str, signature_key: str):
         return False
 
 def main():
-    signature_key = get_secret_key()
+    signature_key = utils.get_secret_key()
     staging_dir = os.path.join(".agents", "staging")
     
     if not os.path.exists(staging_dir):

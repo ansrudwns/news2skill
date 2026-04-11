@@ -6,25 +6,15 @@ import hashlib
 from datetime import datetime
 from dotenv import load_dotenv
 import sys
+import utils
 
 sys.stdout.reconfigure(encoding='utf-8')
+os.chdir(os.path.dirname(os.path.abspath(__file__)) + "/..")
+
 
 load_dotenv()
 
-def get_secret_key() -> str:
-    key = os.getenv("AGENT_PRIVATE_SIGNATURE_KEY")
-    if not key:
-        print("🚨 CRITICAL ERROR: AGENT_PRIVATE_SIGNATURE_KEY not found in .env. Halting to prevent insecure supply chain.")
-        import sys
-        sys.exit(1)
-    return key
 
-def generate_file_hash(filepath: str) -> str:
-    hasher = hashlib.sha256()
-    with open(filepath, 'rb') as f:
-        buf = f.read()
-        hasher.update(buf)
-    return hasher.hexdigest()
 
 import json
 
@@ -46,7 +36,7 @@ def verify_commit_safety_audit_mode(filepath: str) -> bool:
             attestation = json.load(f)
             
         payload_str = json.dumps(attestation["payload"], sort_keys=True)
-        public_key = get_secret_key() 
+        public_key = utils.get_secret_key() 
         expected_signature = hashlib.sha256((payload_str + public_key).encode()).hexdigest()
             
         if attestation["signature"] == expected_signature:

@@ -1,5 +1,5 @@
 ---
-description: Ensure robust payload exchanges, terminate infinite loops, and aggressively enforce fallback paradigms.
+description: "Ensure robust payload exchanges, terminate infinite loops, and aggressively enforce fallback paradigms."
 ---
 # Defensive Execution Protocol
 
@@ -11,7 +11,7 @@ Naively constructed agent loops (Ouroboros anti-pattern) will retry failing acti
 ### 1. Loop Termination & Exponential Backoff
 - **Exponential Backoff**: On hitting 429 (Rate Limit) or 503 (Service Unavailable), never retry instantly. Calculate delay via `wait_time = (2 ** attempt) + jitter`.
 - **Max Retries**: Break the loop forcefully after a maximum of 3 retries to prevent runaway daemon execution.
-- **Hard Wall-Clock Timeout**: Every threaded agent logic MUST be constrained by an absolute execution deadline (e.g., `timeout=180` seconds). Kill the process upon breach to prevent thread freezing.
+- **Hard Wall-Clock Timeout & Foreground Exceptions**: Every background threaded agent logic MUST be constrained by a timeout. For **GEAR 5 (RESEARCH MODE) Operations**, these are treated as "Scoped Foreground Exceptions" to safely override the 15-second background blocking budget. The default hard timeout for these foreground tasks is **180 seconds** unless the user explicitly approves an extension. Longer runs must declare expected duration, log paths, and a cancellation method upfront.
 
 ### 2. Output Forcing & The Regex Contradiction Rule
 - **Never Parse LLM Output with Regex**: Relying on standard Regex or Markdown block parsing to capture natural language from an LLM causes catastrophic downstream errors. ALWAYS utilize the official JSON Response Schema of the overarching API.
@@ -26,7 +26,7 @@ Naively constructed agent loops (Ouroboros anti-pattern) will retry failing acti
 - Whenever a Dummy payload is emitted and handled, simultaneously log an aggressive asynchronous warning (a "Loud Failure") into an independent `failed_items_queue.json` or `.log` file detailing the specific chunk ID and failure reason. Do not bury the failure in standard outputs.
 
 ### 5. Visual Telemetry (Popup Dashboard Caching)
-- **Conflict Resolution (vs Blocking_Budget.md)**: While autonomous background actions generally must not block the user's GUI, long-running ML training or heavy computation tasks are an explicit EXCEPTION. To prevent human anxiety (Opaque Execution), you MUST aggressively spawn front-end visual popups.
-- **Protocol**: When executing long tasks autonomously via terminal, strictly utilize `Start-Process powershell -NoExit -Command ...` to pop up an interactive real-time monitoring dashboard on the user's physical desktop.
-- **Dual Logging (Prevent Blindness)**: Because the Popup detaches stdout from the agent's pipe, the executed Python script MUST universally import the `logging` module configured with BOTH a `StreamHandler` (for the human popup) and a `FileHandler` (for the Agent to read logs natively). Never rely on print statements alone.
-- **Anti-Zombie Garbage Collection**: Never let popup windows replicate infinitely. Before spawning a retry popup during failure loops, you MUST automatically detect and kill the previous hanging terminal session (Auto-kill) and manage `.flag` files to synchronize agent polling.
+- **User-Approved Popups**: While background actions must not block the user's GUI, heavy computation tasks might benefit from visual tracking. However, you MUST NOT spawn front-end visual popups without **Explicit User Approval**.
+- **Protocol**: When approved by the user, utilize `Start-Process powershell -NoExit -Command ...` to pop up an interactive real-time monitoring dashboard.
+- **Dual Logging (Prevent Blindness)**: Because the Popup detaches stdout, the executed script MUST universally import `logging` with BOTH a `StreamHandler` (for the popup) and a `FileHandler` (for the Agent to read logs natively). Never rely on print statements alone.
+- **Anti-Zombie Garbage Collection**: Never let popup windows replicate infinitely. Before spawning a retry popup, you must clear the previous hanging session. However, you are **STRICTLY PROHIBITED** from using generic `kill` commands based on process names. You MUST exclusively use deterministic **PID file ownership validation** to prove you spawned the process before terminating it.

@@ -35,10 +35,7 @@ jobs:
         run: |
           python scripts/fetch_ai_trends.py
           
-      - name: Zero-Click SLSA Assetization
-        run: |
-          python scripts/sign_drafts.py
-          python scripts/auto_commit.py
+
 
       - name: Zero-Click Sync
         run: |

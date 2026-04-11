@@ -1,4 +1,4 @@
-﻿# Antigravity Zero-Click Pipeline (Agentic Ouroboros)
+# Antigravity Zero-Click Pipeline (Agentic Ouroboros)
 
 An autonomous, self-evolving Agentic Harness that aggregates global artificial intelligence trends and distills them into rigorously defined executable **Skills** and architectural **Diaries**. 
 
@@ -26,7 +26,7 @@ The system is constructed upon a strict **Harness Engineering** philosophy (heav
 * **`.agents/archives/` (Track F)**: Past reference solutions, methodologies, and closed epics used strictly as contextual memory.
 
 ## Execution Pipeline (Hybrid Cloud-Local)
-1. **Cloud Data Queuing**: GitHub Actions autonomously scrapes AI news every morning at 07:00 KST (10:00 UTC), appending the raw data into `pending_queue.json`.
+1. **Cloud Data Queuing**: GitHub Actions autonomously scrapes AI news every morning at 07:00 KST (22:00 UTC), appending the raw data into `pending_queue.json`.
 2. **Local Ingestion & Report**: The user downloads the queue via `git pull` and triggers `/ai-daily`. The LLM Agent summarizes the queue into a Daily Briefing.
 3. **Research R&D (Ideation)**: Periodically, the user triggers `/ai-rd-planning`. The Agent reads all past reports to formulate actionable R&D Epics in the Backlog.
 4. **Execution & SLSA Absorption**: The Agent builds the Epic inside the `laboratory/`. If successful, the Dual-Agent framework signs the result, and `auto_commit.py` upgrades the code natively into a `skill/` for next-generation intelligence.
