@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "draft_skill_slsa_test.md",
+        "digest": {
+          "sha256": "9412c0aae0ca559267e1662e490c176f8576513fea3b55b6ef8dd2be26b9e4ce"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Automated-Signer-CLI"
+      },
+      "metadata": {
+        "ruleSet": "Adversarial-Verification-Passed",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-11T03:11:54.350080+00:00"
+    }
+  },
+  "signature": "5ecc054566c521e4db867f146c9aacd8eb856b89ede3569a9fbc4b0f691b3834"
+}
