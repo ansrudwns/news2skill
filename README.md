@@ -1,4 +1,4 @@
-# Antigravity Zero-Click Pipeline (Agentic Ouroboros)
+﻿# Antigravity Zero-Click Pipeline (Agentic Ouroboros)
 
 An autonomous, self-evolving Agentic Harness that aggregates global artificial intelligence trends and distills them into rigorously defined executable **Skills** and architectural **Diaries**. 
 

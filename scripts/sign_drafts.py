@@ -100,8 +100,15 @@ def main():
         print("✅ No valid drafts to sign in staging.")
         return
         
+    has_failure = False
     for file in files:
-        sign_draft(file, signature_key)
+        success = sign_draft(file, signature_key)
+        if not success:
+            has_failure = True
+            
+    if has_failure:
+        print("🚨 One or more drafts failed validation or signing.")
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()
