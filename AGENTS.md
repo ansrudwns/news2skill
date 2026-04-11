@@ -14,8 +14,7 @@ Before embarking on any task, you MUST check this registry. If a task implies on
 - **Dynamic_Web_Deep_Dive**: "[RESEARCH MODE] Intercept information gaps during RAG, search the internet to fetch raw academic papers/code, and overwrite archives with cached implementation." (Path: `.agents/skills/Dynamic_Web_Deep_Dive.md`)
 
 ### [STANDARD MODE] Automation & Engineering
-- **hnsw_3bit_quantization**: "Optimization architecture implementing 3-bit Lloyd-Max scalar quantization for HNSW vector embeddings." (Path: `.agents/skills/hnsw_3bit_quantization.md`)
-- **slsa_test**: "Optimization architecture implementing Test parameters." (Path: `.agents/skills/slsa_test.md`)
+
 - **Anthropic_Prompting**: Implement Anthropic Agentic best practices including XML Scratchpads, Undercover Mode, and Layered Prompts. (Path: `.agents/skills/Anthropic_Prompting.md`)
 - **Defensive_Execution_Protocol**: Unified robust execution enforcing dummy returns, exponential backoffs, and strict JSON schemas, suppressing infinite loops and pipeline crashes. (Path: `.agents/skills/Defensive_Execution_Protocol.md`)
 - **Karpathy_Strict_Mode**: Suppress AI hallucination and over-engineering by enforcing minimal, surgical code modifications. (Path: `.agents/skills/Karpathy_Strict_Mode.md`)
@@ -25,7 +24,7 @@ Before embarking on any task, you MUST check this registry. If a task implies on
 
 ## Track B: Architectural Diaries Registry
 - **Hardware_Profile**: Host hardware benchmarks and offline fallback constraints (24GB VRAM). (Path: `.agents/diaries/Hardware_Profile.md`)
-- **Harness_Engineering**: The definitive meta-cognitive Control Layer playbook?combining structural guardrails, context pruning (Progressive Disclosure), and tool routing architectures (MCP). (Path: `.agents/diaries/Harness_Engineering.md`)
+- **Harness_Engineering**: The definitive meta-cognitive Control Layer playbook - combining structural guardrails, context pruning (Progressive Disclosure), and tool routing architectures (MCP). (Path: `.agents/diaries/Harness_Engineering.md`)
 - **LaCT_Spatial_Memory**: Resilient Test-Time Training architecture for long-context 3D/video environments. (Path: `.agents/diaries/LaCT_Spatial_Memory.md`)
 - **autoDream**: Context maintenance and background memory healing strategies. (Path: `.agents/diaries/autoDream.md`)
 
@@ -35,6 +34,10 @@ Before embarking on any task, you MUST check this registry. If a task implies on
 
 ## Track D: Experimental Laboratory
 - **01_Agent_Cryptographic_Identity**: Cryptographic signature infrastructure research for agent supply-chain security. (Path: `.agents/laboratory/01_Agent_Cryptographic_Identity/`)
+- **02_Anthropic_Prompt_Middleware**: Prompt parsing middleware experimentation. (Path: `.agents/laboratory/02_Anthropic_Prompt_Middleware/`)
+- **02_T1_Test_Time_Compute**: Inference-time compute and logical pause experiments. (Path: `.agents/laboratory/02_T1_Test_Time_Compute/`)
+- **03_Draft_Inference**: Draft model execution strategies. (Path: `.agents/laboratory/03_Draft_Inference/`)
+- **04_Quantization_Scale**: Quantization scaling parameter exploration. (Path: `.agents/laboratory/04_Quantization_Scale/`)
 
 ## Track E: Analytics & Staging
 - **Reports**: Aggregated collection of AI-generated summaries and daily briefings. (Path: `.agents/reports/`)
@@ -42,5 +45,6 @@ Before embarking on any task, you MUST check this registry. If a task implies on
 
 ## Track F: Knowledge Archives
 - **Claude_Advisor_API**: No description provided. (Path: `.agents/archives/Claude_Advisor_API.md`)
+- **hnsw_3bit_quantization**: "Optimization architecture implementing 3-bit Lloyd-Max scalar quantization for HNSW vector embeddings." (Path: `.agents/archives/hnsw_3bit_quantization.md`)
 - **Archives**: Past reference solutions, methodologies, and closed epics used strictly as contextual memory. (Path: `.agents/archives/`)
 - **Mathematical_Optimization**: "Frequency domain translations, Cosine Gradient Bypasses, and non-linear metric smoothing techniques via SIREN/FNO/SAM." (Path: `.agents/archives/Mathematical_Optimization/Reference_Gradient_Bypass.md`)
