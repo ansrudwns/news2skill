@@ -41,5 +41,6 @@ Before embarking on any task, you MUST check this registry. If a task implies on
 - **Staging Area**: A secure holding area for cryptographic signatures and verified skills prior to permanent integration. (Path: `.agents/staging/`)
 
 ## Track F: Knowledge Archives
+- **Claude_Advisor_API**: No description provided. (Path: `.agents/archives/Claude_Advisor_API.md`)
 - **Archives**: Past reference solutions, methodologies, and closed epics used strictly as contextual memory. (Path: `.agents/archives/`)
 - **Mathematical_Optimization**: "Frequency domain translations, Cosine Gradient Bypasses, and non-linear metric smoothing techniques via SIREN/FNO/SAM." (Path: `.agents/archives/Mathematical_Optimization/Reference_Gradient_Bypass.md`)

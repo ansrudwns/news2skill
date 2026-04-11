@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "Claude_Advisor_API.md",
+        "digest": {
+          "sha256": "ad37bb8f626ddcb897b7ea4dc469b2b2f788b820034757d4f2b7e58f3980fdc5"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Automated-Signer-CLI"
+      },
+      "metadata": {
+        "ruleSet": "Basic-Heuristic-Static-Analysis",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-11T04:35:06.200995+00:00"
+    }
+  },
+  "signature": "d6a055f0502debc7b41929879e937d8d7e421a3d52d6514a639913e553b2069b"
+}
