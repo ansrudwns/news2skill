@@ -5,9 +5,9 @@ import bs4
 import feedparser
 from datetime import datetime, timedelta
 import ssl
-# Strict SSL context enforced. Local proxies must provide valid cert bundles.
-# Removed old proxy bypass to respect SLSA supply chain safety.
-
+import certifi
+# Strict SSL context enforced via Certifi to natively bypass local system cert limitations securely.
+SSL_CONTEXT = ssl.create_default_context(cafile=certifi.where())
 # 진짜 브라우저처럼 보이기 위한 고급 헤더
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -19,7 +19,7 @@ def fetch_rss(feed_url, source_name):
     items = []
     try:
         req = urllib.request.Request(feed_url, headers=HEADERS)
-        response = urllib.request.urlopen(req, timeout=10).read()
+        response = urllib.request.urlopen(req, timeout=10, context=SSL_CONTEXT).read()
         feed = feedparser.parse(response)
         
         for entry in feed.entries:
@@ -39,7 +39,7 @@ def fetch_arxiv():
     try:
         url = "http://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.LG+OR+cat:cs.CL&sortBy=submittedDate&sortOrder=descending&max_results=50"
         req = urllib.request.Request(url, headers=HEADERS)
-        response = urllib.request.urlopen(req, timeout=10).read()
+        response = urllib.request.urlopen(req, timeout=10, context=SSL_CONTEXT).read()
         feed = feedparser.parse(response)
         for entry in feed.entries:
             items.append({
@@ -57,7 +57,7 @@ def fetch_generic_blog(url, source_name, container_selector, title_selector, lin
     items = []
     try:
         req = urllib.request.Request(url, headers=HEADERS)
-        html = urllib.request.urlopen(req, timeout=10).read()
+        html = urllib.request.urlopen(req, timeout=10, context=SSL_CONTEXT).read()
         soup = bs4.BeautifulSoup(html, 'html.parser')
         
         posts = soup.select(container_selector)

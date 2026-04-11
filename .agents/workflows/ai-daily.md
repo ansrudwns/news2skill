@@ -50,4 +50,5 @@ python scripts/auto_commit.py
 ```
 - The `auto_commit.py` script will automatically handle Collision Protection, create the `backlog/` folder if needed, and update `AGENTS.md` natively.
 - After all deployment is complete, **MUST EMPTY THE QUEUE** by modifying `pending_queue.json` to just `{"data": []}` using the `write_to_file` tool so we don't process them again next time.
+- **CRITICAL SYNC:** The user manual promises automated backups. You MUST run a terminal command `git add . ; git commit -m "🤖 [auto] Daily R&D Sync and Index Update" ; git push` to sync the changes back to the remote repository.
 - Once the pipeline is complete, briefly summarize the results to the user in **Korean** (mentioning what trends were found, what drafts were passed, and what was stashed in the backlog).

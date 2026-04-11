@@ -25,6 +25,15 @@ echo [3/3] Installing strictly verified dependencies...
 pip install -r requirements.txt
 
 echo.
+echo [4/4] Initializing secure environment variables (.env)...
+if not exist .env (
+    copy .env.example .env >nul
+    echo   - Created .env correctly from template.
+) else (
+    echo   - .env already exists.
+)
+
+echo.
 echo ========================================================
 echo ✅ Local Workspace securely initialized. 
 echo Run ".venv\Scripts\activate" to enter the isolated mode.
