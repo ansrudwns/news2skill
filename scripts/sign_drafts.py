@@ -22,7 +22,7 @@ def sign_draft(filepath: str, signature_key: str):
     print(f"[Signer] Processing: {os.path.basename(filepath)}...")
     
     # 0. Heuristic Security Auditor (Block destructive payload injection)
-    FORBIDDEN_KEYWORDS = ['os.system', 'subprocess.Popen', 'subprocess.run', 'rm -rf', 'requests.post', 'curl ']
+    FORBIDDEN_KEYWORDS = ['os.system', 'subprocess.Popen', 'subprocess.run', 'rm -rf', 'requests.post', 'curl ', 'os.remove', 'shutil.rmtree', 'Invoke-WebRequest', 'powershell', 'import base64', 'b64decode', 'ignore previous instructions']
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
@@ -57,7 +57,7 @@ def sign_draft(filepath: str, signature_key: str):
         "predicate": {
             "builder": {"id": "Antigravity-Automated-Signer-CLI"},
             "metadata": {
-                "ruleSet": "Adversarial-Verification-Passed",
+                "ruleSet": "Basic-Heuristic-Static-Analysis",
                 "completeness": {"parameters": True, "environment": True, "materials": False},
                 "reproducible": False
             },

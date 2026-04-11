@@ -3,7 +3,7 @@
     "_type": "https://in-toto.io/Statement/v0.1",
     "subject": [
       {
-        "name": "draft_skill_hnsw_3bit_quantization.md",
+        "name": "hnsw_3bit_quantization.md",
         "digest": {
           "sha256": "2a23609534ee248c995296bb4f03599dc658dfe9bf9079473853f76f3efcf818"
         }
@@ -15,7 +15,7 @@
         "id": "Antigravity-Automated-Signer-CLI"
       },
       "metadata": {
-        "ruleSet": "Adversarial-Verification-Passed",
+        "ruleSet": "Basic-Heuristic-Static-Analysis",
         "completeness": {
           "parameters": true,
           "environment": true,
@@ -26,5 +26,5 @@
       "timestamp": "2026-04-11T03:17:09.616314+00:00"
     }
   },
-  "signature": "46a3d50a028125d368f19a8eac056cddfb11187ac39bb661ee5e0baa6d4c7b1b"
+  "signature": "765aac0eb858ce28bba362372c32f73700bea450068e02b4cd89d4fd10d016d8"
 }

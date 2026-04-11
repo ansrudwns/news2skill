@@ -2,61 +2,49 @@ name: AI Daily Zero-Click Pipeline
 
 on:
   schedule:
-    # 매일 아침 7시 수집 발동 (한국 시간 기준)
     - cron: '0 22 * * *'
   workflow_dispatch:
-    # GitHub 사이트에서 수동(버튼)으로 돌릴 수 있게 허용
 
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
     
-    # 봇이 새로운 지식을 커밋하고 푸시할 수 있도록 쓰기 권한 부여
     permissions:
       contents: write
       
-    # Node.js 20 Deprecation 경고 해결을 위한 v24 강제 할당
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
       AGENT_PRIVATE_SIGNATURE_KEY: ${{ secrets.AGENT_PRIVATE_SIGNATURE_KEY }}
 
     steps:
-      - name: 1. 저장소 가져오기 (Checkout repo)
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: 2. 파이썬 환경 세팅 (Setup Python)
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
           cache: 'pip'
 
-      - name: 3. 패키지 설치 (Install Dependencies)
+      - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: 4. 글로벌 AI 트렌드 데이터 크롤링 및 로그 추출
+      - name: Fetch Global AI Trends
         run: |
           python scripts/fetch_ai_trends.py
           
-      - name: 5. 무인 자동화 서명 및 배포 로직 (Zero-Click Assetization)
+      - name: Zero-Click SLSA Assetization
         run: |
-          # 큐가 적재되어 로컬에서 에이전트가 Draft를 생성하고 푸시했다면,
-          # 클라우드 환경에서도 SLSA 증명 및 레지스트리 자동화를 검열합니다.
-          python scripts/sign_drafts.py || true
-          python scripts/auto_commit.py || true
+          python scripts/sign_drafts.py
+          python scripts/auto_commit.py
 
-      - name: 6. 무인 서명 동기화 및 커밋 (Zero-Click Sync)
+      - name: Zero-Click Sync
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # 파일들이 없을 경우 git add에서 에러(128)가 나지 않도록 빈 파일이라도 생성 보장
           touch pending_queue.json
           touch seen_urls.txt
-          
-          # 새롭게 크롤링된 데이터 혹은 자동 병합된 자산 내역을 모두 스테이징
           git add pending_queue.json seen_urls.txt .agents/
-          
-          # 변경사항이 있을 때만 커밋하여 에러 방지
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 [auto] Daily AI Trends and Agent Asset Sync" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "[auto] Cloud Daily Sync" && git push)
