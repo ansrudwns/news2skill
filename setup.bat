@@ -6,23 +6,44 @@ echo ========================================================
 :: Check for Python and install via winget if missing
 python --version >nul 2>&1
 if %errorlevel% neq 0 (
-    echo [ERROR] Python 3.10+ is missing! 
-    echo [System] Attempting native bootstrap via winget...
-    winget install -e --id Python.Python.3.10 --accept-source-agreements --accept-package-agreements
-    if %errorlevel% neq 0 (
-        echo [CRITICAL] Automatic python installation failed. Please install Python manually from python.org.
+    py -3 --version >nul 2>&1
+    if %errorlevel% equ 0 (
+        echo [System] 'python' missing but 'py -3' found. Using Windows Launcher.
+    ) else (
+        echo [ERROR] Python 3.10+ is missing! 
+        echo [System] Attempting native bootstrap via winget...
+        winget install -e --id Python.Python.3.10 --accept-source-agreements --accept-package-agreements
+        if %errorlevel% neq 0 (
+            echo [CRITICAL] Automatic python installation failed. Please install Python manually from python.org.
+            pause
+            exit /b
+        )
+        echo [System] Python installed. Please RESTART this terminal and run setup.bat again.
         pause
         exit /b
     )
-    echo [System] Python installed. Please RESTART this terminal and run setup.bat again.
-    pause
-    exit /b
 )
 
-:: Create virtual environment
-echo [1/3] Creating isolated virtual environment natively...
-if not exist .venv (
-    python -m venv .venv
+:: Create or Heal virtual environment
+echo [1/3] Creating/Healing isolated virtual environment natively...
+set VENV_BROKEN=0
+if exist .venv (
+    .\.venv\Scripts\python.exe --version >nul 2>&1
+    if %errorlevel% neq 0 (
+        echo [System] .venv is corrupted. Erasing and Auto-healing...
+        rmdir /s /q .venv
+        set VENV_BROKEN=1
+    )
+) else (
+    set VENV_BROKEN=1
+)
+
+if %VENV_BROKEN%==1 (
+    python -m venv .venv >nul 2>&1
+    if %errorlevel% neq 0 (
+        echo [System] python fallback to py -3...
+        py -3 -m venv .venv
+    )
 )
 call .venv\Scripts\activate.bat
 
