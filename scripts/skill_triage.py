@@ -228,7 +228,7 @@ def strip_frontmatter(content: str) -> str:
 # Core actions
 # ---------------------------------------------------------------------------
 
-def do_query(keyword: str) -> None:
+def do_query(keyword: str, limit: int = 5) -> None:
     """Search external_skills/ for files matching keyword (name or content)."""
     if not EXTERNAL_DIR.exists():
         _die(f"'{EXTERNAL_DIR.relative_to(PROJECT_ROOT)}' directory not found.\n"
@@ -243,15 +243,32 @@ def do_query(keyword: str) -> None:
             content = md.read_text(encoding="utf-8", errors="replace")
         except Exception:
             continue
-        if keyword_lower in md.name.lower() or keyword_lower in content.lower():
-            matches.append((md, content))
+
+        score = 0
+        if keyword_lower in md.name.lower():
+            score += 10
+
+        for line in content.splitlines():
+            if line.startswith("#") and keyword_lower in line.lower():
+                score += 5
+                break
+
+        if keyword_lower in content.lower():
+            score += 1
+
+        if score > 0:
+            matches.append((score, md, content))
 
     if not matches:
         print(f"\nNo files found matching '{keyword}' under {EXTERNAL_DIR.relative_to(PROJECT_ROOT)}/")
         return
 
-    print(f"\nFound {len(matches)} file(s) matching '{keyword}':\n")
-    for md, content in matches:
+    matches.sort(key=lambda x: (-x[0], x[1].name))
+    total_found = len(matches)
+    matches = matches[:limit]
+
+    print(f"\nFound {total_found} file(s) matching '{keyword}'. Showing top {len(matches)}:\n")
+    for score, md, content in matches:
         result = audit_text(content)
         print_audit_report(md, result)
         summary = extract_summary(content)
@@ -358,10 +375,14 @@ def main() -> None:
         help="After audit, import the file if it passes (P0/P1 free). "
              "Has no effect without --file. P0/P1 always hard-blocked."
     )
+    parser.add_argument(
+        "--limit", type=int, default=5,
+        help="Maximum number of query results to display (default: 5)."
+    )
     args = parser.parse_args()
 
     if args.query:
-        do_query(args.query)
+        do_query(args.query, args.limit)
         return
 
     # --file path

@@ -1,4 +1,4 @@
-name: AI Daily Zero-Click Pipeline
+name: AI Daily Approval-Gated Pipeline
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  run-pipeline:
+  daily-rd-sync:
     runs-on: ubuntu-latest
     
     permissions:
@@ -23,7 +23,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
           cache: 'pip'
 
       - name: Install Dependencies
@@ -37,7 +37,7 @@ jobs:
           
 
 
-      - name: Zero-Click Sync
+      - name: Approval-Gated Sync
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
