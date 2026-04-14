@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "ClawGuard.md",
+        "digest": {
+          "sha256": "d49b0e7ffae4f04752d345fad7ffde634d1e120fa182ee156cf6141fa5babede"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Automated-Signer-CLI"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-14T05:25:14.592835+00:00"
+    }
+  },
+  "signature": "14f4c22d1dc01429f1ac9dbdf53000f66b4aff4afcf01f6277a8d02c95bd447c"
+}

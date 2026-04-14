@@ -24,6 +24,11 @@ Naively constructed agent loops (Ouroboros anti-pattern) will retry failing acti
 ### 4. Telemetry & Observability (Langfuse Philosophy)
 - **Silent Success, Loud Failure**: Dummy returns ensure the pipeline compiler stays quiet and survives, but you MUST forcefully alert the human operator of the exact failure.
 - Whenever a Dummy payload is emitted and handled, simultaneously log an aggressive asynchronous warning (a "Loud Failure") into an independent `failed_items_queue.json` or `.log` file detailing the specific chunk ID and failure reason. Do not bury the failure in standard outputs.
+- **<CRITICAL_OVERRIDE - DIALECTIC TENTATIVE RECOVERY>**: LLM agents suffer from "Task Completion Bias" (silently swallowing errors to finish the task). You are STRICTLY FORBIDDEN from silently bypassing errors. However, you should not just freeze. If an error occurs: 
+  1) **HALT** the primary execution pipeline. 
+  2) **Investigate**: Autonomously perform web searches, read documentation, or trace logs to understand the root cause. 
+  3) **Propose & Discuss**: Present a concise "Post-Mortem & Recovery Plan" to the user. Explain the error, share your research findings, and propose alternate routes. 
+  4) **Wait for clearance**: Wait for the user's approval or engage in discussion before attempting the new patch.
 
 ### 5. Visual Telemetry (Popup Dashboard Caching)
 - **User-Approved Popups**: While background actions must not block the user's GUI, heavy computation tasks might benefit from visual tracking. However, you MUST NOT spawn front-end visual popups without **Explicit User Approval**.

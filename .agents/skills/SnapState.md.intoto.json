@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "SnapState.md",
+        "digest": {
+          "sha256": "6e5269ea1490b39e400a0c6078213df8eca1bc26d4c4981e9f4f0d7d1bd7e42d"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Automated-Signer-CLI"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-14T05:25:14.593844+00:00"
+    }
+  },
+  "signature": "8b61f0785878ed5d9f9835c273964248fe54f8716a41c45fbefebc2fdb2aba24"
+}

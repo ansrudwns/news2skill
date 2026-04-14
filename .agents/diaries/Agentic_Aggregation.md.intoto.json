@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "Agentic_Aggregation.md",
+        "digest": {
+          "sha256": "4c6c9141a1ebbaefc0e4ebccc4091b0174deb7da48a057232e432852f4caf71a"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Automated-Signer-CLI"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-14T05:25:14.592262+00:00"
+    }
+  },
+  "signature": "a4796ae2c493108967e108c53c8b30a3e50e19a362438bcaaa45723394ba324f"
+}
