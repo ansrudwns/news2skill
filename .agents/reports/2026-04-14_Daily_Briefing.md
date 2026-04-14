@@ -27,7 +27,7 @@ title: "Global AI Trends Daily Briefing"
 ---
 
 ## System Modification Log (Changelog)
-* `[MODIFIED]` `.github/workflows/fetch_ai_trends.py`: 누락된 `import sys` 추가 및 Dialectic 에러 복구.
+* `[MODIFIED]` `scripts/fetch_ai_trends.py`: 누락된 `import sys` 추가 및 Dialectic 에러 복구.
 * `[NEW]` `.agents/reports/2026-04-14_Daily_Briefing.md`: 일일 데이터를 요약한 정규 리포트 신규 발행.
 * `[NEW]` `.agents/staging/draft_skill_SnapState.md`: 체크포인트 복원 스킬 기획안 생성 (Track A)
 * `[NEW]` `.agents/staging/draft_diary_Agentic_Aggregation.md`: 병렬 실행 분산 아키텍처 설계안 확립 (Track B)

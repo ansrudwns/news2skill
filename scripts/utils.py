@@ -73,12 +73,14 @@ def audit_text(content: str) -> dict:
     """
     findings: list[dict] = []
 
+    content_lower = content.lower()
     for level, keywords in AUDIT_RULES.items():
         for kw in keywords:
-            if kw in content:
+            kw_lower = kw.lower()
+            if kw_lower in content_lower:
                 snippet = ""
                 for line in content.splitlines():
-                    if kw in line:
+                    if kw_lower in line.lower():
                         snippet = line.strip()[:120]
                         break
                 findings.append({"level": level, "keyword": kw, "snippet": snippet})
