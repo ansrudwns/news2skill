@@ -893,8 +893,626 @@
       "title": "Understanding and Improving Continuous Adversarial Training for LLMs via In-context Learning Theory",
       "link": "https://arxiv.org/abs/2604.12817v1",
       "summary": "Adversarial training (AT) is an effective defense for large language models (LLMs) against jailbreak attacks, but performing AT on LLMs is costly. To improve the efficiency of AT for LLMs, recent studies propose continuous AT (CAT) that searches for adversarial inputs within the continuous embedding..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "The PR you would have opened yourself",
+      "link": "https://huggingface.co/blog/transformers-to-mlx",
+      "summary": "..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+      "summary": "..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "U.S. to Create High-Tech Manufacturing Zone in Philippines",
+      "link": "https://www.wsj.com/world/asia/u-s-to-create-high-tech-manufacturing-zone-in-philippines-017c1668",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/world/asia/u-s-to-create-high-tech-manufacturing-zone-in-philippines-017c1668\">https://www.wsj.com/world/asia/u-s-to-create-high-tech-manufacturing-zone-in-philippines-017c1668</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4780024..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "link": "https://github.com/gainsec/autoprober",
+      "summary": "<p>Article URL: <a href=\"https://github.com/gainsec/autoprober\">https://github.com/gainsec/autoprober</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47800033\">https://news.ycombinator.com/item?id=47800033</a></p>\n<p>Points: 24</p>\n<p># Comments: 2</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "A Better R Programming Experience Thanks to Tree-sitter",
+      "link": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
+      "summary": "<p>Article URL: <a href=\"https://ropensci.org/blog/2026/04/02/tree-sitter-overview/\">https://ropensci.org/blog/2026/04/02/tree-sitter-overview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47799573\">https://news.ycombinator.com/item?id=47799573</a></p>\n<p>Points: 30</p>\n<p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Sir-Bench – benchmark for security incident response agents",
+      "link": "https://arxiv.org/abs/2604.12040",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2604.12040\">https://arxiv.org/abs/2604.12040</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47798875\">https://news.ycombinator.com/item?id=47798875</a></p>\n<p>Points: 6</p>\n<p># Comments: 2</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "European civil servants are being forced off WhatsApp",
+      "link": "https://www.politico.eu/article/european-civil-servants-new-messaging-services/",
+      "summary": "<p>Article URL: <a href=\"https://www.politico.eu/article/european-civil-servants-new-messaging-services/\">https://www.politico.eu/article/european-civil-servants-new-messaging-services/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47798456\">https://news.ycombinator.com/item..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+      "link": "https://clojure.org/about/documentary",
+      "summary": "<p>Article URL: <a href=\"https://clojure.org/about/documentary\">https://clojure.org/about/documentary</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47798345\">https://news.ycombinator.com/item?id=47798345</a></p>\n<p>Points: 40</p>\n<p># Comments: 4</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "GPT‑Rosalind for life sciences research",
+      "link": "https://openai.com/index/introducing-gpt-rosalind/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-rosalind/\">https://openai.com/index/introducing-gpt-rosalind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47798244\">https://news.ycombinator.com/item?id=47798244</a></p>\n<p>Points: 30</p>\n<p># Comments: 4</p..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "A Tiny Yellow Handheld Changed How Duke University Teaches Game Design",
+      "link": "https://news.play.date/news/duke-playdate-education/",
+      "summary": "<p>Article URL: <a href=\"https://news.play.date/news/duke-playdate-education/\">https://news.play.date/news/duke-playdate-education/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47798176\">https://news.ycombinator.com/item?id=47798176</a></p>\n<p>Points: 17</p>\n<p># Comments: ..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Android CLI: Build Android apps 3x faster using any agent",
+      "link": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+      "summary": "<p>Article URL: <a href=\"https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html\">https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=477..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+      "link": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
+      "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Apr/16/qwen-beats-opus/\">https://simonwillison.net/2026/Apr/16/qwen-beats-opus/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47796830\">https://news.ycombinator.com/item?id=47796830</a></p>\n<p>Points: 221</p>\n<p># Comme..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Codex for almost everything",
+      "link": "https://openai.com/index/codex-for-almost-everything/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/codex-for-almost-everything/\">https://openai.com/index/codex-for-almost-everything/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47796469\">https://news.ycombinator.com/item?id=47796469</a></p>\n<p>Points: 576</p>\n<p># Comment..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Japan implements language proficiency requirements for certain visa applicants",
+      "link": "https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/",
+      "summary": "<p>Article URL: <a href=\"https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/\">https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47796197\">https://news.ycombinator.com/..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Marky – A lightweight Markdown viewer for agentic coding",
+      "link": "https://github.com/GRVYDEV/marky",
+      "summary": "<p>Hey HN,<p>In this age of agentic coding I've found myself spending a lot of time reviewing markdown files. Whether it's plans or documentation that I've asked my agent to generate for me, it seems that I spend more time reading markdown than code.<p>I've tried a few different solutions to make it..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
+      "link": "https://www.zatanna.ai/kampala",
+      "summary": "<p>Hey! I am Alex and together with my co-founder Tarun built Kampala (<a href=\"https://www.zatanna.ai/kampala\">https://www.zatanna.ai/kampala</a>). It’s a man-in-the-middle (MITM) style proxy that allows you to agentically reverse engineer existing workflows without brittle browser automation or co..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Claude Opus 4.7",
+      "link": "https://www.anthropic.com/news/claude-opus-4-7",
+      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-opus-4-7\">https://www.anthropic.com/news/claude-opus-4-7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47793411\">https://news.ycombinator.com/item?id=47793411</a></p>\n<p>Points: 1293</p>\n<p># Comments: 948</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+      "link": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+      "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen3.6-35b-a3b\">https://qwen.ai/blog?id=qwen3.6-35b-a3b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47792764\">https://news.ycombinator.com/item?id=47792764</a></p>\n<p>Points: 823</p>\n<p># Comments: 384</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The future of everything is lies, I guess: Where do we go from here?",
+      "link": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
+      "summary": "<p>Article URL: <a href=\"https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here\">https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47792718\">https..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Cloudflare Email Service",
+      "link": "https://blog.cloudflare.com/email-for-agents/",
+      "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/email-for-agents/\">https://blog.cloudflare.com/email-for-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47792593\">https://news.ycombinator.com/item?id=47792593</a></p>\n<p>Points: 379</p>\n<p># Comments: 174</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+      "link": "https://blog.cloudflare.com/ai-platform/",
+      "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/ai-platform/\">https://blog.cloudflare.com/ai-platform/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47792538\">https://news.ycombinator.com/item?id=47792538</a></p>\n<p>Points: 217</p>\n<p># Comments: 54</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
+      "link": "https://github.com/SeanFDZ/macmind",
+      "summary": "<p>I trained a transformer in HyperCard.  1,216 parameters.  1989 Macintosh.  And yes, it took a while.<p>MacMind is a complete transformer neural network, embeddings, positional encoding, self-attention, backpropagation, and gradient descent, implemented entirely in HyperTalk, the scripting languag..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "[ICML 2026] Scores increased and then decreased!! [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1smv0rq/icml_2026_scores_increased_and_then_decreased_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>hi,</p> <p>one of my reviewers initially gave 4(3). addressed his concerns during the rebuttal. He acknowledged it and increased the score to 5(3) with final justification as well. checked open review randomly now, I can see he reduced it back to 4. am guessing he d..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Built an political benchmark for LLMs. KIMI K2 can't answer about Taiwan (Obviously). GPT-5.3 refuses 100% of questions when given an opt-out. [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1smqsbu/built_an_political_benchmark_for_llms_kimi_k2/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I spent the few days building a benchmark that maps where frontier LLMs fall on a 2D political compass (economic left/right + social progressive/conservative) using 98 structured questions across 14 policy areas. I tested GPT-5.3, Claude Opus 4.6, and KIMI K2. The r..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "AI for Materials Science starter kit [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1smoqzt/ai_for_materials_science_starter_kit_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I've been close to Deep Learning for a while now, and have a good grasp of the fundamentals. So for the computational chemists / cheminformatics people here, what resources -- papers, courses, tutorials, talks -- would you recommend I do to learn..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "ResBM: a new transformer-based architecture for low-bandwidth pipeline-parallel training, achieving 128× activation compression [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sn6b90/resbm_a_new_transformerbased_architecture_for/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.reddit.com/r/MachineLearning/?f=flair_name%3A%22Research%22\"></a>Macrocosmos has released a paper on ResBM (Residual Bottleneck Models), a new transformer-based architecture designed for low-bandwidth pipeline-parallel training.</p> <p><a href=\"..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Camera-ready paranoia [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sn4c20/cameraready_paranoia_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>How do you guys deal with camera-ready paranoia? I just submitted my camera-ready version to CVPRW (not even the real conference, just a workshop...) and I'm afraid I've done something wrong and it will get rejected because of it...</p> <p>Any idea on when we get co..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "What should happen when you feed impossible moves into a chess-playing language model? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sn9lhz/what_should_happen_when_you_feed_impossible_moves/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'd appreciate some input on an experiment I've been mulling over. You can treat it as straight-up interpretability, but it would have theoretical implications.</p> <p>Karvonen (2024) trained a 50M-parameter transformer on chess game transcripts. Just character pred..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Can frontier AI models actually read a painting? [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sn06cv/can_frontier_ai_models_actually_read_a_painting_r/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I wrote up a small experiment on whether frontier multimodal models can appraise art from vision alone.</p> <p>I tested 4 frontier models on 15 paintings worth about $1.46B in total auction value, in two settings:</p> <ol> <li>image only</li> <li>image + basic metad..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen3.6-35B-A3B released!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sn3izh/qwen3635ba3b_released/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sn3izh/qwen3635ba3b_released/\"> <img alt=\"Qwen3.6-35B-A3B released!\" src=\"https://preview.redd.it/g6edjlxt0kvg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=70f04bae14d0359790b5964a3af6ad55dc5354b5\" title=\"Qwen3.6-35B-A3B r..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Released Qwen3.6-35B-A3B",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sn3ikv/released_qwen3635ba3b/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sn3ikv/released_qwen3635ba3b/\"> <img alt=\"Released Qwen3.6-35B-A3B\" src=\"https://preview.redd.it/vgpj8o3l0kvg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=14110a2c6e0690ecd6d8f7fc281d43955d6ac2db\" title=\"Released Qwen3.6-3..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "More reasons to go local: Claude is beginning to require identity verification, including an valid ID like passport or drivers license and a facial recognition scan.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sn7026/more_reasons_to_go_local_claude_is_beginning_to/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/fulgencio_batista\"> /u/fulgencio_batista </a> <br /> <span><a href=\"https://support.claude.com/en/articles/14328960-identity-verification-on-claude\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sn70..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "I got it guys, I think I finally understand why you hate censored models",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1smm1dy/i_got_it_guys_i_think_i_finally_understand_why/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was trying to do an easy task automatically with qwen-code using qwen3.5-122b I can totally do it myself, but I wanted to try, so maybe it could just do it entirely for me? But no, because it refused.</p> <p>This is the whole text translated to English:</p> <block..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Only LocalLLaMa can save us now.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1snbl1d/only_localllama_can_save_us_now/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><blockquote> <p>The data has been slowly building up and points to a very likely economic and rational conclusion : Anthropic is effectively constructively terminating its Max subscription plans with the eventual goal of an enterprise-first (or only) focus, planning to..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "DeepSeek Updated their repo DeepGEMM testing Mega MoE",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sn0ob0/deepseek_updated_their_repo_deepgemm_testing_mega/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sn0ob0/deepseek_updated_their_repo_deepgemm_testing_mega/\"> <img alt=\"DeepSeek Updated their repo DeepGEMM testing Mega MoE\" src=\"https://preview.redd.it/vcmqwmvzijvg1.png?width=140&amp;height=128&amp;auto=webp&amp;s=6a801dcc6cb..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "HY-World 2.0 released",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1smrjbg/hyworld_20_released/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1smrjbg/hyworld_20_released/\"> <img alt=\"HY-World 2.0 released\" src=\"https://external-preview.redd.it/QdDu3wHj_TLIEjeRHTkqTrf2SEBL-N5TXpmKlKAagq8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b0d19b418d6cf68398042cc7444493f73..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen3.5-35B running well on RTX4060 Ti 16GB at 60 tok/s",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1smlvni/qwen3535b_running_well_on_rtx4060_ti_16gb_at_60/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Spent a bunch of time tuning llama.cpp on a Windows 11 box (i7-13700F 64GB) with an RTX 4060 Ti 16GB, trying to get <a href=\"https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF\">unsloth Qwen3.5-35B-A3B-UD-Q4_K_L </a>running well at 64k context. I finally got it into..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "PSA: Qwen3.6 ships with preserve_thinking. Make sure you have it on.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sne4gh/psa_qwen36_ships_with_preserve_thinking_make_sure/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sne4gh/psa_qwen36_ships_with_preserve_thinking_make_sure/\"> <img alt=\"PSA: Qwen3.6 ships with preserve_thinking. Make sure you have it on.\" src=\"https://preview.redd.it/j2gt0g7mklvg1.png?width=140&amp;height=88&amp;auto=webp&amp..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Mozilla Announces \"Thunderbolt\" As An Open-Source, Enterprise AI Client",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sn4ibj/mozilla_announces_thunderbolt_as_an_opensource/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sn4ibj/mozilla_announces_thunderbolt_as_an_opensource/\"> <img alt=\"Mozilla Announces &quot;Thunderbolt&quot; As An Open-Source, Enterprise AI Client\" src=\"https://external-preview.redd.it/Hsrsc63i1h-NTf79OsoLXG6c01JRNKwJLNophtU3..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Google, please just open source Imagen (2022), Gemini 1.0 Nano and Gemini 1.0 Pro. You have nothing to lose at this point.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sncslc/google_please_just_open_source_imagen_2022_gemini/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Ok, so imagen (the original one from 2022, not imagen 3/4) should be open source. The gemini 1.0 nano model and the gemini 1.0 pro models should be open source. xAI already open-sourced grok 1, but Google???????? at this point you should open source this</p> <p>Goog..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Comparison Qwen 3.6 35B MoE vs Qwen 3.5 35B MoE on Research Paper to WebApp",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sn9iff/comparison_qwen_36_35b_moe_vs_qwen_35_35b_moe_on/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sn9iff/comparison_qwen_36_35b_moe_vs_qwen_35_35b_moe_on/\"> <img alt=\"Comparison Qwen 3.6 35B MoE vs Qwen 3.5 35B MoE on Research Paper to WebApp\" src=\"https://external-preview.redd.it/MWgwZWFkcHMybHZnMRkr2GbkCpcLiM0CDwtYCHgfAuD1..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "HY-World 2.0 just dropped",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1smxalq/hyworld_20_just_dropped/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Tencent just released HY-World 2.0 — the first open-source state-of-the-art 3D world model.</p> <p>What makes it special (repo’s own words):</p> <p>Generates real 3D assets (3D Gaussian Splats, meshes, point clouds) — not videos</p> <p>Persistent &amp; editable worl..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "The most useful AI work I see now is not chat. It is boring background stuff",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1smvsfo/the_most_useful_ai_work_i_see_now_is_not_chat_it/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>for me the exciting part is not another chat UI anymore.</p> <p>the really useful stuff is much more boring</p> <p>classification<br /> routing<br /> ranking<br /> cleaning messy inputs<br /> watching a stream of text and surfacing the few things that actually matte..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen 3.6: worse adherence?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sn85dv/qwen_36_worse_adherence/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just swapped Qwen 3.5 for the 3.6 variant (FP8, RTX 6000 Pro) using the same recommended generation settings. My stack is vLLM (v0.19.0) + Open WebUI (v0.8.12) in a RAG setup where the model has access to several document retrieval tools.</p> <p>​After some initial ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "The only metric that matters: \"[Qwen3.6-35B-A3B-GGUF] drew a better pelican riding a bicycle than Opus 4.7 did!\"",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1snb41a/the_only_metric_that_matters_qwen3635ba3bgguf/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/johnnyApplePRNG\"> /u/johnnyApplePRNG </a> <br /> <span><a href=\"https://news.ycombinator.com/item?id=47796844\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1snb41a/the_only_metric_that_matters_qwen36..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "A new transformer variant has been created to facilitate more efficient model training in distributed settings. 128x compression with no significant loss in convergence rates, increases in memory, or compute overhead",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sn6fne/a_new_transformer_variant_has_been_created_to/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Macrocosmos has released a paper on ResBM (Residual Bottleneck Models), a new transformer-based architecture designed for low-bandwidth pipeline-parallel training.</p> <p><a href=\"https://arxiv.org/abs/2604.11947\">https://arxiv.org/abs/2604.11947</a></p> <p>ResBM in..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "People still don’t really understand what “agent environment engineering” actually is, and how it differs from Agent Harness",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sn723c/people_still_dont_really_understand_what_agent/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sn723c/people_still_dont_really_understand_what_agent/\"> <img alt=\"People still don’t really understand what “agent environment engineering” actually is, and how it differs from Agent Harness\" src=\"https://preview.redd.it/e79rng..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Gemma 4 31b 3D geometry",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sn47jr/gemma_4_31b_3d_geometry/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sn47jr/gemma_4_31b_3d_geometry/\"> <img alt=\"Gemma 4 31b 3D geometry\" src=\"https://preview.redd.it/87sbtj0a2kvg1.png?width=140&amp;height=70&amp;auto=webp&amp;s=b8fb453ea43d9824d76b2e9cc55a85bf70ff5f49\" title=\"Gemma 4 31b 3D geom..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "ggml: add graph_reused by am17an · Pull Request #21764 · ggml-org/llama.cpp",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sn2hjg/ggml_add_graph_reused_by_am17an_pull_request/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sn2hjg/ggml_add_graph_reused_by_am17an_pull_request/\"> <img alt=\"ggml: add graph_reused by am17an · Pull Request #21764 · ggml-org/llama.cpp\" src=\"https://external-preview.redd.it/ynMoqOXXXiKUDQHzJZgR2B2Z3bhZU638DLmCt_Sart0.png?..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "[D] Released a 100k-sample dataset on Hugging Face",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1smy9t4/d_released_a_100ksample_dataset_on_hugging_face/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>We’ve released a 100,000-sample Chain-of-Thought (CoT) dataset for fine-tuning local reasoning models.</p> <p>Each sample includes explicit intermediate reasoning traces, rather than answer-only supervision. The goal is to improve reasoning consistency during superv..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Reproduction of TurboQuant",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sn2v97/reproduction_of_turboquant/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>There have been many TurboQuant implementations recently in llama.cpp, mlx, vllm, and sglang, but a lot of the discussion and code around them feels pretty noisy and looks to be AI-generated.</p> <p>I’m trying to understand which claims from the paper have actually ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Bonsai 32b when?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1smtr5z/bonsai_32b_when/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Anyone know anything about Prism team can tell them to go do Bonsai 32b? I need it so badly.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Silver_Bug8527\"> /u/Silver_Bug8527 </a> <br /> <span><a href=\"https://www.reddit.com/r..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Web OS result from Qwen3.6 35B is by far the best I tested in my laptop",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sn9i5o/web_os_result_from_qwen36_35b_is_by_far_the_best/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This is my first test with this model and Qwen impressed me. I will rate it 98% usable web os compared to my previous best 70% usable result from qwen3 next coder at q2.</p> <p>Yes I know they train the models on these common prompts yet this is the best results I h..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Running the new Qwen3.6-35B-A3B at full context on both a 4090 and GB10 Spark with vLLM and Llama.cpp",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1snaa5w/running_the_new_qwen3635ba3b_at_full_context_on/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1snaa5w/running_the_new_qwen3635ba3b_at_full_context_on/\"> <img alt=\"Running the new Qwen3.6-35B-A3B at full context on both a 4090 and GB10 Spark with vLLM and Llama.cpp\" src=\"https://preview.redd.it/33aoutr07lvg1.png?width=140&..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments",
+      "link": "https://arxiv.org/abs/2604.14144v1",
+      "summary": "Spatial reasoning over three-dimensional scenes is a core capability for embodied intelligence, yet continuous model improvement remains bottlenecked by the cost of geometric annotation. The self-evolving paradigm offers a promising path, but its reliance on model consensus to construct pseudo-label..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space",
+      "link": "https://arxiv.org/abs/2604.14142v1",
+      "summary": "While reinforcement learning with verifiable rewards (RLVR) significantly enhances LLM reasoning by optimizing the conditional distribution P(y|x), its potential is fundamentally bounded by the base model's existing output distribution. Optimizing the marginal distribution P(y) in the Pre-train Spac..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning",
+      "link": "https://arxiv.org/abs/2604.14140v1",
+      "summary": "As language models are increasingly deployed for complex autonomous tasks, their ability to reason accurately over longer horizons becomes critical. An essential component of this ability is planning and managing a long, complex chain-of-thought (CoT). We introduce LongCoT, a scalable benchmark of 2..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "From Feelings to Metrics: Understanding and Formalizing How Users Vibe-Test LLMs",
+      "link": "https://arxiv.org/abs/2604.14137v1",
+      "summary": "Evaluating LLMs is challenging, as benchmark scores often fail to capture models' real-world usefulness. Instead, users often rely on ``vibe-testing'': informal experience-based evaluation, such as comparing models on coding tasks related to their own workflow. While prevalent, vibe-testing is often..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Rhetorical Questions in LLM Representations: A Linear Probing Study",
+      "link": "https://arxiv.org/abs/2604.14128v1",
+      "summary": "Rhetorical questions are asked not to seek information but to persuade or signal stance. How large language models internally represent them remains unclear. We analyze rhetorical questions in LLM representations using linear probes on two social-media datasets with different discourse contexts, and..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System",
+      "link": "https://arxiv.org/abs/2604.14125v1",
+      "summary": "While end-to-end Vision-Language-Action (VLA) models offer a promising paradigm for robotic manipulation, fine-tuning them on narrow control data often compromises the profound reasoning capabilities inherited from their base Vision-Language Models (VLMs). To resolve this fundamental trade-off, we p..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis",
+      "link": "https://arxiv.org/abs/2604.14121v1",
+      "summary": "LLM reasoning traces suffer from complex flaws -- *Step Internal Flaws* (logical errors, hallucinations, etc.) and *Step-wise Flaws* (overthinking, underthinking), which vary by sample. A natural approach would be to provide ground-truth labels to guide LLMs' reasoning. Contrary to intuition, we sho..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Complex Interpolation of Matrices with an application to Multi-Manifold Learning",
+      "link": "https://arxiv.org/abs/2604.14118v1",
+      "summary": "Given two symmetric positive-definite matrices $A, B \\in \\mathbb{R}^{n \\times n}$, we study the spectral properties of the interpolation $A^{1-x} B^x$ for $0 \\leq x \\leq 1$. The presence of `common structures' in $A$ and $B$, eigenvectors pointing in a similar direction, can be investigated using th..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "TREX: Automating LLM Fine-tuning via Agent-Driven Tree-based Exploration",
+      "link": "https://arxiv.org/abs/2604.14116v1",
+      "summary": "While Large Language Models (LLMs) have empowered AI research agents to perform isolated scientific tasks, automating complex, real-world workflows, such as LLM training, remains a significant challenge. In this paper, we introduce TREX, a multi-agent system that automates the entire LLM training li..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "ID and Graph View Contrastive Learning with Multi-View Attention Fusion for Sequential Recommendation",
+      "link": "https://arxiv.org/abs/2604.14114v1",
+      "summary": "Sequential recommendation has become increasingly prominent in both academia and industry, particularly in e-commerce. The primary goal is to extract user preferences from historical interaction sequences and predict items a user is likely to engage with next. Recent advances have leveraged contrast..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In for GUI Grounding",
+      "link": "https://arxiv.org/abs/2604.14113v1",
+      "summary": "GUI grounding, which localizes interface elements from screenshots given natural language queries, remains challenging for small icons and dense layouts. Test-time zoom-in methods improve localization by cropping and re-running inference at higher resolution, but apply cropping uniformly across all ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Interpretable Stylistic Variation in Human and LLM Writing Across Genres, Models, and Decoding Strategies",
+      "link": "https://arxiv.org/abs/2604.14111v1",
+      "summary": "Large Language Models (LLMs) are now capable of generating highly fluent, human-like text. They enable many applications, but also raise concerns such as large scale spam, phishing, or academic misuse. While much work has focused on detecting LLM-generated text, only limited work has gone into under..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Momentum Further Constrains Sharpness at the Edge of Stochastic Stability",
+      "link": "https://arxiv.org/abs/2604.14108v1",
+      "summary": "Recent work suggests that (stochastic) gradient descent self-organizes near an instability boundary, shaping both optimization and the solutions found. Momentum and mini-batch gradients are widely used in practical deep learning optimization, but it remains unclear whether they operate in a comparab..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "From Weights to Activations: Is Steering the Next Frontier of Adaptation?",
+      "link": "https://arxiv.org/abs/2604.14090v1",
+      "summary": "Post-training adaptation of language models is commonly achieved through parameter updates or input-based methods such as fine-tuning, parameter-efficient adaptation, and prompting. In parallel, a growing body of work modifies internal activations at inference time to influence model behavior, an ap..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception",
+      "link": "https://arxiv.org/abs/2604.14089v1",
+      "summary": "We present UMI-3D, a multimodal extension of the Universal Manipulation Interface (UMI) for robust and scalable data collection in embodied manipulation. While UMI enables portable, wrist-mounted data acquisition, its reliance on monocular visual SLAM makes it vulnerable to occlusions, dynamic scene..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Multistage Conditional Compositional Optimization",
+      "link": "https://arxiv.org/abs/2604.14075v1",
+      "summary": "We introduce Multistage Conditional Compositional Optimization (MCCO) as a new paradigm for decision-making under uncertainty that combines aspects of multistage stochastic programming and conditional stochastic optimization. MCCO minimizes a nest of conditional expectations and nonlinear cost funct..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Neural architectures for resolving references in program code",
+      "link": "https://arxiv.org/abs/2604.14073v1",
+      "summary": "Resolving and rewriting references is fundamental in programming languages. Motivated by a real-world decompilation task, we abstract reference rewriting into the problems of direct and indirect indexing by permutation. We create synthetic benchmarks for these tasks and show that well-known sequence..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "A Comparative Study of Dynamic Programming and Reinforcement Learning in Finite Horizon Dynamic Pricing",
+      "link": "https://arxiv.org/abs/2604.14059v1",
+      "summary": "This paper provides a systematic comparison between Fitted Dynamic Programming (DP), where demand is estimated from data, and Reinforcement Learning (RL) methods in finite-horizon dynamic pricing problems. We analyze their performance across environments of increasing structural complexity, ranging ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "$π$-Play: Multi-Agent Self-Play via Privileged Self-Distillation without External Data",
+      "link": "https://arxiv.org/abs/2604.14054v1",
+      "summary": "Deep search agents have emerged as a promising paradigm for addressing complex information-seeking tasks, but their training remains challenging due to sparse rewards, weak credit assignment, and limited labeled data. Self-play offers a scalable route to reduce data dependence, but conventional self..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "From Where Words Come: Efficient Regularization of Code Tokenizers Through Source Attribution",
+      "link": "https://arxiv.org/abs/2604.14053v1",
+      "summary": "Efficiency and safety of Large Language Models (LLMs), among other factors, rely on the quality of tokenization. A good tokenizer not only improves inference speed and language understanding but also provides extra defense against jailbreak attacks and lowers the risk of hallucinations. In this work..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "A Complete Symmetry Classification of Shallow ReLU Networks",
+      "link": "https://arxiv.org/abs/2604.14037v1",
+      "summary": "Parameter space is not function space for neural network architectures. This fact, investigated as early as the 1990s under terms such as ``reverse engineering,\" or ``parameter identifiability\", has led to the natural question of parameter space symmetries\\textemdash the study of distinct parameters..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "First-See-Then-Design: A Multi-Stakeholder View for Optimal Performance-Fairness Trade-Offs",
+      "link": "https://arxiv.org/abs/2604.14035v1",
+      "summary": "Fairness in algorithmic decision-making is often defined in the predictive space, where predictive performance - used as a proxy for decision-maker (DM) utility - is traded off against prediction-based fairness notions, such as demographic parity or equality of opportunity. This perspective, however..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Large Language Models to Enhance Business Process Modeling: Past, Present, and Future Trends",
+      "link": "https://arxiv.org/abs/2604.14034v1",
+      "summary": "Recent advances in Generative Artificial Intelligence, particularly Large Language Models (LLMs), have stimulated growing interest in automating or assisting Business Process Modeling tasks using natural language. Several approaches have been proposed to transform textual process descriptions into B..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Hierarchical Reinforcement Learning with Runtime Safety Shielding for Power Grid Operation",
+      "link": "https://arxiv.org/abs/2604.14032v1",
+      "summary": "Reinforcement learning has shown promise for automating power-grid operation tasks such as topology control and congestion management. However, its deployment in real-world power systems remains limited by strict safety requirements, brittleness under rare disturbances, and poor generalization to un..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Dual-Enhancement Product Bundling: Bridging Interactive Graph and Large Language Model",
+      "link": "https://arxiv.org/abs/2604.14030v1",
+      "summary": "Product bundling boosts e-commerce revenue by recommending complementary item combinations. However, existing methods face two critical challenges: (1) collaborative filtering approaches struggle with cold-start items owing to dependency on historical interactions, and (2) LLMs lack inherent capabil..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective",
+      "link": "https://arxiv.org/abs/2604.14025v1",
+      "summary": "Reconstructing 3D representations from 2D inputs is a fundamental task in computer vision and graphics, serving as a cornerstone for understanding and interacting with the physical world. While traditional methods achieve high fidelity, they are limited by slow per-scene optimization or category-spe..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Stochastic Trust-Region Methods for Over-parameterized Models",
+      "link": "https://arxiv.org/abs/2604.14017v1",
+      "summary": "Under interpolation-type assumptions such as the strong growth condition, stochastic optimization methods can attain convergence rates comparable to full-batch methods, but their performance, particularly for SGD, remains highly sensitive to step-size selection. To address this issue, we propose a u..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "MAny: Merge Anything for Multimodal Continual Instruction Tuning",
+      "link": "https://arxiv.org/abs/2604.14016v1",
+      "summary": "Multimodal Continual Instruction Tuning (MCIT) is essential for sequential task adaptation of Multimodal Large Language Models (MLLMs) but is severely restricted by catastrophic forgetting. While existing literature focuses on the reasoning language backbone, in this work, we expose a critical yet n..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Towards Multi-Object-Tracking with Radar on a Fast Moving Vehicle: On the Potential of Processing Radar in the Frequency Domain",
+      "link": "https://arxiv.org/abs/2604.14013v1",
+      "summary": "We promote in this paper the processing of radar data in the frequency domain to achieve higher robustness against noise and structural errors, especially in comparison to feature-based methods. This holds also for high dynamics in the scene, i.e., ego-motion of the vehicle with the sensor plus the ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Parameter Importance is Not Static: Evolving Parameter Isolation for Supervised Fine-Tuning",
+      "link": "https://arxiv.org/abs/2604.14010v1",
+      "summary": "Supervised Fine-Tuning (SFT) of large language models often suffers from task interference and catastrophic forgetting. Recent approaches alleviate this issue by isolating task-critical parameters during training. However, these methods represent a static solution to a dynamic problem, assuming that..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Memory Transfer Learning: How Memories are Transferred Across Domains in Coding Agents",
+      "link": "https://arxiv.org/abs/2604.14004v1",
+      "summary": "Memory-based self-evolution has emerged as a promising paradigm for coding agents. However, existing approaches typically restrict memory utilization to homogeneous task domains, failing to leverage the shared infrastructural foundations, such as runtime environments and programming languages, that ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Diffusion Language Models for Speech Recognition",
+      "link": "https://arxiv.org/abs/2604.14001v1",
+      "summary": "Diffusion language models have recently emerged as a leading alternative to standard language models, due to their ability for bidirectional attention and parallel text generation. In this work, we explore variants for their use in speech recognition. Specifically, we introduce a comprehensive guide..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Reward Design for Physical Reasoning in Vision-Language Models",
+      "link": "https://arxiv.org/abs/2604.13993v1",
+      "summary": "Physical reasoning over visual inputs demands tight integration of visual perception, domain knowledge, and multi-step symbolic inference. Yet even state-of-the-art Vision Language Models (VLMs) fall far short of human performance on physics benchmarks. While post-training algorithms such as Supervi..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Physics-Informed Neural Networks for Methane Sorption: Cross-Gas Transfer Learning, Ensemble Collapse Under Physics Constraints, and Monte Carlo Dropout Uncertainty Quantification",
+      "link": "https://arxiv.org/abs/2604.13992v1",
+      "summary": "Accurate methane sorption prediction across heterogeneous coal ranks requires models that combine thermodynamic consistency, efficient knowledge transfer across data-scarce geological systems, and calibrated uncertainty estimates, capabilities that are rarely addressed together in existing framework..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Adaptive Conformal Prediction for Improving Factuality of Generations by Large Language Models",
+      "link": "https://arxiv.org/abs/2604.13991v1",
+      "summary": "Large language models (LLMs) are prone to generating factually incorrect outputs. Recent work has applied conformal prediction to provide uncertainty estimates and statistical guarantees for the factuality of LLM generations. However, existing approaches are typically not prompt-adaptive, limiting t..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Unsupervised domain transfer: Overcoming signal degradation in sleep monitoring by increasing scoring realism",
+      "link": "https://arxiv.org/abs/2604.13988v1",
+      "summary": "Objective: Investigate whether hypnogram 'realism' can be used to guide an unsupervised method for handling arbitrary types of signal degradation in mobile sleep monitoring.   Approach: Combining a pretrained, state-of-the-art 'u-sleep' model with a 'discriminator' network, we align features from a ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "PRiMeFlow: Capturing Complex Expression Heterogeneity in Perturbation Response Modelling",
+      "link": "https://arxiv.org/abs/2604.13986v1",
+      "summary": "Predicting the effects of perturbations in-silico on cell state can identify drivers of cell behavior at scale and accelerate drug discovery. However, modeling challenges remain due to the inherent heterogeneity of single cell gene expression and the complex, latent gene dependencies. Here, we prese..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "BOAT: Navigating the Sea of In Silico Predictors for Antibody Design via Multi-Objective Bayesian Optimization",
+      "link": "https://arxiv.org/abs/2604.13980v1",
+      "summary": "Antibody lead optimization is inherently a multi-objective challenge in drug discovery. Achieving a balance between different drug-like properties is crucial for the development of viable candidates, and this search becomes exponentially challenging as desired properties grow. The ever-growing zoo o..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Leveraging LLM-GNN Integration for Open-World Question Answering over Knowledge Graphs",
+      "link": "https://arxiv.org/abs/2604.13979v1",
+      "summary": "Open-world Question Answering (OW-QA) over knowledge graphs (KGs) aims to answer questions over incomplete or evolving KGs. Traditional KGQA assumes a closed world where answers must exist in the KG, limiting real-world applicability. In contrast, open-world QA requires inferring missing knowledge b..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "How Can We Synthesize High-Quality Pretraining Data? A Systematic Study of Prompt Design, Generator Model, and Source Data",
+      "link": "https://arxiv.org/abs/2604.13977v1",
+      "summary": "Synthetic data is a standard component in training large language models, yet systematic comparisons across design dimensions, including rephrasing strategy, generator model, and source data, remain absent. We conduct extensive controlled experiments, generating over one trillion tokens, to identify..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Provably Efficient Offline-to-Online Value Adaptation with General Function Approximation",
+      "link": "https://arxiv.org/abs/2604.13966v1",
+      "summary": "We study value adaptation in offline-to-online reinforcement learning under general function approximation. Starting from an imperfect offline pretrained $Q$-function, the learner aims to adapt it to the target environment using only a limited amount of online interaction. We first characterize the ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "[Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI",
+      "link": "https://arxiv.org/abs/2604.13959v1",
+      "summary": "As AI moves from data centers to robots and wearables, scaling ever-larger models becomes insufficient. Physical AI operates under tight latency, energy, privacy, and reliability constraints, and its performance depends not only on model capacity but also on how signals are acquired through controll..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Creo: From One-Shot Image Generation to Progressive, Co-Creative Ideation",
+      "link": "https://arxiv.org/abs/2604.13956v1",
+      "summary": "Text-to-image (T2I) systems enable rapid generation of high-fidelity imagery but are misaligned with how visual ideas develop. T2I systems generate outputs that make implicit visual decisions on behalf of the user, often introduce fine-grained details that can anchor users prematurely and limit thei..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "HINTBench: Horizon-agent Intrinsic Non-attack Trajectory Benchmark",
+      "link": "https://arxiv.org/abs/2604.13954v1",
+      "summary": "Existing agent-safety evaluation has focused mainly on externally induced risks. Yet agents may still enter unsafe trajectories under benign conditions. We study this complementary but underexplored setting through the lens of \\emph{intrinsic} risk, where intrinsic failures remain latent, propagate ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Quantum Machine Learning for Colorectal Cancer Data: Anastomotic Leak Classification and Risk Factors",
+      "link": "https://arxiv.org/abs/2604.13951v1",
+      "summary": "This study evaluates colorectal risk factors and compares classical models against Quantum Neural Networks (QNNs) for anastomotic leak prediction. Analyzing clinical data with 14\\% leak prevalence, we tested ZZFeatureMap encodings with RealAmplitudes and EfficientSU2 ansatze under simulated noise. $..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Causal Drawbridges: Characterizing Gradient Blocking of Syntactic Islands in Transformer LMs",
+      "link": "https://arxiv.org/abs/2604.13950v1",
+      "summary": "We show how causal interventions in Transformer models provide insights into English syntax by focusing on a long-standing challenge for syntactic theory: syntactic islands. Extraction from coordinated verb phrases is often degraded, yet acceptability varies gradiently with lexical content (e.g., \"I..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "CollabCoder: Plan-Code Co-Evolution via Collaborative Decision-Making for Efficient Code Generation",
+      "link": "https://arxiv.org/abs/2604.13946v1",
+      "summary": "Automated code generation remains a persistent challenge in software engineering, as conventional multi-agent frameworks are often constrained by static planning, isolated execution, high computational overhead, and limited adaptability to complex tasks. This paper introduces CollabCoder, a novel Pl..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "AI-Assisted Peer Review at Scale: The AAAI-26 AI Review Pilot",
+      "link": "https://arxiv.org/abs/2604.13940v1",
+      "summary": "Scientific peer review faces mounting strain as submission volumes surge, making it increasingly difficult to sustain review quality, consistency, and timeliness. Recent advances in AI have led the community to consider its use in peer review, yet a key unresolved question is whether AI can generate..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Unsupervised Anomaly Detection in Process-Complex Industrial Time Series: A Real-World Case Study",
+      "link": "https://arxiv.org/abs/2604.13928v1",
+      "summary": "Industrial time-series data from real production environments exhibits substantially higher complexity than commonly used benchmark datasets, primarily due to heterogeneous, multi-stage operational processes. As a result, anomaly detection methods validated under simplified conditions often fail to ..."
     }
   ],
-  "timestamp": "2026-04-15T22:40:31.353889",
-  "total_items": 149
+  "timestamp": "2026-04-16T22:39:17.259962",
+  "total_items": 252
 }
