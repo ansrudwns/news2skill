@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "IG_Search_RL.md",
+        "digest": {
+          "sha256": "e003a7b645e4c273f0b49872d35989db5d90ae1d2dc3d151c44903e46385f3bb"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Automated-Signer-CLI"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-18T04:42:19.042004+00:00"
+    }
+  },
+  "signature": "36911c1c514f727c79bd8aca34ff6942c8baa96d597b000db4ea561b77c55ace"
+}

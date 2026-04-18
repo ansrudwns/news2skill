@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "K_Token_Merging.md",
+        "digest": {
+          "sha256": "b0ff4cf9afa300fbb6efbb0ccbdfe59e81cb07f97b5b5619c90d0521000e4b87"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Automated-Signer-CLI"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-18T04:42:19.039930+00:00"
+    }
+  },
+  "signature": "365ed6b52f1142943ed841eaf5748af867423f17094a9e612bcc9a07dce5cf9c"
+}

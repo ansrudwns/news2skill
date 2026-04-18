@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "INT4_Quantization_Collapse.md",
+        "digest": {
+          "sha256": "d1e5f45976dfcd7f10517dceb658c7f8c9e0d5a45eac3dfec62ab20c60d0ab52"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Automated-Signer-CLI"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-18T04:42:19.037703+00:00"
+    }
+  },
+  "signature": "8d03767358e3efafb9850e54573cac27b65ec3c51b4339ec41fce1d6f5db0712"
+}

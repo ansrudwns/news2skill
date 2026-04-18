@@ -1487,3 +1487,16 @@ https://arxiv.org/abs/2604.15140v1
 https://arxiv.org/abs/2604.15124v1
 https://arxiv.org/abs/2604.15121v1
 https://arxiv.org/abs/2604.15115v1
+https://marcosmagueta.com/blog/casus-belli-engineering/
+https://www.nature.com/articles/d41586-026-01204-5
+https://awnist.com/slop-cop
+https://hex.ooo/library/last_question.html
+https://www.reddit.com/r/LocalLLaMA/comments/1sojjoc/abliterlitics_benchmark_and_tensor_analysis/
+https://www.reddit.com/r/LocalLLaMA/comments/1solnwh/accidentally_discovered_you_can_teach_frozen_moe/
+https://www.reddit.com/r/LocalLLaMA/comments/1sojag2/qwen_36_vs_6_other_models_across_5_agent/
+https://www.reddit.com/r/LocalLLaMA/comments/1sojhwy/when_is_qwen_36_27b_dropping_didnt_it_win_the_vote/
+https://www.reddit.com/r/LocalLLaMA/comments/1sodfcz/i_pray_there_is_a_qwen_36_122b_version_4x3090/
+https://www.reddit.com/r/LocalLLaMA/comments/1soc4sr/good_people_of_the_wool_how_about_deep_research/
+https://www.reddit.com/r/LocalLLaMA/comments/1soifj9/what_i_got_by_5060ti_16gb_qwen3635ba3budq5_k_m/
+https://www.reddit.com/r/LocalLLaMA/comments/1so8e85/dont_ask_qwen_36_35b_to_give_you_aski_image_of/
+https://www.reddit.com/r/LocalLLaMA/comments/1sofcqv/qwen36_gguf_is_so_good_for_debugging/
