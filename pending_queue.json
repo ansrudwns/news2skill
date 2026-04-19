@@ -263,8 +263,320 @@
       "title": "Best local LLM for web search",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sp6qy7/best_local_llm_for_web_search/",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Which LLM with under 10B params has the best ability to do web searches</p> <p>Is there any benchmark for this where i could see how certain models perform</p> <p>I've checked out gemma e4b it, is it any good for web searching compared to other alternatives at the s..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "CEOs admit AI had no impact on employment or productivity",
+      "link": "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/",
+      "summary": "<p>Article URL: <a href=\"https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/\">https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/</a></p>\n<p>Comments URL: <a href=\"https://news.y..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "C++26: Reflection, Memory Safety, Contracts, and a New Async Model",
+      "link": "https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/",
+      "summary": "<p>Article URL: <a href=\"https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/\">https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47827603\">https://news.ycombinator.com/item?id=47827603</a></p>\n<p>Po..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Swiss authorities want to reduce dependency on Microsoft",
+      "link": "https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532",
+      "summary": "<p>Article URL: <a href=\"https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532\">https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "A. J. Ayer – ‘What I Saw When I Was Dead’ (1988)",
+      "link": "https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/",
+      "summary": "<p>Article URL: <a href=\"https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/\">https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47827215\">https://news.ycombinator.com/item..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Blue Origin's rocket reuse achievement marred by upper stage failure",
+      "link": "https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/\">https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/</a></p>\n<p>Comments URL: <a href=\"https://ne..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "I wrote a CHIP-8 emulator in my own programming language",
+      "link": "https://github.com/navid-m/chip8emu",
+      "summary": "<p>Article URL: <a href=\"https://github.com/navid-m/chip8emu\">https://github.com/navid-m/chip8emu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47826852\">https://news.ycombinator.com/item?id=47826852</a></p>\n<p>Points: 29</p>\n<p># Comments: 7</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Six Levels of Dark Mode",
+      "link": "https://cssence.com/2024/six-levels-of-dark-mode/",
+      "summary": "<p>Article URL: <a href=\"https://cssence.com/2024/six-levels-of-dark-mode/\">https://cssence.com/2024/six-levels-of-dark-mode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47826502\">https://news.ycombinator.com/item?id=47826502</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Faceoff – A terminal UI for following NHL games",
+      "link": "https://www.vincentgregoire.com/faceoff/",
+      "summary": "<p>Faceoff is a TUI app written in Python to follow live NHL games and browse standings and stats. I got the inspiration from Playball, a similar TUI app for MLB games that was featured on HN.<p>The app was mostly vibe-coded with Claude Code, but not one-shot. I added features and fixed bugs by usin..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The Bromine Chokepoint: How Strife Could Halt Production of World’s Memory Chips",
+      "link": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+      "summary": "<p>Article URL: <a href=\"https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/\">https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Notion leaks email addresses of all editors of any public page",
+      "link": "https://twitter.com/weezerOSINT/status/2045849358462222720",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/weezerOSINT/status/2045849358462222720\">https://twitter.com/weezerOSINT/status/2045849358462222720</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47824945\">https://news.ycombinator.com/item?id=47824945</a></p>\n<p>Points: 289</p>\n<p..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Vercel April 2026 security incident",
+      "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+      "summary": "<p><a href=\"https://vercel.com/kb/bulletin/vercel-april-2026-security-incident\" rel=\"nofollow\">https://vercel.com/kb/bulletin/vercel-april-2026-security-in...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47824463\">https://news.ycombinator.com/item?id=47824463</a></p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)",
+      "link": "https://teamchong.github.io/turboquant-wasm/draw.html",
+      "summary": "<p>Article URL: <a href=\"https://teamchong.github.io/turboquant-wasm/draw.html\">https://teamchong.github.io/turboquant-wasm/draw.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47823460\">https://news.ycombinator.com/item?id=47823460</a></p>\n<p>Points: 79</p>\n<p># Comments..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "link": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+      "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Apr/18/opus-system-prompt/\">https://simonwillison.net/2026/Apr/18/opus-system-prompt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47823270\">https://news.ycombinator.com/item?id=47823270</a></p>\n<p>Points: 136</p>\n<p>#..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
+      "link": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
+      "summary": "<p>Article URL: <a href=\"https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf\">https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47822805\">https://news.ycombinator.com/item?id=4782..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The seven programming ur-languages (2022)",
+      "link": "https://madhadron.com/programming/seven_ur_languages.html",
+      "summary": "<p>Article URL: <a href=\"https://madhadron.com/programming/seven_ur_languages.html\">https://madhadron.com/programming/seven_ur_languages.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47822486\">https://news.ycombinator.com/item?id=47822486</a></p>\n<p>Points: 251</p>\n<p>#..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The RAM shortage could last years",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years\">https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47822414\">https:/..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The world in which IPv6 was a good design (2017)",
+      "link": "https://apenwarr.ca/log/20170810",
+      "summary": "<p>Article URL: <a href=\"https://apenwarr.ca/log/20170810\">https://apenwarr.ca/log/20170810</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47821429\">https://news.ycombinator.com/item?id=47821429</a></p>\n<p>Points: 195</p>\n<p># Comments: 100</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Reverse Engineering ME2's USB with a Heat Gun and a Knife",
+      "link": "https://github.com/coremaze/ME2-Writeup",
+      "summary": "<p>Article URL: <a href=\"https://github.com/coremaze/ME2-Writeup\">https://github.com/coremaze/ME2-Writeup</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47816146\">https://news.ycombinator.com/item?id=47816146</a></p>\n<p>Points: 41</p>\n<p># Comments: 6</p>..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Trials and tribulations fine-tuning & deploying Gemma-4 [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1spc33w/trials_and_tribulations_finetuning_deploying/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey all,</p> <p>Our ML team spent some time this week getting training and deployments working for Gemma-4, and wanted to document all the things we ran into along the way.</p> <ul> <li><strong>PEFT doesn't recognize Gemma 4's custom layers.</strong> Google wrapped ..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "1,200 ICLR 2026 Papers with Public Code or Data [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1spvoer/1200_iclr_2026_papers_with_public_code_or_data_r/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Here is a list of ~1,200 ICLR 2026 accepted papers that have associated public code, data, or a demo link available. The links are directly extracted from their paper submissions. This is approximately </p> <p>22% of the 5,300+ accepted papers.</p> <p>The List: </p>..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Advice on becoming a research engineer [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sptj32/advice_on_becoming_a_research_engineer_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am thinking about becoming a research engineer, and want to ask your advice on how realistic it is, and which strategies make sense in my situation.</p> <p>About myself: I am in the US, have extensive experience as a Software Engineer (including Staff+ position at..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "What are the future prospects of Spiking Neural Networks (and particularly, neuromorphics computing) and Liquid Neural Networks? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1spj2w4/what_are_the_future_prospects_of_spiking_neural/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Question to discuss. I'm an undergrad and stumbled across these new forms of neural networks but I haven't seen mainstream adoption of these and was wondering are these something to look forward to learn about (maybe make a project or 2)?</p> </div><!-- SC_ON --> &#..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "On the path towards a true science of deep learning [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sq273c/on_the_path_towards_a_true_science_of_deep/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm a scientist with a dual affiliation in industry + academia. I've been working towards a fundamental scientific theory of machine learning for some ~7y now. Here are some thoughts on how we'll get there.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "KDD 2026 Cycle 2 reviews seem to have vanished from author view [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1spzf8k/kdd_2026_cycle_2_reviews_seem_to_have_vanished/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I just noticed that the reviews and discussion for our submitted paper have vanished, but I can see the discussions for other papers in my reviewer view. Do others notice the same?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/use..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Converting XQuery to SQL with Local LLMs: Do I Need Fine-Tuning or a Better Approach? [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sppcnw/converting_xquery_to_sql_with_local_llms_do_i/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>&#x200b;</p> <p>I am trying to convert XQuery statements into SQL queries within an enterprise context, with the constraint that the solution must rely on locally run LLMs.</p> <p>A key challenge is the limited availability of training data (pairs of XQueries and th..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Tier-3 ISE final year with ongoing ML research (TMLR/Q1/NeurIPS target), trying to understand real impact in India [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1spoj6t/tier3_ise_final_year_with_ongoing_ml_research/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I went through a bunch of older posts here about research vs dev roles, but most of them were either very general or not really in a similar situation, so posting this.</p> <p>I’m a final year ISE student from a tier-3 college. Over the past 1.5–2 years I’ve been fo..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Why production systems keep making “correct” decisions that are no longer right [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1spuaek/why_production_systems_keep_making_correct/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been looking at a recurring failure pattern across AI systems in production. Not model failure, or data quality or infrastructure.</p> <p>Something else. Where system continues to operate exactly as designed, models run, outputs look valid, pipelines execute an..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "I'm running qwen3.6-35b-a3b with 8 bit quant and 64k context thru OpenCode on my mbp m5 max 128gb and it's as good as claude",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1spdvpo/im_running_qwen3635ba3b_with_8_bit_quant_and_64k/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>of course this is just a trust me bro post but I've been testing various local models (a couple gemma4s, qwen3 coder next, nemotron) and I noticed the new qwen3.6 show up on LM Studio so I hooked it up.</p> <p>VERY impressed. It's super fast to respond, handles long..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Why isn't ebay doing anything to stop those scams?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1splwqx/why_isnt_ebay_doing_anything_to_stop_those_scams/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1splwqx/why_isnt_ebay_doing_anything_to_stop_those_scams/\"> <img alt=\"Why isn't ebay doing anything to stop those scams?\" src=\"https://preview.redd.it/palois64k3wg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d2f631011c8931..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "llama.cpp speculative checkpointing was merged",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sprdm8/llamacpp_speculative_checkpointing_was_merged/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/ggml-org/llama.cpp/pull/19493\">https://github.com/ggml-org/llama.cpp/pull/19493</a></p> <p>Some prompts get a speedup, others don't (cases of low draft acceptance streak).<br /> Good working params depend on the task type and repetition p..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Switching from Opus 4.7 to Qwen-35B-A3B",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1spz0ck/switching_from_opus_47_to_qwen35ba3b/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey Guys,</p> <p>I am thinking about switching from Opus 4.7 to Qwen-35B-A3B for my daily coding agent driver. </p> <p>Has anyone done this yet? If so, what has your experience been like? </p> <p>I would love to hear the communities take on this. I know Opus may hav..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "LLM Neuroanatomy III - LLMs seem to think in geometry, not language",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1spy497/llm_neuroanatomy_iii_llms_seem_to_think_in/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1spy497/llm_neuroanatomy_iii_llms_seem_to_think_in/\"> <img alt=\"LLM Neuroanatomy III - LLMs seem to think in geometry, not language\" src=\"https://preview.redd.it/s9r7ro7lc6wg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f9e..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Gemma 4 - MLX doesn't seem better than GGUF",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1spn7zh/gemma_4_mlx_doesnt_seem_better_than_gguf/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Going to flag this up front - I know that there are some properly smart people on this sub, please can you correct my noob user errors or misunderstandings and educate my ass.</p> <p><strong>Model</strong>:</p> <p><a href=\"https://lmstudio.ai/models/google/gemma-4-2..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "\"Browser OS\" implemented by Qwen 3.6 35B: The best result I ever got from a local model",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1spubyp/browser_os_implemented_by_qwen_36_35b_the_best/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1spubyp/browser_os_implemented_by_qwen_36_35b_the_best/\"> <img alt=\"&quot;Browser OS&quot; implemented by Qwen 3.6 35B: The best result I ever got from a local model\" src=\"https://external-preview.redd.it/OAXSl8SY6T3JK9MGQyKxkoYb..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Same 9B Qwen weights: 19.1% in Aider vs 45.6% with a scaffold adapted to small local models",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1spufzz/same_9b_qwen_weights_191_in_aider_vs_456_with_a/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I spent the past week testing a simple question:</p> <p>Small local models often look weak inside coding agents. But how much of that is actually model weakness, and how much is scaffold mismatch?</p> <p>So I held the model fixed and changed only the scaffold.</p> <..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "I tested 8 LLMs as tabletop GMs - a 27B model beat the 405B on narrative quality",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1spfz31/i_tested_8_llms_as_tabletop_gms_a_27b_model_beat/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1spfz31/i_tested_8_llms_as_tabletop_gms_a_27b_model_beat/\"> <img alt=\"I tested 8 LLMs as tabletop GMs - a 27B model beat the 405B on narrative quality\" src=\"https://preview.redd.it/8smrzx58r1wg1.gif?width=640&amp;crop=smart&amp;s..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Bloomberg: No Mac Studios until at least October",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1spz6kj/bloomberg_no_mac_studios_until_at_least_october/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://9to5mac.com/2026/04/19/new-mac-studio-may-not-arrive-until-october/\">https://9to5mac.com/2026/04/19/new-mac-studio-may-not-arrive-until-october/</a></p> <p>What’s coming first? Deepseek v4 or the Studios that can run it?</p> </div><!-- SC_ON --> &#3..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "what best coding model at 4B or 8B parameters?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1spc7k1/what_best_coding_model_at_4b_or_8b_parameters/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>yea i know the title looks so stupid, yes i done searches, i searched google, huggingface, youtube, i even tested some via LM Studio, but due to my low-end VRAM (GTX 1050 4G Vram) i cant fit more than 4B or 1B into it, i have about 20G RAM + 15G Pagefile, i didnt ha..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen3.6 agent + Cisco switch: local NetOps AI actually works!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1spws0a/qwen36_agent_cisco_switch_local_netops_ai/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1spws0a/qwen36_agent_cisco_switch_local_netops_ai/\"> <img alt=\"Qwen3.6 agent + Cisco switch: local NetOps AI actually works!\" src=\"https://external-preview.redd.it/NHU0YjcxczgzNndnMW8Ia0H18h7GBhdk9W9iUe_op-WgY-aDOcwDNSFi_iz4.png?..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "What starts to become possible with two 3090s that wasn't with just one?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sph520/what_starts_to_become_possible_with_two_3090s/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>qwen 3.6 has been working great and has got me wondering.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/GotHereLateNameTaken\"> /u/GotHereLateNameTaken </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "For chat and Q&A: Which MoE model is better: Qwen 3.6 35B or Gemma 4 26B (no coding or agents)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1spfdbm/for_chat_and_qa_which_moe_model_is_better_qwen_36/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/br_web\"> /u/br_web </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1spfdbm/for_chat_and_qa_which_moe_model_is_better_qwen_36/\">[link]</a></span> &#3..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Unsloth fix on Mistral Small 4?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sq01bj/unsloth_fix_on_mistral_small_4/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sq01bj/unsloth_fix_on_mistral_small_4/\"> <img alt=\"Unsloth fix on Mistral Small 4?\" src=\"https://preview.redd.it/zae1ipz6r6wg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb9d14e1660d20065484e30d7762b4d08d8fb385\" title=\"Uns..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Mixture-of-Depths Attention - arXiv",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sq0hdv/mixtureofdepths_attention_arxiv/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><blockquote> <p>Scaling depth is a key driver for large language models (LLMs). Yet, as LLMs become deeper, they often suffer from signal degradation: informative features formed in shallow layers are gradually diluted by repeated residual updates, making them harder t..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Unsloth/Qwen3.6-35b-a3b -> Q5_K_S vs Q4_K_XL",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sptnbu/unslothqwen3635ba3b_q5_k_s_vs_q4_k_xl/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I run both from unsloth with recommended settings, and what I found is that Q4_K_XL does a LOT better job in my use case - web research, document research, transcript, python and html coding and code debugging<br /> Especially in websearch<br /> It looks to me that ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Small Gemma 4, Qwen 3.6 and Qwen 3 Coder Next comparison for a debugging use-case",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sptduw/small_gemma_4_qwen_36_and_qwen_3_coder_next/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Nothing extensive to see here, just a quick qualitative and performance comparison for a single programming use-case: Making an ancient website that uses Flash for everything work with modern browsers. I let all 3 models tackle exactly the same issue and provided ex..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Intel Arc B70 with HP z640 workstation (pcie 3)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1spgkn5/intel_arc_b70_with_hp_z640_workstation_pcie_3/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>First-time local LLM user here!</p> <p>I’m running an old HP Z640 workstation with a dual Xeon E5-V4 setup (around 100GB of RAM). It used to have a Titan X Pascal GPU, but I swapped it out for an Arc B70. I’m not sure if the motherboard supports PCI rebar, but I bel..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Best use cases for a mismatched RTX 3090 (24GB) + RTX 3060 (12GB) setup?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1spennl/best_use_cases_for_a_mismatched_rtx_3090_24gb_rtx/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I have a system with 32GB of system RAM and two GPUs:</p> <p>​RTX 3090 (24GB) in the primary fast PCIe slot</p> <p>​RTX 3060 (12GB) in a secondary, slower PCIe slot</p> <p>​I'm assuming that splitting a single large model across both cards is a bad ide..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "lms chat - qwen3.6-35b-a3b response is top notch",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1spsdz4/lms_chat_qwen3635ba3b_response_is_top_notch/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1spsdz4/lms_chat_qwen3635ba3b_response_is_top_notch/\"> <img alt=\"lms chat - qwen3.6-35b-a3b response is top notch\" src=\"https://preview.redd.it/5bl64hn655wg1.png?width=140&amp;height=19&amp;auto=webp&amp;s=dc7ff9426bc94094d3f1f8c..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "UI Icon Detection with Qwen3.5, Qwen3.6 and Gemma4",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1spc7q2/ui_icon_detection_with_qwen35_qwen36_and_gemma4/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1spc7q2/ui_icon_detection_with_qwen35_qwen36_and_gemma4/\"> <img alt=\"UI Icon Detection with Qwen3.5, Qwen3.6 and Gemma4\" src=\"https://preview.redd.it/vg1qzv3o41wg1.png?width=140&amp;height=32&amp;auto=webp&amp;s=1a135367001fd6e86..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Experiment: Entropy + OLS + SVD for KV cache compression",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1spq8xh/experiment_entropy_ols_svd_for_kv_cache/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been exploring KV cache optimization beyond Top-K pruning.</p> <p>Observation: pruning fails *selectively* - a few tokens cause large error spikes.</p> <p>So I tried:</p> <p>- entropy (selection)<br /> - OLS (reconstruction)<br /> - SVD (compression)</p> <p>Ear..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "RTX PRO 5000 (48GB) vs MacBook Pro M5 MAX (128GB RAM) - The choice for fine-tuning & agentic coding",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sptsxo/rtx_pro_5000_48gb_vs_macbook_pro_m5_max_128gb_ram/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>TL;DR: </p> <p>If you had to choose one for a professional dev who lives in HuggingFace weights, Unsloth scripts to fine-tune, and llama.cpp/vllm servers for local inference, which machine is the better long-term investment?</p> <p>I’m currently at a crossroads and ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Arent These single file LLM coding tests like browserOS pretty much redundant now most 2026 LLM can easily handle this?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1spwlnv/arent_these_single_file_llm_coding_tests_like/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Arent These single file LLM coding tests like browserOS pretty much redundant now most 2026 LLM can easily handle this? In what other ways we can stress test these models for novel coding problems they weren't trained for. anyone have their own private benchmark the..."
     }
   ],
-  "timestamp": "2026-04-18T22:34:22.800356",
-  "total_items": 44
+  "timestamp": "2026-04-19T22:34:48.040407",
+  "total_items": 96
 }
