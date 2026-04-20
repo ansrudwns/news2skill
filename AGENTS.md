@@ -16,6 +16,7 @@ Before starting any task, read this file first. If the task relates to one of th
 - **Dynamic_Web_Deep_Dive**: "[RESEARCH MODE] Intercept information gaps, fetch primary sources (papers/docs) via search, and formulate archive patches for explicit user approval." (Path: `.agents/skills/Dynamic_Web_Deep_Dive.md`)
 
 ### [STANDARD MODE] Automation & Engineering
+- **IG_Search_RL**: No description provided. (Path: `.agents/skills/IG_Search_RL.md`)
 - **SnapState**: No description provided. (Path: `.agents/skills/SnapState.md`)
 - **ClawGuard**: No description provided. (Path: `.agents/skills/ClawGuard.md`)
 
@@ -26,6 +27,7 @@ Before starting any task, read this file first. If the task relates to one of th
 - **Blocking_Budget**: Restrict autonomous background actions (pings/commands) to avoid blocking the user. (Path: `.agents/skills/Blocking_Budget.md`)
 
 ## Track B: Architectural Diaries Registry
+- **K_Token_Merging**: No description provided. (Path: `.agents/diaries/K_Token_Merging.md`)
 - **Agentic_Aggregation**: No description provided. (Path: `.agents/diaries/Agentic_Aggregation.md`)
 - **Hardware_Profile**: Host hardware benchmarks and offline fallback constraints (24GB VRAM). (Path: `.agents/diaries/Hardware_Profile.md`)
 - **Harness_Engineering**: The definitive meta-cognitive Control Layer playbook - combining structural guardrails, context pruning (Progressive Disclosure), and tool routing architectures (MCP). (Path: `.agents/diaries/Harness_Engineering.md`)
@@ -48,6 +50,7 @@ Before starting any task, read this file first. If the task relates to one of th
 - **Staging Area**: A secure holding area for unverified drafts awaiting signing and promotion. (Path: `.agents/staging/`)
 
 ## Track F: Knowledge Archives
+- **INT4_Quantization_Collapse**: No description provided. (Path: `.agents/archives/INT4_Quantization_Collapse.md`)
 - **Claude_Advisor_API**: Anthropic's Advisor Tool architectural paradigm for Meta-Cognitive Orchestration handoffs. (Path: `.agents/archives/Agent_Orchestration/Claude_Advisor_API.md`)
 - **hnsw_3bit_quantization**: "Optimization architecture implementing 3-bit Lloyd-Max scalar quantization for HNSW vector embeddings." (Path: `.agents/archives/Mathematical_Optimization/hnsw_3bit_quantization.md`)
 - **Archives**: Past reference solutions, methodologies, and closed epics used strictly as contextual memory. (Path: `.agents/archives/`)

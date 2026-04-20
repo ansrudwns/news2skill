@@ -1,0 +1,174 @@
+0: Any Color You Like: NIST Scientists Create 'Any Wavelength' Lasers
+1: Optimizing Ruby Path Methods
+2: Thoughts and feelings around Claude Design
+3: College instructor turns to typewriters to curb AI-written work
+4: Traders placed over $1B in perfectly timed bets on the Iran war
+5: 4-bit floating point FP4
+6: Graphs that explain the state of AI in 2026
+7: PgQue: Zero-Bloat Postgres Queue
+8: The electromechanical angle computer inside the B-52 bomber's star tracker
+9: Opus 4.7 to 4.6 Inflation is ~45%
+10: Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data
+11: Fuzix OS
+12: Migrating from DigitalOcean to Hetzner
+13: Why Japan has such good railways
+14: State of Kdenlive
+15: Category Theory Illustrated – Orders
+16: Amiga Graphics Archive
+17: Show HN: I made a calculator that works over disjoint sets of intervals
+18: Show HN: AI Subroutines – Run automation scripts inside your browser tab
+19: Zero-shot World Models Are Developmentally Efficient Learners [R]
+20: We’re proud to open-source LIDARLearn [R] [D] [P]
+21: ICML 2026 - Heavy score variance among various batches? [D]
+22: easyaligner: Forced alignment with GPU acceleration and flexible text normalization (compatible with all w2v2 models on HF Hub) [P]
+23: qwen3.6 performance jump is real, just make sure you have it properly configured
+24: RTX 5070 Ti + 9800X3D running Qwen3.6-35B-A3B at 79 t/s with 128K context, the --n-cpu-moe flag is the most important part.
+25: KIMI K2.6 SOON !!
+26: Qwen3.6-35B-A3B solved coding problems Qwen3.5-27B couldn’t
+27: Qwen 3.6 35B A3B Q4_K_M quant evaluation
+28: LTX-2.3 based audio model outputs
+29: Qwen3.6-35B-A3B-Uncensored-Wasserstein-GGUF
+30: Qwen3.5-4B|Gemma4-E2B/E4B uncensored models comparison
+31: LM Studio CPU thread pool size vs. tk/s with some MoE layers offloaded to CPU
+32: I made a tiny world model game that runs locally on iPad
+33: Are you guys actually using local tool calling or is it a collective prank?
+34: Should you shut off thinking when you are coding on say Qwen3.6 35B
+35: Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter
+36: Qwen3.6-35B-A3B GGUF from Unsloth is quite a bit slower?
+37: [New Model] micro-kiki-v3 — Qwen3.5-35B-A3B + 35 domain LoRAs + router + negotiator + Aeon memory for embedded engineering
+38: Beware NVidia DGX Spark scams on eBay.
+39: [Update] GHOST v2.1: Full Native Windows Support is Live.
+40: Kimi K2.6 is undergoing pilot testing
+41: Qwen3-Coder-Next vs Qwen3.6
+42: Agentic coding Qwen 3.6, Q6_K 125k context vs Q5_K_XL 200k context
+43: Best local LLM for web search
+44: CEOs admit AI had no impact on employment or productivity
+45: C++26: Reflection, Memory Safety, Contracts, and a New Async Model
+46: Swiss authorities want to reduce dependency on Microsoft
+47: A. J. Ayer – ‘What I Saw When I Was Dead’ (1988)
+48: Blue Origin's rocket reuse achievement marred by upper stage failure
+49: I wrote a CHIP-8 emulator in my own programming language
+50: Six Levels of Dark Mode
+51: Show HN: Faceoff – A terminal UI for following NHL games
+52: The Bromine Chokepoint: How Strife Could Halt Production of World’s Memory Chips
+53: Notion leaks email addresses of all editors of any public page
+54: Vercel April 2026 security incident
+55: Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)
+56: Changes in the system prompt between Claude Opus 4.6 and 4.7
+57: SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)
+58: The seven programming ur-languages (2022)
+59: The RAM shortage could last years
+60: The world in which IPv6 was a good design (2017)
+61: Reverse Engineering ME2's USB with a Heat Gun and a Knife
+62: Trials and tribulations fine-tuning & deploying Gemma-4 [P]
+63: 1,200 ICLR 2026 Papers with Public Code or Data [R]
+64: Advice on becoming a research engineer [D]
+65: What are the future prospects of Spiking Neural Networks (and particularly, neuromorphics computing) and Liquid Neural Networks? [D]
+66: On the path towards a true science of deep learning [D]
+67: KDD 2026 Cycle 2 reviews seem to have vanished from author view [D]
+68: Converting XQuery to SQL with Local LLMs: Do I Need Fine-Tuning or a Better Approach? [P]
+69: Tier-3 ISE final year with ongoing ML research (TMLR/Q1/NeurIPS target), trying to understand real impact in India [D]
+70: Why production systems keep making “correct” decisions that are no longer right [D]
+71: I'm running qwen3.6-35b-a3b with 8 bit quant and 64k context thru OpenCode on my mbp m5 max 128gb and it's as good as claude
+72: Why isn't ebay doing anything to stop those scams?
+73: llama.cpp speculative checkpointing was merged
+74: Switching from Opus 4.7 to Qwen-35B-A3B
+75: LLM Neuroanatomy III - LLMs seem to think in geometry, not language
+76: Gemma 4 - MLX doesn't seem better than GGUF
+77: "Browser OS" implemented by Qwen 3.6 35B: The best result I ever got from a local model
+78: Same 9B Qwen weights: 19.1% in Aider vs 45.6% with a scaffold adapted to small local models
+79: I tested 8 LLMs as tabletop GMs - a 27B model beat the 405B on narrative quality
+80: Bloomberg: No Mac Studios until at least October
+81: what best coding model at 4B or 8B parameters?
+82: Qwen3.6 agent + Cisco switch: local NetOps AI actually works!
+83: What starts to become possible with two 3090s that wasn't with just one?
+84: For chat and Q&A: Which MoE model is better: Qwen 3.6 35B or Gemma 4 26B (no coding or agents)
+85: Unsloth fix on Mistral Small 4?
+86: Mixture-of-Depths Attention - arXiv
+87: Unsloth/Qwen3.6-35b-a3b -> Q5_K_S vs Q4_K_XL
+88: Small Gemma 4, Qwen 3.6 and Qwen 3 Coder Next comparison for a debugging use-case
+89: Intel Arc B70 with HP z640 workstation (pcie 3)
+90: Best use cases for a mismatched RTX 3090 (24GB) + RTX 3060 (12GB) setup?
+91: lms chat - qwen3.6-35b-a3b response is top notch
+92: UI Icon Detection with Qwen3.5, Qwen3.6 and Gemma4
+93: Experiment: Entropy + OLS + SVD for KV cache compression
+94: RTX PRO 5000 (48GB) vs MacBook Pro M5 MAX (128GB RAM) - The choice for fine-tuning & agentic coding
+95: Arent These single file LLM coding tests like browserOS pretty much redundant now most 2026 LLM can easily handle this?
+96: Brussels launched an age checking app. Hackers took 2 minutes to break it
+97: GitHub's Fake Star Economy
+98: OpenClaw isn't fooling me. I remember MS-DOS
+99: IEA: Solar overtakes all energy sources in a major global first
+100: How Long Poop Stays in Your Body May Impact Your Health, Study Finds
+101: Stripe's Payment APIs: the first 10 years (2020)
+102: A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)
+103: Claude Token Counter, now with model comparisons
+104: Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon
+105: Swiss AI Initiative (2023)
+106: 2,100 Swiss municipalities showing which provider handles their official email
+107: Stop trying to engineer your way out of listening to people
+108: Scientific datasets are riddled with copy-paste errors
+109: Turtle WoW classic server announces shutdown after Blizzard wins injunction
+110: A Brief History of Fish Sauce
+111: [D] It seems that EVERY DAY there are around 100 - 200 new machine learning papers uploaded on Arxiv.
+112: C++ CuTe / CUTLASS vs CuTeDSL (Python) in 2026 — what should new GPU kernel / LLM inference engineers actually learn?[D]
+113: SGOCR: A Spatially-Grounded OCR-focused Pipeline & V1 Dataset [P]
+114: To Beat China, Embrace Open-Source AI (WSJ)
+115: Closest replacement for Claude + Claude Code? (got banned, no explanation)
+116: QWEN3.6 + ik_llama is fast af
+117: Is anyone getting real coding work done with Qwen3.6-35B-A3B-UD-Q4_K_M on a 32GB Mac in opencode, claude code or similar?
+118: SK hynix starts mass production of 192GB SOCAMM2 for NVIDIA AI servers
+119: Speculative decoding question, 665% speed increase
+120: An isometric room, based on the screenshot. Qwen3.6-35B
+121: LLM for finance
+122: TRELLIS.2 image-to-3D now runs on Mac (Apple Silicon) - no NVIDIA GPU needed
+123: Venturing into the world of local LLM's, would love some pointers!
+124: ASMR-Bench: Auditing for Sabotage in ML Research
+125: Geometric regularization of autoencoders via observed stochastic dynamics
+126: Using Large Language Models and Knowledge Graphs to Improve the Interpretability of Machine Learning Models in Manufacturing
+127: Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design
+128: Learning to Reason with Insight for Informal Theorem Proving
+129: No Universal Courtesy: A Cross-Linguistic, Multi-Model Study of Politeness Effects on LLMs Using the PLUM Corpus
+130: VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects
+131: From Benchmarking to Reasoning: A Dual-Aspect, Large-Scale Evaluation of LLMs on Vietnamese Legal Text
+132: FL-MHSM: Spatially-adaptive Fusion and Ensemble Learning for Flood-Landslide Multi-Hazard Susceptibility Mapping at Regional Scale
+133: Information Router for Mitigating Modality Dominance in Vision-Language Models
+134: SwanNLP at SemEval-2026 Task 5: An LLM-based Framework for Plausibility Scoring in Narrative Word Sense Disambiguation
+135: Beyond Distribution Sharpening: The Importance of Task Rewards
+136: Characterising LLM-Generated Competency Questions: a Cross-Domain Empirical Study using Open and Closed Models
+137: Do Vision-Language Models Truly Perform Vision Reasoning? A Rigorous Study of the Modality Gap
+138: Joint-Centric Dual Contrastive Alignment with Structure-Preserving and Information-Balanced Regularization
+139: Detecting and Suppressing Reward Hacking with Gradient Fingerprints
+140: BAGEL: Benchmarking Animal Knowledge Expertise in Language Models
+141: Adaptive multi-fidelity optimization with fast learning rates
+142: Enhancing AI and Dynamical Subseasonal Forecasts with Probabilistic Bias Correction
+143: Optimizing Korean-Centric LLMs via Token Pruning
+144: A Two-Stage, Object-Centric Deep Learning Framework for Robust Exam Cheating Detection
+145: Neuro-Symbolic ODE Discovery with Latent Grammar Flow
+146: "Taking Stock at FAccT": Using Participatory Design to Co-Create a Vision for the Fairness, Accountability and Transparency Community
+147: OT on the Map: Quantifying Domain Shifts in Geographic Space
+148: Beyond Surface Statistics: Robust Conformal Prediction for LLMs via Internal Representations
+149: AIFIND: Artifact-Aware Interpreting Fine-Grained Alignment for Incremental Face Forgery Detection
+150: ChemGraph-XANES: An Agentic Framework for XANES Simulation and Analysis
+151: Sketching the Readout of Large Language Models for Scalable Data Attribution and Valuation
+152: Synthetic data in cryptocurrencies using generative models
+153: MARCH: Multi-Agent Radiology Clinical Hierarchy for CT Report Generation
+154: JumpLoRA: Sparse Adapters for Continual Learning in Large Language Models
+155: AtManRL: Towards Faithful Reasoning via Differentiable Attention Saliency
+156: SWNet: A Cross-Spectral Network for Camouflaged Weed Detection
+157: On the Rejection Criterion for Proxy-based Test-time Alignment
+158: Training Time Prediction for Mixed Precision-based Distributed Training
+159: Sentiment Analysis of German Sign Language Fairy Tales
+160: Can LLMs Understand the Impact of Trauma? Costs and Benefits of LLMs Coding the Interviews of Firearm Violence Survivors
+161: Tabular foundation models for in-context prediction of molecular properties
+162: Univariate Channel Fusion for Multivariate Time Series Classification
+163: SCRIPT: Implementing an Intelligent Tutoring System for Programming in a German University Context
+164: The Relic Condition: When Published Scholarship Becomes Material for Its Own Replacement
+165: Sample Complexity Bounds for Stochastic Shortest Path with a Generative Model
+166: Reckoning with the Political Economy of AI: Avoiding Decoys in Pursuit of Accountability
+167: Dual-Modal Lung Cancer AI: Interpretable Radiology and Microscopy with Clinical Risk Integration
+168: Robust Synchronisation for Federated Learning in The Face of Correlated Device Failure
+169: The Harder Path: Last Iterate Convergence for Uncoupled Learning in Zero-Sum Games with Bandit Feedback
+170: Stylistic-STORM (ST-STORM) : Perceiving the Semantic Nature of Appearance
+171: Unveiling Stochasticity: Universal Multi-modal Probabilistic Modeling for Traffic Forecasting
+172: Early Detection of Acute Myeloid Leukemia (AML) Using YOLOv12 Deep Learning Model
+173: Prototype-Grounded Concept Models for Verifiable Concept Alignment

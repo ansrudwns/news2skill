@@ -1,0 +1,35 @@
+--- ITEM 29 ---
+Title: Qwen3.6-35B-A3B-Uncensored-Wasserstein-GGUF
+Link: https://www.reddit.com/r/LocalLLaMA/comments/1sp2l72/qwen3635ba3buncensoredwassersteingguf/
+Summary: <!-- SC_OFF --><div class="md"><p>Hello everyone. Finally I found a way to fix <em>ssm_conv1d</em> tensor drift in quantized GGUF models via <a href="https://en.wikipedia.org/wiki/Wasserstein_metric">Wasserstein metric (W1).</a> It's a lot better than Kullback Leibler for detecting numerical instabi...
+
+--- ITEM 36 ---
+Title: Qwen3.6-35B-A3B GGUF from Unsloth is quite a bit slower?
+Link: https://www.reddit.com/r/LocalLLaMA/comments/1sop5hb/qwen3635ba3b_gguf_from_unsloth_is_quite_a_bit/
+Summary: <!-- SC_OFF --><div class="md"><p>Hi there, first of all I just want to give a huge thanks for Unsloth's tireless work at producing high quality GGUFs and also for their friendly interaction with us here.</p> <p>I'm just running on a CPU-only setup with the latest llama.cpp on Debian 13. For some re...
+
+--- ITEM 78 ---
+Title: Same 9B Qwen weights: 19.1% in Aider vs 45.6% with a scaffold adapted to small local models
+Link: https://www.reddit.com/r/LocalLLaMA/comments/1spufzz/same_9b_qwen_weights_191_in_aider_vs_456_with_a/
+Summary: <!-- SC_OFF --><div class="md"><p>I spent the past week testing a simple question:</p> <p>Small local models often look weak inside coding agents. But how much of that is actually model weakness, and how much is scaffold mismatch?</p> <p>So I held the model fixed and changed only the scaffold.</p> <...
+
+--- ITEM 86 ---
+Title: Mixture-of-Depths Attention - arXiv
+Link: https://www.reddit.com/r/LocalLLaMA/comments/1sq0hdv/mixtureofdepths_attention_arxiv/
+Summary: <!-- SC_OFF --><div class="md"><blockquote> <p>Scaling depth is a key driver for large language models (LLMs). Yet, as LLMs become deeper, they often suffer from signal degradation: informative features formed in shallow layers are gradually diluted by repeated residual updates, making them harder t...
+
+--- ITEM 93 ---
+Title: Experiment: Entropy + OLS + SVD for KV cache compression
+Link: https://www.reddit.com/r/LocalLLaMA/comments/1spq8xh/experiment_entropy_ols_svd_for_kv_cache/
+Summary: <!-- SC_OFF --><div class="md"><p>I’ve been exploring KV cache optimization beyond Top-K pruning.</p> <p>Observation: pruning fails *selectively* - a few tokens cause large error spikes.</p> <p>So I tried:</p> <p>- entropy (selection)<br /> - OLS (reconstruction)<br /> - SVD (compression)</p> <p>Ear...
+
+--- ITEM 124 ---
+Title: ASMR-Bench: Auditing for Sabotage in ML Research
+Link: https://arxiv.org/abs/2604.16286v1
+Summary: As AI systems are increasingly used to conduct research autonomously, misaligned systems could introduce subtle flaws that produce misleading results while evading detection. We introduce ASMR-Bench (Auditing for Sabotage in ML Research), a benchmark for evaluating the ability of auditors to detect ...
+
+--- ITEM 139 ---
+Title: Detecting and Suppressing Reward Hacking with Gradient Fingerprints
+Link: https://arxiv.org/abs/2604.16242v1
+Summary: Reinforcement learning with verifiable rewards (RLVR) typically optimizes for outcome rewards without imposing constraints on intermediate reasoning. This leaves training susceptible to reward hacking, where models exploit loopholes (e.g., spurious patterns in training data) in the reward function t...
+
