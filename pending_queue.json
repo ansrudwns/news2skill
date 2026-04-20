@@ -1043,8 +1043,266 @@
       "title": "Prototype-Grounded Concept Models for Verifiable Concept Alignment",
       "link": "https://arxiv.org/abs/2604.16076v1",
       "summary": "Concept Bottleneck Models (CBMs) aim to improve interpretability in Deep Learning by structuring predictions through human-understandable concepts, but they provide no way to verify whether learned concepts align with the human's intended meaning, hurting interpretability. We introduce Prototype-Gro..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Monero Community Crowdfunding System",
+      "link": "https://ccs.getmonero.org/ideas/",
+      "summary": "<p>Article URL: <a href=\"https://ccs.getmonero.org/ideas/\">https://ccs.getmonero.org/ideas/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47841149\">https://news.ycombinator.com/item?id=47841149</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Jujutsu megamerges for fun and profit",
+      "link": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
+      "summary": "<p>Article URL: <a href=\"https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit\">https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47841129\">https://news.ycombinator.com/item?id=47841129</a></p>\n<..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "OpenAI ad partner now selling ChatGPT ad placements based on \"prompt relevance\"",
+      "link": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
+      "summary": "<p>Article URL: <a href=\"https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/\">https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47840980\"..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Holos – QEMU/KVM with a compose-style YAML, GPUs and health checks",
+      "link": "https://github.com/zeroecco/holos",
+      "summary": "<p>I got tired of libvirt XML and Vagrant's Ruby/reload dance for single-host VM stacks, so I built a compose-style runtime directly on QEMU/KVM.<p>What's there: GPU passthrough as a first-class primitive (VFIO, OVMF, per-instance EFI vars), healthchecks that gate depends_on over SSH, socket-multica..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "John Ternus to become Apple CEO",
+      "link": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "summary": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/\">https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/</a></p>\n<p>Comments URL: <a href=\"https://..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
+      "link": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
+      "summary": "<p>Article URL: <a href=\"https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/\">https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47839951\">https://news.ycombinator.com/item?id=47..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "F-35 is built for the wrong war",
+      "link": "https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/",
+      "summary": "<p>Article URL: <a href=\"https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/\">https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47839835\">https://news.yc..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
+      "link": "https://github.com/gizmo64k/soulplayer-c64",
+      "summary": "<p>Article URL: <a href=\"https://github.com/gizmo64k/soulplayer-c64\">https://github.com/gizmo64k/soulplayer-c64</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47839645\">https://news.ycombinator.com/item?id=47839645</a></p>\n<p>Points: 26</p>\n<p># Comments: 3</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "We got 207 tok/s with Qwen3.5-27B on an RTX 3090",
+      "link": "https://github.com/Luce-Org/lucebox-hub",
+      "summary": "<p>Article URL: <a href=\"https://github.com/Luce-Org/lucebox-hub\">https://github.com/Luce-Org/lucebox-hub</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47838788\">https://news.ycombinator.com/item?id=47838788</a></p>\n<p>Points: 125</p>\n<p># Comments: 31</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Kimi vendor verifier – verify accuracy of inference providers",
+      "link": "https://www.kimi.com/blog/kimi-vendor-verifier",
+      "summary": "<p>Article URL: <a href=\"https://www.kimi.com/blog/kimi-vendor-verifier\">https://www.kimi.com/blog/kimi-vendor-verifier</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47838703\">https://news.ycombinator.com/item?id=47838703</a></p>\n<p>Points: 103</p>\n<p># Comments: 7</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys",
+      "link": "https://words.filippo.io/128-bits/",
+      "summary": "<p>Article URL: <a href=\"https://words.filippo.io/128-bits/\">https://words.filippo.io/128-bits/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47836784\">https://news.ycombinator.com/item?id=47836784</a></p>\n<p>Points: 80</p>\n<p># Comments: 42</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "We accepted surveillance as default",
+      "link": "https://vivianvoss.net/blog/why-we-accepted-surveillance",
+      "summary": "<p>Article URL: <a href=\"https://vivianvoss.net/blog/why-we-accepted-surveillance\">https://vivianvoss.net/blog/why-we-accepted-surveillance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47836730\">https://news.ycombinator.com/item?id=47836730</a></p>\n<p>Points: 259</p>\n<p># C..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+      "link": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/\">https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Kimi K2.6: Advancing open-source coding",
+      "link": "https://www.kimi.com/blog/kimi-k2-6",
+      "summary": "<p>Article URL: <a href=\"https://www.kimi.com/blog/kimi-k2-6\">https://www.kimi.com/blog/kimi-k2-6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47835735\">https://news.ycombinator.com/item?id=47835735</a></p>\n<p>Points: 506</p>\n<p># Comments: 253</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "link": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+      "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen3.6-max-preview\">https://qwen.ai/blog?id=qwen3.6-max-preview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47834565\">https://news.ycombinator.com/item?id=47834565</a></p>\n<p>Points: 477</p>\n<p># Comments: 242</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "All phones sold in the EU to have replaceable batteries from 2027",
+      "link": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
+      "summary": "<p>Article URL: <a href=\"https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/\">https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/</a></p>\n<p>Comments URL: <a href=\"http..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Sauna effect on heart rate",
+      "link": "https://tryterra.co/research/sauna-effect-on-heart-rate",
+      "summary": "<p>Article URL: <a href=\"https://tryterra.co/research/sauna-effect-on-heart-rate\">https://tryterra.co/research/sauna-effect-on-heart-rate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47834184\">https://news.ycombinator.com/item?id=47834184</a></p>\n<p>Points: 332</p>\n<p># Com..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "ggsql: A Grammar of Graphics for SQL",
+      "link": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
+      "summary": "<p>Article URL: <a href=\"https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/\">https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47833558\">https://news.ycombinator.com/item?id=47833558</a></p>\n<p>Points..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Atlassian enables default data collection to train AI",
+      "link": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
+      "summary": "<p>Article URL: <a href=\"https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8\">https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47833247\">h..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Are we optimizing AI research for acceptance rather than lasting value? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sqps89/are_we_optimizing_ai_research_for_acceptance/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The current AI conference acceptance culture feels like it leaves little room for the kind of spark we once cherished in research (at least in my own experience). It seems to run on tons of evaluations to let reviewers believe solid, often far beyond the level of in..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Does submitting to only journals negatively affect research career after finishing PhD? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sqnuez/does_submitting_to_only_journals_negatively/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I saw many discussions about TMLR and other journals lately and how their review processes are considered fairer and less random.</p> <p>My question is, how much does it hurt one's chance much of getting interviewed/hired as a ML research scientist if they choose to..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "How exactly one goes about networking in conferences? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sqz7nu/how_exactly_one_goes_about_networking_in/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So ICLR is coming and apparently the biggest value one can get from these conferences is to network.</p> <p>Let's take my example: I'm a PhD student looking for industry internships. Say I have located about 15-20 posters regarding topics adjacent or directly relate..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "MILA vs Polytechnique Montreal: reapply or move on? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sqsr50/mila_vs_polytechnique_montreal_reapply_or_move_on/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p> <p>I applied to two professional master’s programs this year, one at MILA and one at Polytechnique Montréal. I got accepted at Poly, but rejected from MILA, and they suggested I complete a minor in computer science instead.</p> <p>I’m trying to figure out wh..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Open-source single-GPU reproductions of Cartridges and STILL for neural KV-cache compaction [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1squ94n/opensource_singlegpu_reproductions_of_cartridges/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I implemented two recent ideas for long-context inference / KV-cache compaction and open-sourced both reproductions:</p> <ul> <li>Cartridges: <a href=\"https://github.com/shreyansh26/cartridges\">https://github.com/shreyansh26/cartridges</a></li> <li>STILL: <a href=\"h..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "CVPR Broadening Participation Results. [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sqr6xq/cvpr_broadening_participation_results_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Did anyone get an email?</p> <p>I emailed the chairs. They say every participant got an email titled: &quot;CVPR26 BP Scholarship Decision Has Been Released&quot;, and participants got a separate email with the award and details.</p> <p>But I got no such email, yet...."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "What should i do to have a good OD model?[P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sqn1hn/what_should_i_do_to_have_a_good_od_modelp/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’m tired of training a lot of models and trying different datasets but still my model is trash and can’t detect clearly it sometimes has mAP50 pf 80% but it is only in numbers not practical, what can i do to have a good model that can be used?</p> <p>I trained usin..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Kimi K2.6 Released (huggingface)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sqscao/kimi_k26_released_huggingface/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sqscao/kimi_k26_released_huggingface/\"> <img alt=\"Kimi K2.6 Released (huggingface)\" src=\"https://external-preview.redd.it/0OEO6mJeyJy_9iA5gKxjMdrhKT0yLVdFry5R06GOlkI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4dabbd8ade29f..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "When you dial in your bot’s personality",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sqnrhb/when_you_dial_in_your_bots_personality/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sqnrhb/when_you_dial_in_your_bots_personality/\"> <img alt=\"When you dial in your bot’s personality\" src=\"https://preview.redd.it/pkenwsus8cwg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9559d475541977e09f6ff52b0093d97f6c52..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Kimi K2.6",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sqswq6/kimi_k26/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sqswq6/kimi_k26/\"> <img alt=\"Kimi K2.6\" src=\"https://preview.redd.it/1ptgthlt7dwg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=30f70c18fc82fd1d7207bb9dd3ffbabdcd133980\" title=\"Kimi K2.6\" /> </a> </td><td> <!-- SC_OFF --><d..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen 3.6 Max Preview just went live on the Qwen Chat website. It currently has the highest AA-Intelligence Index score among Chinese models (52) (Will it be open source?)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sqlcan/qwen_36_max_preview_just_went_live_on_the_qwen/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sqlcan/qwen_36_max_preview_just_went_live_on_the_qwen/\"> <img alt=\"Qwen 3.6 Max Preview just went live on the Qwen Chat website. It currently has the highest AA-Intelligence Index score among Chinese models (52) (Will it be open..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Layman's comparison on Qwen3.6 35b-a3b and Gemma4 26b-a4b-it",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sqxiz0/laymans_comparison_on_qwen36_35ba3b_and_gemma4/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sqxiz0/laymans_comparison_on_qwen36_35ba3b_and_gemma4/\"> <img alt=\"Layman's comparison on Qwen3.6 35b-a3b and Gemma4 26b-a4b-it\" src=\"https://preview.redd.it/suomxb7xxdwg1.png?width=140&amp;height=66&amp;auto=webp&amp;s=100b57ef..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Gemma 4 26B-A4B GGUF Benchmarks",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sqrl1l/gemma_4_26ba4b_gguf_benchmarks/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sqrl1l/gemma_4_26ba4b_gguf_benchmarks/\"> <img alt=\"Gemma 4 26B-A4B GGUF Benchmarks\" src=\"https://preview.redd.it/hlsgb1l7ycwg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8f669ab4254505172d9c08a4a7704c1ef7670037\" title=\"Gem..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Why doesn't any OSS tool treat llama.cpp as a first class citizen?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sr140o/why_doesnt_any_oss_tool_treat_llamacpp_as_a_first/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Be it opencode, VS code copilot extension or whatever &quot;open source&quot; AI tool, I rarely see llama.cpp treated as a first class provider? Every single one of them has ollama and sometimes LMStudio. Engineering wise there's literally 0 effort to have llama.cpp..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Hermes just mass emailed a bunch of accounts from 2020 with pairing requests.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sqqasu/hermes_just_mass_emailed_a_bunch_of_accounts_from/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sqqasu/hermes_just_mass_emailed_a_bunch_of_accounts_from/\"> <img alt=\"Hermes just mass emailed a bunch of accounts from 2020 with pairing requests.\" src=\"https://preview.redd.it/gzpfozaxqcwg1.jpeg?width=640&amp;crop=smart&amp;au..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Gemma-4-E2B's safety filters make it unusable for emergencies",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sr35pk/gemma4e2bs_safety_filters_make_it_unusable_for/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sr35pk/gemma4e2bs_safety_filters_make_it_unusable_for/\"> <img alt=\"Gemma-4-E2B's safety filters make it unusable for emergencies\" src=\"https://preview.redd.it/m2nwph63vewg1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;aut..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen3.5-27B, Qwen3.5-122B, and Qwen3.6-35B on 4x RTX 3090 — MoEs struggle with strict global rules",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sqspgy/qwen3527b_qwen35122b_and_qwen3635b_on_4x_rtx_3090/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sqspgy/qwen3527b_qwen35122b_and_qwen3635b_on_4x_rtx_3090/\"> <img alt=\"Qwen3.5-27B, Qwen3.5-122B, and Qwen3.6-35B on 4x RTX 3090 — MoEs struggle with strict global rules\" src=\"https://preview.redd.it/1zpd01kd6dwg1.png?width=140&a..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "My 7900XTX is autonomous with qwen 3.6 👀 wow 😍",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1squcdr/my_7900xtx_is_autonomous_with_qwen_36_wow/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1squcdr/my_7900xtx_is_autonomous_with_qwen_36_wow/\"> <img alt=\"My 7900XTX is autonomous with qwen 3.6 👀 wow 😍\" src=\"https://external-preview.redd.it/b2toMHJuN21nZHdnMVsSh_xHKc7u8gk5wdR1JCr19PY66L2R0Etm-btD9_qW.png?width=320&amp;c..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Kimi K2.6 is coming !!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sqnooy/kimi_k26_is_coming/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sqnooy/kimi_k26_is_coming/\"> <img alt=\"Kimi K2.6 is coming !!\" src=\"https://preview.redd.it/0st42eyg8cwg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9b76fa4c69aa9c57175d9d4ef8396ceae73dd2ec\" title=\"Kimi K2.6 is coming !!\"..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "ubergarm/Kimi-K2.6-GGUF Q4_X now available",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sr28kr/ubergarmkimik26gguf_q4_x_now_available/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sr28kr/ubergarmkimik26gguf_q4_x_now_available/\"> <img alt=\"ubergarm/Kimi-K2.6-GGUF Q4_X now available\" src=\"https://external-preview.redd.it/X--HaEmmZoEm26Bow8EiBrI9tsTjv2oRNHNUa096S3Y.png?width=640&amp;crop=smart&amp;auto=webp&..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "20 days post-Claude Code leak: Did the accidental \"open sourcing\" actually matter for local devs?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sqkm0b/20_days_postclaude_code_leak_did_the_accidental/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Now that its been about 20 days since Claude code source code got leaked, what really came out of it? Sure, we learned some of the inside tricks they use, we understood how much of it is vibecoded, many forks were made... But did it help in any way? </p> <p>Out of t..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "opencode with gemma 26B",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sqp8pp/opencode_with_gemma_26b/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sqp8pp/opencode_with_gemma_26b/\"> <img alt=\"opencode with gemma 26B\" src=\"https://preview.redd.it/8paf6rrtjcwg1.png?width=140&amp;height=76&amp;auto=webp&amp;s=69d67e7ac3d40cf38d58fde9463272edcc940621\" title=\"opencode with gemma..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen 3.5 122B vs Qwen 3.6 35B - Which to choose?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sqkdxe/qwen_35_122b_vs_qwen_36_35b_which_to_choose/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello guys,<br /> has anybody tested both on Evals and Benchmarks to see the difference? </p> <p>I am running a DGX Spark 128GB machine and am contemplating which model to choose for Coding (Opencode) and Chat (Openwebui) - of course the speed will be higher with th..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "What is your actual local LLM stack right now?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sqtu17/what_is_your_actual_local_llm_stack_right_now/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I keep trying new models, but the bigger difference usually comes from the setup around them, not the model itself.</p> <p>Backend<br /> frontend<br /> RAG or no RAG<br /> quant choice<br /> GPU offload<br /> context settings<br /> prompt format<br /> whatever janky..."
     }
   ],
-  "timestamp": "2026-04-20T18:21:34.158092",
-  "total_items": 174
+  "timestamp": "2026-04-20T22:42:08.781203",
+  "total_items": 217
 }
