@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "kv_svd_compression.md",
+        "digest": {
+          "sha256": "72fd73cfff66db5020867bdebf5b1e499de9d89a5353ccadd1b0abd0786bc3b3"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Automated-Signer-CLI"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-22T02:30:17.743986+00:00"
+    }
+  },
+  "signature": "7c7c0d05c6a947cfc05d072c867a33914d390940a57ad90ec5847e583374ee2e"
+}

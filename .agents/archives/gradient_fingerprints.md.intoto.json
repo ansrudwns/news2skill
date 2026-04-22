@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "gradient_fingerprints.md",
+        "digest": {
+          "sha256": "c33f4465ed54a5454a601b2e6fba1d8af5a6cffec7d78398705bd1d42948fcbd"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Automated-Signer-CLI"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-22T02:30:17.738833+00:00"
+    }
+  },
+  "signature": "bccb5b92f9e1e5827b328ae0f5d100b226f0fe4a800dc5f199dd73c200ea51a8"
+}

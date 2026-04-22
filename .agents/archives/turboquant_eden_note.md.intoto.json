@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "turboquant_eden_note.md",
+        "digest": {
+          "sha256": "5710815bd12fdf059dc9b0c8320b6bd67b86e08c89339e964a5dbdc69952e5ac"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Automated-Signer-CLI"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-22T02:30:17.742424+00:00"
+    }
+  },
+  "signature": "8bcad9f5a8cb20c3c83afcd1545c8ba47865fa9f2d447657e9d4629dd9e85920"
+}

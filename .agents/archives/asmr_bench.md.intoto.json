@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "asmr_bench.md",
+        "digest": {
+          "sha256": "fec26cddf9709d1fd8f63bfdf70c1045f7eb55ebdfdf1e16e803753ac9f26377"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Automated-Signer-CLI"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-22T02:30:17.736300+00:00"
+    }
+  },
+  "signature": "c354e2c7358d9e8a81cb8b64eb8ba46cf7164bc37bad430ec6075fd7d73c0e37"
+}

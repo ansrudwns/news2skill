@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "mixture_of_depths.md",
+        "digest": {
+          "sha256": "2fe9ba4f940df9f11032e6d7e9f3e474880e688997a91fac6f1c8281d80053a5"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Automated-Signer-CLI"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-22T02:30:17.740391+00:00"
+    }
+  },
+  "signature": "d64f4596d9aebad2cb5cfbb0470d120751f72451f88120b34489cdff9f2dcfef"
+}

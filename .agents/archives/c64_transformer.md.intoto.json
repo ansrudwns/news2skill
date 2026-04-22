@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "c64_transformer.md",
+        "digest": {
+          "sha256": "4ab328fe769acd8c22f8bfab056d3f7abf8a860e5c6cbbd40812ad2179ab29cb"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Automated-Signer-CLI"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-22T02:30:17.737829+00:00"
+    }
+  },
+  "signature": "96a968354260533deb47d75e91fd5b7ef89dfaeff5bdadb6a3fe81e66bc62e09"
+}
