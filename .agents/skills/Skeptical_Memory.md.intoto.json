@@ -1,0 +1,31 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "Skeptical_Memory.md",
+        "digest": {
+          "sha256": "98ea7e843772f2b945ef7d3a1317d15acb80839af542a6713b4edf6e9c4d9275"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Legacy-Bootstrap-Migration-2026-04-22"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "note": "Retroactive attestation of pre-pipeline assets. Not a fresh build.",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-22T02:49:39.027460+00:00"
+    }
+  },
+  "signature": "718dc388bde714cd42148b1ee8c27f10aae86b2d25ef34bee81279c034272ab5"
+}

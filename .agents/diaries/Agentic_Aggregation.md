@@ -1,3 +1,6 @@
+---
+description: Legacy migrated asset.
+---
 # Agentic Aggregation: Parallel Scale-Out Architecture
 
 ## Theoretical Basis

@@ -1,0 +1,31 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "Reference_Autonomous_AI_Researcher.md",
+        "digest": {
+          "sha256": "5cd39d68fcc27371ce76ae370c6cb6952f83dcfd42d9fd6e017b31b67c6ad145"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Legacy-Bootstrap-Migration-2026-04-22"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "note": "Retroactive attestation of pre-pipeline assets. Not a fresh build.",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-22T02:49:39.039271+00:00"
+    }
+  },
+  "signature": "70a2c5b72f3e76d2ed2fd618de84cd35964fbcc19a0f7157f1eb433725969142"
+}

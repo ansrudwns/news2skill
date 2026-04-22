@@ -1,3 +1,6 @@
+---
+description: Legacy migrated asset.
+---
 # autoDream (Self-Healing Memory Daemon)
 ## Architectural Insight
 A background daemon strategy to prevent Context Collapse over long-running projects.

@@ -1,0 +1,31 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "Iterative_Dialectic_RAG.md",
+        "digest": {
+          "sha256": "8553ef722438db17021ee8240def7cc6d064b47536aa18f5543bf1ce2d1a0c33"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Legacy-Bootstrap-Migration-2026-04-22"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "note": "Retroactive attestation of pre-pipeline assets. Not a fresh build.",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-22T02:49:39.016831+00:00"
+    }
+  },
+  "signature": "58d6e11e802c135d1e66211c66e694f30fba5f0f99fc778d2cd91704f825de1a"
+}

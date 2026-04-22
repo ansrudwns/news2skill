@@ -11,6 +11,7 @@ Cloud automation handles data collection. Human approval gates control what gets
 The system defends against LLM prompt injection and tracks asset provenance through a two-stage sequential audit pipeline:
 * **Stage 1 — Static Heuristic Audit**: Raw LLM draft outputs are scanned against a shared ruleset (`utils.py` AUDIT_RULES, P0/P1/P2 classification) before signing proceeds.
 * **Stage 2 — HMAC Provenance Attestation (`.intoto.json`)**: Drafts passing Stage 1 receive a provenance receipt containing a file hash and HMAC signature, inspired by SLSA provenance concepts.
+* **Legacy Migration**: Pre-existing skills and diaries have been retroactively attested using the `Antigravity-Legacy-Bootstrap-Migration-2026-04-22` builder ID to satisfy the strict provenance requirement without triggering false audit rejections.
 * **Downgrade Attack Prevention**: `auto_commit.py` rejects any file missing a valid `.intoto.json` or carrying a legacy `.sig` sidecar before indexing into `AGENTS.md`.
 
 ## System Architecture

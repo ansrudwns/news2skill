@@ -43,5 +43,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           touch pending_queue.json
           touch seen_urls.txt
-          git add pending_queue.json seen_urls.txt .agents/
+          git add pending_queue.json seen_urls.txt
           git diff --quiet && git diff --staged --quiet || (git commit -m "[auto] Cloud Daily Sync" && git push)

@@ -1,3 +1,6 @@
+---
+description: Legacy migrated asset.
+---
 # Harness Engineering: The Definitive Meta-Cognitive Control Layer
 
 ## Architectural Insight

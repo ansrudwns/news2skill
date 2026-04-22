@@ -1,3 +1,6 @@
+---
+description: Legacy migrated asset.
+---
 # SnapState: Workflow Resilience and Persistence Layer
 
 ## Definition

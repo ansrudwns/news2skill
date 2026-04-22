@@ -1,3 +1,6 @@
+---
+description: Legacy migrated asset.
+---
 # SKILL: IG-Search (Information Gain Search Strategy)
 > Evaluator Score: 92/100 (Passed)
 

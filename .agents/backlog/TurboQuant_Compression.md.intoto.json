@@ -1,0 +1,31 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "TurboQuant_Compression.md",
+        "digest": {
+          "sha256": "1443daf20edfe439d4715c667a7afe16a88289a797eaa79bb20ad917c3f80d55"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Legacy-Bootstrap-Migration-2026-04-22"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "note": "Retroactive attestation of pre-pipeline assets. Not a fresh build.",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-22T02:49:39.049634+00:00"
+    }
+  },
+  "signature": "7e41ce2d4b6d506f7cf5c0b044a4e1f252188dec405fdf18bb9104f865cb70f4"
+}

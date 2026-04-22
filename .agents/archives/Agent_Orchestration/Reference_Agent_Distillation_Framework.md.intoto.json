@@ -1,0 +1,31 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "Reference_Agent_Distillation_Framework.md",
+        "digest": {
+          "sha256": "84d55baeef1036c3da700ccc9e27e788f1040f718ee147dd2e6578d18b6ca788"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Legacy-Bootstrap-Migration-2026-04-22"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "note": "Retroactive attestation of pre-pipeline assets. Not a fresh build.",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-22T02:49:39.034040+00:00"
+    }
+  },
+  "signature": "ed9956dceb2c4e6cec761c2501eb9680764d7bd42147dd816bf2686c1ecb7da4"
+}

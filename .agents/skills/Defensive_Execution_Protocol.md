@@ -35,3 +35,10 @@ Naively constructed agent loops (Ouroboros anti-pattern) will retry failing acti
 - **Protocol**: When approved by the user, utilize `Start-Process powershell -NoExit -Command ...` to pop up an interactive real-time monitoring dashboard.
 - **Dual Logging (Prevent Blindness)**: Because the Popup detaches stdout, the executed script MUST universally import `logging` with BOTH a `StreamHandler` (for the popup) and a `FileHandler` (for the Agent to read logs natively). Never rely on print statements alone.
 - **Anti-Zombie Garbage Collection**: Never let popup windows replicate infinitely. Before spawning a retry popup, you must clear the previous hanging session. However, you are **STRICTLY PROHIBITED** from using generic `kill` commands based on process names. You MUST exclusively use deterministic **PID file ownership validation** to prove you spawned the process before terminating it.
+
+### 6. Inference-Time Error Correction (LPSR)
+- **Latent Phase-Shift Rollback**: To prevent catastrophic compounding of reasoning errors during auto-regressive decoding, integrate LPSR logic at the execution boundary.
+- **Dual-Gate Thresholding**: Monitor the Residual Stream at critical layers. A phase-shift (error) is formally detected only when BOTH of the following are true:
+  1. **Cosine Similarity Drop**: The direction of the residual vector changes sharply (e.g., `< 0.5`).
+  2. **High Token Entropy**: The model's uncertainty regarding the current token spikes (e.g., `> 2.0`).
+- **Rollback & Steer**: Upon phase-shift detection, forcefully truncate the KV-cache to the state prior to the anomaly, and inject a corrective steering vector rather than blindly continuing generation or crashing the script.

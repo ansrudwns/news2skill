@@ -1,3 +1,6 @@
+---
+description: Legacy migrated asset.
+---
 # Architectural Diary: K-Token Merging for Context Compression
 > Evaluator Score: 88/100 (Passed)
 

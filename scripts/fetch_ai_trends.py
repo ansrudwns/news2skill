@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 import ssl
 import certifi
 import os
-
+import re
 sys.stdout.reconfigure(encoding='utf-8')
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + "/..")
 # Strict SSL context enforced via Certifi to natively bypass local system cert limitations securely.
@@ -139,7 +139,9 @@ def main():
         url_key = item.get("link", item.get("title", ""))
         
         # Check against noise filter
-        is_noise = any(noise in url_key.lower() or noise in item.get("title", "").lower() for noise in noise_keywords)
+        title_lower = item.get("title", "").lower()
+        url_lower = url_key.lower()
+        is_noise = any(re.search(rf'\b{noise}\b', url_lower) or re.search(rf'\b{noise}\b', title_lower) for noise in noise_keywords)
         
         if url_key and not is_noise and url_key not in seen_urls:
             filtered_results.append(item)

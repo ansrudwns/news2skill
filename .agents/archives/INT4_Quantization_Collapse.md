@@ -1,3 +1,6 @@
+---
+description: Legacy migrated asset.
+---
 # Archive: INT4 Quantization Collapse Mechanisms
 > Evaluator Score: 85/100 (Passed)
 

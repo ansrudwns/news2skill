@@ -10,9 +10,9 @@ if %errorlevel% neq 0 (
     if %errorlevel% equ 0 (
         echo [System] 'python' missing but 'py -3' found. Using Windows Launcher.
     ) else (
-        echo [ERROR] Python 3.10+ is missing! 
+        echo [ERROR] Python 3.11+ is missing! 
         echo [System] Attempting native bootstrap via winget...
-        winget install -e --id Python.Python.3.10 --accept-source-agreements --accept-package-agreements
+        winget install -e --id Python.Python.3.11 --accept-source-agreements --accept-package-agreements
         if %errorlevel% neq 0 (
             echo [CRITICAL] Automatic python installation failed. Please install Python manually from python.org.
             pause

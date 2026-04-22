@@ -1,3 +1,6 @@
+---
+description: Legacy migrated asset.
+---
 # ClawGuard: Runtime Boundary Shield against Indirect Prompt Injection
 
 ## Definition

@@ -1,3 +1,6 @@
+---
+description: Legacy migrated asset.
+---
 # Claude Advisor Tool API Architecture Reference
 
 ## Overview

@@ -71,7 +71,7 @@ def update_agents_index(track_type, name, description, dest_path):
         lines = f.readlines()
         
     # Check if already exists to prevent duplicate lines
-    if any(name in line for line in lines):
+    if any(f"**{name}**:" in line for line in lines):
         return
 
     new_lines = []
