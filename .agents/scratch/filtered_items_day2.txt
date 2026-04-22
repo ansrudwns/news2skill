@@ -1,0 +1,18 @@
+--- ITEM 181 ---
+Title: Soul Player C64 – A real transformer running on a 1 MHz Commodore 64
+Link: https://github.com/gizmo64k/soulplayer-c64
+Summary: <p>Article URL: <a href="https://github.com/gizmo64k/soulplayer-c64">https://github.com/gizmo64k/soulplayer-c64</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47839645">https://news.ycombinator.com/item?id=47839645</a></p>
+<p>Points: 26</p>
+<p># Comments: 3</p>...
+
+--- ITEM 197 ---
+Title: Open-source single-GPU reproductions of Cartridges and STILL for neural KV-cache compaction [P]
+Link: https://www.reddit.com/r/MachineLearning/comments/1squ94n/opensource_singlegpu_reproductions_of_cartridges/
+Summary: <!-- SC_OFF --><div class="md"><p>I implemented two recent ideas for long-context inference / KV-cache compaction and open-sourced both reproductions:</p> <ul> <li>Cartridges: <a href="https://github.com/shreyansh26/cartridges">https://github.com/shreyansh26/cartridges</a></li> <li>STILL: <a href="h...
+
+--- ITEM 209 ---
+Title: Qwen3.5-27B, Qwen3.5-122B, and Qwen3.6-35B on 4x RTX 3090 — MoEs struggle with strict global rules
+Link: https://www.reddit.com/r/LocalLLaMA/comments/1sqspgy/qwen3527b_qwen35122b_and_qwen3635b_on_4x_rtx_3090/
+Summary: <table> <tr><td> <a href="https://www.reddit.com/r/LocalLLaMA/comments/1sqspgy/qwen3527b_qwen35122b_and_qwen3635b_on_4x_rtx_3090/"> <img alt="Qwen3.5-27B, Qwen3.5-122B, and Qwen3.6-35B on 4x RTX 3090 — MoEs struggle with strict global rules" src="https://preview.redd.it/1zpd01kd6dwg1.png?width=140&a...
+

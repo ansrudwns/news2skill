@@ -172,3 +172,116 @@
 171: Unveiling Stochasticity: Universal Multi-modal Probabilistic Modeling for Traffic Forecasting
 172: Early Detection of Acute Myeloid Leukemia (AML) Using YOLOv12 Deep Learning Model
 173: Prototype-Grounded Concept Models for Verifiable Concept Alignment
+174: Monero Community Crowdfunding System
+175: Jujutsu megamerges for fun and profit
+176: OpenAI ad partner now selling ChatGPT ad placements based on "prompt relevance"
+177: Show HN: Holos – QEMU/KVM with a compose-style YAML, GPUs and health checks
+178: John Ternus to become Apple CEO
+179: AI Resistance: some recent anti-AI stuff that’s worth discussing
+180: F-35 is built for the wrong war
+181: Soul Player C64 – A real transformer running on a 1 MHz Commodore 64
+182: We got 207 tok/s with Qwen3.5-27B on an RTX 3090
+183: Kimi vendor verifier – verify accuracy of inference providers
+184: Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys
+185: We accepted surveillance as default
+186: Deezer says 44% of songs uploaded to its platform daily are AI-generated
+187: Kimi K2.6: Advancing open-source coding
+188: Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving
+189: All phones sold in the EU to have replaceable batteries from 2027
+190: Sauna effect on heart rate
+191: ggsql: A Grammar of Graphics for SQL
+192: Atlassian enables default data collection to train AI
+193: Are we optimizing AI research for acceptance rather than lasting value? [D]
+194: Does submitting to only journals negatively affect research career after finishing PhD? [D]
+195: How exactly one goes about networking in conferences? [D]
+196: MILA vs Polytechnique Montreal: reapply or move on? [D]
+197: Open-source single-GPU reproductions of Cartridges and STILL for neural KV-cache compaction [P]
+198: CVPR Broadening Participation Results. [D]
+199: What should i do to have a good OD model?[P]
+200: Kimi K2.6 Released (huggingface)
+201: When you dial in your bot’s personality
+202: Kimi K2.6
+203: Qwen 3.6 Max Preview just went live on the Qwen Chat website. It currently has the highest AA-Intelligence Index score among Chinese models (52) (Will it be open source?)
+204: Layman's comparison on Qwen3.6 35b-a3b and Gemma4 26b-a4b-it
+205: Gemma 4 26B-A4B GGUF Benchmarks
+206: Why doesn't any OSS tool treat llama.cpp as a first class citizen?
+207: Hermes just mass emailed a bunch of accounts from 2020 with pairing requests.
+208: Gemma-4-E2B's safety filters make it unusable for emergencies
+209: Qwen3.5-27B, Qwen3.5-122B, and Qwen3.6-35B on 4x RTX 3090 — MoEs struggle with strict global rules
+210: My 7900XTX is autonomous with qwen 3.6 👀 wow 😍
+211: Kimi K2.6 is coming !!
+212: ubergarm/Kimi-K2.6-GGUF Q4_X now available
+213: 20 days post-Claude Code leak: Did the accidental "open sourcing" actually matter for local devs?
+214: opencode with gemma 26B
+215: Qwen 3.5 122B vs Qwen 3.6 35B - Which to choose?
+216: What is your actual local LLM stack right now?
+217: QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard
+218: How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas
+219: AI and the Future of Cybersecurity: Why Openness Matters
+220: Claude Code removed from Anthropic's Pro plan
+221: California has more money than projected after admin miscalculated state budget
+222: Zindex – Diagram Infrastructure for Agents
+223: I don't want your PRs anymore
+224: ChatGPT Images 2.0
+225: Framework Laptop 13 Pro
+226: Cal.diy: open-source community edition of cal.com
+227: Meta capturing employee mouse movements, keystrokes for AI training data
+228: Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica
+229: The Vercel breach: OAuth attack exposes risk in platform environment variables
+230: Ibuilt a tiny Unix‑like 'OS' with shell and filesystem for Arduino UNO (2KB RAM)
+231: A Periodic Map of Cheese
+232: Kasane: New drop-in Kakoune front end with GPU rendering and WASM Plugins
+233: Fusion Power Plant Simulator
+234: Show HN: GoModel – an open-source AI gateway in Go
+235: Show HN: VidStudio, a browser based video editor that doesn't upload your files
+236: Laws of Software Engineering
+237: A type-safe, realtime collaborative Graph Database in a CRDT
+238: MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval
+239: Sessa: Selective State Space Attention
+240: Bounded Ratio Reinforcement Learning
+241: Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs
+242: When Can LLMs Learn to Reason with Weak Supervision?
+243: Back into Plato's Cave: Examining Cross-modal Representational Convergence at Scale
+244: A multimodal and temporal foundation model for virtual patient representations at healthcare system scale
+245: Revisiting Active Sequential Prediction-Powered Mean Estimation
+246: Latent Phase-Shift Rollback: Inference-Time Error Correction via Residual Stream Monitoring and KV-Cache Steering
+247: Benchmarking System Dynamics AI Assistants: Cloud Versus Local LLMs on CLD Extraction and Discussion
+248: Dual Alignment Between Language Model Layers and Human Sentence Processing
+249: ConforNets: Latents-Based Conformational Control in OpenFold3
+250: GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling
+251: A Note on TurboQuant and the Earlier DRIVE/EDEN Line of Work
+252: Physics-Informed Neural Networks for Biological $2\mathrm{D}{+}t$ Reaction-Diffusion Systems
+253: FUSE: Ensembling Verifiers with Zero Labeled Data
+254: Wasserstein Distributionally Robust Risk-Sensitive Estimation via Conditional Value-at-Risk
+255: ClawEnvKit: Automatic Environment Generation for Claw-Like Agents
+256: Duality for the Adversarial Total Variation
+257: Transition-Matrix Regularization for Next Dialogue Act Prediction in Counselling Conversations
+258: Symbolic Synthesis for LTLf+ Obligations
+259: OGER: A Robust Offline-Guided Exploration Reward for Hybrid Reinforcement Learning
+260: IDOBE: Infectious Disease Outbreak forecasting Benchmark Ecosystem
+261: LLM Safety From Within: Detecting Harmful Content with Internal Representations
+262: Different Paths to Harmful Compliance: Behavioral Side Effects and Mechanistic Divergence Across LLM Jailbreaks
+263: MASS-RAG: Multi-Agent Synthesis Retrieval-Augmented Generation
+264: Document-as-Image Representations Fall Short for Scientific Retrieval
+265: Learning the Riccati solution operator for time-varying LQR via Deep Operator Networks
+266: Too Correct to Learn: Reinforcement Learning on Saturated Reasoning Data
+267: Barrier-enforced multi-objective optimization for direct point and sharp interval forecasting
+268: Faster by Design: Interactive Aerodynamics via Neural Surrogates Trained on Expert-Validated CFD
+269: LQM: Linguistically Motivated Multidimensional Quality Metrics for Machine Translation
+270: Aligning Language Models for Lyric-to-Melody Generation with Rule-Based Musical Constraints
+271: Adversarial Humanities Benchmark: Results on Stylistic Robustness in Frontier Model Safety
+272: OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation
+273: Safe Control using Learned Safety Filters and Adaptive Conformal Inference
+274: Physics-Informed Neural Networks: A Didactic Derivation of the Complete Training Cycle
+275: WorldDB: A Vector Graph-of-Worlds Memory Engine with Ontology-Aware Write-Time Reconciliation
+276: Multi-Scale Reversible Chaos Game Representation: A Unified Framework for Sequence Classification
+277: Train Separately, Merge Together: Modular Post-Training with Mixture-of-Experts
+278: NI Sampling: Accelerating Discrete Diffusion Sampling by Token Order Optimization
+279: A Generalized Synthetic Control Method for Baseline Estimation in Demand Response Services
+280: Asset Harvester: Extracting 3D Assets from Autonomous Driving Logs for Simulation
+281: An Integrated Deep-Learning Framework for Peptide-Protein Interaction Prediction and Target-Conditioned Peptide Generation with ConGA-PePPI and TC-PepGen
+282: Semantic Step Prediction: Multi-Step Latent Forecasting in LLM Reasoning Trajectories via Step Sampling
+283: Using large language models for embodied planning introduces systematic safety risks
+284: Learning Invariant Modality Representation for Robust Multimodal Learning from a Causal Inference Perspective
+285: Progressive Online Video Understanding with Evidence-Aligned Timing and Transparent Decisions
+286: ESsEN: Training Compact Discriminative Vision-Language Transformers in a Low-Resource Setting
