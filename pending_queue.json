@@ -1205,8 +1205,656 @@
       "title": "A Field Guide to Decision Making",
       "link": "https://arxiv.org/abs/2604.20669v1",
       "summary": "High-consequence decision making demands peak performance from individuals in positions of responsibility. Such executive authority bears the obligation to act despite uncertainty, limited resources, time constraints, and accountability risks. Tools and strategies to motivate confidence and foster r..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "link": "https://huggingface.co/blog/deepseekv4",
+      "summary": "..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "How to Use Transformers.js in a Chrome Extension",
+      "link": "https://huggingface.co/blog/transformersjs-chrome-extension",
+      "summary": "..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: I've built a nice home server OS",
+      "link": "https://lightwhale.asklandd.dk/",
+      "summary": "<p>ohai!<p>I've released Lightwhale 3, which is possibly the easiest way to self-host Docker containers.<p>It's a free, immutable Linux system purpose-built to live-boot straight into a working Docker Engine, thereby shortcutting the need for installation, configuration, and maintenance.  Its simple..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Google Flow Music",
+      "link": "https://www.flowmusic.app/",
+      "summary": "<p>Article URL: <a href=\"https://www.flowmusic.app/\">https://www.flowmusic.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47895765\">https://news.ycombinator.com/item?id=47895765</a></p>\n<p>Points: 13</p>\n<p># Comments: 3</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Tell HN: Claude 4.7 is ignoring stop hooks",
+      "link": "https://news.ycombinator.com/item?id=47895029",
+      "summary": "<p>I've been using Anthropic's hook features [0] since they were introduced. It allows me to inject determinism into my workflows. This worked perfectly until 4.7. Now, Claude routinely ignores the hook rules. For example, I have a stop hook that prevents Claude from stopping if a source file has be..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "My audio interface has SSH enabled by default",
+      "link": "https://hhh.hn/rodecaster-duo-fw/",
+      "summary": "<p>Article URL: <a href=\"https://hhh.hn/rodecaster-duo-fw/\">https://hhh.hn/rodecaster-duo-fw/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47894747\">https://news.ycombinator.com/item?id=47894747</a></p>\n<p>Points: 98</p>\n<p># Comments: 19</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment",
+      "link": "https://gdm-tipsv2.github.io/",
+      "summary": "<p>Article URL: <a href=\"https://gdm-tipsv2.github.io/\">https://gdm-tipsv2.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47894734\">https://news.ycombinator.com/item?id=47894734</a></p>\n<p>Points: 14</p>\n<p># Comments: 1</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Could a Claude Code routine watch my finances?",
+      "link": "https://driggsby.com/blog/claude-code-routine-watch-my-finances",
+      "summary": "<p>Article URL: <a href=\"https://driggsby.com/blog/claude-code-routine-watch-my-finances\">https://driggsby.com/blog/claude-code-routine-watch-my-finances</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47894690\">https://news.ycombinator.com/item?id=47894690</a></p>\n<p>Points: ..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: HNswered – watches for replies to your Hacker News posts and comments",
+      "link": "https://github.com/adam-s/HNswered",
+      "summary": "<p>Article URL: <a href=\"https://github.com/adam-s/HNswered\">https://github.com/adam-s/HNswered</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47894638\">https://news.ycombinator.com/item?id=47894638</a></p>\n<p>Points: 9</p>\n<p># Comments: 7</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The Classic American Diner",
+      "link": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+      "summary": "<p>Article URL: <a href=\"https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/\">https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47894435\">https://news.ycombinator.com/item?id=47894435</a></p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "SFO Quiet Airport (2025)",
+      "link": "https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/",
+      "summary": "<p>Article URL: <a href=\"https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/\">https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/</a></p>\n<p>Comments URL: <a href..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+      "link": "https://developers.openai.com/api/docs/changelog",
+      "summary": "<p><i>GPT-5.5</i> - <a href=\"https://news.ycombinator.com/item?id=47879092\">https://news.ycombinator.com/item?id=47879092</a> - April 2026 (1010 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47894000\">https://news.ycombinator.com/item?id=47894000</a></p>\n<p>Poin..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "There Will Be a Scientific Theory of Deep Learning",
+      "link": "https://arxiv.org/abs/2604.21691",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2604.21691\">https://arxiv.org/abs/2604.21691</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47893779\">https://news.ycombinator.com/item?id=47893779</a></p>\n<p>Points: 71</p>\n<p># Comments: 18</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "CC-Canary: Detect early signs of regressions in Claude Code",
+      "link": "https://github.com/delta-hq/cc-canary",
+      "summary": "<p>Article URL: <a href=\"https://github.com/delta-hq/cc-canary\">https://github.com/delta-hq/cc-canary</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47893620\">https://news.ycombinator.com/item?id=47893620</a></p>\n<p>Points: 30</p>\n<p># Comments: 14</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "CSS as a Query Language",
+      "link": "https://evdc.me/blog/css-query",
+      "summary": "<p>Article URL: <a href=\"https://evdc.me/blog/css-query\">https://evdc.me/blog/css-query</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47893427\">https://news.ycombinator.com/item?id=47893427</a></p>\n<p>Points: 51</p>\n<p># Comments: 16</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "SDL Now Supports DOS",
+      "link": "https://github.com/libsdl-org/SDL/pull/15377",
+      "summary": "<p>Article URL: <a href=\"https://github.com/libsdl-org/SDL/pull/15377\">https://github.com/libsdl-org/SDL/pull/15377</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47892291\">https://news.ycombinator.com/item?id=47892291</a></p>\n<p>Points: 198</p>\n<p># Comments: 70</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Diatec, known for its mechanical keyboard brand FILCO, has ceased operations",
+      "link": "https://gigazine.net/gsc_news/en/20260424-filco-diatec/",
+      "summary": "<p>Article URL: <a href=\"https://gigazine.net/gsc_news/en/20260424-filco-diatec/\">https://gigazine.net/gsc_news/en/20260424-filco-diatec/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47892236\">https://news.ycombinator.com/item?id=47892236</a></p>\n<p>Points: 78</p>\n<p># Comm..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Google Plans to Invest Up to $40B in Anthropic",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic\">https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "I cancelled Claude: Token issues, declining quality, and poor support",
+      "link": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
+      "summary": "<p>Article URL: <a href=\"https://nickyreinert.de/en/2026/2026-04-24-claude-critics/\">https://nickyreinert.de/en/2026/2026-04-24-claude-critics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47892019\">https://news.ycombinator.com/item?id=47892019</a></p>\n<p>Points: 711</p>\n<p..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "I'm done making desktop applications (2009)",
+      "link": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
+      "summary": "<p>Article URL: <a href=\"https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/\">https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47891801\">https://news.ycombinator.com/item?id=47891801</a></p>\n<p>Poin..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Different Language Models Learn Similar Number Representations",
+      "link": "https://arxiv.org/abs/2604.20817",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2604.20817\">https://arxiv.org/abs/2604.20817</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47890873\">https://news.ycombinator.com/item?id=47890873</a></p>\n<p>Points: 84</p>\n<p># Comments: 35</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Browser Harness – Gives LLM freedom to complete any browser task",
+      "link": "https://github.com/browser-use/browser-harness",
+      "summary": "<p>Hey HN,<p>We got tired of browser frameworks restricting the LLM, so we removed the framework and gave the LLM maximum freedom to do whatever it's trained on. We gave the harness the ability to self correct and add new tools if the LLM wants (is pre-trained on) that.<p>Our Browser Use library is ..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "There Will Be a Scientific Theory of Deep Learning [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sun588/there_will_be_a_scientific_theory_of_deep/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi, all! I'm the lead author on this ambitious (14-author!) perspective paper on deep learning theory. We've all been working seriously, and more or less exclusively, on deep learning for many years now. We believe that a theory is emerging, and we pull together fiv..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Research taste is a skill nobody talks about. How do you develop it without collaborators? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1suguuz/research_taste_is_a_skill_nobody_talks_about_how/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>if you've ever built an elegant, complex ML pipeline to solve something a 10-line prompt could've handled... this is for you.</p> <p>i've been thinking about what separates people who do useful research from people who do impressive-looking research. it's almost alw..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "[New Optimizer] 🌹 Rose: low VRAM, easy to use, great results, Apache 2.0 [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sucjwp/new_optimizer_rose_low_vram_easy_to_use_great/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello, World! I recently released a new PyTorch optimizer I've been researching and developing on my own for the last couple of years. It's named &quot;Rose&quot; in memory of my mother, who loved to hear about my discoveries and progress with AI.</p> <p>Without goi..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Everything is so casual at CS Conferences. Why charge exorbitant registration fees? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sumw4i/everything_is_so_casual_at_cs_conferences_why/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Why would anyone pay large amounts of registration fees and end up with empty poster boards and virtual presentations. Saw this happening at ICLR. Everything feels so casual and ignorant. No strict standards. Virtual oral talks are pre-recorded videos felt so unnatu..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "ICML 2026 - Final Predictions on Average Score Needed Before Scores Come Out in 1 week? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1su8rq1/icml_2026_final_predictions_on_average_score/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>What do people think the average score threshold will be for acceptance in ICML 2026? Author notification is on April 30th</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fit_Scale_1464\"> /u/Fit_Scale_1464 </a> <br /> <span><a ..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Is the ds/ml slowly being morphed into an AI engineer? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sudkoa/is_the_dsml_slowly_being_morphed_into_an_ai/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Agents are amazing. Harnesses are cool. But the fundamental role of a data scientist is not to use a generalist model in an existing workflow; it's a completely different field.</p> <p>AI engineering is the body of the vehicle, whereas the actual brain/engine behind..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "DharmaOCR: Open-Source Specialized SLM (3B) + Cost–Performance Benchmark against LLMs and other open-sourced models [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sun6wt/dharmaocr_opensource_specialized_slm_3b/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, we just open-sourced DharmaOCR on Hugging Face. Models and datasets are all public, free to use and experiment with.</p> <p>We also published the paper documenting all the experimentation behind it, for those who want to dig into the methodology.</p> <..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "We're open-sourcing the first publicly available blood detection model: dataset, weights, and CLI [P] [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sui6je/were_opensourcing_the_first_publicly_available/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey all, today we're releasing BloodshotNet, the world's first open-source blood detection model. We built it primarily for Trust &amp; Safety and content moderation use cases, the idea of acting as a front-line filter so users and human reviewers aren't exposed to ..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Nanochat vs Llama for training from scratch? [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1su5i3z/nanochat_vs_llama_for_training_from_scratch_p/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey all - I'm engaged in a project training a model entirely on historical data, which I've <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s4gga8/comment/ocrwkmt/?context=3\">posted about before on this subreddit.</a> My last training run was done using Nanoc..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "HPO - hyperparameter drift [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sumzh7/hpo_hyperparameter_drift_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey all, so I am running into a problem. I am training massive ML models which take literally a day to fully train. </p> <p>We want to run HPO to make it so that we can get the best parameters for the model and we require very high accuracy for the task so we need t..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Mitigating hallucination [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sug8uc/mitigating_hallucination_p/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi, Everyone. I repost this since my previous one was deleted(I don't know why, might be low quality of writing?) </p> <p>I’ve been working on a lightweight way to reduce hallucinations in LLMs without relying on external judges, extra human labels, or heavy prefere..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Deepseek v4 people",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1su7bnx/deepseek_v4_people/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1su7bnx/deepseek_v4_people/\"> <img alt=\"Deepseek v4 people\" src=\"https://preview.redd.it/obqgr0phx2xg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c278f7ae25444f9f55d5bfd460d01f013f2c7427\" title=\"Deepseek v4 people\" /> </a>..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Anthropic admits to have made hosted models more stupid, proving the importance of open weight, local models",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1suef7t/anthropic_admits_to_have_made_hosted_models_more/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1suef7t/anthropic_admits_to_have_made_hosted_models_more/\"> <img alt=\"Anthropic admits to have made hosted models more stupid, proving the importance of open weight, local models\" src=\"https://external-preview.redd.it/-ZOuSOhfH9_..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Deepseek V4 Flash and Non-Flash Out on HuggingFace",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1su3hdo/deepseek_v4_flash_and_nonflash_out_on_huggingface/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://huggingface.co/collections/deepseek-ai/deepseek-v4\">https://huggingface.co/collections/deepseek-ai/deepseek-v4</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MichaelXie4645\"> /u/MichaelXie4645 </a> <br /> ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "This is where we are right now, LocalLLaMA",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1suqfba/this_is_where_we_are_right_now_localllama/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1suqfba/this_is_where_we_are_right_now_localllama/\"> <img alt=\"This is where we are right now, LocalLLaMA\" src=\"https://preview.redd.it/44f42a2n17xg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=80f5fbe21f2ffbd09efd33d13aeb1f..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Deepseek V4 AGI comfirmed",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1suolda/deepseek_v4_agi_comfirmed/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1suolda/deepseek_v4_agi_comfirmed/\"> <img alt=\"Deepseek V4 AGI comfirmed\" src=\"https://preview.redd.it/wex0qwlpp6xg1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ff7d0b6acff3b01aa608d9e6fbcbcec11ad981ee\" title=\"Deepseek V4 A..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "This isn’t X this is Y needs to die",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1su07zn/this_isnt_x_this_is_y_needs_to_die/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>All models spam this exact phrase liberally. Time to train it out.</p> <p>That is all.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/twnznz\"> /u/twnznz </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "r/LocalLLaMa Rule Updates",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1su3ao4/rlocalllama_rule_updates/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1su3ao4/rlocalllama_rule_updates/\"> <img alt=\"r/LocalLLaMa Rule Updates\" src=\"https://preview.redd.it/izd15089x1xg1.png?width=140&amp;height=78&amp;auto=webp&amp;s=3103cde3bacdfecd32836a07bd17326c063cef66\" title=\"r/LocalLLaMa Rul..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "DeepSeek-v4 has a comical 384K max output capability",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1su9iio/deepseekv4_has_a_comical_384k_max_output/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1su9iio/deepseekv4_has_a_comical_384k_max_output/\"> <img alt=\"DeepSeek-v4 has a comical 384K max output capability\" src=\"https://preview.redd.it/6zcbzbkvj3xg1.png?width=140&amp;height=89&amp;auto=webp&amp;s=5696778837d1e08e5af99b..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Buried lede: Deepseek v4 Flash is incredibly inexpensive from the official API for its weight category",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1su5gj5/buried_lede_deepseek_v4_flash_is_incredibly/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1su5gj5/buried_lede_deepseek_v4_flash_is_incredibly/\"> <img alt=\"Buried lede: Deepseek v4 Flash is incredibly inexpensive from the official API for its weight category\" src=\"https://preview.redd.it/by8mpgr2f2xg1.png?width=640&amp..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "DS4-Flash vs Qwen3.6",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sub71w/ds4flash_vs_qwen36/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sub71w/ds4flash_vs_qwen36/\"> <img alt=\"DS4-Flash vs Qwen3.6\" src=\"https://preview.redd.it/bg8nrvxy14xg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=aafc53f41d59620da5cf78d0fff2fcad4a009ad5\" title=\"DS4-Flash vs Qwen3.6\" /> <..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Compared QWEN 3.6 35B with QWEN 3.6 27B for coding primitives",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1styxdy/compared_qwen_36_35b_with_qwen_36_27b_for_coding/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1styxdy/compared_qwen_36_35b_with_qwen_36_27b_for_coding/\"> <img alt=\"Compared QWEN 3.6 35B with QWEN 3.6 27B for coding primitives\" src=\"https://external-preview.redd.it/cHVqNDlyMWZ4MHhnMYxd3L7qtmZXrwNEjhWY8vlSrjFGWf1gdDLIQ1Hp3M..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Gemma 4 and Qwen 3.6 with q8_0 and q4_0 KV cache: KL divergence results",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1suh3sz/gemma_4_and_qwen_36_with_q8_0_and_q4_0_kv_cache/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1suh3sz/gemma_4_and_qwen_36_with_q8_0_and_q4_0_kv_cache/\"> <img alt=\"Gemma 4 and Qwen 3.6 with q8_0 and q4_0 KV cache: KL divergence results\" src=\"https://external-preview.redd.it/oXOAzH-GuUH6lKRA1Z8km-PqYbiOV2-uOmofUyAE5d0.jpeg?..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "No Multimodality yet in DeepSeek-V4. But I'll wait.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1su5l9i/no_multimodality_yet_in_deepseekv4_but_ill_wait/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1su5l9i/no_multimodality_yet_in_deepseekv4_but_ill_wait/\"> <img alt=\"No Multimodality yet in DeepSeek-V4. But I'll wait.\" src=\"https://preview.redd.it/qmkfhzmsg2xg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9f40935c71c9ab0..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Takeaways & discussion about the DeepSeek V4 architecture",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1subuve/takeaways_discussion_about_the_deepseek_v4/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Spent the morning looking at the V4 tech report. The benchmarks are getting deserved attention, but I think the architecture is also worth digging into. </p> <p>Quick thoughts below to encourage feedback and discussions. </p> <p><strong>TL;DR</strong><br /> - Signif..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Tested Deepseek v4 flash with some large code change evals. It absolutely kills with too use accuracy!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1suhdki/tested_deepseek_v4_flash_with_some_large_code/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1suhdki/tested_deepseek_v4_flash_with_some_large_code/\"> <img alt=\"Tested Deepseek v4 flash with some large code change evals. It absolutely kills with too use accuracy!\" src=\"https://external-preview.redd.it/a2dmcG84aWVlNXhnMSQQ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "What do you want me to try?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1su3tfb/what_do_you_want_me_to_try/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1su3tfb/what_do_you_want_me_to_try/\"> <img alt=\"What do you want me to try?\" src=\"https://preview.redd.it/z6ftq1zy12xg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8d64ea4a21bc232ea48df4a25c25ff4b8df38fc\" title=\"What do yo..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "OpenCode or ClaudeCode for Qwen3.5 27B",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1suav4f/opencode_or_claudecode_for_qwen35_27b/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm tired of copy &amp; pasting code. What should I try and why?<br /> Which is faster / easier to install?<br /> Which is easier to use?<br /> Which has less bugs?<br /> OpenCode or ClaudeCode with Qwen3.5/3.6 27B on Linux?</p> </div><!-- SC_ON --> &#32; submitted ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen3.6 35B-A3B is quite useful on 780m iGPU (llama.cpp,vulkan)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1su9yva/qwen36_35ba3b_is_quite_useful_on_780m_igpu/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have ThinkPad T14 Gen 5 (8840U, <strong>Radeon 780M</strong>, 64GB DDR5 5600 MT/s ). Tried out the recent Qwen MoE release, and pp/tg speed is good (on vulkan) (250+pp, 20 tg):</p> <pre><code>~/dev/llama.cpp master* ❯ ./build-vulkan/bin/llama-bench \\ -hf AesSedai/..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Hard freakin' decision..Blackwell 96G or Mac Studio 256G",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1su0mvt/hard_freakin_decisionblackwell_96g_or_mac_studio/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1su0mvt/hard_freakin_decisionblackwell_96g_or_mac_studio/\"> <img alt=\"Hard freakin' decision..Blackwell 96G or Mac Studio 256G\" src=\"https://preview.redd.it/e1chb6as12xg1.gif?frame=1&amp;width=140&amp;height=101&amp;auto=webp&amp..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "I just had a little ghost in the shell moment...",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sulutq/i_just_had_a_little_ghost_in_the_shell_moment/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sulutq/i_just_had_a_little_ghost_in_the_shell_moment/\"> <img alt=\"I just had a little ghost in the shell moment...\" src=\"https://preview.redd.it/6tpqamdn76xg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=27ae2ba48ffb6a50fe1..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "VLLM PR : New MoE model from Cohere soon",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sujzpf/vllm_pr_new_moe_model_from_cohere_soon/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/LinkSea8324\"> /u/LinkSea8324 </a> <br /> <span><a href=\"https://github.com/vllm-project/vllm/pull/40817\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sujzpf/vllm_pr_new_moe_model_from_cohere_soon/\">..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Deepseek flash seems like a very good replacement for Haiku at the very least",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1suiruw/deepseek_flash_seems_like_a_very_good_replacement/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>We have a chat system which we use haiku for because it is mostly about tool calling and summarisation of them. But we have many tools with pretty complex input schemas, and stuff like gemma didn't cut it, so we went with haiku. Haiku is pretty good. </p> <p>I ran t..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen3.6 27B really good?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1su035c/qwen36_27b_really_good/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>hi I'm new to this but I've seen many people say it's even better then some 300B models that shocked me a bit. </p> <p>is it really that good what models csn i compare it to and what quant? i tried searching myself but i can't run it right now and i just don't know ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen 3.6 27b IQ4_XS - 22 tp/s on RTX 5060TI 16b, 24k ctx",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1su0il5/qwen_36_27b_iq4_xs_22_tps_on_rtx_5060ti_16b_24k/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Maybe it be helpful for someone:<br /> llama-server -m '/Qwen3.6-27B/Qwen3.6-27B-IQ4_XS.gguf' -ngl 999 -ctk q4_0 -ctv q4_0 -b 128 -ub 128 -c 24000</p> <p>Cant run this model with higher kv quants on &gt;8192ctx size.<br /> -ub &amp; -b setted for 256 allowed me for ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Opinion: Qwen 3.6 27b Beats Sonnet 4.6 on Feature Planning",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1supft2/opinion_qwen_36_27b_beats_sonnet_46_on_feature/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1supft2/opinion_qwen_36_27b_beats_sonnet_46_on_feature/\"> <img alt=\"Opinion: Qwen 3.6 27b Beats Sonnet 4.6 on Feature Planning\" src=\"https://preview.redd.it/hvcz33w4u6xg1.jpg?width=140&amp;height=86&amp;auto=webp&amp;s=9e78956e86..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Seeing Fast and Slow: Learning the Flow of Time in Videos",
+      "link": "https://arxiv.org/abs/2604.21931v1",
+      "summary": "How can we tell whether a video has been sped up or slowed down? How can we generate videos at different speeds? Although videos have been central to modern computer vision research, little attention has been paid to perceiving and controlling the passage of time. In this paper, we study time as a l..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability",
+      "link": "https://arxiv.org/abs/2604.21930v1",
+      "summary": "Streaming Continual Learning (CL) typically converts a continuous stream into a sequence of discrete tasks through temporal partitioning. We argue that this temporal taskification step is not a neutral preprocessing choice, but a structural component of evaluation: different valid splits of the same..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Evaluation of Automatic Speech Recognition Using Generative Large Language Models",
+      "link": "https://arxiv.org/abs/2604.21928v1",
+      "summary": "Automatic Speech Recognition (ASR) is traditionally evaluated using Word Error Rate (WER), a metric that is insensitive to meaning. Embedding-based semantic metrics are better correlated with human perception, but decoder-based Large Language Models (LLMs) remain underexplored for this task. This pa..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Fine-Tuning Regimes Define Distinct Continual Learning Problems",
+      "link": "https://arxiv.org/abs/2604.21927v1",
+      "summary": "Continual learning (CL) studies how models acquire tasks sequentially while retaining previously learned knowledge. Despite substantial progress in benchmarking CL methods, comparative evaluations typically keep the fine-tuning regime fixed. In this paper, we argue that the fine-tuning regime, defin..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "The Sample Complexity of Multicalibration",
+      "link": "https://arxiv.org/abs/2604.21923v1",
+      "summary": "We study the minimax sample complexity of multicalibration in the batch setting. A learner observes $n$ i.i.d. samples from an unknown distribution and must output a (possibly randomized) predictor whose population multicalibration error, measured by Expected Calibration Error (ECE), is at most $\\va..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "MathDuels: Evaluating LLMs as Problem Posers and Solvers",
+      "link": "https://arxiv.org/abs/2604.21916v1",
+      "summary": "As frontier language models attain near-ceiling performance on static mathematical benchmarks, existing evaluations are increasingly unable to differentiate model capabilities, largely because they cast models solely as solvers of fixed problem sets. We introduce MathDuels, a self-play benchmark in ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs",
+      "link": "https://arxiv.org/abs/2604.21911v1",
+      "summary": "Despite impressive progress in capabilities of large vision-language models (LVLMs), these systems remain vulnerable to hallucinations, i.e., outputs that are not grounded in the visual input. Prior work has attributed hallucinations in LVLMs to factors such as limitations of the vision backbone or ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation",
+      "link": "https://arxiv.org/abs/2604.21910v1",
+      "summary": "Scientific workflow systems automate execution -- scheduling, fault tolerance, resource management -- but not the semantic translation that precedes it. Scientists still manually convert research questions into workflow specifications, a task requiring both domain knowledge and infrastructure expert..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Low-Rank Adaptation Redux for Large Models",
+      "link": "https://arxiv.org/abs/2604.21905v1",
+      "summary": "Low-rank adaptation (LoRA) has emerged as the de facto standard for parameter-efficient fine-tuning (PEFT) of foundation models, enabling the adaptation of billion-parameter networks with minimal computational and memory overhead. Despite its empirical success and rapid proliferation of variants, it..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models",
+      "link": "https://arxiv.org/abs/2604.21903v1",
+      "summary": "Deep-learning video super-resolution has progressed rapidly, but climate applications typically super-resolve (increase resolution) either space or time, and joint spatiotemporal models are often designed for a single pair of super-resolution (SR) factors (upscaling spatial and temporal ratio betwee..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "GiVA: Gradient-Informed Bases for Vector-Based Adaptation",
+      "link": "https://arxiv.org/abs/2604.21901v1",
+      "summary": "As model sizes continue to grow, parameter-efficient fine-tuning has emerged as a powerful alternative to full fine-tuning. While LoRA is widely adopted among these methods, recent research has explored vector-based adaptation methods due to their extreme parameter efficiency. However, these methods..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Mapping the Political Discourse in the Brazilian Chamber of Deputies: A Multi-Faceted Computational Approach",
+      "link": "https://arxiv.org/abs/2604.21897v1",
+      "summary": "Analyses of legislative behavior often rely on voting records, overlooking the rich semantic and rhetorical content of political speech. In this paper, we ask three complementary questions about parliamentary discourse: how things are said, what is being said, and who is speaking in discursively sim..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models",
+      "link": "https://arxiv.org/abs/2604.21896v1",
+      "summary": "This paper introduces a new paradigm for AI game programming, leveraging large language models (LLMs) to extend and operationalize Claude Shannon's taxonomy of game-playing machines. Central to this paradigm is Nemobot, an interactive agentic engineering environment that enables users to create, cus..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Revealing Geography-Driven Signals in Zone-Level Claim Frequency Models: An Empirical Study using Environmental and Visual Predictors",
+      "link": "https://arxiv.org/abs/2604.21893v1",
+      "summary": "Geographic context is often consider relevant to motor insurance risk, yet public actuarial datasets provide limited location identifiers, constraining how this information can be incorporated and evaluated in claim-frequency models. This study examines how geographic information from alternative da..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "A Multi-Stage Warm-Start Deep Learning Framework for Unit Commitment",
+      "link": "https://arxiv.org/abs/2604.21891v1",
+      "summary": "Maintaining instantaneous balance between electricity supply and demand is critical for reliability and grid instability. System operators achieve this through solving the task of Unit Commitment (UC),ca high dimensional large-scale Mixed-integer Linear Programming (MILP) problem that is strictly an..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "EVENT5Ws: A Large Dataset for Open-Domain Event Extraction from Documents",
+      "link": "https://arxiv.org/abs/2604.21890v1",
+      "summary": "Event extraction identifies the central aspects of events from text. It supports event understanding and analysis, which is crucial for tasks such as informed decision-making in emergencies. Therefore, it is necessary to develop automated event extraction approaches. However, existing datasets for a..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale",
+      "link": "https://arxiv.org/abs/2604.21889v1",
+      "summary": "Real-time detection and mitigation of technical anomalies are critical for large-scale cloud-native services, where even minutes of downtime can result in massive financial losses and diminished user trust. While customer incidents serve as a vital signal for discovering risks missed by monitoring, ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "A Multimodal Text- and Graph-Based Approach for Open-Domain Event Extraction from Documents",
+      "link": "https://arxiv.org/abs/2604.21885v1",
+      "summary": "Event extraction is essential for event understanding and analysis. It supports tasks such as document summarization and decision-making in emergency scenarios. However, existing event extraction approaches have limitations: (1) closed-domain algorithms are restricted to predefined event types and t..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Revisiting Non-Verbatim Memorization in Large Language Models: The Role of Entity Surface Forms",
+      "link": "https://arxiv.org/abs/2604.21882v1",
+      "summary": "Understanding what kinds of factual knowledge large language models (LLMs) memorize is essential for evaluating their reliability and limitations. Entity-based QA is a common framework for analyzing non-verbatim memorization, but typical evaluations query each entity using a single canonical surface..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Addressing Image Authenticity When Cameras Use Generative AI",
+      "link": "https://arxiv.org/abs/2604.21879v1",
+      "summary": "The ability of generative AI (GenAI) methods to photorealistically alter camera images has raised awareness about the authenticity of images shared online. Interestingly, images captured directly by our cameras are considered authentic and faithful. However, with the increasing integration of deep-l..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions",
+      "link": "https://arxiv.org/abs/2604.21871v1",
+      "summary": "Human moral judgment is context-dependent and modulated by interpersonal relationships. As large language models (LLMs) increasingly function as decision-support systems, determining whether they encode these social nuances is critical. We characterize machine behavior using the Whistleblower's Dile..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Locating acts of mechanistic reasoning in student team conversations with mechanistic machine learning",
+      "link": "https://arxiv.org/abs/2604.21870v1",
+      "summary": "STEM education researchers are often interested in identifying moments of students' mechanistic reasoning for deeper analysis, but have limited capacity to search through many team conversation transcripts to find segments with a high concentration of such reasoning. We offer a solution in the form ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Replay-buffer engineering for noise-robust quantum circuit optimization",
+      "link": "https://arxiv.org/abs/2604.21863v1",
+      "summary": "Deep reinforcement learning (RL) for quantum circuit optimization faces three fundamental bottlenecks: replay buffers that ignore the reliability of temporal-difference (TD) targets, curriculum-based architecture search that triggers a full quantum-classical evaluation at every environment step, and..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models",
+      "link": "https://arxiv.org/abs/2604.21860v1",
+      "summary": "Large language models (LLMs) are increasingly integrated into sensitive workflows, raising the stakes for adversarial robustness and safety. This paper introduces Transient Turn Injection(TTI), a new multi-turn attack technique that systematically exploits stateless moderation by distributing advers..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Bounding the Black Box: A Statistical Certification Framework for AI Risk Regulation",
+      "link": "https://arxiv.org/abs/2604.21854v1",
+      "summary": "Artificial intelligence now decides who receives a loan, who is flagged for criminal investigation, and whether an autonomous vehicle brakes in time. Governments have responded: the EU AI Act, the NIST Risk Management Framework, and the Council of Europe Convention all demand that high-risk systems ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Beyond Expected Information Gain: Stable Bayesian Optimal Experimental Design with Integral Probability Metrics and Plug-and-Play Extensions",
+      "link": "https://arxiv.org/abs/2604.21849v1",
+      "summary": "Bayesian Optimal Experimental Design (BOED) provides a rigorous framework for decision-making tasks in which data acquisition is often the critical bottleneck, especially in resource-constrained settings. Traditionally, BOED typically selects designs by maximizing expected information gain (EIG), co..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "TraceScope: Interactive URL Triage via Decoupled Checklist Adjudication",
+      "link": "https://arxiv.org/abs/2604.21840v1",
+      "summary": "Modern phishing campaigns increasingly evade snapshot-based URL classifiers using interaction gates (e.g., checkbox/slider challenges), delayed content rendering, and logo-less credential harvesters. This shifts URL triage from static classification toward an interactive forensics task: an analyst m..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Modulating Cross-Modal Convergence with Single-Stimulus, Intra-Modal Dispersion",
+      "link": "https://arxiv.org/abs/2604.21836v1",
+      "summary": "Neural networks exhibit a remarkable degree of representational convergence across diverse architectures, training objectives, and even data modalities. This convergence is predictive of alignment with brain representation. A recent hypothesis suggests this arises from learning the underlying struct..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "GFlowState: Visualizing the Training of Generative Flow Networks Beyond the Reward",
+      "link": "https://arxiv.org/abs/2604.21830v1",
+      "summary": "We present GFlowState, a visual analytics system designed to illuminate the training process of Generative Flow Networks (GFlowNets or GFNs). GFlowNets are a probabilistic framework for generating samples proportionally to a reward function. While GFlowNets have proved to be powerful tools in applic..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Alignment has a Fantasia Problem",
+      "link": "https://arxiv.org/abs/2604.21827v1",
+      "summary": "Modern AI assistants are trained to follow instructions, implicitly assuming that users can clearly articulate their goals and the kind of assistance they need. Decades of behavioral research, however, show that people often engage with AI systems before their goals are fully formed. When AI systems..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "On the algebra of Koopman eigenfunctions and on some of their infinities",
+      "link": "https://arxiv.org/abs/2604.21825v1",
+      "summary": "For continuous-time dynamical systems with reversible trajectories, the nowhere-vanishing eigenfunctions of the Koopman operator of the system form a multiplicative group. Here, we exploit this property to accelerate the systematic numerical computation of the eigenspaces of the operator. Given a sm..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows",
+      "link": "https://arxiv.org/abs/2604.21816v1",
+      "summary": "The Model Context Protocol (MCP) has become a common interface for connecting large language model (LLM) agents to external tools, but its reliance on stateless, eager schema injection imposes a hidden per-turn overhead the MCP Tax or Tools Tax that practitioner reports place between roughly 10k and..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Divide-then-Diagnose: Weaving Clinician-Inspired Contexts for Ultra-Long Capsule Endoscopy Videos",
+      "link": "https://arxiv.org/abs/2604.21814v1",
+      "summary": "Capsule endoscopy (CE) enables non-invasive gastrointestinal screening, but current CE research remains largely limited to frame-level classification and detection, leaving video-level analysis underexplored. To bridge this gap, we introduce and formally define a new task, diagnosis-driven CE video ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Probably Approximately Consensus: On the Learning Theory of Finding Common Ground",
+      "link": "https://arxiv.org/abs/2604.21811v1",
+      "summary": "A primary goal of online deliberation platforms is to identify ideas that are broadly agreeable to a community of users through their expressed preferences. Yet, consensus elicitation should ideally extend beyond the specific statements provided by users and should incorporate the relative salience ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Quotient-Space Diffusion Models",
+      "link": "https://arxiv.org/abs/2604.21809v1",
+      "summary": "Diffusion-based generative models have reformed generative AI, and have enabled new capabilities in the science domain, for example, generating 3D structures of molecules. Due to the intrinsic problem structure of certain tasks, there is often a symmetry in the system, which identifies objects that ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "SyMTRS: Benchmark Multi-Task Synthetic Dataset for Depth, Domain Adaptation and Super-Resolution in Aerial Imagery",
+      "link": "https://arxiv.org/abs/2604.21801v1",
+      "summary": "Recent advances in deep learning for remote sensing rely heavily on large annotated datasets, yet acquiring high-quality ground truth for geometric, radiometric, and multi-domain tasks remains costly and often infeasible. In particular, the lack of accurate depth annotations, controlled illumination..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "An effective variant of the Hartigan $k$-means algorithm",
+      "link": "https://arxiv.org/abs/2604.21798v1",
+      "summary": "The k-means problem is perhaps the classical clustering problem and often synonymous with Lloyd's algorithm (1957). It has become clear that Hartigan's algorithm (1975) gives better results in almost all cases, Telgarsky-Vattani note a typical improvement of $5\\%$ -- $10\\%$. We point out that a very..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Learning to Communicate: Toward End-to-End Optimization of Multi-Agent Language Systems",
+      "link": "https://arxiv.org/abs/2604.21794v1",
+      "summary": "Multi-agent systems built on large language models have shown strong performance on complex reasoning tasks, yet most work focuses on agent roles and orchestration while treating inter-agent communication as a fixed interface. Latent communication through internal representations such as key-value c..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Inferring High-Level Events from Timestamped Data: Complexity and Medical Applications",
+      "link": "https://arxiv.org/abs/2604.21793v1",
+      "summary": "In this paper, we develop a novel logic-based approach to detecting high-level temporally extended events from timestamped data and background knowledge. Our framework employs logical rules to capture existence and termination conditions for simple temporal events and to combine these into meta-even..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Compliance Moral Hazard and the Backfiring Mandate",
+      "link": "https://arxiv.org/abs/2604.21789v1",
+      "summary": "Competing firms that serve shared customer populations face a fundamental information aggregation problem: each firm holds fragmented signals about risky customers, but individual incentives impede efficient collective detection. We develop a mechanism design framework for decentralized risk analyti..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "SemEval-2026 Task 4: Narrative Story Similarity and Narrative Representation Learning",
+      "link": "https://arxiv.org/abs/2604.21782v1",
+      "summary": "We present the shared task on narrative similarity and narrative representation learning - NSNRL (pronounced \"nass-na-rel\"). The task operationalizes narrative similarity as a binary classification problem: determining which of two stories is more similar to an anchor story. We introduce a novel def..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Who Defines \"Best\"? Towards Interactive, User-Defined Evaluation of LLM Leaderboards",
+      "link": "https://arxiv.org/abs/2604.21769v1",
+      "summary": "LLM leaderboards are widely used to compare models and guide deployment decisions. However, leaderboard rankings are shaped by evaluation priorities set by benchmark designers, rather than by the diverse goals and constraints of actual users and organizations. A single aggregate score often obscures..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Misinformation Span Detection in Videos via Audio Transcripts",
+      "link": "https://arxiv.org/abs/2604.21767v1",
+      "summary": "Online misinformation is one of the most challenging issues lately, yielding severe consequences, including political polarization, attacks on democracy, and public health risks. Misinformation manifests in any platform with a large user base, including online social networks and messaging apps. It ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "AUDITA: A New Dataset to Audit Humans vs. AI Skill at Audio QA",
+      "link": "https://arxiv.org/abs/2604.21766v1",
+      "summary": "Existing audio question answering benchmarks largely emphasize sound event classification or caption-grounded queries, often enabling models to succeed through shortcut strategies, short-duration cues, lexical priors, dataset-specific biases, or even bypassing audio via metadata and captions rather ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "PrismaDV: Automated Task-Aware Data Unit Test Generation",
+      "link": "https://arxiv.org/abs/2604.21765v1",
+      "summary": "Data is a central resource for modern enterprises, and data validation is essential for ensuring the reliability of downstream applications. However, existing automated data unit testing frameworks are largely task-agnostic: they validate datasets without considering the semantics and requirements o..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Thinking with Reasoning Skills: Fewer Tokens, More Accuracy",
+      "link": "https://arxiv.org/abs/2604.21764v1",
+      "summary": "Reasoning LLMs often spend substantial tokens on long intermediate reasoning traces (e.g., chain-of-thought) when solving new problems. We propose to summarize and store reusable reasoning skills distilled from extensive deliberation and trial-and-error exploration, and to retrieve these skills at i..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Transferable Physics-Informed Representations via Closed-Form Head Adaptation",
+      "link": "https://arxiv.org/abs/2604.21761v1",
+      "summary": "Physics-informed neural networks (PINNs) have garnered significant interest for their potential in solving partial differential equations (PDEs) that govern a wide range of physical phenomena. By incorporating physical laws into the learning process, PINN models have demonstrated the ability to lear..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Interpretable facial dynamics as behavioral and perceptual traces of deepfakes",
+      "link": "https://arxiv.org/abs/2604.21760v1",
+      "summary": "Deepfake detection research has largely converged on deep learning approaches that, despite strong benchmark performance, offer limited insight into what distinguishes real from manipulated facial behavior. This study presents an interpretable alternative grounded in bio-behavioral features of facia..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Neural surrogates for crystal growth dynamics with variable supersaturation: explicit vs. implicit conditioning",
+      "link": "https://arxiv.org/abs/2604.21753v1",
+      "summary": "Simulations of crystal growth are performed by using Convolutional Recurrent Neural Network surrogate models, trained on a dataset of time sequences computed by numerical integration of Allen-Cahn dynamics including faceting via kinetic anisotropy. Two network architectures are developed to take int..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Why are all LLMs Obsessed with Japanese Culture? On the Hidden Cultural and Regional Biases of LLMs",
+      "link": "https://arxiv.org/abs/2604.21751v1",
+      "summary": "LLMs have been showing limitations when it comes to cultural coverage and competence, and in some cases show regional biases such as amplifying Western and Anglocentric viewpoints. While there have been works analysing the cultural capabilities of LLMs, there has not been specific work on highlighti..."
     }
   ],
-  "timestamp": "2026-04-23T22:42:52.941092",
-  "total_items": 201
+  "timestamp": "2026-04-24T22:37:57.109907",
+  "total_items": 309
 }
