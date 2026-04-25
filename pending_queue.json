@@ -1,3 +1,330 @@
 {
-  "data": []
+  "data": [
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The AI Industry Is Discovering That the Public Hates It",
+      "link": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
+      "summary": "<p>Article URL: <a href=\"https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash\">https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47904568\">https://news.ycombinator.com/item?i..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Can you stop beans from making you gassy?",
+      "link": "https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862",
+      "summary": "<p>Article URL: <a href=\"https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862\">https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47904224\">https://news.ycombinator.com/item?id=47904224</a></p>\n<p>Po..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "America's Geothermal Breakthrough Could Unlock a 150-Gigawatt Energy Revolution",
+      "link": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
+      "summary": "<p>Article URL: <a href=\"https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html\">https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolu..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Kloak, A secret manager that keeps K8s workload away from secrets",
+      "link": "https://getkloak.io/",
+      "summary": "<p>Article URL: <a href=\"https://getkloak.io/\">https://getkloak.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47903690\">https://news.ycombinator.com/item?id=47903690</a></p>\n<p>Points: 27</p>\n<p># Comments: 21</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "North American Millets Alliance(2023)",
+      "link": "https://milletsalliance.org/",
+      "summary": "<p>Article URL: <a href=\"https://milletsalliance.org/\">https://milletsalliance.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47903190\">https://news.ycombinator.com/item?id=47903190</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Mine, an IDE for Coalton and Common Lisp",
+      "link": "https://coalton-lang.github.io/mine/",
+      "summary": "<p>Article URL: <a href=\"https://coalton-lang.github.io/mine/\">https://coalton-lang.github.io/mine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47903173\">https://news.ycombinator.com/item?id=47903173</a></p>\n<p>Points: 42</p>\n<p># Comments: 4</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Hokusai and Tesselations",
+      "link": "https://dl.ndl.go.jp/pid/1899550/1/11/",
+      "summary": "<p>Article URL: <a href=\"https://dl.ndl.go.jp/pid/1899550/1/11/\">https://dl.ndl.go.jp/pid/1899550/1/11/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47902993\">https://news.ycombinator.com/item?id=47902993</a></p>\n<p>Points: 81</p>\n<p># Comments: 13</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Simulacrum of Knowledge Work",
+      "link": "https://blog.happyfellow.dev/simulacrum-of-knowledge-work/",
+      "summary": "<p>Article URL: <a href=\"https://blog.happyfellow.dev/simulacrum-of-knowledge-work/\">https://blog.happyfellow.dev/simulacrum-of-knowledge-work/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47902987\">https://news.ycombinator.com/item?id=47902987</a></p>\n<p>Points: 55</p>\n<p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Using coding assistance tools to revive projects you never were going to finish",
+      "link": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
+      "summary": "<p>Article URL: <a href=\"https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/\">https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/</a></p>\n<p>Comments UR..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "GPT‑5.5 Bio Bug Bounty",
+      "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/gpt-5-5-bio-bug-bounty/\">https://openai.com/index/gpt-5-5-bio-bug-bounty/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47901734\">https://news.ycombinator.com/item?id=47901734</a></p>\n<p>Points: 115</p>\n<p># Comments: 88</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "HEALPix",
+      "link": "https://en.wikipedia.org/wiki/HEALPix",
+      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/HEALPix\">https://en.wikipedia.org/wiki/HEALPix</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47901312\">https://news.ycombinator.com/item?id=47901312</a></p>\n<p>Points: 47</p>\n<p># Comments: 6</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Lambda Calculus Benchmark for AI",
+      "link": "https://victortaelin.github.io/lambench/",
+      "summary": "<p>Article URL: <a href=\"https://victortaelin.github.io/lambench/\">https://victortaelin.github.io/lambench/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47900506\">https://news.ycombinator.com/item?id=47900506</a></p>\n<p>Points: 122</p>\n<p># Comments: 37</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Discret 11, the French TV encryption of the 80s",
+      "link": "https://fabiensanglard.net/discret11/",
+      "summary": "<p>Article URL: <a href=\"https://fabiensanglard.net/discret11/\">https://fabiensanglard.net/discret11/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47900478\">https://news.ycombinator.com/item?id=47900478</a></p>\n<p>Points: 134</p>\n<p># Comments: 21</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Only one side will be the true successor to MS-DOS – Windows 2.x",
+      "link": "https://blisscast.wordpress.com/2026/04/21/windows-2-gui-wonderland-12a/",
+      "summary": "<p>Article URL: <a href=\"https://blisscast.wordpress.com/2026/04/21/windows-2-gui-wonderland-12a/\">https://blisscast.wordpress.com/2026/04/21/windows-2-gui-wonderland-12a/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47900451\">https://news.ycombinator.com/item?id=47900451</..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "A web-based RDP client built with Go WebAssembly and grdp",
+      "link": "https://github.com/nakagami/grdpwasm",
+      "summary": "<p>Article URL: <a href=\"https://github.com/nakagami/grdpwasm\">https://github.com/nakagami/grdpwasm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47900440\">https://news.ycombinator.com/item?id=47900440</a></p>\n<p>Points: 97</p>\n<p># Comments: 40</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Martin Galway's music source files from 1980's Commodore 64 games",
+      "link": "https://github.com/MartinGalway/C64_music",
+      "summary": "<p>Article URL: <a href=\"https://github.com/MartinGalway/C64_music\">https://github.com/MartinGalway/C64_music</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47900398\">https://news.ycombinator.com/item?id=47900398</a></p>\n<p>Points: 149</p>\n<p># Comments: 19</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+      "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+      "summary": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/\">https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47899053\">https://news.ycombi..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Plain text has been around for decades and it’s here to stay",
+      "link": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+      "summary": "<p>Article URL: <a href=\"https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/\">https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47897681\">https://news.yc..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Replace IBM Quantum back end with /dev/urandom",
+      "link": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
+      "summary": "<p>Article URL: <a href=\"https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md\">https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=478..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Which one is more important: more parameters or more computation? (2021)",
+      "link": "https://parl.ai/projects/params_vs_compute/",
+      "summary": "<p>Article URL: <a href=\"https://parl.ai/projects/params_vs_compute/\">https://parl.ai/projects/params_vs_compute/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47892655\">https://news.ycombinator.com/item?id=47892655</a></p>\n<p>Points: 39</p>\n<p># Comments: 5</p>..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "How to find to 'collaborate' with Professors to get funding for my research papers? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sv1473/how_to_find_to_collaborate_with_professors_to_get/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So, I have a few research papers, which I feel are good enough for top conferences' workshops or adjacent proceedings, and maybe even the main conference itself.</p> <p>I recently, submitted to and got accepted at a CVPR Archival Workshop (which is considered to be ..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "How Visual-Language-Action (VLA) Models Work [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1svhwtz/how_visuallanguageaction_vla_models_work_d/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1svhwtz/how_visuallanguageaction_vla_models_work_d/\"> <img alt=\"How Visual-Language-Action (VLA) Models Work [D]\" src=\"https://external-preview.redd.it/fBpt1C8zS6YDW2Lp0_fnNCU2C0Dw1W3tzt7P4g39SHw.jpeg?width=640&amp;crop=smar..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "UAI 2026 rebuttal [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sv8wnm/uai_2026_rebuttal_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello!</p> <p>Following the review release Thursday, I just finished working on my rebuttal. I assumed I would be allowed 5,000 characters ( that was the case for ICML), but it turns out the rebuttal at UAI is limited to 2,500 characters.</p> <p>Also, under each rev..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "How would you build an automated commentary engine for daily trade attribution at scale? [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sv3cnm/how_would_you_build_an_automated_commentary/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I'm currently working through a problem in the market risk reporting space and would love to hear how you all would architect this.</p> <p>The Use Case: &gt; I have thousands of trades coming in at varying frequencies (daily, monthly). I need to..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Interview Request for Academic Research Project on AI [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1svpt6e/interview_request_for_academic_research_project/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Dear Sir/Madam,</p> <p>I am a Lebanese student currently reaching out to kindly request your support for an academic research project I am conducting this year.</p> <p>My project explores the following research question:</p> <p>&quot;How will artificial intelligence..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Visualization help [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1svpll4/visualization_help_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was recently watching andrew ng's course on cnn. But was not able to visualise things like how that works... One of my main question is how does training happens visually... Like the process is same across which an image has to go... So how do we say that the mode..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "What actually breaks when you try to scale vehicle routing to ~1M stops? [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1svphqo/what_actually_breaks_when_you_try_to_scale/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been experimenting with scaling last-mile routing problems beyond typical sizes (tens of thousands of stops).</p> <p>Something interesting I ran into:</p> <p>At some point, the bottleneck stops being the routing algorithm itself and becomes how the system is st..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "How to deal with rebuttal character limit for long reviews? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1svjhzi/how_to_deal_with_rebuttal_character_limit_for/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>First time submitting to an AI conference here.</p> <p>How do you deal with the situation where a reviewer gives you a long list of review comments, but you only have a 2.5k character limit in your rebuttal?</p> <p>I think this is very common nowadays because review..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Open-source 9-task benchmark for coding-agent retrieval augmentation. Per-task deltas +0.010 to +0.320, all evals reproducible [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1suzqxe/opensource_9task_benchmark_for_codingagent/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1suzqxe/opensource_9task_benchmark_for_codingagent/\"> <img alt=\"Open-source 9-task benchmark for coding-agent retrieval augmentation. Per-task deltas +0.010 to +0.320, all evals reproducible [P]\" src=\"https://preview.redd.it..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "I'm glad we have deepseek",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1suyu7a/im_glad_we_have_deepseek/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>other companies are slowly going away from open weight, not releasing base models, delaying open weight distribution, not releasing top models (this one I think is fair, but still), and I also noticed they stopped publishing research (old Gemma and qwen had detailed..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "\"Weights are coming\".Xiaomi’s MiMo V2.5 Pro has landed at 54 in the Artificial Analysis Intelligence Index.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sv9q8f/weights_are_comingxiaomis_mimo_v25_pro_has_landed/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sv9q8f/weights_are_comingxiaomis_mimo_v25_pro_has_landed/\"> <img alt=\"&quot;Weights are coming&quot;.Xiaomi’s MiMo V2.5 Pro has landed at 54 in the Artificial Analysis Intelligence Index.\" src=\"https://preview.redd.it/k8q9x3imob..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen3.6-27B at ~80 tps with 218k context window on 1x RTX 5090 served by vllm 0.19",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sv8eua/qwen3627b_at_80_tps_with_218k_context_window_on/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Qwen3.6-27B is out for a few days and the NVFP4 with MTP is dropped earlier on HF: <a href=\"https://huggingface.co/sakamakismile/Qwen3.6-27B-Text-NVFP4-MTP\">https://huggingface.co/sakamakismile/Qwen3.6-27B-Text-NVFP4-MTP</a></p> <p>Can follow the same recipe I used ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "DeepSeek V4 Update",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sv8806/deepseek_v4_update/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sv8806/deepseek_v4_update/\"> <img alt=\"DeepSeek V4 Update\" src=\"https://preview.redd.it/he3eoyzr9bxg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ee880ebc2e1e5dd70ab91bba4e9e3d1fcc7b9efd\" title=\"DeepSeek V4 Update\" /> </a> ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen3.6 27B's surprising KV cache quantization test results (Turbo3/4 vs F16 vs Q8 vs Q4)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1suur3s/qwen36_27bs_surprising_kv_cache_quantization_test/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been using Qwen3.6-27B-Q5_K_M with turbo3 KV cache since it's been released, and I haven't had any issues at all (no loops, no memory loss, etc.). However, I'm also aware that K cache compression is not really recommended in most cases.</p> <p>So I wanted to ch..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Decreased Intelligence Density in DeepSeek V4 Pro",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1svbmnc/decreased_intelligence_density_in_deepseek_v4_pro/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1svbmnc/decreased_intelligence_density_in_deepseek_v4_pro/\"> <img alt=\"Decreased Intelligence Density in DeepSeek V4 Pro\" src=\"https://preview.redd.it/a6ix6ztc1cxg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=da064524f38a423..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "AMA Announcement: Nous Research, The Opensource Lab Behind Hermes Agent (Wednesday, 8AM-11AM PST)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1suw9on/ama_announcement_nous_research_the_opensource_lab/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1suw9on/ama_announcement_nous_research_the_opensource_lab/\"> <img alt=\"AMA Announcement: Nous Research, The Opensource Lab Behind Hermes Agent (Wednesday, 8AM-11AM PST)\" src=\"https://preview.redd.it/4wu342pa78xg1.jpeg?width=640&a..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Pics of new rig!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sv6sgq/pics_of_new_rig/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sv6sgq/pics_of_new_rig/\"> <img alt=\"Pics of new rig!\" src=\"https://preview.redd.it/qb3xu8msuaxg1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=4004b845e63a7457af9a95de8b1c6bebcad25456\" title=\"Pics of new ri..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Quantisation effects of Qwen3.6 35b a3b",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sv7crl/quantisation_effects_of_qwen36_35b_a3b/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Im curious how people are finding the quantisation effects of 35b. I recently updated to 48GB of vram so have jumped from ud-q4_k_xl​ to q8 and the difference feels stark. Just more effective tool calling, seems to get the vagueness and nuance more etc of some promp..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "GLM 5.1 Locally: 40tps, 2000+ pp/s",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1svgtlh/glm_51_locally_40tps_2000_pps/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>After some sglang patching and countless experiments, managed to get reap-ed nvfp4 version running stable and FAST on 4 x RTX 6000 Pros (limited to 350W). Very happy with performance and quality. Inference software is still under-optimized for those cards. I think w..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Kimi K2.6 - the mighty turtle that wins the race",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sv9aya/kimi_k26_the_mighty_turtle_that_wins_the_race/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sv9aya/kimi_k26_the_mighty_turtle_that_wins_the_race/\"> <img alt=\"Kimi K2.6 - the mighty turtle that wins the race\" src=\"https://preview.redd.it/ddynzz0b0bxg1.png?width=140&amp;height=111&amp;auto=webp&amp;s=a9a8ecaeb20bc8adba31..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "🛡️ Shield 82M: A PII stripping/filtering model 🛡️",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sv8ewy/shield_82m_a_pii_strippingfiltering_model/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey, <a href=\"/r/LocalLLaMA\">r/LocalLLaMA</a> !</p> <p>I am finally back with a new model: <strong>🛡️ Shield 82M</strong></p> <p>It's a finetuned version of distilroberta-base and it's able to <strong>filter out all types of PII (Personally identifiable information)..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "2x RTX 6000 build during an extended bench test",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1svmnra/2x_rtx_6000_build_during_an_extended_bench_test/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1svmnra/2x_rtx_6000_build_during_an_extended_bench_test/\"> <img alt=\"2x RTX 6000 build during an extended bench test\" src=\"https://external-preview.redd.it/bDJlN3lyanI5ZXhnMVwg-4SpilrSgCLD-sEZywzPwbgmSjLx5iQs2ngcIuwK.png?width=64..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Field report: coding with Qwen 3.6 35B-A3B on an M2 Macbook Pro with 32GB RAM",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1svdep5/field_report_coding_with_qwen_36_35ba3b_on_an_m2/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1svdep5/field_report_coding_with_qwen_36_35ba3b_on_an_m2/\"> <img alt=\"Field report: coding with Qwen 3.6 35B-A3B on an M2 Macbook Pro with 32GB RAM\" src=\"https://preview.redd.it/6jkn4u8okcxg1.png?width=140&amp;height=33&amp;auto=..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "PSA: Ubuntu 26.04 makes it easier to get started with AMD XDNA2 NPU",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1svfebz/psa_ubuntu_2604_makes_it_easier_to_get_started/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1svfebz/psa_ubuntu_2604_makes_it_easier_to_get_started/\"> <img alt=\"PSA: Ubuntu 26.04 makes it easier to get started with AMD XDNA2 NPU\" src=\"https://preview.redd.it/7mzqswrsvcxg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Throughput and TTFT comparisons of Qwen 3.6 27B, Qwen 3.6 35B A3B and Gemma 4 models on H100",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sv81sw/throughput_and_ttft_comparisons_of_qwen_36_27b/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sv81sw/throughput_and_ttft_comparisons_of_qwen_36_27b/\"> <img alt=\"Throughput and TTFT comparisons of Qwen 3.6 27B, Qwen 3.6 35B A3B and Gemma 4 models on H100\" src=\"https://preview.redd.it/crchmurg5bxg1.png?width=640&amp;crop=s..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "CUDA: reduce MMQ stream-k overhead by JohannesGaessler · Pull Request #22298 · ggml-org/llama.cpp",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1svdjfa/cuda_reduce_mmq_streamk_overhead_by/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1svdjfa/cuda_reduce_mmq_streamk_overhead_by/\"> <img alt=\"CUDA: reduce MMQ stream-k overhead by JohannesGaessler · Pull Request #22298 · ggml-org/llama.cpp\" src=\"https://external-preview.redd.it/BmJdwJdlhhwGWliKfxoiWUzzMKknIT_x1Hg..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen3.6-35B-A3B-UD-IQ4_XS C++ to Rust Code Port Test: It Worked (Mostly)!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sv3ff6/qwen3635ba3budiq4_xs_c_to_rust_code_port_test_it/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sv3ff6/qwen3635ba3budiq4_xs_c_to_rust_code_port_test_it/\"> <img alt=\"Qwen3.6-35B-A3B-UD-IQ4_XS C++ to Rust Code Port Test: It Worked (Mostly)!\" src=\"https://external-preview.redd.it/Vw3bBu31aiMSJTxYckiYR6DzhREt281xzPoVcP66tdI.jp..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "FINAL-Bench/Darwin-36B-Opus · Hugging Face",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1svl1wr/finalbenchdarwin36bopus_hugging_face/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1svl1wr/finalbenchdarwin36bopus_hugging_face/\"> <img alt=\"FINAL-Bench/Darwin-36B-Opus · Hugging Face\" src=\"https://external-preview.redd.it/AU0IxMAVASq_ZErqollOjCK4BziDP2TIPPT9Mt8HTGQ.png?width=640&amp;crop=smart&amp;auto=webp&am..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "What do you consider to be the minimum performance (t/s) for local Agent workflows?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1svaat8/what_do_you_consider_to_be_the_minimum/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>What would you say is the minimum amount of tokens per second you would tolerate for your local agent workflows? </p> <p>I have been trying <a href=\"http://pi.dev\">pi.dev</a> connected to a llama.cpp instance running Qwen3.6-27B-Q6_K_L with 200K context running on a..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "FP4 inference in llama.cpp (NVFP4) and ik_llama.cpp (MXFP4) landed - Finally",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1svfjyv/fp4_inference_in_llamacpp_nvfp4_and_ik_llamacpp/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1svfjyv/fp4_inference_in_llamacpp_nvfp4_and_ik_llamacpp/\"> <img alt=\"FP4 inference in llama.cpp (NVFP4) and ik_llama.cpp (MXFP4) landed - Finally\" src=\"https://preview.redd.it/sslj9ea0tcxg1.png?width=140&amp;height=106&amp;auto=w..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Is there a DFlash draft model compatible with Qwen3.6 27B yet?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sv5olz/is_there_a_dflash_draft_model_compatible_with/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Title.</p> <p>I have the draft for Qwen3.5 (not 3.6) 27B, would it be compatible? I tried this combination in oMLX and PP speed is actually much worse .</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/butterfly_labs\"> /u/butter..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen 3.6 27b - can I run on 1x 3090?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sv7bv3/qwen_36_27b_can_i_run_on_1x_3090/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi guys I'm considering run Qwen 3.6 27b cuz the limits of Claude or Codex make me angry. Can I run on 1x 3090 fluently? Or need more GPUs? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/szansky\"> /u/szansky </a> <br /> <span..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen3.6 35b a3b Particle System",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1svjtxi/qwen36_35b_a3b_particle_system/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1svjtxi/qwen36_35b_a3b_particle_system/\"> <img alt=\"Qwen3.6 35b a3b Particle System\" src=\"https://external-preview.redd.it/Z2Fkd2V6dG5wZHhnMagwfnVgunl31dfRirL1xydybOBDQo1HF1EzX9mNl2h3.png?width=640&amp;crop=smart&amp;auto=webp&am..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Open source multi-cursor/background computer-use (Codex-like) using Hermes Agent + Qwen3.6-35B-A3B-4bit + Cua-Driver",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1suux6h/open_source_multicursorbackground_computeruse/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1suux6h/open_source_multicursorbackground_computeruse/\"> <img alt=\"Open source multi-cursor/background computer-use (Codex-like) using Hermes Agent + Qwen3.6-35B-A3B-4bit + Cua-Driver\" src=\"https://external-preview.redd.it/OGY5eG..."
+    }
+  ],
+  "timestamp": "2026-04-25T22:36:12.269402",
+  "total_items": 54
 }
