@@ -14,6 +14,7 @@ The future of Agentic AI relies not just on foundational capacities, but heavily
 
 ## Pillar 2: Tool Routing & Meta-Cognitive Arbitration (The Fences)
 - **Minimize Tool Sprawl (MCP Standard)**: Exposing 100 raw API endpoints triggers decision paralysis and hallucination. Use JSON-RPC based Model Context Protocol (MCP) standards by exposing a **single generic verb** (e.g., `execute_harness`) that routes payloads in the backend. 
+- **Tool Attention & Lazy Schema Loading**: Avoid eager schema injection which imposes massive MCP/Tools Tax (token overhead). Implement dynamic tool gating and lazy schema loading, fetching exact tool constraints only when the context semantically requires them.
 - **Meta-Cognitive Routing Logic**: 
   - *Conflict Resolution Standard*: The Primary Agent executes **Internal Meta-Cognitive Arbitration** first. The agent assesses whether internal zero-shot logic solves the task. External tools are invoked *only* if bounded limits are exceeded.
   - Do NOT stack unnecessary Nano-Models ahead of the main agent if internal routing suffices; utilize lightweight rule-engines (Regex) primarily at entry points.

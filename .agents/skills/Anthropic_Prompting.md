@@ -29,3 +29,6 @@ During token generation, if the user or input log contains structural disruption
 When routing operations to smaller models or Mixture-of-Experts engines, never assume the overarching global system prompt persists optimally throughout long generations. 
 - **Pipelined Reminders**: Inject critical behavioral constraints deep into the User interaction context at localized task boundaries.
 - **Immediate Boundary Enforcement**: Define the ultimate constraint (e.g., output formatting, exact tool restriction, negative prohibitions) exactly 1 instruction line *before* the generation trigger.
+
+## 8. Reusable Reasoning Skills Distillation
+Do not waste tokens on extensive de-novo Chain-of-Thought (CoT) traces for repetitive logic. Summarize and store reusable reasoning skills distilled from previous trial-and-error operations. Retrieve and inject these compressed reasoning skills into the `<thinking>` block at inference time to minimize tokens and boost accuracy.
