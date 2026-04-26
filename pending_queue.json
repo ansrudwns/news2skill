@@ -323,8 +323,314 @@
       "title": "Open source multi-cursor/background computer-use (Codex-like) using Hermes Agent + Qwen3.6-35B-A3B-4bit + Cua-Driver",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1suux6h/open_source_multicursorbackground_computeruse/",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1suux6h/open_source_multicursorbackground_computeruse/\"> <img alt=\"Open source multi-cursor/background computer-use (Codex-like) using Hermes Agent + Qwen3.6-35B-A3B-4bit + Cua-Driver\" src=\"https://external-preview.redd.it/OGY5eG..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Butterflies are in decline across North America, a look at the Western Monarch",
+      "link": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
+      "summary": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/\">https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-loo..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: AI memory with biological decay (52% recall)",
+      "link": "https://github.com/sachitrafa/YourMemory",
+      "summary": "<p>Most RAG setups fail because they treat memory like a static filing cabinet. When every transient bug fix or abandoned rule is stored forever, the context window eventually chokes on noise, spiking token costs and degrading the agent's reasoning.<p>This implementation experiments with a biologica..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
+      "link": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
+      "summary": "<p><a href=\"https://www.letsrun.com/news/2026/04/15930-sabastian-sawe-shatters-the-2-hour-barrier-at-2026-london-marathon/\" rel=\"nofollow\">https://www.letsrun.com/news/2026/04/15930-sabastian-sawe-sh...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47914350\">https://n..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+      "link": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+      "summary": "<p>Article URL: <a href=\"https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d\">https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4791416..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "MoQ Boy",
+      "link": "https://moq.dev/blog/moq-boy/",
+      "summary": "<p>Article URL: <a href=\"https://moq.dev/blog/moq-boy/\">https://moq.dev/blog/moq-boy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47914161\">https://news.ycombinator.com/item?id=47914161</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+      "link": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+      "summary": "<p>Article URL: <a href=\"https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/\">https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/<..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "AI should elevate your thinking, not replace it",
+      "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+      "summary": "<p>Article URL: <a href=\"https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/\">https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47913650\">https://news.ycombinator.com/item?i..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The 1944 Warsaw Uprising, in Color",
+      "link": "https://www.barwypowstania.pl/",
+      "summary": "<p>Article URL: <a href=\"https://www.barwypowstania.pl/\">https://www.barwypowstania.pl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47913406\">https://news.ycombinator.com/item?id=47913406</a></p>\n<p>Points: 75</p>\n<p># Comments: 28</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Chernobyl Wildlife Forty Years On",
+      "link": "https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on\">https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47913382\">https://news.ycombinator.com/item?id=..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Auge Vision from Your Terminal",
+      "link": "https://auge.franzai.com/",
+      "summary": "<p>Article URL: <a href=\"https://auge.franzai.com/\">https://auge.franzai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47913349\">https://news.ycombinator.com/item?id=47913349</a></p>\n<p>Points: 17</p>\n<p># Comments: 2</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Dillo Browser Release 3.3.0",
+      "link": "https://dillo-browser.org/release/3.3.0/",
+      "summary": "<p>Article URL: <a href=\"https://dillo-browser.org/release/3.3.0/\">https://dillo-browser.org/release/3.3.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47911977\">https://news.ycombinator.com/item?id=47911977</a></p>\n<p>Points: 130</p>\n<p># Comments: 22</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "GoDaddy gave a domain to a stranger without any documentation",
+      "link": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
+      "summary": "<p>Article URL: <a href=\"https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/\">https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47911780\">https://news.ycombinator.co..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The Visible Zorker: Zork 1",
+      "link": "https://eblong.com/infocom/visi/zork1/",
+      "summary": "<p>Article URL: <a href=\"https://eblong.com/infocom/visi/zork1/\">https://eblong.com/infocom/visi/zork1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47911644\">https://news.ycombinator.com/item?id=47911644</a></p>\n<p>Points: 73</p>\n<p># Comments: 13</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "An AI agent deleted our production database. The agent's confession is below",
+      "link": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/lifeof_jer/status/2048103471019434248\">https://twitter.com/lifeof_jer/status/2048103471019434248</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47911524\">https://news.ycombinator.com/item?id=47911524</a></p>\n<p>Points: 333</p>\n<p>#..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Clay PCB Tutorial",
+      "link": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
+      "summary": "<p>Article URL: <a href=\"https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial\">https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47911350\">https://news.ycombinator.com/item?id=47911350</a></p>\n<p>Points: 175</p>\n<p>#..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Free textbook on engineering thermodynamics",
+      "link": "https://thermodynamicsbook.com/",
+      "summary": "<p>Author here. Feel free to send questions of any kind.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47911013\">https://news.ycombinator.com/item?id=47911013</a></p>\n<p>Points: 83</p>\n<p># Comments: 27</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "SWE-bench Verified no longer measures frontier coding capabilities",
+      "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/\">https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47910388\">https://news.ycombinator.com/item?id=47910388</a></..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Asahi Linux Progress Linux 7.0",
+      "link": "https://asahilinux.org/2026/04/progress-report-7-0/",
+      "summary": "<p>Article URL: <a href=\"https://asahilinux.org/2026/04/progress-report-7-0/\">https://asahilinux.org/2026/04/progress-report-7-0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47909226\">https://news.ycombinator.com/item?id=47909226</a></p>\n<p>Points: 573</p>\n<p># Comments: 2..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Statecharts: hierarchical state machines",
+      "link": "https://statecharts.dev/",
+      "summary": "<p>Article URL: <a href=\"https://statecharts.dev/\">https://statecharts.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47908833\">https://news.ycombinator.com/item?id=47908833</a></p>\n<p>Points: 264</p>\n<p># Comments: 76</p>..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Why do only big ML labs dominate widely-used models despite many open-source pretrained models smaller labs could do RL on? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1swa26o/why_do_only_big_ml_labs_dominate_widelyused/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’m trying to understand why models from major labs (GPT, Claude, etc.) dominate real-world usage? You might say it's due to the expensive pretraining compute budge, but there already exists many pretrained open-source models at the same scale (e.g., Kimi). </p> <p>..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Introducing AutoMuon, a one line drop in for AdamW [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1svw92f/introducing_automuon_a_one_line_drop_in_for_adamw/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I've been working on a small Python package called AutoMuon that makes the Muon optimizer usable as a drop-in replacement for AdamW in arbitrary PyTorch training pipelines.</p> <p>The core idea is relatively simple: Muon works primarily on 2D weight ma..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "How to collect evidence for LLM reviewer? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1svzgin/how_to_collect_evidence_for_llm_reviewer_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>As the title suggests, I received a weak rejection with high confidence from a reviewer who is clearly LLM written, while all 4 other reviewers had given a positive score with low confidence.</p> <p>Most of the points he raised are trivial and do not apply to my pap..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Going from 3B/7B dense to Nemotron 3 Nano (hybrid Mamba-MoE) for multi-task reasoning — what changes in the fine-tuning playbook? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1sw5b44/going_from_3b7b_dense_to_nemotron_3_nano_hybrid/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Following up on something I posted a few days back about fine-tuning for multi-task reasoning. Read a lot since then, and I've moved past the dense 3B vs 7B question — landing on Nemotron 3 Nano (the 30B-A3B hybrid Mamba-Attention-MoE NVIDIA released recently) inste..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Speculative Decoding Implementations: EAGLE-3, Medusa-1, PARD, Draft Models, N-gram and Suffix Decoding from scratch [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1swfftl/speculative_decoding_implementations_eagle3/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been working on an educational implementation repo for speculative decoding:</p> <p><a href=\"https://github.com/shreyansh26/Speculative-Decoding\">https://github.com/shreyansh26/Speculative-Decoding</a></p> <p>The goal is not to wrap existing libraries, but to i..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Can Geometric Deep Learning lead eliminate the need of \"Brute Force\" pre-training [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1swkxx1/can_geometric_deep_learning_lead_eliminate_the/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been reading about Geometric Deep Learning lately (the whole grids, graphs, groups, manifolds idea), and something clicked that i wanted to get a clarity on, i don't think i'm an expert at GDL or anything mentioned here, so i can most definitely be wrong at a f..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "LabelSets — open quality standard for AI training data (LQS v3.1) [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1swghah/labelsets_open_quality_standard_for_ai_training/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Built a third-party quality rating system for ML datasets. Multi-oracle (7 scorers across 5 algorithm families), conformal prediction intervals on downstream F1, Ed25519-signed certs, and a contamination check against 40+ public evals (MMLU, HumanEval, GSM8K, MedQA,..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "HauhauCS (of \"Uncensored Aggressive\" fame) published an abliteration package that plagiarizes Heretic without attribution, and violates its license",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sw77p0/hauhaucs_of_uncensored_aggressive_fame_published/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>HauhauCS (<a href=\"https://www.reddit.com/user/hauhau901\">u/hauhau901</a>) publishes uncensored LLM models on <a href=\"https://huggingface.co/HauhauCS\">HuggingFace</a> with 5M+ combined monthly downloads across 22 models (verified via the HuggingFace API, April 2026..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen3.6 35B A3B Heretic (KLD 0.0015!) Incredible model. Best 35B I have found!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sw5fb7/qwen36_35b_a3b_heretic_kld_00015_incredible_model/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sw5fb7/qwen36_35b_a3b_heretic_kld_00015_incredible_model/\"> <img alt=\"Qwen3.6 35B A3B Heretic (KLD 0.0015!) Incredible model. Best 35B I have found!\" src=\"https://external-preview.redd.it/Tnl4-vK9SnD_9hdlCNPNYTtY9PFLnXj8opFEHyIf..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Confirmed: SWE Bench is now a benchmaxxed benchmark",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1swfdbj/confirmed_swe_bench_is_now_a_benchmaxxed_benchmark/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1swfdbj/confirmed_swe_bench_is_now_a_benchmaxxed_benchmark/\"> <img alt=\"Confirmed: SWE Bench is now a benchmaxxed benchmark\" src=\"https://external-preview.redd.it/OHdlxr4_CW1LVq4IfnhscfLm_rBNE9eFT28NWxu1HBI.png?width=640&amp;crop..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen3.6-27B-INT4 clocking 100 tps with 256k context length on 1x RTX 5090 via vllm 0.19",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sw21op/qwen3627bint4_clocking_100_tps_with_256k_context/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Thanks to the community the Qwen3.6-27B speed keeps getting better. The following improves upon my recipe from <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sv8eua/qwen3627b_at_80_tps_with_218k_context_window_on/\">yesterday</a> and delivered a whopping 100+..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "I can’t believe I can say “ugh I don’t feel like fixing this function, it’s too complex” and I can literally just tell my computer to fix it for me. I didn’t understand what they meant by “people will start paying for intelligence” but now I do.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1svu9xe/i_cant_believe_i_can_say_ugh_i_dont_feel_like/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>And in this case it’s free! Aside from the electricity haha </p> <p>I hope these things aren’t conscious. I’d feel awful demanding them to work on my code!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Borkato\"> /u/Borkato </..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "The exact KV cache usage of DeepSeek V4",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1svzlog/the_exact_kv_cache_usage_of_deepseek_v4/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Figure 1 of DSV4 paper seems to imply that DSV3.2 uses ~50GB at 1m context and DSV4 uses ~5GB:</p> <p><a href=\"https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf\">https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf<..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "New model for detecting and masking PII from OpenAI",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sw000s/new_model_for_detecting_and_masking_pii_from/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sw000s/new_model_for_detecting_and_masking_pii_from/\"> <img alt=\"New model for detecting and masking PII from OpenAI\" src=\"https://external-preview.redd.it/nMPRfjaoZsIHDPqT4DEeCX4HQSHJobjU8afcVy-rVq0.png?width=640&amp;crop=smart..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Are Unsloth models as good as I read?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sw8uyf/are_unsloth_models_as_good_as_i_read/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Has anybody done some comparing between the models that Unsloth offers and their counter part?<br /> For example: I've been using qwen3.6:35b-a3b Q4_K_M , and on my MBP 64GB I get around 39 t/s<br /> Using Unsloth Studio, unsloth/qwen3.6:35b-a3b UD-Q4_K_XL I get aro..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen3.5/3.6 Coder?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1svwbqe/qwen3536_coder/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>With practically all of LocalLlama glazing Qwen 3.5/3.6 for it's coding skills. Along with the fact that Alibaba themselves are focusing on making Qwen a reliable coding agent, does this rule out the chance for a new Qwen Coder? I wonder if they'd just focus on the ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Using PaddleOCR-VL-1.5 with llama-server for book OCR",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sw1n7o/using_paddleocrvl15_with_llamaserver_for_book_ocr/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sw1n7o/using_paddleocrvl15_with_llamaserver_for_book_ocr/\"> <img alt=\"Using PaddleOCR-VL-1.5 with llama-server for book OCR\" src=\"https://preview.redd.it/i4a4erhqthxg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=06ee7ec0192..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Experts-Volunteers needed for Vulkan on ik_llama.cpp",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1svy5rj/expertsvolunteers_needed_for_vulkan_on_ik_llamacpp/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>ik_llama.cpp is great for both CPU &amp; CUDA. Need legends to make Vulkan better as well.</p> <p><a href=\"https://github.com/ikawrakow/ik_llama.cpp/discussions/590#discussioncomment-16357564\">https://github.com/ikawrakow/ik_llama.cpp/discussions/590#discussioncomme..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Benchmark: Windows 11 vs Lubuntu 26.04 on Llama.cpp (RTX 5080 + i9-14900KF). I didn't expect the gap to be this big.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sw2fjc/benchmark_windows_11_vs_lubuntu_2604_on_llamacpp/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>UPDATE:</strong> Vulkan benches arew now included. And yes, I used AI to help me write this post.</p> <p>As a life-long Windows user (don't hate me, I was exposed to it at a young age) I was wondering how much (if any) performance I'm leaving on the table. S..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen3.6-35B-A3B KLDs - INTs and NVFPs",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1svq8lm/qwen3635ba3b_klds_ints_and_nvfps/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1svq8lm/qwen3635ba3b_klds_ints_and_nvfps/\"> <img alt=\"Qwen3.6-35B-A3B KLDs - INTs and NVFPs\" src=\"https://preview.redd.it/c76w57d1yexg1.png?width=140&amp;height=83&amp;auto=webp&amp;s=33c0eae8633265e0074c8e89aee78626b413c658\" tit..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "llama.cpp DeepSeek v4 Flash experimental inference",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sw3stb/llamacpp_deepseek_v4_flash_experimental_inference/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi, <a href=\"https://github.com/antirez/llama.cpp-deepseek-v4-flash\">here you can find</a> experimental llama.cpp support for DeepSeek v4, and <a href=\"https://huggingface.co/antirez/deepseek-v4-gguf\">here</a> there is the GGUF you can use to run the inference with ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Switched from Qwen3.6 35b-a3b to Qwen3.6 27b mid coding and it's noticeably better!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1swifke/switched_from_qwen36_35ba3b_to_qwen36_27b_mid/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1swifke/switched_from_qwen36_35ba3b_to_qwen36_27b_mid/\"> <img alt=\"Switched from Qwen3.6 35b-a3b to Qwen3.6 27b mid coding and it's noticeably better!\" src=\"https://preview.redd.it/p4wwgjhaclxg1.png?width=640&amp;crop=smart&amp;a..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Structured CoT: Shorter Reasoning with a Grammar File",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1svtsm1/structured_cot_shorter_reasoning_with_a_grammar/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Thrumpwart\"> /u/Thrumpwart </a> <br /> <span><a href=\"https://andthattoo.dev/blog/structured_cot\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1svtsm1/structured_cot_shorter_reasoning_with_a_grammar/..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Hardware Choice for 27b to 31b models.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sw7e0g/hardware_choice_for_27b_to_31b_models/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've come to a point where I find the 27b and 31b models quite impressive. </p> <p>I have a 16 GB AMD Radeon 7800xt. It performs quite well. It was $700. Here is my question: </p> <p>Is the dual GPU approach performance hit worth it if I save around $400 over a sing..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Thoughts on using an AMD Alveo V80 FPGA PCI card as a poor man’s Taalas HC1 (LLM-burned-onto-a-chip).",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1swjxjx/thoughts_on_using_an_amd_alveo_v80_fpga_pci_card/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1swjxjx/thoughts_on_using_an_amd_alveo_v80_fpga_pci_card/\"> <img alt=\"Thoughts on using an AMD Alveo V80 FPGA PCI card as a poor man’s Taalas HC1 (LLM-burned-onto-a-chip).\" src=\"https://preview.redd.it/z39jahyzplxg1.jpeg?width=64..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Comparison of upcoming x86 unified memory systems",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1swiylm/comparison_of_upcoming_x86_unified_memory_systems/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.google.com/search?q=gorgon+halo+memory+bandwidth+versus+strix+halo%3F\">AMD Gorgon halo</a> summer this year. 15% faster memory clock speeds / bandwidth, than <a href=\"https://www.google.com/search?q=amd+strix+halo\">strix halo</a>.</p> <p><a href..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Is there any top level hobbyist hardware you guys are waiting to come out this year?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sw7nk7/is_there_any_top_level_hobbyist_hardware_you_guys/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So I've explored buy everything from an RTX 6000 to Mac Studio 512gb M3 ultra to a DGX Spark (I need to travel) for local llm generation. I was about to start looking into a M5 macbook, but I figured I'd ask you guys if there was anything you were waiting for? </p> ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Speculative decoding with Gemma-4-31B + Gemma-4-E2B enables 120 - 200 tok/s output speed for specific tasks",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1sw782p/speculative_decoding_with_gemma431b_gemma4e2b/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sw782p/speculative_decoding_with_gemma431b_gemma4e2b/\"> <img alt=\"Speculative decoding with Gemma-4-31B + Gemma-4-E2B enables 120 - 200 tok/s output speed for specific tasks\" src=\"https://preview.redd.it/m9j3wzb2bjxg1.png?width=..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Opencode-power-pack – Claude Code skills ported to OpenCode",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1swf37n/opencodepowerpack_claude_code_skills_ported_to/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I switched from Claude Code to OpenCode a few weeks ago and realized most of Anthropic's official Claude Code plugins don't transfer directly. The reason is that those plugins put their value in `commands/` and `agents/`, both of which are Claude-Code-only formats. ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "mesa PR with 37-130% llama.cpp pp perf gain for vulkan on Linux on Intel Xe2",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1swgwvh/mesa_pr_with_37130_llamacpp_pp_perf_gain_for/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheBlueMatt\"> /u/TheBlueMatt </a> <br /> <span><a href=\"https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/41172\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1swgwvh/mesa_pr_with_37130_llamac..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "What is the best coding agent (CLI) like Claude Code for Local Development",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1swhw84/what_is_the_best_coding_agent_cli_like_claude/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey all:</p> <p>I am trying to set up claude code to work with llama.cpp, I am using the Qwen3.6-35B-A3B.</p> <p>I usually use claude code + ZLM subscription i got lucky with $30 yearly - the set up is very simple with their automated script, but for the life of me ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Speculative Decoding Implementations: EAGLE-3, Medusa-1, PARD, Draft Models, N-gram and Suffix Decoding from scratch",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1swfgrq/speculative_decoding_implementations_eagle3/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been working on an educational implementation repo for speculative decoding:</p> <p><a href=\"https://github.com/shreyansh26/Speculative-Decoding\">https://github.com/shreyansh26/Speculative-Decoding</a></p> <p>The goal is not to wrap existing libraries, but to i..."
     }
   ],
-  "timestamp": "2026-04-25T22:36:12.269402",
-  "total_items": 54
+  "timestamp": "2026-04-26T22:37:16.010460",
+  "total_items": 105
 }
