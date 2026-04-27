@@ -122,11 +122,16 @@ def main():
     results.extend(fetch_generic_blog("https://github.com/trending?spoken_language_code=en", "GitHub Trending", "article.Box-row", "h2.h3", "a"))
     
     # --- Deduplication Logic (중복 방지) ---
-    seen_file = "seen_urls.txt"
+    import glob
+    current_year = datetime.now().year
+    seen_file = f"seen_urls_{current_year}.txt"
     seen_urls = set()
-    if os.path.exists(seen_file):
-        with open(seen_file, "r", encoding="utf-8") as f:
-            seen_urls = set(line.strip() for line in f if line.strip())
+    
+    # Read from all seen_urls files to prevent duplicate fetching across years
+    for sf in glob.glob("seen_urls*.txt"):
+        if os.path.exists(sf):
+            with open(sf, "r", encoding="utf-8") as f:
+                seen_urls.update(line.strip() for line in f if line.strip())
             
     filtered_results = []
     new_urls = []

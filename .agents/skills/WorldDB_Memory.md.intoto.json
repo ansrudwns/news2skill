@@ -1,0 +1,31 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "WorldDB_Memory.md",
+        "digest": {
+          "sha256": "1334cbb701cc7acb201f76e11237d7b9eebf4c902c6d604a545512aaefd0afe6"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Legacy-Bootstrap-Migration-2026-04-22"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false,
+        "note": "One-shot legacy bootstrap. See README \u00a7Provenance & Audit."
+      },
+      "timestamp": "2026-04-25T06:23:47.452347+00:00"
+    }
+  },
+  "signature": "921e1f5b84b0d7f9b8003416d0ce5c645fa7fd21514991e31d2c248792966de6"
+}

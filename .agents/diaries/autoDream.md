@@ -1,5 +1,5 @@
 ---
-description: Legacy migrated asset.
+description: Background memory-healing daemon that compresses long-horizon context via summary + K_Token_Merging so months of working history survive within restrictive context windows.
 ---
 # autoDream (Self-Healing Memory Daemon)
 ## Architectural Insight

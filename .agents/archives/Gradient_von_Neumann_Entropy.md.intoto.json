@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "Gradient_von_Neumann_Entropy.md",
+        "digest": {
+          "sha256": "ac0de9c4f9a741d3b87e0d6395a47132bfc1f768f1edd16ea00d5bb3c9400a23"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Automated-Signer-CLI"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-27T07:10:17.087819+00:00"
+    }
+  },
+  "signature": "f49ccc9dd64147961f265354886dd448c1b044fea8fa4f39c84a16004a8787bb"
+}

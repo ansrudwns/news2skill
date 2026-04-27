@@ -1,5 +1,5 @@
 ---
-description: Legacy migrated asset.
+description: Runtime boundary shield against indirect prompt injection — sanitizes MCP/web payloads with aggressive regex at the tool_call input boundary, the only place regex is permitted under DSP Rule 2.
 ---
 # ClawGuard: Runtime Boundary Shield against Indirect Prompt Injection
 

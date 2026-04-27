@@ -1,5 +1,5 @@
 ---
-description: Legacy migrated asset.
+description: "[RESEARCH MODE] Step-Level Information Gain heuristic that prunes redundant search branches inside Research_Dialectic_Tree_Search via novelty-vs-overlap scoring."
 ---
 # SKILL: IG-Search (Information Gain Search Strategy)
 > Evaluator Score: 92/100 (Passed)

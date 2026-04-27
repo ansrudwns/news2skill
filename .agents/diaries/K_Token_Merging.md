@@ -1,5 +1,5 @@
 ---
-description: Legacy migrated asset.
+description: Context compression via cosine-similarity-based agglomerative merging of adjacent token latents — mitigates O(N^2) attention scaling and feeds into the autoDream healing loop.
 ---
 # Architectural Diary: K-Token Merging for Context Compression
 > Evaluator Score: 88/100 (Passed)

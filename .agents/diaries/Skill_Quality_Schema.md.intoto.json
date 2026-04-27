@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "Skill_Quality_Schema.md",
+        "digest": {
+          "sha256": "258eb472560ae7ff4983812abb580f8be7ccd68079af0cc281294c189b56f4d3"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Automated-Signer-CLI"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-27T07:10:17.089824+00:00"
+    }
+  },
+  "signature": "b8d7bdb5bf5330c549d090b3f4b12a64ae88cce3d8c1b93624f434f00d55729b"
+}

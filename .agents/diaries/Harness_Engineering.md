@@ -1,5 +1,5 @@
 ---
-description: Legacy migrated asset.
+description: Meta-cognitive control-layer playbook combining structural guardrails, Progressive Disclosure context pruning, and MCP tool routing — the umbrella architecture under which strict-mode, dialectic, and aggregation skills compose.
 ---
 # Harness Engineering: The Definitive Meta-Cognitive Control Layer
 

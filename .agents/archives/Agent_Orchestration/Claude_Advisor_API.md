@@ -1,5 +1,5 @@
 ---
-description: Legacy migrated asset.
+description: Reference architecture for Anthropic's Advisor Tool paradigm — meta-cognitive orchestration handoffs between a primary agent and specialised advisor sub-agents.
 ---
 # Claude Advisor Tool API Architecture Reference
 

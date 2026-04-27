@@ -1,0 +1,31 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "Inference_Optimizers.md",
+        "digest": {
+          "sha256": "a6fd88eddb95788394fdb7fff78f0d4a1b68b35955d300ca5981d6e707d8c582"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Legacy-Bootstrap-Migration-2026-04-22"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false,
+        "note": "One-shot legacy bootstrap. See README \u00a7Provenance & Audit."
+      },
+      "timestamp": "2026-04-25T06:23:47.446633+00:00"
+    }
+  },
+  "signature": "5fa876e0cf1851b7c239621c579d92274fe5c778270787b63ae0e990a5cd3f3a"
+}

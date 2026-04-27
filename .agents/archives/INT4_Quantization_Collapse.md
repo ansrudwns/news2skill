@@ -1,5 +1,5 @@
 ---
-description: Legacy migrated asset.
+description: Diagnoses INT4 PTQ failure modes (Hessian eigenvector misalignment under discrete projection) and prescribes orthogonal clipping plus LoRA outlier compensation for 24GB constrained deployments.
 ---
 # Archive: INT4 Quantization Collapse Mechanisms
 > Evaluator Score: 85/100 (Passed)

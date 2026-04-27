@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "Adaptive_Head_Budgeting.md",
+        "digest": {
+          "sha256": "facfa858b4ae7a9994244443f20a2bf24c7370c43c360cb76d8e31e161696d35"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Automated-Signer-CLI"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-04-27T07:10:17.088826+00:00"
+    }
+  },
+  "signature": "4908a160db48e32591229f0e41af78ffaab3dcabfb2227ebe4c96c301a057809"
+}

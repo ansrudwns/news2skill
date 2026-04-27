@@ -1,5 +1,5 @@
 ---
-description: Legacy migrated asset.
+description: Workflow resilience layer — serializes pipeline state to .agents/staging/checkpoint.json on Dummy Returns so retries resume rather than burn API tokens from scratch.
 ---
 # SnapState: Workflow Resilience and Persistence Layer
 

@@ -1,5 +1,5 @@
 ---
-description: Legacy migrated asset.
+description: Hierarchical Map-Reduce architecture (Planner -> Fanout -> Synthesizer) gated to engage only above 80% prompt usage or anticipated 180s timeout, per Harness_Engineering Pillar 2.
 ---
 # Agentic Aggregation: Parallel Scale-Out Architecture
 
