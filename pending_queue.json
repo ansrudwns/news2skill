@@ -5867,8 +5867,638 @@
       "title": "mdok-style at SemEval-2026 Task 9: Finetuning LLMs for Multilingual Polarization Detection",
       "link": "https://arxiv.org/abs/2605.02695v1",
       "summary": "SemEval-2026 Task 9 is focused on multilingual polarization detection. Specifically, it covers the identification of multilingual, multicultural and multievent polarization along three axes (in subtasks), namely detection, type, and manifestation. Online polarization presents a concern, because it i..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+      "summary": "..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+      "summary": "..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Granite 4.1 LLMs: How They’re Built",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+      "summary": "..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+      "link": "https://huggingface.co/blog/inference-providers-deepinfra",
+      "summary": "..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+      "summary": "..."
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Enabling a new model for healthcare with AI co-clinician",
+      "link": "https://deepmind.google/blog/ai-co-clinician/",
+      "summary": "Researching the path to AI-augmented care and development of an AI co-clinician...."
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Announcing our partnership with the Republic of Korea",
+      "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Apple is enforcing an old App Store rule against a new kind of software",
+      "link": "https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code",
+      "summary": "<p>Article URL: <a href=\"https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code\">https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48042099\">https://news.ycombinator.com/item?id=48042099</a></p>\n<p>Points..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Mickey Mouse is watching you: Disneyland deploys facial recognition",
+      "link": "https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition\">https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48041953\">https://news.ycombi..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions",
+      "link": "https://github.com/olivier-ls/php-fts",
+      "summary": "<p>Article URL: <a href=\"https://github.com/olivier-ls/php-fts\">https://github.com/olivier-ls/php-fts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48041316\">https://news.ycombinator.com/item?id=48041316</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "MIT’s virtual violin offers luthiers a new design tool",
+      "link": "https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/\">https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48041009\">htt..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Inkscape 1.4.4",
+      "link": "https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html",
+      "summary": "<p>Article URL: <a href=\"https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html\">https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48040622\">https://news.ycombinator.com/item?id=48040622</a></p>\n<p>Points..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Learning the Integral of a Diffusion Model",
+      "link": "https://sander.ai/2026/05/06/flow-maps.html",
+      "summary": "<p>Article URL: <a href=\"https://sander.ai/2026/05/06/flow-maps.html\">https://sander.ai/2026/05/06/flow-maps.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48040002\">https://news.ycombinator.com/item?id=48040002</a></p>\n<p>Points: 60</p>\n<p># Comments: 14</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
+      "link": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
+      "summary": "<p>Article URL: <a href=\"https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/\">https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/</a></p>\n<p>Comme..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Going Full Time on Open Source",
+      "link": "https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/",
+      "summary": "<p>Article URL: <a href=\"https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/\">https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48038864\">https://news.ycombinator.com/item?id=48038864</a></p>\n<p>Points..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "From Supabase to Clerk to Better Auth",
+      "link": "https://blog.val.town/better-auth",
+      "summary": "<p>Article URL: <a href=\"https://blog.val.town/better-auth\">https://blog.val.town/better-auth</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48038827\">https://news.ycombinator.com/item?id=48038827</a></p>\n<p>Points: 165</p>\n<p># Comments: 95</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Life During Class Wartime",
+      "link": "https://www.tbray.org/ongoing/When/202x/2026/05/03/Life-During-Class-Wartime",
+      "summary": "<p>Article URL: <a href=\"https://www.tbray.org/ongoing/When/202x/2026/05/03/Life-During-Class-Wartime\">https://www.tbray.org/ongoing/When/202x/2026/05/03/Life-During-Class-Wartime</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48038307\">https://news.ycombinator.com/item?id=48..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Hallucinopedia",
+      "link": "http://halupedia.com/",
+      "summary": "<p>Article URL: <a href=\"http://halupedia.com/\">http://halupedia.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48038257\">https://news.ycombinator.com/item?id=48038257</a></p>\n<p>Points: 84</p>\n<p># Comments: 104</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+      "link": "https://play.templatical.com",
+      "summary": "<p>Article URL: <a href=\"https://play.templatical.com\">https://play.templatical.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48038019\">https://news.ycombinator.com/item?id=48038019</a></p>\n<p>Points: 77</p>\n<p># Comments: 19</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Appearing productive in the workplace",
+      "link": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+      "summary": "<p>Article URL: <a href=\"https://nooneshappy.com/article/appearing-productive-in-the-workplace/\">https://nooneshappy.com/article/appearing-productive-in-the-workplace/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48038001\">https://news.ycombinator.com/item?id=48038001</a></..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "link": "https://www.anthropic.com/news/higher-limits-spacex",
+      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/higher-limits-spacex\">https://www.anthropic.com/news/higher-limits-spacex</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48037986\">https://news.ycombinator.com/item?id=48037986</a></p>\n<p>Points: 316</p>\n<p># Comments: 2..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
+      "link": "https://tilde.run/",
+      "summary": "<p>Article URL: <a href=\"https://tilde.run/\">https://tilde.run/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48037724\">https://news.ycombinator.com/item?id=48037724</a></p>\n<p>Points: 108</p>\n<p># Comments: 86</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+      "link": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+      "summary": "<p>Article URL: <a href=\"https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license\">https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license</a></p>\n<p>Comments URL: <a href=\"https:..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+      "link": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+      "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/\">https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48037128\">https://news.ycombinator.com/item?id=48037128..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Ted Turner has died",
+      "link": "https://www.cnn.com/2026/05/06/us/ted-turner-death",
+      "summary": "<p>Article URL: <a href=\"https://www.cnn.com/2026/05/06/us/ted-turner-death\">https://www.cnn.com/2026/05/06/us/ted-turner-death</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48037009\">https://news.ycombinator.com/item?id=48037009</a></p>\n<p>Points: 189</p>\n<p># Comments: 156..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Mythos is the best cybersecurity news in a decade",
+      "link": "https://sfstandard.com/opinion/2026/05/06/mythos-cybersecurity-ai/",
+      "summary": "<p>Article URL: <a href=\"https://sfstandard.com/opinion/2026/05/06/mythos-cybersecurity-ai/\">https://sfstandard.com/opinion/2026/05/06/mythos-cybersecurity-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48036650\">https://news.ycombinator.com/item?id=48036650</a></p>\n<p>Po..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Stop letting LLMs edit your .bib [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1t5anla/stop_letting_llms_edit_your_bib_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>It’s shocking how frequently I notice hallucinated citations. For citations of my own papers, I’ve seen 5 in the past couple of months, where the the title is correct but the author list is wrong. When I email the author to let them know, they always blame an LLM fo..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Transformers with Selective Access to Early Representations [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1t4z3af/transformers_with_selective_access_to_early/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1t4z3af/transformers_with_selective_access_to_early/\"> <img alt=\"Transformers with Selective Access to Early Representations [R]\" src=\"https://preview.redd.it/bfj0qllk9fzg1.png?width=140&amp;height=47&amp;auto=webp&amp;s=afd..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Weights & Biases New Master Service Agreement Questions [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1t5qq1a/weights_biases_new_master_service_agreement/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>**Update: my questions been escalated to their teams. I'll share their answers (&amp; hopefully reassurance) here.**</p> <p>Weights &amp; Biases sent an email yesterday, saying their new Master Service Agreement takes effect May 11th. I use &amp; love wandb, but I'm..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "NeurIPS 2026 AC-Pilot, how much would you trust this? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1t59w5e/neurips_2026_acpilot_how_much_would_you_trust/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I wonder how this AC-Pilot thing works for NeurIPS 2026. </p> <p>The guidelines say that &quot;What you are communicating is that the authors do not need to worry about concerns you have not listed, and that there is a real opportunity for acceptance if listed conce..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Exploring Black‑Box Optimization [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1t5rfrk/exploring_blackbox_optimization_r/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone!</p> <p>I’d like to share a personal project that’s still in its early stages, focused on black‑box optimization algorithms.</p> <p>I’m open to feedback, suggestions, or any questions you might have.</p> <p>You can check the full overview here:</p> <p><..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Model automatically developed by the AIBuildAI Agent ranked among top 5.7% out of 3,219 human teams in the Kaggle TGS Salt Identification Challenge [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1t5i56v/model_automatically_developed_by_the_aibuildai/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1t5i56v/model_automatically_developed_by_the_aibuildai/\"> <img alt=\"Model automatically developed by the AIBuildAI Agent ranked among top 5.7% out of 3,219 human teams in the Kaggle TGS Salt Identification Challenge [P]\" src..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "2.5x faster inference with Qwen 3.6 27B using MTP - Finally a viable option for local agentic coding - 262k context on 48GB - Fixed chat template - Drop-in OpenAI and Anthropic API endpoints",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t57xuu/25x_faster_inference_with_qwen_36_27b_using_mtp/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><blockquote> <p>In my initial post, I mentioned using turboquants. However, I forgot to include instructions for building llama.cpp with the corresponding PR. The PR is currently too unstable and there are animated discussions around it. I replaced my recommendations w..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Quality comparison between Qwen 3.6 27B quantizations (BF16, Q8_0, Q6_K, Q5_K_XL, Q4_K_XL, IQ4_XS, IQ3_XXS,...)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/\"> <img alt=\"Quality comparison between Qwen 3.6 27B quantizations (BF16, Q8_0, Q6_K, Q5_K_XL, Q4_K_XL, IQ4_XS, IQ3_XXS,...)\" src=\"https://preview.redd.it/6lsfvzy8wfzg1.png?width=140..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Bad news: Apple drops high-memory Mac Studio configs",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t59rda/bad_news_apple_drops_highmemory_mac_studio_configs/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t59rda/bad_news_apple_drops_highmemory_mac_studio_configs/\"> <img alt=\"Bad news: Apple drops high-memory Mac Studio configs\" src=\"https://external-preview.redd.it/52vUbMMQc7is-aNzzgL7XAZIrZoghfbf04gNtjrUQqc.jpeg?width=640&amp;cr..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "None of this will ever get stolen",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t5f97q/none_of_this_will_ever_get_stolen/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t5f97q/none_of_this_will_ever_get_stolen/\"> <img alt=\"None of this will ever get stolen\" src=\"https://preview.redd.it/ln5useqj5jzg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=63cafd6e8635e30404c49f7cf0b885730eb9c079\" title..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen3.6-27B with MTP grafted on Unsloth UD XL: 2.5x throughput via unmerged llama.cpp PR",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t5ageq/qwen3627b_with_mtp_grafted_on_unsloth_ud_xl_25x/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I've been working on getting Multi-Token Prediction (MTP) working with quantized GGUFs for Qwen3-27B and the results are pretty impressive. Here's what I put together: <a href=\"https://huggingface.co/havenoammo/Qwen3.6-27B-MTP-UD-GGUF\">https://huggingf..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "ZAYA1-8B: Frontier intelligence density, trained on AMD",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t5nll0/zaya18b_frontier_intelligence_density_trained_on/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t5nll0/zaya18b_frontier_intelligence_density_trained_on/\"> <img alt=\"ZAYA1-8B: Frontier intelligence density, trained on AMD\" src=\"https://external-preview.redd.it/i4WJfW6p4Uj9gIVSsX0OO33lOO35GrZY_skMyQ-4Cyo.png?width=640&amp;cr..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "What do you use Gemma 4 for?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t4zca8/what_do_you_use_gemma_4_for/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Both Gemma 4 and Qwen 3.6 seems to be the hottest local models right now. Looking at the benchmarks and reviews, it seems like it's better in every way: coding, benchmarks, agentic tasks. So is Qwen outright better? In what case would you pick Gemma over Qwen?</p> <..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Bleeding Llama: Critical Unauthenticated Memory Leak in Ollama",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t4zhh4/bleeding_llama_critical_unauthenticated_memory/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t4zhh4/bleeding_llama_critical_unauthenticated_memory/\"> <img alt=\"Bleeding Llama: Critical Unauthenticated Memory Leak in Ollama\" src=\"https://external-preview.redd.it/smTiSBafEon9RYwrTZASzYowtN5Chr63MwoF2FaqGJ8.png?width=640&a..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Analysis of the 100 most popular hardware setups on Hugging Face",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t5i5b7/analysis_of_the_100_most_popular_hardware_setups/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t5i5b7/analysis_of_the_100_most_popular_hardware_setups/\"> <img alt=\"Analysis of the 100 most popular hardware setups on Hugging Face\" src=\"https://preview.redd.it/3li41g4iojzg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen 3.6 27B MTP on v100 32GB: 54 t/s",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t4zu88/qwen_36_27b_mtp_on_v100_32gb_54_ts/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just a quick note that I got a nice result using am17an's MTP branch of llama.cpp on v100 32GB SXM module using one of those pcie card adapters. Pulled and built in one shot, and llama-server ran without a hitch.</p> <p>Tested using am17an's MTP GGUF, q8_0 kv cache ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "HOT TAKE: local models + agent harnesses are now capable enough to hand off junior-level IT professional tasks to [human written]",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t5g1fi/hot_take_local_models_agent_harnesses_are_now/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This post will have a slight old-man-shakes-fist-at-sky vibe, because….well… I’m older, so if you’re not into that, then please feel free skip it.<br /> I have been contributing to this sub for like 3 years now but I’m fearful this post will likely get downvoted int..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen3.6 27B NVFP4 + MTP on a single RTX 5090: 200k context working in vLLM",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t5dya8/qwen36_27b_nvfp4_mtp_on_a_single_rtx_5090_200k/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So I spent some time testing Qwen3.6 27B NVFP4 on my RTX 5090 and wanted to share the numbers, since most of the recent good posts are either around 48GB cards, FP8, or llama.cpp/GGUF.</p> <p>This is not a &quot;best possible setup&quot; claim. More like: this is wh..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Follow-up: Trying to make NVIDIA GPUs plug-and-play on Macs. Found hidden RDMA symbols Apple doesn't want you to see — zero-copy GPU memory sharing might already work.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t5g7cf/followup_trying_to_make_nvidia_gpus_plugandplay/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t5g7cf/followup_trying_to_make_nvidia_gpus_plugandplay/\"> <img alt=\"Follow-up: Trying to make NVIDIA GPUs plug-and-play on Macs. Found hidden RDMA symbols Apple doesn't want you to see — zero-copy GPU memory sharing might alread..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Common and Obscure Models and Ways to Find Them [ Human Written ]",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t4vmgu/common_and_obscure_models_and_ways_to_find_them/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been on a binge finding uses for local AI on my machine outside of general LLM usage as I'm not sure what other sub discovery of these things should go on. Here's a collection of my findings. </p> <p>I'd appreciate other contributions that are off the beaten pa..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "An Open Benchmark for Testing RAG on Realistic Company-Internal Data",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t5c5qn/an_open_benchmark_for_testing_rag_on_realistic/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t5c5qn/an_open_benchmark_for_testing_rag_on_realistic/\"> <img alt=\"An Open Benchmark for Testing RAG on Realistic Company-Internal Data\" src=\"https://preview.redd.it/bx3wkr8ekizg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Decoupled Attention from Weights - Gemma 4 26B",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t5ap0y/decoupled_attention_from_weights_gemma_4_26b/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Absolutely unbelievably exciting work, split attention (i.e. a couple of GB) onto local machine and the weights onto another local machine (say a cheap Xeon) to basically bypass the scale issue with local LLMs completely!! Repo with functional code: <a href=\"https:/..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Claude Code @ Opus 4.7 vs OpenCode @ qwen3.6:27b. Both shipped a playable cozy roguelite.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t4vb57/claude_code_opus_47_vs_opencode_qwen3627b_both/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t4vb57/claude_code_opus_47_vs_opencode_qwen3627b_both/\"> <img alt=\"Claude Code @ Opus 4.7 vs OpenCode @ qwen3.6:27b. Both shipped a playable cozy roguelite.\" src=\"https://external-preview.redd.it/kzuDDvikgso6J0NeF2iIWeYO6VER0tL4..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen 3.6 27b Q4.0 MTP GGUF",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t50s4i/qwen_36_27b_q40_mtp_gguf/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Not sure if others have updated but tried the MPT version of LLAMA CPP. It works pretty good. I have a shitty IGPU AMD 64gb unified memory. It's pretty fast. Would say as fast as 9b Qwen 3.5 Q4KM replies. This is pretty cool.</p> </div><!-- SC_ON --> &#32; submitted..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Most people seem obsessed with token generation speed, but isn’t prefill the real bottleneck? Am I missing something?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t5o4kc/most_people_seem_obsessed_with_token_generation/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I read this sub every day and I keep seeing benchmarks and discussions focused almost entirely on tokens/s generation speed. Prompt processing speed barely gets mentioned.</p> <p>From my own experience running a bunch of different models on different GPUs for all ki..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "New \"major breakthrough?\" architecture SubQ",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t584ef/new_major_breakthrough_architecture_subq/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>while reading through papers and news today i came across this <a href=\"https://subq.ai/\">post/blog</a> , claiming major architectural breakthrough , having 12M tokens context window , better than opus , gemini and other models and whopping less than 5% of the cost ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Solidity LM surpasses Opus",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t55c7e/solidity_lm_surpasses_opus/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>My weekend project overran a little but happy with the end result. </p> <p>soleval pass@1 beat Opus 4.7 on the same set of tasks. Some more work to be done here but any feedback is welcome, I spent quite a lot of time (and money) on this one! </p> <p><a href=\"https:..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Super god bin 9700 pro matches 7900xtx",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t4z13k/super_god_bin_9700_pro_matches_7900xtx/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t4z13k/super_god_bin_9700_pro_matches_7900xtx/\"> <img alt=\"Super god bin 9700 pro matches 7900xtx\" src=\"https://preview.redd.it/7mieqmko8fzg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=328157ab0eb3e9ca659f195bcf39af7e644b..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Why people cares token/s in decoding more?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t5hebz/why_people_cares_tokens_in_decoding_more/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>What I've noticed while using local LLM recently is that in most cases, bottlenecks occur not in decoding but in prompt processing. </p> <p>If the prompt processing speed is usable, in most settings (since it takes about 15k when starting based on agentic coding sta..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Great results with Qwen3.6-35B-A3B-UD-Q5_K_XL + VS Code and Copilot",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t5pdf8/great_results_with_qwen3635ba3budq5_k_xl_vs_code/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Long post, but hopefully helps somebody. Llama-cpp vulkan server running single AMD R9700. The settings below are showing great results with a large prompt to generate a test website that ChatGPT gave me. I then ran a prompt to generate a full suite of Playwright te..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "I analyzed 922 agentic task trace and found the secret weapon of DeepSeek v4",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t5lywi/i_analyzed_922_agentic_task_trace_and_found_the/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t5lywi/i_analyzed_922_agentic_task_trace_and_found_the/\"> <img alt=\"I analyzed 922 agentic task trace and found the secret weapon of DeepSeek v4\" src=\"https://preview.redd.it/vh4qfgn6zjzg1.png?width=140&amp;height=27&amp;auto=we..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification",
+      "link": "https://arxiv.org/abs/2605.04046v1",
+      "summary": "We introduce PALACE (Persistence Adaptive-Landmark Analytic Classification Engine), the data-adaptive companion to PLACE, paying a small cross-validation tier on three knobs (budget, radii, bandwidth; $\\leq 5$ choices each). A cover-theoretic core (Lebesgue-number criterion on the landmark cover) yi..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Safety and accuracy follow different scaling laws in clinical large language models",
+      "link": "https://arxiv.org/abs/2605.04039v1",
+      "summary": "Clinical LLMs are often scaled by increasing model size, context length, retrieval complexity, or inference-time compute, with the implicit expectation that higher accuracy implies safer behavior. This assumption is incomplete in medicine, where a few confident, high-risk, or evidence-contradicting ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories",
+      "link": "https://arxiv.org/abs/2605.04036v1",
+      "summary": "Deep search capabilities have become an indispensable competency for frontier Large Language Model (LLM) agents, yet their development remains dominated by industrial giants. The typical industry recipe involves a highly resource-intensive pipeline spanning pre-training, continual pre-training (CPT)..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures",
+      "link": "https://arxiv.org/abs/2605.04035v1",
+      "summary": "We propose HeadsUp, a scalable feed-forward method for reconstructing high-quality 3D Gaussian heads from large-scale multi-camera setups. Our method employs an efficient encoder-decoder architecture that compresses input views into a compact latent representation. This latent representation is then..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours",
+      "link": "https://arxiv.org/abs/2605.04019v1",
+      "summary": "AI systems are entering critical domains like healthcare, finance, and defense, yet remain vulnerable to adversarial attacks. While AI red teaming is a primary defense, current approaches force operators into manual, library-specific workflows. Operators spend weeks hand-crafting workflows - assembl..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems",
+      "link": "https://arxiv.org/abs/2605.04018v1",
+      "summary": "Reasoning-intensive retrieval aims to surface evidence that supports downstream reasoning rather than merely matching topical similarity. This capability is increasingly important for agentic search systems, where retrievers must provide complementary evidence across iterative search and synthesis. ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Conditional Diffusion Sampling",
+      "link": "https://arxiv.org/abs/2605.04013v1",
+      "summary": "Sampling from unnormalized multimodal distributions with limited density evaluations remains a fundamental challenge in machine learning and natural sciences. Successful approaches construct a bridge between a tractable reference and the target distribution. Parallel Tempering (PT) serves as the gol..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment",
+      "link": "https://arxiv.org/abs/2605.04012v1",
+      "summary": "Language models excel at diagnostic assessments on currated medical case-studies and vignettes, performing on par with, or better than, clinical professionals. However, existing studies focus on complex scenarios with rich context making it difficult to draw conclusions about how these systems perfo..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training",
+      "link": "https://arxiv.org/abs/2605.04008v1",
+      "summary": "A brain tumor is a medical disorder faced by individuals of all demographics. Medically, it is described as the spread of non-essential cells close to or throughout the brain. Symptoms of this ailment include headaches, seizures, and sensory changes. This research explores two main categories of bra..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Physics-Grounded Multi-Agent Architecture for Traceable, Risk-Aware Human-AI Decision Support in Manufacturing",
+      "link": "https://arxiv.org/abs/2605.04003v1",
+      "summary": "High-precision CNC machining of free-form aerospace components requires bounded compensations informed by inspection, simulation, and process knowledge. Off-the-shelf large language model (LLM) assistants can generate text, but they do not reliably execute risk-constrained multi-step numerical workf..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage",
+      "link": "https://arxiv.org/abs/2605.03998v1",
+      "summary": "Emergency department triage assigns patients an acuity score that determines treatment priority, and clinical evidence documents persistent gender disparities in human acuity assessment. As hospitals pilot large language models (LLMs) as triage decision support, a critical question is whether these ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "An Agent-Oriented Pluggable Experience-RAG Skill for Experience-Driven Retrieval Strategy Orchestration",
+      "link": "https://arxiv.org/abs/2605.03989v1",
+      "summary": "Retrieval-augmented generation systems often assume that one fixed retrieval pipeline is sufficient across heterogeneous tasks, yet factoid question answering, multi-hop reasoning, and scientific verification exhibit different retrieval preferences. We present Experience-RAG Skill, an agent-oriented..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "From Intent to Execution: Composing Agentic Workflows with Agent Recommendation",
+      "link": "https://arxiv.org/abs/2605.03986v1",
+      "summary": "Multi-Agent Systems (MAS) built using AI agents fulfill a variety of user intents that may be used to design and build a family of related applications. However, the creation of such MAS currently involves manual composition of the plan, manual selection of appropriate agents, and manual creation of..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Conditional Processes",
+      "link": "https://arxiv.org/abs/2605.03984v1",
+      "summary": "Sampling from unnormalized densities is analogous to the generative modeling problem, but the target distribution is defined by a known energy function instead of data samples. Because evaluating the energy function is often costly, a primary challenge is to learn an efficient sampler. We introduce ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Logical Consistency as a Bridge: Improving LLM Hallucination Detection via Label Constraint Modeling between Responses and Self-Judgments",
+      "link": "https://arxiv.org/abs/2605.03971v1",
+      "summary": "Large Language Models (LLMs) are prone to factual hallucinations, risking their reliability in real-world applications. Existing hallucination detectors mainly extract micro-level intrinsic patterns for uncertainty quantification or elicit macro-level self-judgments through verbalized prompts. Howev..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators",
+      "link": "https://arxiv.org/abs/2605.03969v1",
+      "summary": "AI-generated text is nowadays produced at scale across domains and heterogeneous generation pipelines, making robustness to distribution shift a central requirement for supervised binary detectors. We train transformer-based detectors on HC3 PLUS and calibrate a single decision threshold by maximisi..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Label-Efficient School Detection from Aerial Imagery via Weakly Supervised Pretraining and Fine-Tuning",
+      "link": "https://arxiv.org/abs/2605.03968v1",
+      "summary": "Accurate school detection is essential for supporting education initiatives, including infrastructure planning and expanding internet connectivity to underserved areas. However, many regions around the world face challenges due to outdated, incomplete, or unavailable official records. Manual mapping..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Pretrained Model Representations as Acquisition Signals for Active Learning of MLIPs",
+      "link": "https://arxiv.org/abs/2605.03964v1",
+      "summary": "Training machine learning interatomic potentials (MLIPs) for reactive chemistry is often bottlenecked by the high cost of quantum chemical labels and the scarcity of transition state configurations in candidate pools. Active learning (AL) can mitigate these costs, but its effectiveness hinges on the..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Inconsistent Databases and Argumentation Frameworks with Collective Attacks",
+      "link": "https://arxiv.org/abs/2605.03954v1",
+      "summary": "The connection between subset-maximal repairs for inconsistent databases involving various integrity constraints and acceptable sets of arguments within argumentation frameworks has recently drawn growing interest. In this paper, we contribute to this domain by establishing a new connection when int..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Transformers with Selective Access to Early Representations",
+      "link": "https://arxiv.org/abs/2605.03953v1",
+      "summary": "Several recent Transformer architectures expose later layers to representations computed in the earliest layers, motivated by the observation that low-level features can become harder to recover as the residual stream is repeatedly transformed through depth. The cheapest among these methods add stat..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents",
+      "link": "https://arxiv.org/abs/2605.03952v1",
+      "summary": "Coding agents often pass per-prompt safety review yet ship exploitable code when their tasks are decomposed into routine engineering tickets. The challenge is structural: existing safety alignment evaluates overt requests in isolation, leaving models blind to malicious end-states that emerge from se..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "TabSurv: Adapting Modern Tabular Neural Networks to Survival Analysis",
+      "link": "https://arxiv.org/abs/2605.03944v1",
+      "summary": "Survival analysis on tabular data is a well-studied problem. However, existing deep learning methods are often highly task-specific, which can limit the transfer of new approaches from other domains and introduce constraints that may affect performance. We propose TabSurv, an approach that adapts mo..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "A Benchmark for Interactive World Models with a Unified Action Generation Framework",
+      "link": "https://arxiv.org/abs/2605.03941v1",
+      "summary": "Achieving Artificial General Intelligence (AGI) requires agents that learn and interact adaptively, with interactive world models providing scalable environments for perception, reasoning, and action. Yet current research still lacks large-scale datasets and unified benchmarks to evaluate their phys..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "The Counterexample Game: Iterated Conceptual Analysis and Repair in Language Models",
+      "link": "https://arxiv.org/abs/2605.03936v1",
+      "summary": "Conceptual analysis -- proposing definitions and refining them through counterexamples -- is central to philosophical methodology. We study whether language models can perform this task through iterated analysis and repair chains: one model instance generates counterexamples to a proposed definition..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Towards Open World Sound Event Detection",
+      "link": "https://arxiv.org/abs/2605.03934v1",
+      "summary": "Sound Event Detection (SED) plays a vital role in audio understanding, with applications in surveillance, smart cities, healthcare, and multimedia indexing. However, conventional SED systems operate under a closed-world assumption, limiting their effectiveness in real-world environments where novel ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Magic-Informed Quantum Architecture Search",
+      "link": "https://arxiv.org/abs/2605.03932v1",
+      "summary": "Nonstabilizerness, commonly referred to as magic, is a fundamental resource underpinning quantum advantage. In this paper, we propose a magic-informed quantum architecture search (QAS) technique that enables control over a quantum resource within the general framework of circuit design. Inspired by ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "PHALAR: Phasors for Learned Musical Audio Representations",
+      "link": "https://arxiv.org/abs/2605.03929v1",
+      "summary": "Stem retrieval, the task of matching missing stems to a given audio submix, is a key challenge currently limited by models that discard temporal information. We introduce PHALAR, a contrastive framework achieving a relative accuracy increase of up to $\\approx 70\\%$ over the state-of-the-art while re..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Exact ReLU realization of tensor-product refinement iterates",
+      "link": "https://arxiv.org/abs/2605.03917v1",
+      "summary": "We study scalar dyadic refinement operators on R^2 of the form (Vf)(x,y) = sum_{(j,k) in Z^2} c_{j,k} f(2x-j, 2y-k), where only finitely many mask coefficients c_{j,k} are nonzero. Under a fixed support-window hypothesis, we prove that for every compactly supported continuous piecewise linear seed g..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Atomic Fact-Checking Increases Clinician Trust in Large Language Model Recommendations for Oncology Decision Support: A Randomized Controlled Trial",
+      "link": "https://arxiv.org/abs/2605.03916v1",
+      "summary": "Question: Does atomic fact-checking, which decomposes AI treatment recommendations into individually verifiable claims linked to source guideline documents, increase clinician trust compared to traditional explainability approaches?   Findings: In this randomized trial of 356 clinicians generating 7..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Ecologically-Constrained Task Arithmetic for Multi-Taxa Bioacoustic Classifiers Without Shared Data",
+      "link": "https://arxiv.org/abs/2605.03914v1",
+      "summary": "Training data for bioacoustics is scattered across taxa, regions, and institutions. Centralizing it all is often infeasible. We show that independently fine-tuned BEATs encoders can be composed into a unified 661-species classifier via task vector arithmetic without sharing data. We find that bioaco..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Steer Like the LLM: Activation Steering that Mimics Prompting",
+      "link": "https://arxiv.org/abs/2605.03907v1",
+      "summary": "Large language models can be steered at inference time through prompting or activation interventions, but activation steering methods often underperform compared to prompt-based approaches. We propose a framework that formulates prompt steering as a form of activation steering and investigates wheth..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "CC-OCR V2: Benchmarking Large Multimodal Models for Literacy in Real-world Document Processing",
+      "link": "https://arxiv.org/abs/2605.03903v1",
+      "summary": "Large Multimodal Models (LMMs) have recently shown strong performance on Optical Character Recognition (OCR) tasks, demonstrating their promising capability in document literacy. However, their effectiveness in real-world applications remains underexplored, as existing benchmarks adopt task scopes m..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Graph Neural Networks in the Wilson Loop Representation of Abelian Lattice Gauge Theories",
+      "link": "https://arxiv.org/abs/2605.03901v1",
+      "summary": "Local gauge structures play a central role in a wide range of condensed matter systems and synthetic quantum platforms, where they emerge as effective descriptions of strongly correlated phases and engineered dynamics. We introduce a gauge-invariant graph neural network (GNN) architecture for Abelia..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Contextual Multi-Objective Optimization: Rethinking Objectives in Frontier AI Systems",
+      "link": "https://arxiv.org/abs/2605.03900v1",
+      "summary": "Frontier AI systems perform best in settings with clear, stable, and verifiable objectives, such as code generation, mathematical reasoning, games, and unit-test-driven tasks. They remain less reliable in open-ended settings, including scientific assistance, long-horizon agents, high-stakes advice, ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "From Data Lifting to Continuous Risk Estimation: A Process-Aware Pipeline for Predictive Monitoring of Clinical Pathways",
+      "link": "https://arxiv.org/abs/2605.03895v1",
+      "summary": "This paper presents a reproducible and process-aware pipeline for predictive monitoring of clinical pathways. The approach integrates data lifting, temporal reconstruction, event log construction, prefix-based representations, and predictive modeling to support continuous reasoning on partially obse..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Raising the Ceiling: Better Empirical Fixation Densities for Saliency Benchmarking",
+      "link": "https://arxiv.org/abs/2605.03885v1",
+      "summary": "Empirical fixation densities, spatial distributions estimated from human eye-tracking data, are foundational to saliency benchmarking. They directly shape benchmark conclusions, leaderboard rankings, failure case analyses, and scientific claims about human visual behavior. Yet the standard estimatio..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "QKVShare: Quantized KV-Cache Handoff for Multi-Agent On-Device LLMs",
+      "link": "https://arxiv.org/abs/2605.03884v1",
+      "summary": "Multi-agent LLM systems on edge devices need to hand off latent context efficiently, but the practical choices today are expensive re-prefill or full-precision KV transfer. We study QKVShare, a framework for quantized KV-cache handoff between agents that combines token-level mixed-precision allocati..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Deco: Extending Personal Physical Objects into Pervasive AI Companion through a Dual-Embodiment Framework",
+      "link": "https://arxiv.org/abs/2605.03882v1",
+      "summary": "Individuals frequently form deep attachments to physical objects (e.g., plush toys) that usually cannot sense or respond to their emotions. While AI companions offer responsiveness and personalization, they exist independently of these physical objects and lack an ongoing connection to them. To brid..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "DMGD: Train-Free Dataset Distillation with Semantic-Distribution Matching in Diffusion Models",
+      "link": "https://arxiv.org/abs/2605.03877v1",
+      "summary": "Dataset distillation enables efficient training by distilling the information of large-scale datasets into significantly smaller synthetic datasets. Diffusion based paradigms have emerged in recent years, offering novel perspectives for dataset distillation. However, they typically necessitate addit..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Spatiotemporal Convolutions on EEG signal -- A Representation Learning Perspective on Efficient and Explainable EEG Classification with Convolutional Neural Nets",
+      "link": "https://arxiv.org/abs/2605.03874v1",
+      "summary": "Classification of EEG signals using shallow Convolutional Neural Networks (CNNs) is a prevalent and successful approach across a variety of fields. Most of these models use independent one-dimensional (1D) convolutional layers along the spatial and temporal dimensions, which are concatenated without..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "EvoLM: Self-Evolving Language Models through Co-Evolved Discriminative Rubrics",
+      "link": "https://arxiv.org/abs/2605.03871v1",
+      "summary": "Language models encode substantial evaluative knowledge from pretraining, yet current post-training methods rely on external supervision (human annotations, proprietary models, or scalar reward models) to produce reward signals. Each imposes a ceiling. Human judgment cannot supervise capabilities be..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "On Adaptivity in Zeroth-Order Optimization",
+      "link": "https://arxiv.org/abs/2605.03869v1",
+      "summary": "We investigate the effectiveness of adaptive zeroth-order (ZO) optimization for memory-constrained fine-tuning of large language models (LLMs). Contrary to prior claims, we show that adaptive ZO methods such as ZO-Adam offer no convergence advantage over well-tuned ZO-SGD, while incurring significan..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Memory-Efficient Continual Learning with CLIP Models",
+      "link": "https://arxiv.org/abs/2605.03866v1",
+      "summary": "Contrastive Language-Image Pretraining (CLIP) models excel at understanding image-text relationships but struggle with adapting to new data without forgetting prior knowledge. To address this, models are typically fine-tuned using both new task data and a memory buffer of past tasks. However, CLIP's..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Quantifying the human visual exposome with vision language models",
+      "link": "https://arxiv.org/abs/2605.03863v1",
+      "summary": "The visual environment is a fundamental yet unquantified determinant of mental health. While the concept of the environmental exposome is well established, current methods rely on coarse geospatial proxies or biased self reports, failing to capture the first person visual context of daily life. We a..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Correct Is Not Enough: Training Reasoning Planners with Executor-Grounded Rewards",
+      "link": "https://arxiv.org/abs/2605.03862v1",
+      "summary": "Reinforcement learning with verifiable rewards has become a common way to improve explicit reasoning in large language models, but final-answer correctness alone does not reveal whether the reasoning trace is faithful, reliable, or useful to the model that consumes it. This outcome-only signal can r..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "MCJudgeBench: A Benchmark for Constraint-Level Judge Evaluation in Multi-Constraint Instruction Following",
+      "link": "https://arxiv.org/abs/2605.03858v1",
+      "summary": "Multi-constraint instruction following requires verifying whether a response satisfies multiple individual requirements, yet LLM judges are often assessed only through overall-response judgments. We introduce MCJudgeBench, a benchmark for constraint-level judge evaluation in multi-constraint instruc..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Mechanical Conscience: A Mathematical Framework for Dependability of Machine Intelligenc",
+      "link": "https://arxiv.org/abs/2605.03847v1",
+      "summary": "Distributed collaborative intelligence (DCI), encompassing edge-to-edge architectures, federated learning, transfer learning, and swarm systems, creates environments in which emergent risk is structurally unavoidable: locally correct decisions by individual agents compose into globally unacceptable ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "SOAR: Real-Time Joint Optimization of Order Allocation and Robot Scheduling in Robotic Mobile Fulfillment Systems",
+      "link": "https://arxiv.org/abs/2605.03842v1",
+      "summary": "Robotic Mobile Fulfillment Systems (RMFS) rely on mobile robots for automated inventory transportation, coordinating order allocation and robot scheduling to enhance warehousing efficiency. However, optimizing RMFS is challenging due to strict real-time constraints and the strong coupling of multi-p..."
     }
   ],
-  "timestamp": "2026-05-05T22:54:10.146545",
-  "total_items": 978
+  "timestamp": "2026-05-06T22:52:52.409478",
+  "total_items": 1083
 }
