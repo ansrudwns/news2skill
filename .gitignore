@@ -1,5 +1,33 @@
+# --- Python build artefacts ---
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.venv/
+
+# --- Local-only operational files ---
 .env
 LOCAL_MANUAL.md
-.venv/
+
+# --- Editor / OS noise ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.gemini/
+
+# --- Scratch / one-shot work directories (not part of pipeline state) ---
+/scratch/
+.agents/scratch/
+
+# --- External skill clones (not core repo content; bootstrap via setup) ---
+external_skills/
+
+# --- Staging drafts are transient by design (auto_commit.py moves them) ---
+# Keep the directory tracked but ignore the draft contents.
+.agents/staging/draft_*.md
+.agents/staging/draft_*.md.intoto.json
+
+# --- Stray lock files ---
+*.lock
+.git/index.lock

@@ -1,32 +1,136 @@
 [
-  {
-    "title": "Warning Skill: Log Cleanup Advisor",
-    "summary": "Warning Skill: Log Cleanup Advisor This skill advises on how to clean up old log files manually. 1. Identify log files older than 30 days. 2. Present the file list to the user for review.",
-    "path": ".agents/external_approved/skills/warning_skill.md",
-    "source_path": "external_skills/test_fixtures/Warning_Skill.md",
-    "risk_level": "Medium",
-    "warnings": [
-      "os.remove",
-      "git push"
-    ],
-    "imported_at": "2026-04-11"
-  },
-  {
-    "title": "Good Skill: Safe Text Processor",
-    "summary": "Good Skill: Safe Text Processor This skill performs read-only text analysis on provided input strings. It does not interact with the filesystem, network, or shell. 1. Accept a text string from the user.",
-    "path": ".agents/external_approved/skills/good_skill.md",
-    "source_path": "external_skills/test_fixtures/Good_Skill.md",
-    "risk_level": "Low",
-    "warnings": [],
-    "imported_at": "2026-04-11"
-  },
-  {
-    "title": "MCP Server Best Practices",
-    "summary": "MCP Server Best Practices - **Python**: `{service}_mcp` (e.g., `slack_mcp`) - **Node/TypeScript**: `{service}-mcp-server` (e.g., `slack-mcp-server`) - Use snake_case with service prefix",
-    "path": ".agents/external_approved/skills/mcp_best_practices.md",
-    "source_path": "external_skills/skills/skills/mcp-builder/reference/mcp_best_practices.md",
-    "risk_level": "Low",
-    "warnings": [],
-    "imported_at": "2026-04-11"
-  }
+    {
+        "title": "Warning Skill: Log Cleanup Advisor",
+        "summary": "Warning Skill: Log Cleanup Advisor This skill advises on how to clean up old log files manually. 1. Identify log files older than 30 days. 2. Present the file list to the user for review.",
+        "path": ".agents/external_approved/skills/warning_skill.md",
+        "source_path": "external_skills/test_fixtures/Warning_Skill.md",
+        "risk_level": "Medium",
+        "warnings": [
+            "os.remove",
+            "git push"
+        ],
+        "imported_at": "2026-04-11"
+    },
+    {
+        "title": "Good Skill: Safe Text Processor",
+        "summary": "Good Skill: Safe Text Processor This skill performs read-only text analysis on provided input strings. It does not interact with the filesystem, network, or shell. 1. Accept a text string from the user.",
+        "path": ".agents/external_approved/skills/good_skill.md",
+        "source_path": "external_skills/test_fixtures/Good_Skill.md",
+        "risk_level": "Low",
+        "warnings": [],
+        "imported_at": "2026-04-11"
+    },
+    {
+        "title": "MCP Server Best Practices",
+        "summary": "MCP Server Best Practices - **Python**: `{service}_mcp` (e.g., `slack_mcp`) - **Node/TypeScript**: `{service}-mcp-server` (e.g., `slack-mcp-server`) - Use snake_case with service prefix",
+        "path": ".agents/external_approved/skills/mcp_best_practices.md",
+        "source_path": "external_skills/skills/skills/mcp-builder/reference/mcp_best_practices.md",
+        "risk_level": "Low",
+        "warnings": [],
+        "imported_at": "2026-04-11"
+    },
+    {
+        "id": "caveman",
+        "name": "caveman",
+        "description": ">",
+        "path": ".agents/external_approved/skills/caveman.md",
+        "source": "mattpocock/skills",
+        "risk_level": "low"
+    },
+    {
+        "id": "diagnose",
+        "name": "diagnose",
+        "description": "Disciplined diagnosis loop for hard bugs and performance regressions. Reproduce \u2192 minimise \u2192 hypothesise \u2192 instrument \u2192 fix \u2192 regression-test. Use when user says \"diagnose this\" / \"debug this\", reports a bug, says something is broken/throwing/failing, or describes a performance regression.",
+        "path": ".agents/external_approved/skills/diagnose.md",
+        "source": "mattpocock/skills",
+        "risk_level": "low"
+    },
+    {
+        "id": "grill-me",
+        "name": "grill-me",
+        "description": "Interview the user relentlessly about a plan or design until reaching shared understanding, resolving each branch of the decision tree. Use when user wants to stress-test a plan, get grilled on their design, or mentions \"grill me\".",
+        "path": ".agents/external_approved/skills/grill-me.md",
+        "source": "mattpocock/skills",
+        "risk_level": "low"
+    },
+    {
+        "id": "grill-with-docs",
+        "name": "grill-with-docs",
+        "description": "Grilling session that challenges your plan against the existing domain model, sharpens terminology, and updates documentation (CONTEXT.md, ADRs) inline as decisions crystallise. Use when user wants to stress-test a plan against their project's language and documented decisions.",
+        "path": ".agents/external_approved/skills/grill-with-docs.md",
+        "source": "mattpocock/skills",
+        "risk_level": "low"
+    },
+    {
+        "id": "improve-codebase-architecture",
+        "name": "improve-codebase-architecture",
+        "description": "Find deepening opportunities in a codebase, informed by the domain language in CONTEXT.md and the decisions in docs/adr/. Use when the user wants to improve architecture, find refactoring opportunities, consolidate tightly-coupled modules, or make a codebase more testable and AI-navigable.",
+        "path": ".agents/external_approved/skills/improve-codebase-architecture.md",
+        "source": "mattpocock/skills",
+        "risk_level": "low"
+    },
+    {
+        "id": "prototype",
+        "name": "prototype",
+        "description": "Build a throwaway prototype to flush out a design before committing to it. Routes between two branches \u2014 a runnable terminal app for state/business-logic questions, or several radically different UI variations toggleable from one route. Use when the user wants to prototype, sanity-check a data model or state machine, mock up a UI, explore design options, or says \"prototype this\", \"let me play with it\", \"try a few designs\".",
+        "path": ".agents/external_approved/skills/prototype.md",
+        "source": "mattpocock/skills",
+        "risk_level": "low"
+    },
+    {
+        "id": "setup-matt-pocock-skills",
+        "name": "setup-matt-pocock-skills",
+        "description": "Sets up an `## Agent skills` block in AGENTS.md/CLAUDE.md and `docs/agents/` so the engineering skills know this repo's issue tracker (GitHub or local markdown), triage label vocabulary, and domain doc layout. Run before first use of `to-issues`, `to-prd`, `triage`, `diagnose`, `tdd`, `improve-codebase-architecture`, or `zoom-out` \u2014 or if those skills appear to be missing context about the issue tracker, triage labels, or domain docs.",
+        "path": ".agents/external_approved/skills/setup-matt-pocock-skills.md",
+        "source": "mattpocock/skills",
+        "risk_level": "low"
+    },
+    {
+        "id": "tdd",
+        "name": "tdd",
+        "description": "Test-driven development with red-green-refactor loop. Use when user wants to build features or fix bugs using TDD, mentions \"red-green-refactor\", wants integration tests, or asks for test-first development.",
+        "path": ".agents/external_approved/skills/tdd.md",
+        "source": "mattpocock/skills",
+        "risk_level": "low"
+    },
+    {
+        "id": "to-issues",
+        "name": "to-issues",
+        "description": "Break a plan, spec, or PRD into independently-grabbable issues on the project issue tracker using tracer-bullet vertical slices. Use when user wants to convert a plan into issues, create implementation tickets, or break down work into issues.",
+        "path": ".agents/external_approved/skills/to-issues.md",
+        "source": "mattpocock/skills",
+        "risk_level": "low"
+    },
+    {
+        "id": "to-prd",
+        "name": "to-prd",
+        "description": "Turn the current conversation context into a PRD and publish it to the project issue tracker. Use when user wants to create a PRD from the current context.",
+        "path": ".agents/external_approved/skills/to-prd.md",
+        "source": "mattpocock/skills",
+        "risk_level": "low"
+    },
+    {
+        "id": "triage",
+        "name": "triage",
+        "description": "Triage issues through a state machine driven by triage roles. Use when user wants to create an issue, triage issues, review incoming bugs or feature requests, prepare issues for an AFK agent, or manage issue workflow.",
+        "path": ".agents/external_approved/skills/triage.md",
+        "source": "mattpocock/skills",
+        "risk_level": "low"
+    },
+    {
+        "id": "write-a-skill",
+        "name": "write-a-skill",
+        "description": "Create new agent skills with proper structure, progressive disclosure, and bundled resources. Use when user wants to create, write, or build a new skill.",
+        "path": ".agents/external_approved/skills/write-a-skill.md",
+        "source": "mattpocock/skills",
+        "risk_level": "low"
+    },
+    {
+        "id": "zoom-out",
+        "name": "zoom-out",
+        "description": "Tell the agent to zoom out and give broader context or a higher-level perspective. Use when you're unfamiliar with a section of code or need to understand how it fits into the bigger picture.",
+        "path": ".agents/external_approved/skills/zoom-out.md",
+        "source": "mattpocock/skills",
+        "risk_level": "low"
+    }
 ]
