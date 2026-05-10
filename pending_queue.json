@@ -1,3 +1,300 @@
 {
-  "data": []
+  "data": [
+    {
+      "source": "Hugging Face",
+      "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+      "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+      "summary": "..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Why modern parents feel more sleep deprived than our ancestors did",
+      "link": "https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep\">https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises\">ht..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "link": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "summary": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/116550899908879585\">https://grapheneos.social/@GrapheneOS/116550899908879585</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48086190\">https://news.ycombinator.com/item?id=48086190</a></p>\n<p>Points: 647</p>\n<p># C..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Incident Report: CVE-2024-YIKES",
+      "link": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "summary": "<p>Article URL: <a href=\"https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html\">https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48086082\">https://news.ycombinator.com/item?id=48086082</a></p>\n<p>Poin..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Ask HN: What are you working on? (May 2026)",
+      "link": "https://news.ycombinator.com/item?id=48085993",
+      "summary": "<p>What are you working on?  Any new ideas that you're thinking about?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48085993\">https://news.ycombinator.com/item?id=48085993</a></p>\n<p>Points: 78</p>\n<p># Comments: 298</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Local AI needs to be the norm",
+      "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "summary": "<p>Article URL: <a href=\"https://unix.foo/posts/local-ai-needs-to-be-norm/\">https://unix.foo/posts/local-ai-needs-to-be-norm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48085821\">https://news.ycombinator.com/item?id=48085821</a></p>\n<p>Points: 311</p>\n<p># Comments: 177</..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Traces Of Humanity",
+      "link": "https://tracesofhumanity.org/hello-world/",
+      "summary": "<p>Article URL: <a href=\"https://tracesofhumanity.org/hello-world/\">https://tracesofhumanity.org/hello-world/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48085782\">https://news.ycombinator.com/item?id=48085782</a></p>\n<p>Points: 105</p>\n<p># Comments: 15</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Spain has become one of Europe’s cheapest power markets",
+      "link": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
+      "summary": "<p>Article URL: <a href=\"https://janrosenow.substack.com/p/spain-just-became-one-of-europes\">https://janrosenow.substack.com/p/spain-just-became-one-of-europes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48085330\">https://news.ycombinator.com/item?id=48085330</a></p>\n<p>Po..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "YC's Biggest Scandals",
+      "link": "https://ycombinator.fyi/",
+      "summary": "<p>Article URL: <a href=\"https://ycombinator.fyi/\">https://ycombinator.fyi/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48085314\">https://news.ycombinator.com/item?id=48085314</a></p>\n<p>Points: 182</p>\n<p># Comments: 69</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Shunting-Yard Animation",
+      "link": "https://somethingorotherwhatever.com/shunting-yard-animation/",
+      "summary": "<p>Article URL: <a href=\"https://somethingorotherwhatever.com/shunting-yard-animation/\">https://somethingorotherwhatever.com/shunting-yard-animation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48084547\">https://news.ycombinator.com/item?id=48084547</a></p>\n<p>Points: 49</..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
+      "link": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
+      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer\">https://www.tomshardware.com/3d-prin..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: An index of indie web/blog indexes",
+      "link": "https://theindex.fyi",
+      "summary": "<p>I saw a comment here about how there are so many indexes of indie sites, blogs, etc but there wasn't an index of all the indexes. So I built it. It doesn't require a log in, just go browse! I've curated about 30 or so, but there is a submission form if there are ones I am missing.<p>Also happy to..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "What's a mathematician to do? (2010)",
+      "link": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
+      "summary": "<p>Article URL: <a href=\"https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do\">https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48083007\">https://news.ycombinator.com/item?id=48083007</a></p>\n<..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Space Cadet Pinball on Linux",
+      "link": "https://brennan.io/2026/05/09/pinball-and-escrow/",
+      "summary": "<p>Article URL: <a href=\"https://brennan.io/2026/05/09/pinball-and-escrow/\">https://brennan.io/2026/05/09/pinball-and-escrow/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48082968\">https://news.ycombinator.com/item?id=48082968</a></p>\n<p>Points: 297</p>\n<p># Comments: 100</..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Think Linear Algebra (2023)",
+      "link": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
+      "summary": "<p>Article URL: <a href=\"https://allendowney.github.io/ThinkLinearAlgebra/index.html\">https://allendowney.github.io/ThinkLinearAlgebra/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48082396\">https://news.ycombinator.com/item?id=48082396</a></p>\n<p>Points: 144</p>\n..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Task Paralysis and AI",
+      "link": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+      "summary": "<p>Article URL: <a href=\"https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html\">https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48081469\">https://news.ycombinator.com/item?id=48081469</a></p>\n<p>Poin..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Walking slower? Your ears, not your knees, might be the problem",
+      "link": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a",
+      "summary": "<p><a href=\"https://archive.ph/m4P4K\" rel=\"nofollow\">https://archive.ph/m4P4K</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48075429\">https://news.ycombinator.com/item?id=48075429</a></p>\n<p>Points: 70</p>\n<p># Comments: 54</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "I returned to AWS and was reminded why I left",
+      "link": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+      "summary": "<p>Article URL: <a href=\"http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html\">http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48073201\">https://news.ycom..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Any implementations similar to D4RT? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1t95gc6/any_implementations_similar_to_d4rt_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Deepmind released a paper on D4RT at the start of this year which crucially enabled a “4D” understanding of the world via structure from motion and generating:<br /> 1. Point cloud reconstruction from 2D videos (not static scenes)<br /> 2. Camera pose estimation</p>..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Signals: finding the most informative agent traces without LLM judges [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1t9d3et/signals_finding_the_most_informative_agent_traces/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1t9d3et/signals_finding_the_most_informative_agent_traces/\"> <img alt=\"Signals: finding the most informative agent traces without LLM judges [R]\" src=\"https://preview.redd.it/nauai52sgc0h1.png?width=640&amp;crop=smart&amp;au..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Parax v0.7: Parametric Modeling in JAX [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1t929x3/parax_v07_parametric_modeling_in_jax_p/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone!</p> <p>Parax is a library for &quot;Parametric modeling&quot; in JAX, attempting to bridge the approach between pure JAX PyTrees, and more object-orientated modeling approaches (e.g. using <a href=\"https://github.com/patrick-kidger/equinox\">Equinox</a>)..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "\"colss\" a math-style expression evaluator for NumPy arrays [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1t8zja2/colss_a_mathstyle_expression_evaluator_for_numpy/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Built a small Python library called <code>&quot;colss&quot;</code> that lets you write NumPy expressions using a shorter, more mathematical syntax.</p> <p>Built using C++, OpenMP, pybind11, ExprTk, and NumPy.</p> <p>Github: <a href=\"https://github.com/SivaPA08/colss..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Looking for arXiv endorsement (cs.CV) to post my ViT positional embeddings paper [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1t9jh49/looking_for_arxiv_endorsement_cscv_to_post_my_vit/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I'm looking for someone to endorse me for arXiv submission in cs.CV (computer vision) or cs.LG. I have a completed paper and want to upload it as a preprint.</p> <p>About the paper:</p> <p>Title: Positional Encodings in Vision Transformers: A Geo..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t8s83r/nvidia_ai_releases_star_elastic_one_checkpoint/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I saw this on another sub and didn't see it posted here, it looks awesome, and can definitely be run local. I guess it was released 11 days ago, but it never hit the top of my feed (which I look at way too often), so posting it again.</p> <h1>This is my take on it:<..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Getting a feel for how fast X tokens/second really is.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t99upf/getting_a_feel_for_how_fast_x_tokenssecond_really/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I love following all your adventures with local LLM setups. Quality and size of the models are important, but so is performance. Numbers don't really convey the experienced speed well, however.</p> <p>If someone claims they run Qwen 3.6-27B at 21 tokens/second, how ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "I have DeepSeek V4 Pro at home",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t94ito/i_have_deepseek_v4_pro_at_home/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just wanted to share that I used <a href=\"/u/LegacyRemaster\">u/LegacyRemaster</a> slightly modified (Q4_K_M conversion support) DeepSeek V4 <a href=\"https://github.com/Fringe210/llama.cpp-deepseek-v4-flash-cuda\">CUDA repo</a> (based on <a href=\"/u/antirez\">u/antirez..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Hello from 10KM high! - Thanks to Qwen 3.6 35b a3b!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t92hff/hello_from_10km_high_thanks_to_qwen_36_35b_a3b/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Typing this on a cramped flight, but I was having issues connecting to the plane's wifi on my ubuntu laptop, when it was effortless on my phone. </p> <p>The issue I was having was the Laptop WiFi connected to the plane wifi network, but captive portal wouldn't load...."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Running Qwen3.6 35b a3b on 8gb vram and 32gb ram ~190k context",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t9eo83/running_qwen36_35b_a3b_on_8gb_vram_and_32gb_ram/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>If anyone is looking for a good high-speed setup with ~190k context, this config has been working insanely well for me.</p> <p>I’m using my laptop as a server over Tailscale. Installed Linux on it and running:</p> <p>- Qwen3.6 35B A3B</p> <p>- RTX 4060 8GB VRAM</p> ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "MTP benchmark results: the nature of the generative task dictates whether you will benefit (coding) or get slower inference (creative) from speculative inference. No other factor comes close.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t9gcar/mtp_benchmark_results_the_nature_of_the/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I recently published <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t57xuu/25x_faster_inference_with_qwen_36_27b_using_mtp/\">MTP quants of Qwen 3.6 27B</a> and I was suprised by the reports here on reddit, and on HF, of users who were experiencing worst spee..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "I Think I Spent Way Too Much Time Messing with Local LLMs",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t9jyfu/i_think_i_spent_way_too_much_time_messing_with/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Guys, I'm hearing coil whine in my sleep. Help<br /> <span class=\"md-spoiler-text\">/s</span></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MrChilliBalls\"> /u/MrChilliBalls </a> <br /> <span><a href=\"https://www.reddit.com/r/L..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "DeepSeek-V4-Flash W4A16+FP8 with MTP self-speculation: 85 tok/s @ 524k on 2× RTX PRO 6000 Max-Q",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t9em98/deepseekv4flash_w4a16fp8_with_mtp_selfspeculation/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>TL;DR</strong>: DeepSeek-V4-Flash running at <strong>85.52 tok/s @ 524k ctx</strong> and <strong>~111 tok/s @ 128k single-stream</strong> on 2× RTX PRO 6000 Max-Q</p> <p>pasta-paul's <code>DeepSeek-V4-Flash-W4A16-FP8</code> quant is great, but its MTP head s..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Anybody else noticing how good gemma-4-26b-a4b is with one-shotting three.js?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t9cle9/anybody_else_noticing_how_good_gemma426ba4b_is/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I wrote up this little python app to cycle through a bunch of prompts like this:</p> <table><thead> <tr> <th align=\"left\">Single HTML file using three.js from CDN. A central rotating MeshNormalMaterial torus knot. Place a bright Sprite (AdditiveBlending, soft circul..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "NCCL-Free Tensor Parallelism on Dual Blackwell PCIe llama.cpp b9095 released!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t96l6r/ncclfree_tensor_parallelism_on_dual_blackwell/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>b9095 finally makes -sm tensor work on dual consumer Blackwell PCIe GPUs without NCCL</p> <p>If youre on dual Blackwell gpus this look like it could be big. </p> <p>I'll have my own results for 2x5060ti asap</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Switched from OpenCode to Pi - What Settings/Plugins would you recommend?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t9fta2/switched_from_opencode_to_pi_what_settingsplugins/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey, so I just switched from OpenCode to Pi. Main reason was just the speed and the &quot;bloated&quot; system instructions in OpenCode. Also, for some reason OpenCode seemed to hang right when I loaded a model in. However, I do really like the idea of Planning and ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Has anyone bought a 3080 20GB mod recently?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t92h41/has_anyone_bought_a_3080_20gb_mod_recently/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I think it would suit my needs perfectly, but I'm scared of getting scammed on Alibaba so looking for some sellers who have delivered.</p> <p>Follow-up question for those who have the card, how well does it run Qwen 3.6 27B?</p> </div><!-- SC_ON --> &#32; submitted ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "DS4",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t95k73/ds4/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The developer that created Redis, Salvatore Sanfilippo, has released a new project on GitHub named DS4. </p> <p><a href=\"https://github.com/antirez/ds4/\">https://github.com/antirez/ds4/</a></p> <p>The TL;DR on this one is getting DeepSeek V4 Flash running with a 1M ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Speeding up local LLM for usable coding agent",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t96kfh/speeding_up_local_llm_for_usable_coding_agent/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t96kfh/speeding_up_local_llm_for_usable_coding_agent/\"> <img alt=\"Speeding up local LLM for usable coding agent\" src=\"https://preview.redd.it/czgji3pq4b0h1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=787e..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "The gap between knowing something and actually understanding it — AI accelerated my learning curve",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t8wne7/the_gap_between_knowing_something_and_actually/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been experimenting with setting up local LLMs lately, and here's what hit me hard:</p> <p>Just because it's cheap to build something doesn't mean you should. If a compatible tool already exists for your use case, use it first. Only roll your own once you've con..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Homelab setup",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t8vvh4/homelab_setup/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, I've been running local models on a MacBook Pro M3 Max with 128GB RAM for a while, and I've recently been thinking about improving my setup.</p> <p>What would make more sense, having a ~7-8K budget?</p> <p>1- Another MBP (M5 Max) with 128GB, then set up..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "I built an open source hyperparameter search tool for diffusion fine-tunes- pick the winner based on scoring",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t9k8gy/i_built_an_open_source_hyperparameter_search_tool/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t9k8gy/i_built_an_open_source_hyperparameter_search_tool/\"> <img alt=\"I built an open source hyperparameter search tool for diffusion fine-tunes- pick the winner based on scoring\" src=\"https://preview.redd.it/27w2a7lrtd0h1.png?w..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Sharing \"cull\" : my open-source dataset tool for image scraping & classification & captioning pipeline",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t9jub0/sharing_cull_my_opensource_dataset_tool_for_image/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I <em>open-sourced</em> a tool I built and am maintaining called <strong>Cull</strong>.<br /> It’s a machine curation engine for AI image datasets, the kind of work that eats hours every time you want to train a LoRA, build a reference library, or just classify an a..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Is HIPfire worth it for Strix Halo?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t9gmyq/is_hipfire_worth_it_for_strix_halo/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Did anyone evaluate <a href=\"https://github.com/Kaden-Schutt/hipfire\">HIPfire</a> for long context sizes (100k+) and quality, for Strix Halo? It apparently promises large performance increase over llama.cpp and the like.</p> <p>What TPS performance and quality did y..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "LM Studio / Windows / Vulkan possible to prioritize GPU order?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t975bx/lm_studio_windows_vulkan_possible_to_prioritize/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>With CUDA you can prioritize GPU usage which worked well with a 3090ti and 3060 12GB. Under 24GB, fastest, under 36GB, slower, &gt;36GB moving some layers to CPU so slowest. </p> <p>I just added a R9700 so while my GPU VRAM has increased greatly to 68GB I need to us..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Is there any image2image model better than Qwen-Image-Edit-2511 and of comparable size?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t9i65e/is_there_any_image2image_model_better_than/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've tried with FLUX.2-9B but was not really better and FLUX.2-dev is too big. Any (tested) suggestions are most welcome.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/HumanDrone8721\"> /u/HumanDrone8721 </a> <br /> <span><a h..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "OSS UI with Skills support similar to Claude?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t9hngc/oss_ui_with_skills_support_similar_to_claude/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I just want to copy-paste my claude skills to be able to use with local models, is there is anything that can dynamically detect my skills similar to claude? so far I have found nothing... openwebui is too complicated, still no correct skills support.. jan looks per..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "I cannot decide for local OCR model for most of the tasks preferably I would like more individual experiences than reviews.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t993om/i_cannot_decide_for_local_ocr_model_for_most_of/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have a 16GB VRAM GPU and I'm looking for a reliable local OCR model.</p> <p>Ideally it should stay under ~60% VRAM usage, so around 9–10GB max, because I want to keep it available on-demand rather than loading a huge model only for occasional batch jobs.</p> <p>Th..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Building out my tool library, any recommendations? I just added email capability and im starting to get hyped!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t97163/building_out_my_tool_library_any_recommendations/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm using OpenWebUI and and making tools/skills to improve my models functionality. I am currently using Qwen 3.6 35B A3B Q8 (F16) 256k</p> <p>I grabbed `parallel tools` to be able to run multiple tool calls at once.. so far i have the following...</p> <p>----------..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Local Context Compression: Big or Small?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t9ie9f/local_context_compression_big_or_small/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>What are your thoughts/what is the consensus on local context compression model size?</p> <p>Are you guys using small MoE models to do this quickly and move along hoping you get all the important bits, or large dense models that take forever (given the inherently la..."
+    }
+  ],
+  "timestamp": "2026-05-10T22:45:29.364194",
+  "total_items": 49
 }
