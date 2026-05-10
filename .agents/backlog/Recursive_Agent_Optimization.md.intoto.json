@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "Recursive_Agent_Optimization.md",
+        "digest": {
+          "sha256": "4b0b30b125c9a002bdffc8a86d18ae99aaf0f94c76e16447fdc137c14fc5a1ff"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Automated-Signer-CLI"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-05-10T05:24:03.886693+00:00"
+    }
+  },
+  "signature": "02fa546dd59752e8020007f314d63ca829194f6eda7961c949d64b5d08488ba8"
+}

@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "SkillOS.md",
+        "digest": {
+          "sha256": "2da6710a1a45b50397bc00c30aecc5c1ff77bea9341594b7b9dcd86282807d80"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Automated-Signer-CLI"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-05-10T05:24:03.889798+00:00"
+    }
+  },
+  "signature": "f4d463dd4b02763df8d76e2df775dddc1f99a4222c01aa82caf95c88b7ae40ef"
+}

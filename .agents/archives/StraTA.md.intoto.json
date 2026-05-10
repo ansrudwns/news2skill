@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "_type": "https://in-toto.io/Statement/v0.1",
+    "subject": [
+      {
+        "name": "StraTA.md",
+        "digest": {
+          "sha256": "8787782fea65df0c31aa144fb001aaf427b7b2161a567d007e73da1a6eba37db"
+        }
+      }
+    ],
+    "predicateType": "https://slsa.dev/provenance/v0.2",
+    "predicate": {
+      "builder": {
+        "id": "Antigravity-Automated-Signer-CLI"
+      },
+      "metadata": {
+        "ruleSet": "Shared-AUDIT_RULES-P0P1P2-utils.py",
+        "completeness": {
+          "parameters": true,
+          "environment": true,
+          "materials": false
+        },
+        "reproducible": false
+      },
+      "timestamp": "2026-05-10T05:24:03.885173+00:00"
+    }
+  },
+  "signature": "c0667cc4ad5f2df2191668e9006cf83e31d55b05b7502dc18b55e9a12fe3f2b1"
+}
