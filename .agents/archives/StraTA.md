@@ -1,3 +1,6 @@
+---
+description: "Reference archive for StraTA, a strategic trajectory abstraction method for long-horizon agentic reinforcement learning."
+---
 # Reference Archive: StraTA - Strategic Trajectory Abstraction for Agentic RL
 
 ## Overview

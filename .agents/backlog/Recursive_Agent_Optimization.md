@@ -1,3 +1,6 @@
+---
+description: "Recursive agent optimization workflow for spawning bounded sub-agents to improve prompts, tool use, or weak intermediate outputs."
+---
 # Skill: Recursive Agent Optimization
 
 ## Description

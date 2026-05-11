@@ -41,8 +41,8 @@ Before starting any task, read this file first. If the task relates to one of th
 - **autoDream**: Context maintenance and background memory healing strategies. (Path: `.agents/diaries/autoDream.md`)
 
 ## Track C: Research Backlog (Epics)
-- **SkillOS**: No description provided. (Path: `.agents/backlog/SkillOS.md`)
-- **Recursive_Agent_Optimization**: No description provided. (Path: `.agents/backlog/Recursive_Agent_Optimization.md`)
+- **SkillOS**: Dynamic skill curation layer for selecting relevant agent skills by task context and reducing context-window bloat. (Path: `.agents/backlog/SkillOS.md`)
+- **Recursive_Agent_Optimization**: Recursive agent optimization workflow for spawning bounded sub-agents to improve prompts, tool use, or weak intermediate outputs. (Path: `.agents/backlog/Recursive_Agent_Optimization.md`)
 - **wasserstein_metric**: Concept for fixing tensor drift in quantized GGUF models via Wasserstein metric W1 (Path: `.agents/backlog/wasserstein_metric.md`)
 - **kv_svd_compression**: Multi-stage KV cache compression utilizing Entropy selection, OLS reconstruction, and SVD. (Path: `.agents/backlog/kv_svd_compression.md`)
 - **kv_cartridges_still**: Open-source single-GPU reproduction of Cartridges and STILL for Neural KV-cache Compaction. (Path: `.agents/backlog/kv_cartridges_still.md`)
@@ -63,7 +63,7 @@ Before starting any task, read this file first. If the task relates to one of th
 - **Staging Area**: A secure holding area for unverified drafts awaiting signing and promotion. (Path: `.agents/staging/`)
 
 ## Track F: Knowledge Archives
-- **StraTA**: No description provided. (Path: `.agents/archives/StraTA.md`)
+- **StraTA**: Reference archive for strategic trajectory abstraction in long-horizon agentic reinforcement learning. (Path: `.agents/archives/StraTA.md`)
 - **Gradient_von_Neumann_Entropy**: Data-Free Contribution Estimation in FL using Gradient von Neumann Entropy (Path: `.agents/archives/Gradient_von_Neumann_Entropy.md`)
 - **turboquant_eden_note**: Theoretical grounding for TurboQuant relating back to DRIVE and EDEN algorithms. (Path: `.agents/archives/turboquant_eden_note.md`)
 - **test_time_correction**: Inference-Time Error Correction via Residual Stream Monitoring and KV-Cache Steering (Path: `.agents/archives/test_time_correction.md`)
@@ -92,6 +92,8 @@ Before starting any task, read this file first. If the task relates to one of th
 - Non-authoritative, pull-based skill index for externally sourced assets.
 - External skills are **not active instructions** until explicitly selected and loaded by the agent for a relevant task.
 - **Proactive Suggestion Rule**: The agent MUST proactively scan `.agents/external_approved/INDEX.json` and suggest loading a relevant external skill when the user asks for tasks that match skill descriptions (e.g., debugging -> suggest `diagnose`, planning -> suggest `to-issues`).
+- **Selective Loading Rule**: Load only the selected skill file from `.agents/external_approved/skills/`; do not bulk-load the whole external approved store.
+- **Registry Boundary**: `.agents/external_approved/` stores copied, approved reference skills. `skills-lock.json` stores source-path registrations for live `external_skills/**/SKILL.md` files. Do not treat them as the same registry.
 - Promotion to core AGENTS.md requires separate explicit user approval.
 - See `.agents/external_approved/INDEX.json` for the discovery index.
 - Managed via `python scripts/skill_triage.py`. See `.agents/external_approved/README.md` for SLSA boundary documentation.

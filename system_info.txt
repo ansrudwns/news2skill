@@ -1,1 +1,0 @@
-﻿OS: Microsoft Windows 11 Home | CPU: AMD Ryzen AI 5 340 w/ Radeon 840M | RAM: 24 GB | GPU: AMD Radeon(TM)  840M Graphics

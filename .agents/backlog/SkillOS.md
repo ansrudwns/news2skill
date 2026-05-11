@@ -1,3 +1,6 @@
+---
+description: "Dynamic skill curation layer for selecting relevant agent skills by task context and reducing context-window bloat."
+---
 # Skill: SkillOS - Dynamic Skill Curation
 
 ## Description

@@ -32,3 +32,52 @@ The system is built on a **Harness Engineering** philosophy, informed by publish
 2. **Local Ingestion & Report** *(manual trigger)*: The user runs `git pull` and triggers `/ai-daily`. The LLM agent batch-processes the queue and writes a Daily Briefing to `.agents/reports/`.
 3. **Research R&D** *(manual trigger)*: The user triggers `/ai-rd-planning`. The agent reads accumulated reports and proposes R&D Epics into the Backlog.
 4. **Execution & Absorption** *(human-approved)*: The agent builds Epics in `laboratory/`. On success, `sign_drafts.py` audits and signs the result; `auto_commit.py` promotes it to `skills/` and updates `AGENTS.md`. Each step requires explicit user approval before execution.
+
+## Local Setup
+Run `setup.bat` from the repository root to create or heal `.venv`, install `requirements.txt`, and initialize `.env` with `AGENT_PRIVATE_SIGNATURE_KEY` when missing.
+
+The core prototype tests under `scripts/core/tests/` require `numpy`, which is pinned in `requirements.txt`.
+
+## External Skill Stores
+The repository uses two separate external-skill stores:
+
+1. `.agents/external_approved/` is the copied, reviewed, pull-based skill library. It contains approved external skills and an `INDEX.json` discovery file. These skills are not globally active instructions; the agent should search the index, suggest a relevant skill, and then load only the selected `.md` file.
+
+2. `skills-lock.json` is the source-path registry for live `external_skills/**/SKILL.md` files. Every `skillPath` in the lock file must point to a real file in the current workspace.
+
+External skill repositories live under `external_skills/` as local cache data. That directory is intentionally ignored by git, so a clean checkout may need the provider folders restored before registry entries that reference them can be used. Do not commit full external skill clones unless the repository policy changes.
+
+Use `.agents/external_approved/` when you want a curated copy that can be read as a reference skill. Use `skills-lock.json` when you want to track a live external source file with hash and collision checks.
+
+Use `scripts/add_skill.py` for one skill at a time:
+
+```powershell
+.venv\Scripts\python.exe scripts\add_skill.py external_skills/open-design/skills/dashboard/SKILL.md --dry-run
+```
+
+Use `scripts/sync_external_skills.py` to scan a provider or all external skills and register only safe candidates:
+
+```powershell
+.venv\Scripts\python.exe scripts\sync_external_skills.py --provider open-design --dry-run
+.venv\Scripts\python.exe scripts\sync_external_skills.py --provider open-design --write
+```
+
+Default sync mode is dry-run. `--write` updates `skills-lock.json`, `--force` bypasses semantic collision warnings only, and exact name/path/hash duplicates remain blocked.
+
+## Maintenance Checks
+Before committing environment or registry changes, run:
+
+```powershell
+.venv\Scripts\python.exe -m py_compile scripts\add_skill.py scripts\sync_external_skills.py
+.venv\Scripts\python.exe -m unittest discover -s scripts\core\tests
+.venv\Scripts\python.exe scripts\audit_index.py --json
+.venv\Scripts\python.exe -m json.tool skills-lock.json
+```
+
+For lock integrity, also verify that every registered skill path exists:
+
+```powershell
+.venv\Scripts\python.exe -c "import json, pathlib; root=pathlib.Path('.'); data=json.load(open('skills-lock.json', encoding='utf-8')); missing=[(n,e.get('skillPath','')) for n,e in data['skills'].items() if not (root/e.get('skillPath','')).exists()]; print('entries', len(data['skills'])); print('missing', len(missing)); [print(f'{n}: {p}') for n,p in missing]"
+```
+
+`scratch/`, `.venv/`, `__pycache__/`, `.env`, and `external_skills/` are local-only operational data and should normally stay out of commits.

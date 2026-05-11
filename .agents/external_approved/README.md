@@ -6,6 +6,8 @@ that have passed the `skill_triage.py` quarantine gate.
 
 External skills here are **reference assets**, not active core instructions.
 An agent must explicitly load a file from this directory to use it.
+For normal use, the agent should first inspect `INDEX.json`, choose the
+relevant skill candidate, then read only that one file from `skills/`.
 
 ---
 
@@ -21,6 +23,11 @@ An agent must explicitly load a file from this directory to use it.
 **External skills are outside the `auto_commit.py` staging pipeline.**
 `auto_commit.py` processes only `.agents/staging/draft_*.md` files and
 will never touch this directory.
+
+This store is also separate from `skills-lock.json`. The lock file tracks live
+source paths under `external_skills/**/SKILL.md` with content hashes and
+collision checks. This directory stores copied, reviewed reference skills that
+remain usable even when the original source cache is absent.
 
 ---
 
