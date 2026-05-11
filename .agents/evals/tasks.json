@@ -1,0 +1,296 @@
+[
+  {
+    "id": "debug-regression",
+    "category": "debugging",
+    "prompt": "A test started failing after a refactor. Reproduce the bug, isolate the minimal cause, instrument the code, fix it, and add a regression test.",
+    "expected_skills": ["diagnose", "tdd"]
+  },
+  {
+    "id": "debug-flaky-ci",
+    "category": "debugging",
+    "prompt": "CI is flaky and only fails one out of five runs. Diagnose the failure mode before changing the implementation.",
+    "expected_skills": ["diagnose"]
+  },
+  {
+    "id": "debug-production-exception",
+    "category": "debugging",
+    "prompt": "Users are seeing a production exception. Reproduce it locally, minimize the failing case, hypothesize causes, and verify the fix.",
+    "expected_skills": ["diagnose"]
+  },
+  {
+    "id": "debug-performance-database",
+    "category": "debugging",
+    "prompt": "The service slowed down after a deploy. Figure out whether the regression is database, cache, or application logic before patching.",
+    "expected_skills": ["diagnose"]
+  },
+  {
+    "id": "debug-memory-leak",
+    "category": "debugging",
+    "prompt": "Memory usage grows every hour. I need a disciplined diagnosis loop with instrumentation and a regression test.",
+    "expected_skills": ["diagnose"]
+  },
+  {
+    "id": "debug-bug-with-tests",
+    "category": "debugging",
+    "prompt": "Fix this bug using a test-first workflow: write the failing regression test first, then make it pass.",
+    "expected_skills": ["diagnose", "tdd"]
+  },
+  {
+    "id": "tdd-new-parser",
+    "category": "implementation",
+    "prompt": "Build a parser using red-green-refactor. Start with unit tests for edge cases and keep each implementation step small.",
+    "expected_skills": ["tdd"]
+  },
+  {
+    "id": "tdd-integration-flow",
+    "category": "implementation",
+    "prompt": "Add this checkout flow test-first with an integration test, then implement the smallest passing change.",
+    "expected_skills": ["tdd"]
+  },
+  {
+    "id": "tdd-api-contract",
+    "category": "implementation",
+    "prompt": "Create contract tests for the new API behavior before implementing the endpoint.",
+    "expected_skills": ["tdd"]
+  },
+  {
+    "id": "prototype-state-machine",
+    "category": "prototype",
+    "prompt": "I am not sure this state machine design makes sense. Build a quick throwaway prototype so I can play with the transitions.",
+    "expected_skills": ["prototype"]
+  },
+  {
+    "id": "prototype-ui-options",
+    "category": "prototype",
+    "prompt": "Mock up several radically different UI variations so we can compare interaction patterns before committing.",
+    "expected_skills": ["prototype"]
+  },
+  {
+    "id": "prototype-data-model",
+    "category": "prototype",
+    "prompt": "Sanity-check this data model with a runnable terminal prototype and fake records.",
+    "expected_skills": ["prototype"]
+  },
+  {
+    "id": "plan-to-issues",
+    "category": "planning",
+    "prompt": "Turn this implementation plan into independently-grabbable engineering issues with vertical slices and acceptance criteria.",
+    "expected_skills": ["to-issues"]
+  },
+  {
+    "id": "prd-to-issues",
+    "category": "planning",
+    "prompt": "Break this PRD into tracer-bullet implementation tickets that an AFK agent could pick up safely.",
+    "expected_skills": ["to-issues"]
+  },
+  {
+    "id": "roadmap-to-issues",
+    "category": "planning",
+    "prompt": "Convert this roadmap into a sequence of small implementation issues with clear ownership boundaries.",
+    "expected_skills": ["to-issues"]
+  },
+  {
+    "id": "conversation-to-prd",
+    "category": "planning",
+    "prompt": "Convert the current conversation into a concise PRD with goals, non-goals, user stories, and release criteria.",
+    "expected_skills": ["to-prd"]
+  },
+  {
+    "id": "feature-idea-to-prd",
+    "category": "planning",
+    "prompt": "Write a product requirements document from this feature idea and include risks, scope, and success metrics.",
+    "expected_skills": ["to-prd"]
+  },
+  {
+    "id": "notes-to-prd",
+    "category": "planning",
+    "prompt": "Turn these messy notes into a PRD that engineering and design can review.",
+    "expected_skills": ["to-prd"]
+  },
+  {
+    "id": "triage-incoming-bugs",
+    "category": "workflow",
+    "prompt": "Review these incoming bug reports, classify their status, and prepare them for an AFK implementation agent.",
+    "expected_skills": ["triage"]
+  },
+  {
+    "id": "triage-feature-requests",
+    "category": "workflow",
+    "prompt": "Triage this batch of feature requests and decide which are ready, blocked, duplicates, or need product input.",
+    "expected_skills": ["triage"]
+  },
+  {
+    "id": "triage-support-queue",
+    "category": "workflow",
+    "prompt": "Review the issue queue and move each item through the right triage state machine.",
+    "expected_skills": ["triage"]
+  },
+  {
+    "id": "architecture-improvement",
+    "category": "architecture",
+    "prompt": "Find opportunities to improve this codebase architecture, reduce coupling, and make the modules easier for future agents to navigate.",
+    "expected_skills": ["improve-codebase-architecture"]
+  },
+  {
+    "id": "architecture-refactor-map",
+    "category": "architecture",
+    "prompt": "Look for refactoring opportunities that would make this codebase more testable and easier to evolve.",
+    "expected_skills": ["improve-codebase-architecture"]
+  },
+  {
+    "id": "architecture-domain-language",
+    "category": "architecture",
+    "prompt": "Review this codebase against its domain language and identify where the architecture has drifted.",
+    "expected_skills": ["improve-codebase-architecture"]
+  },
+  {
+    "id": "skill-authoring",
+    "category": "skill-authoring",
+    "prompt": "Create a new agent skill with a clear trigger, progressive disclosure, and a safe workflow for future use.",
+    "expected_skills": ["write-a-skill"]
+  },
+  {
+    "id": "skill-update",
+    "category": "skill-authoring",
+    "prompt": "Improve this existing skill so it has better triggers, fewer broad instructions, and clearer workflow steps.",
+    "expected_skills": ["write-a-skill"]
+  },
+  {
+    "id": "skill-bundled-resources",
+    "category": "skill-authoring",
+    "prompt": "Help me design a skill that includes bundled scripts and reference files without loading everything up front.",
+    "expected_skills": ["write-a-skill"]
+  },
+  {
+    "id": "stress-test-plan",
+    "category": "planning",
+    "prompt": "Grill me on this design. Keep asking hard questions until the plan is clear and the tradeoffs are explicit.",
+    "expected_skills": ["grill-me"]
+  },
+  {
+    "id": "stress-test-strategy",
+    "category": "planning",
+    "prompt": "Interview me relentlessly about this strategy until the weak assumptions are exposed.",
+    "expected_skills": ["grill-me"]
+  },
+  {
+    "id": "grill-docs-plan",
+    "category": "planning",
+    "prompt": "Challenge this plan against our existing domain docs and update the documentation as decisions crystallize.",
+    "expected_skills": ["grill-with-docs"]
+  },
+  {
+    "id": "grill-adr",
+    "category": "planning",
+    "prompt": "Stress-test this architecture decision against the ADRs and sharpen the terminology in the docs.",
+    "expected_skills": ["grill-with-docs"]
+  },
+  {
+    "id": "context-zoom-out",
+    "category": "orientation",
+    "prompt": "I am lost in this part of the codebase. Zoom out and explain how this area fits into the bigger picture before we edit anything.",
+    "expected_skills": ["zoom-out"]
+  },
+  {
+    "id": "unknown-module-orientation",
+    "category": "orientation",
+    "prompt": "Before making changes, give me a higher-level perspective on how this unfamiliar module fits with the rest of the app.",
+    "expected_skills": ["zoom-out"]
+  },
+  {
+    "id": "mcp-server-guidance",
+    "category": "mcp",
+    "prompt": "I need best practices for naming and structuring a new MCP server, including Python and TypeScript conventions.",
+    "expected_skills": ["mcp_best_practices"]
+  },
+  {
+    "id": "mcp-tool-schema",
+    "category": "mcp",
+    "prompt": "Review MCP server naming, tool schema organization, and package structure before I scaffold a server.",
+    "expected_skills": ["mcp_best_practices"]
+  },
+  {
+    "id": "safe-text-processing",
+    "category": "safe-fixture",
+    "prompt": "Analyze this text string without touching the filesystem, network, shell, or any external service.",
+    "expected_skills": ["good-skill"]
+  },
+  {
+    "id": "manual-log-cleanup-advice",
+    "category": "safe-fixture",
+    "prompt": "Advise me on manually identifying old log files for cleanup, but do not delete anything.",
+    "expected_skills": ["warning-skill"]
+  },
+  {
+    "id": "caveman-plain-language",
+    "category": "communication",
+    "prompt": "Explain this overcomplicated plan in brutally simple plain language with no jargon.",
+    "expected_skills": ["caveman"]
+  },
+  {
+    "id": "setup-agent-skills",
+    "category": "setup",
+    "prompt": "Set up the project docs so agent skills know the issue tracker, triage labels, and domain documentation layout.",
+    "expected_skills": ["setup-matt-pocock-skills"]
+  },
+  {
+    "id": "negative-current-time",
+    "category": "negative",
+    "prompt": "What time is it right now?",
+    "expected_skills": []
+  },
+  {
+    "id": "negative-json-format",
+    "category": "negative",
+    "prompt": "Pretty-print this small JSON object and tell me if it is valid.",
+    "expected_skills": []
+  },
+  {
+    "id": "negative-simple-calculation",
+    "category": "negative",
+    "prompt": "Calculate 17 times 23 and give only the answer.",
+    "expected_skills": []
+  },
+  {
+    "id": "negative-git-status",
+    "category": "negative",
+    "prompt": "Show me the current git status in this repository.",
+    "expected_skills": []
+  },
+  {
+    "id": "negative-file-listing",
+    "category": "negative",
+    "prompt": "List the files in the current directory.",
+    "expected_skills": []
+  },
+  {
+    "id": "negative-short-translation",
+    "category": "negative",
+    "prompt": "Translate this one sentence into Korean: The build passed.",
+    "expected_skills": []
+  },
+  {
+    "id": "negative-weather-question",
+    "category": "negative",
+    "prompt": "Is it raining in Seoul today?",
+    "expected_skills": []
+  },
+  {
+    "id": "negative-open-browser",
+    "category": "negative",
+    "prompt": "Open localhost:3000 in the browser.",
+    "expected_skills": []
+  },
+  {
+    "id": "negative-readme-heading",
+    "category": "negative",
+    "prompt": "Add a short heading to the README without changing any other content.",
+    "expected_skills": []
+  },
+  {
+    "id": "negative-commit-message",
+    "category": "negative",
+    "prompt": "Suggest a concise commit message for these changes.",
+    "expected_skills": []
+  }
+]

@@ -71,8 +71,11 @@ Before committing environment or registry changes, run:
 .venv\Scripts\python.exe -m py_compile scripts\add_skill.py scripts\sync_external_skills.py
 .venv\Scripts\python.exe -m unittest discover -s scripts\core\tests
 .venv\Scripts\python.exe scripts\audit_index.py --json
+.venv\Scripts\python.exe scripts\run_skill_evals.py --fail-under-top1 0.85 --fail-under-topk 0.95 --fail-under-abstain 0.90
 .venv\Scripts\python.exe -m json.tool skills-lock.json
 ```
+
+`scripts/run_skill_evals.py` is a deterministic baseline for the pull-based external approved skill store. It reads `.agents/evals/tasks.json`, ranks `.agents/external_approved/INDEX.json` entries for each prompt, and reports positive-task top-1 accuracy, positive-task top-k recall, and negative-task abstain accuracy. Extend the task set when new approved skills are added or when a retrieval failure appears in real use.
 
 For lock integrity, also verify that every registered skill path exists:
 

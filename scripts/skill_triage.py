@@ -77,10 +77,28 @@ def extract_summary(content: str) -> str:
       2. Taking the first H1 heading + up to 3 non-empty lines after it.
     Max ~150 words.
     """
-    # Try frontmatter description field
-    fm_match = re.search(r'^description:\s*(.+)', content, re.MULTILINE)
+    # Try frontmatter description field. Support single-line YAML and simple
+    # block scalars (`description: >`) so imported index entries keep useful
+    # routing text instead of the literal `>`.
+    fm_match = re.search(r'^description:\s*(.*)', content, re.MULTILINE)
     if fm_match:
-        return fm_match.group(1).strip()[:400]
+        value = fm_match.group(1).strip()
+        if value in {">", "|", ">-", "|-"}:
+            lines = content.splitlines()
+            start_index = content[:fm_match.start()].count("\n") + 1
+            block_lines = []
+            for line in lines[start_index:]:
+                if line.strip() == "---":
+                    break
+                if line and not line.startswith((" ", "\t")):
+                    break
+                stripped = line.strip()
+                if stripped:
+                    block_lines.append(stripped)
+            if block_lines:
+                return " ".join(block_lines)[:400]
+        if value:
+            return value[:400]
 
     # Fallback: first H1 + following lines
     lines = content.splitlines()
