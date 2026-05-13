@@ -17,6 +17,28 @@ The system defends against LLM prompt injection and tracks asset provenance thro
 ## System Architecture
 The system is built on a **Harness Engineering** philosophy, informed by published Anthropic Claude Code patterns, designed to mitigate LLM context collapse and hallucinated outputs:
 
+```mermaid
+flowchart LR
+  A["Global AI sources"] --> B["Python crawlers"]
+  B --> C["GitHub Actions schedule"]
+  C --> D["pending_queue.json"]
+  D --> E["Local LLM agent processing"]
+  E --> F["Daily briefing reports"]
+  F --> G["R&D planning"]
+  G --> H["Backlog epics"]
+  H --> I["Laboratory execution"]
+  I --> J["Staging drafts"]
+  J --> K{"Audit gate"}
+  K --> L["Static heuristic audit"]
+  K --> M["HMAC provenance attestation"]
+  L --> N{"Human approval"}
+  M --> N
+  N --> O["Skills"]
+  N --> P["Diaries"]
+  O --> Q["AGENTS.md context index"]
+  P --> Q
+```
+
 * **`.agents/workflows/`**: Orchestration layer. Step-by-step human-triggered pipelines (`ai-daily.md`, `ai-rd-planning.md`, `ai-lab-incubation.md`).
 * **`.agents/skills/` (Track A)**: Actionable, defensive LLM instruction files. Uses XML boundaries for deterministic behavior. Loaded on-demand via Progressive Disclosure.
 * **`.agents/diaries/` (Track B)**: Architectural design documents, loaded individually rather than all at once to avoid context bloat.
