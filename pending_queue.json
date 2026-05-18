@@ -3455,8 +3455,434 @@
       "title": "MTP experiences on 7900xtx?",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tg25fz/mtp_experiences_on_7900xtx/",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi! I have been using Qwen3.6 35B A3B happily the past few weeks, and I wanted to try out Qwn3.6 27B with the new fancy MTP speculative draft!</p> <p>These are my settings currently:</p> <p><code> llama-server \\ -m $HOME/Documents/ML/Qwen3.6-27B-Q4_K_M.gguf \\ -c 640..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+      "summary": "..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "link": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "summary": "..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "The Open Agent Leaderboard",
+      "link": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+      "summary": "..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Mexican government breached by solo user with Claude, 150 GB exfiltrated",
+      "link": "https://konstantintkachuk.com/writing/the-floor-doesnt-exist/",
+      "summary": "<p>Article URL: <a href=\"https://konstantintkachuk.com/writing/the-floor-doesnt-exist/\">https://konstantintkachuk.com/writing/the-floor-doesnt-exist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48186326\">https://news.ycombinator.com/item?id=48186326</a></p>\n<p>Points: 14</..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+      "link": "https://arxiv.org/abs/2601.10160",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2601.10160\">https://arxiv.org/abs/2601.10160</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48185938\">https://news.ycombinator.com/item?id=48185938</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Who will buy your services if you fire us all?",
+      "link": "https://carette.xyz/posts/who_will_buy_your_services/",
+      "summary": "<p>Article URL: <a href=\"https://carette.xyz/posts/who_will_buy_your_services/\">https://carette.xyz/posts/who_will_buy_your_services/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48185789\">https://news.ycombinator.com/item?id=48185789</a></p>\n<p>Points: 141</p>\n<p># Comment..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "US bill proposes new national EV tax, while some push to slash gas tax to zero",
+      "link": "https://electrek.co/2026/05/18/us-bill-would-overcharge-evs-to-pay-for-road-damage-they-arent-doing/",
+      "summary": "<p>Article URL: <a href=\"https://electrek.co/2026/05/18/us-bill-would-overcharge-evs-to-pay-for-road-damage-they-arent-doing/\">https://electrek.co/2026/05/18/us-bill-would-overcharge-evs-to-pay-for-road-damage-they-arent-doing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Shutterstock to pay $35M over hard-to-cancel subscriptions",
+      "link": "https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices",
+      "summary": "<p>Article URL: <a href=\"https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices\">https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-ove..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
+      "link": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
+      "summary": "<p>Article URL: <a href=\"https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/\">https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48184350\">https://news.yc..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "link": "https://hyperpolyglot.org/lisp",
+      "summary": "<p>Article URL: <a href=\"https://hyperpolyglot.org/lisp\">https://hyperpolyglot.org/lisp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48184322\">https://news.ycombinator.com/item?id=48184322</a></p>\n<p>Points: 92</p>\n<p># Comments: 16</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: We missed Winamp, so we built an audio player for macOS",
+      "link": "https://www.advanced-research.net/180db",
+      "summary": "<p>Article URL: <a href=\"https://www.advanced-research.net/180db\">https://www.advanced-research.net/180db</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48184214\">https://news.ycombinator.com/item?id=48184214</a></p>\n<p>Points: 50</p>\n<p># Comments: 38</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "loopmaster – Livecoding Music IDE",
+      "link": "https://loopmaster.xyz/",
+      "summary": "<p>Article URL: <a href=\"https://loopmaster.xyz/\">https://loopmaster.xyz/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48183757\">https://news.ycombinator.com/item?id=48183757</a></p>\n<p>Points: 34</p>\n<p># Comments: 13</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Agora-1: The Multi-Agent World Model",
+      "link": "https://odyssey.ml/introducing-agora-1",
+      "summary": "<p>Article URL: <a href=\"https://odyssey.ml/introducing-agora-1\">https://odyssey.ml/introducing-agora-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48183748\">https://news.ycombinator.com/item?id=48183748</a></p>\n<p>Points: 55</p>\n<p># Comments: 14</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Haiku OS runs on M1 Macs now",
+      "link": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
+      "summary": "<p>Article URL: <a href=\"https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2\">https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48183579\">https://news.ycombinator.com/item?id=48183579</a></p>\n<p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "We let AIs run radio stations",
+      "link": "https://andonlabs.com/blog/andon-fm",
+      "summary": "<p>Hey HN!<p>I'm Lukas from Andon Labs. We let AIs run companies without humans in the loop and report to the public on what can go wrong. Previously, we've done experiments in retail (vending machines, stores, and cafes), but we just launched one in the media sector. We gave four AI agents all the ..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
+      "link": "https://modal.com/blog/truly-serverless-gpus",
+      "summary": "<p>Article URL: <a href=\"https://modal.com/blog/truly-serverless-gpus\">https://modal.com/blog/truly-serverless-gpus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48183038\">https://news.ycombinator.com/item?id=48183038</a></p>\n<p>Points: 59</p>\n<p># Comments: 15</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/\">https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48182754\">h..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
+      "summary": "<p><a href=\"https://finance.yahoo.com/markets/crypto/articles/iran-starts-bitcoin-backed-shipping-122906039.html\" rel=\"nofollow\">https://finance.yahoo.com/markets/crypto/articles/iran-start...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48182592\">https://news.ycombi..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Anthropic acquires Stainless",
+      "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/anthropic-acquires-stainless\">https://www.anthropic.com/news/anthropic-acquires-stainless</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48182281\">https://news.ycombinator.com/item?id=48182281</a></p>\n<p>Points: 303</p>\n..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "link": "https://archestra.ai/blog/only-responsible-ai",
+      "summary": "<p>Article URL: <a href=\"https://archestra.ai/blog/only-responsible-ai\">https://archestra.ai/blog/only-responsible-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48181125\">https://news.ycombinator.com/item?id=48181125</a></p>\n<p>Points: 369</p>\n<p># Comments: 176</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Project Glasswing: what Mythos showed us",
+      "link": "https://blog.cloudflare.com/cyber-frontier-models/",
+      "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/cyber-frontier-models/\">https://blog.cloudflare.com/cyber-frontier-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48179732\">https://news.ycombinator.com/item?id=48179732</a></p>\n<p>Points: 251</p>\n<p># Comments: 92<..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+      "link": "https://github.com/zakirullin/files.md",
+      "summary": "<p>Article URL: <a href=\"https://github.com/zakirullin/files.md\">https://github.com/zakirullin/files.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48179677\">https://news.ycombinator.com/item?id=48179677</a></p>\n<p>Points: 496</p>\n<p># Comments: 259</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Learn Harness Engineering",
+      "link": "https://walkinglabs.github.io/learn-harness-engineering/en/",
+      "summary": "<p>Article URL: <a href=\"https://walkinglabs.github.io/learn-harness-engineering/en/\">https://walkinglabs.github.io/learn-harness-engineering/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48178652\">https://news.ycombinator.com/item?id=48178652</a></p>\n<p>Points: 111</p>\n..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation",
+      "link": "https://arxiv.org/abs/2605.16258v1",
+      "summary": "Reconstructing coherent 3D geometry and appearance from unposed multi-view images is a fundamental yet challenging problem in computer vision. Most existing visual geometry foundation models predict explicit geometry by regressing pixel-aligned pointmaps, often suffering from redundancy and limited ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Designing Datacenter Power Delivery Hierarchies for the AI Era",
+      "link": "https://arxiv.org/abs/2605.16255v1",
+      "summary": "Demand for AI accelerators is rapidly increasing rack power density, with projections approaching 1MW per deployment by 2027. This poses a major challenge for datacenter power delivery designers. As power densities increase, a datacenter designed for a different target density may strand power, i.e...."
+    },
+    {
+      "source": "ArXiv",
+      "title": "A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation",
+      "link": "https://arxiv.org/abs/2605.16250v1",
+      "summary": "Distribution utilities are now expected to deliver bills that customers can actually read attach a defensible carbon number to every kWh sold and schedule load against grid stress and emissions constraints We propose an end-to-end framework that unifies four production-grade capabilities under one a..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "AI-Mediated Communication Can Steer Collective Opinion",
+      "link": "https://arxiv.org/abs/2605.16245v1",
+      "summary": "Generative artificial intelligence (AI) is increasingly integrated into the online platforms where humans exchange opinions; large language models (LLMs) now polish users' posts on LinkedIn and provide context for content shared on X. While prior work has shown that AI can express biased opinions an..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Dynamics-Level Watermarking of Flow Matching Models with Random Codes",
+      "link": "https://arxiv.org/abs/2605.16239v1",
+      "summary": "We introduce a dynamics-level approach to watermarking generative models. Rather than embedding signals into model weights or outputs, we embed the watermark directly into the learned continuous dynamics -- the velocity field of a flow matching model. We formulate this as random coding over a contin..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Prospective multi-pathogen disease forecasting using autonomous LLM-guided tree search",
+      "link": "https://arxiv.org/abs/2605.16238v1",
+      "summary": "Probabilistic forecasting of infectious diseases is crucial for public health but relies on labor-intensive manual model curation by expert modeling teams. This bespoke development bottlenecks scalability to granular geographic resolutions or emerging pathogens. Here, we present an autonomous system..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Changes What You Find",
+      "link": "https://arxiv.org/abs/2605.16234v1",
+      "summary": "When researchers ask whether two transformer layers are \"equivalent\" for compression, they often conflate distinct tests. Replacement asks whether one layer's map can substitute for another's in place; interchange asks whether two layers approximately commute when their positions are swapped. Both a..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast",
+      "link": "https://arxiv.org/abs/2605.16233v1",
+      "summary": "Can LLM agents improve decision-making through self-generated memory without gradient updates? We propose FORGE (Failure-Optimized Reflective Graduation and Evolution), a staged, population-based protocol that evolves prompt-injected natural-language memory for hierarchical ReAct agents. FORGE wraps..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+      "link": "https://arxiv.org/abs/2605.16232v1",
+      "summary": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy utilities manage physical infrastructure, customer engagement, and environmental accountability..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Universal Magnetic Structure Prediction from Atomic Coordinates with Near-Experimental Accuracy",
+      "link": "https://arxiv.org/abs/2605.16230v1",
+      "summary": "Magnetic order is a fundamental property of materials, governing collective behavior and enabling a broad range of functionalities. Yet magnetic structure remains difficult to determine: experiments are costly and specialized, while first-principles methods often struggle with the noncollinear and i..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Evaluating Design Video Generation: Metrics for Compositional Fidelity",
+      "link": "https://arxiv.org/abs/2605.16223v1",
+      "summary": "Generative video models are increasingly used in design animation tasks, yet no standardized evaluation framework exists for this domain. Unlike natural video generation, design animation imposes structured constraints: specific components shall animate with prescribed motion types, directions, spee..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Artificial Aphasias in Lesioned Language Models",
+      "link": "https://arxiv.org/abs/2605.16222v1",
+      "summary": "Aphasias, selective language impairments which can arise from brain damage, reveal the functional organization of human language by providing causal links between affected brain regions and specific symptom profiles. Drawing on this literature, we introduce an aphasia-inspired technique to character..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Argus: Evidence Assembly for Scalable Deep Research Agents",
+      "link": "https://arxiv.org/abs/2605.16217v1",
+      "summary": "Deep research agents have achieved remarkable progress on complex information seeking tasks. Even long ReAct style rollouts explore only a single trajectory, while recent state of the art systems scale inference time compute via parallel search and aggregation. Yet deep research answers are composed..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Fully Open Meditron: An Auditable Pipeline for Clinical LLMs",
+      "link": "https://arxiv.org/abs/2605.16215v1",
+      "summary": "Clinical decision support systems (CDSS) require scrutable, auditable pipelines that enable rigorous, reproducible validation. Yet current LLM-based CDSS remain largely opaque. Most \"open\" models are open-weight only, releasing parameters while withholding the data provenance, curation procedures, a..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Hypothesis-driven construction of mesoscopic dynamics",
+      "link": "https://arxiv.org/abs/2605.16211v1",
+      "summary": "Traditional scientific modeling typically begins with fixed, instance-wise effective equations and then carries out equation-specific analysis and computation, a procedure that becomes exceptionally challenging in complex applications such as multiscale systems. We propose an alternative paradigm by..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "A Scalable Nonparametric Continuous-Time Survival Model through Numerical Quadrature",
+      "link": "https://arxiv.org/abs/2605.16208v1",
+      "summary": "Flexible continuous-time survival modeling is critical for capturing complex time-varying hazard dynamics in high-dimensional data; however, training such models remains challenging due to the intractable integral required for likelihood estimation. We introduce QSurv, a scalable deep learning frame..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most",
+      "link": "https://arxiv.org/abs/2605.16207v1",
+      "summary": "Effective tutoring requires distinguishing optimal, valid but suboptimal, and incorrect student solutions, a distinction central to intelligent tutoring systems (ITS) but untested for LLM-based tutors. As LLMs are increasingly explored as conversational complements to ITS, evaluating their diagnosti..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Context, Reasoning, and Hierarchy: A Cost-Performance Study of Compound LLM Agent Design in an Adversarial POMDP",
+      "link": "https://arxiv.org/abs/2605.16205v1",
+      "summary": "Deploying compound LLM agents in adversarial, partially observable sequential environments requires navigating several design dimensions: (1) what the agent sees, (2) how it reasons, and (3) how tasks are decomposed across components. Yet practitioners lack guidance on which design choices improve p..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Formal Methods Meet LLMs: Auditing, Monitoring, and Intervention for Compliance of Advanced AI Systems",
+      "link": "https://arxiv.org/abs/2605.16198v1",
+      "summary": "We examine one particular dimension of AI governance: how to monitor and audit AI-enabled products and services throughout the AI development lifecycle, from pre-deployment testing to post-deployment auditing. Combining principles from formal methods with SoTA machine learning, we propose techniques..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "paper.json: A Coordination Convention for LLM-Agent-Actionable Papers",
+      "link": "https://arxiv.org/abs/2605.16194v1",
+      "summary": "LLM agents routinely serve as first (and sometimes only) readers of academic papers, skimming for sub-claims, extracting reproducibility steps, and generalizing scope. Standard prose papers produce recurring failures in this role: sub-claims that cannot be cited at sub-paper granularity, scope overe..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Improving Cross-Cultural Survey Simulation with Calibrated Value Personas",
+      "link": "https://arxiv.org/abs/2605.16193v1",
+      "summary": "Large language models (LLMs) are increasingly used to simulate human opinions and survey responses, but their ability to reproduce population responses across cultures remains limited. Existing persona-based prompting methods typically rely on sociodemographic or personality traits, which are only i..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Optimized Three-Dimensional Photovoltaic Structures with LLM guided Tree Search",
+      "link": "https://arxiv.org/abs/2605.16191v1",
+      "summary": "We present a case study for how AI coding systems can be used to generate novel scientific hypotheses. We combine a generic coding agent (Google's AntiGravity) with an LLM-driven tree search algorithm (Empirical Research Assistance / ERA) to autonomously generate high-efficiency three-dimensional ph..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Runtime-Orchestrated Second-Order Optimization for Scalable LLM Training",
+      "link": "https://arxiv.org/abs/2605.16184v1",
+      "summary": "Second-order methods offer an attractive path toward more sample-efficient LLM training, but their practical use is often blocked by the systems cost of maintaining and updating large matrix-based optimizer states. We introduce \\textbf{Asteria}, a runtime system designed to remove this bottleneck by..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Imitation learning for clinical decision support in pediatric ECMO",
+      "link": "https://arxiv.org/abs/2605.16175v1",
+      "summary": "Pediatric critical care is a dynamic, high-stakes process involving constant monitoring and adjustments in life-saving treatments. Modeling these interventions is crucial for effective decision support. To address the challenges of high complexity and data scarcity in pediatric Extracorporeal Membra..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "BAPR: Bayesian amnesic piecewise-robust reinforcement learning for non-stationary continuous control",
+      "link": "https://arxiv.org/abs/2605.16170v1",
+      "summary": "Real-world control systems frequently operate under \\emph{piecewise stationary} conditions, where dynamics remain stable for extended periods before undergoing abrupt regime changes. Standard robust RL methods face a fundamental dilemma: a globally conservative policy wastes performance during stabl..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Second-Order Multi-Level Variance Correction for Modality Competition in Multimodal Models",
+      "link": "https://arxiv.org/abs/2605.16165v1",
+      "summary": "Autoregressive next-token training offers a unified formulation for image generation and text understanding, but it also creates strong modality competition that destabilizes optimization and limits large-batch scaling. We show that first-order optimizers such as AdamW are vulnerable to cross-modali..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Entropic Auto-Encoding via Implicit Free-Energy Minimization",
+      "link": "https://arxiv.org/abs/2605.16164v1",
+      "summary": "Despite their ubiquity, variational autoencoders (VAEs) inherently suffer from posterior collapse, a failure mode in which latent variables are effectively ignored. This failure arises because explicit prior imposition drives optimization toward loss landscape regions corresponding to uninformative ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "SwAIther-Precip: Lead-Time-Aware Bias Correction Enables Kilometer-Scale Downscaling of Global AI Precipitation Forecasts over Switzerland",
+      "link": "https://arxiv.org/abs/2605.16163v1",
+      "summary": "Skillful medium-range precipitation forecasting at kilometer scale remains challenging over complex terrain because precipitation arises from multiscale nonlinear processes that global models cannot explicitly resolve at affordable cost. Global AI weather models can produce skillful medium-range for..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Learn Where Outcomes Diverge: Efficient VLA RL via Probabilistic Chunk Masking",
+      "link": "https://arxiv.org/abs/2605.16154v1",
+      "summary": "Reinforcement learning (RL) allows vision-language-action (VLA) policies to generalize beyond their training distribution by optimizing directly for task success, but post-training is computationally expensive. A natural response has been to speed rollout collection through faster simulators and wor..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "An Algebraic Exposition of the Theory of Dyadic Morality",
+      "link": "https://arxiv.org/abs/2605.16153v1",
+      "summary": "This paper provides an algebraic exposition of the theory of dyadic morality (TDM), a psychological model of moral judgment grounded in a simple two-node template: an intentional agent causing harm to a vulnerable patient. We formalize TDM using structural causal modeling (SCM) notation and identify..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Skew-adaptive conformal prediction",
+      "link": "https://arxiv.org/abs/2605.16145v1",
+      "summary": "We develop a skew-adaptive extension of split conformal prediction for regression. The method starts from an asymmetric interval family centered at a point prediction and uses the gauge approach to deduce the conformity score induced by this family. The inverse hyperbolic sine transform of signed sc..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Look Before You Leap: Autonomous Exploration for LLM Agents",
+      "link": "https://arxiv.org/abs/2605.16143v1",
+      "summary": "Large language model based agents often fail in unfamiliar environments due to premature exploitation: a tendency to act on prior knowledge before acquiring sufficient environment-specific information. We identify autonomous exploration as a critical yet underexplored capability for building adaptiv..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Property-Guided LLM Program Synthesis for Planning",
+      "link": "https://arxiv.org/abs/2605.16142v1",
+      "summary": "LLMs have shown impressive success in program synthesis, discovering programs that surpass prior solutions. However, these approaches rely on simple numeric scores to signal program quality, such as the value of the solution or the number of passed tests. Because a score offers no guidance on why a ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Surrogate Neural Architecture Codesign Package (SNAC-Pack)",
+      "link": "https://arxiv.org/abs/2605.16138v1",
+      "summary": "Neural architecture search (NAS) is a powerful approach for automating model design, but existing methods often optimize for accuracy alone or rely on proxy metrics such as bit operations (BOPs) that correlate poorly with hardware cost. This gap is particularly large for FPGA deployment, where cost ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Navigating Potholes with Geometry-Aware Sharpness Minimization",
+      "link": "https://arxiv.org/abs/2605.16134v1",
+      "summary": "Sharpness-aware minimization (SAM) encourages flat minima by perturbing parameters along directions of high loss curvature, but treats all parameter directions uniformly, ignoring the underlying loss geometry. We introduce LLQR+SAM, which combines SAM with a learned preconditioner obtained from the ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Entropy Across the Bridge: Conditional-Marginal Discretization for Flow and Schrödinger Samplers",
+      "link": "https://arxiv.org/abs/2605.16126v1",
+      "summary": "For a fixed flow-based generative model under a small inference budget, sample quality can depend strongly on where the sampler spends its few function evaluations. Flow matching and Schrödinger bridges define probability paths, yet their inference grids are usually heuristic or inherited from one-e..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "GenShield: Unified Detection and Artifact Correction for AI-Generated Images",
+      "link": "https://arxiv.org/abs/2605.16122v1",
+      "summary": "Diffusion-based image synthesis has made AI-generated images (AIGI) increasingly photorealistic, raising urgent concerns about authenticity in applications such as misinformation detection, digital forensics, and content moderation. Despite the substantial advances in AIGI detection, how to correct ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Multi-Fidelity Flow Matching: Cascaded Refinement of PDE Solutions",
+      "link": "https://arxiv.org/abs/2605.16118v1",
+      "summary": "The source distribution in conditional flow matching is a design parameter that can be calibrated to data, not a default isotropic prior. We exploit this in Multi-Fidelity Flow Matching (MFFM), a cascade refinement framework for parametric PDE solutions: the source is calibrated to the empirical low..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "SGR: A Stepwise Reasoning Framework for LLMs with External Subgraph Generation",
+      "link": "https://arxiv.org/abs/2605.16117v1",
+      "summary": "Large Language Models (LLMs) have demonstrated strong capabilities across diverse NLP applications, such as translation, text generation, and question answering. Nevertheless, they remain limited in complex settings that demand deep reasoning and logical inference. Since these models are trained on ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "ShopGym: An Integrated Framework for Realistic Simulation and Scalable Benchmarking of E-Commerce Web Agents",
+      "link": "https://arxiv.org/abs/2605.16116v1",
+      "summary": "Developing and evaluating e-commerce web agents requires environments that preserve meaningful task structure while enabling controllable, reproducible, and scalable scientific comparison. Existing methodologies force a tradeoff: live storefronts provide realism but are non-stationary, difficult to ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Scalable neuromorphic computing from autonomous spiking dynamics in a clockless reconfigurable chip",
+      "link": "https://arxiv.org/abs/2605.16114v1",
+      "summary": "We propose a scalable neuromorphic architecture based on spiking dynamics emerging from the autonomous time-continuous evolution of clockless (asynchronous) digital circuits. Implemented on commercially available field-programmable gate arrays (FPGAs), our system implements networks of interacting B..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "DebiasRAG: A Tuning-Free Path to Fair Generation in Large Language Models through Retrieval-Augmented Generation",
+      "link": "https://arxiv.org/abs/2605.16113v1",
+      "summary": "Large language models (LLMs) have achieved unprecedented success due to their exceptional generative capabilities. However, because they depend on knowledge encapsulated from training corpora, they may produce hallucinations, stereotypes, and socially biased content. In particular, LLMs are prone to..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Attention Dispersion in Dynamic Graph Transformers: Diagnosis and a Transferable Fix",
+      "link": "https://arxiv.org/abs/2605.16112v1",
+      "summary": "Transformer-based architectures have become the dominant paradigm for Continuous-Time Dynamic Graph (CTDG) learning, yet their performance remains limited on temporally shifted datasets. In this work, we identify attention dispersion as a shared failure mode of dynamic graph Transformers under tempo..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Multi-Level Contextual Token Relation Modeling for Machine-Generated Text Detection",
+      "link": "https://arxiv.org/abs/2605.16107v1",
+      "summary": "Machine-generated texts (MGTs) pose risks such as disinformation and phishing, underscoring the need for reliable detection. Metric-based methods, which extract statistically distinguishable features of MGTs, are often more practical than complex model-based methods that are prone to overfitting. Gi..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Sign-Separated Finite-Time Error Analysis of Q-Learning",
+      "link": "https://arxiv.org/abs/2605.16103v1",
+      "summary": "This paper develops a sign-separated finite-time error analysis for constant step-size Q-learning. Starting from the switching-system representation, the error is decomposed into its componentwise negative and positive parts. The negative part is dominated by a lower comparison linear time-invariant..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Federated Imputation under Heterogeneous Feature Spaces",
+      "link": "https://arxiv.org/abs/2605.16099v1",
+      "summary": "Federated Learning (FL) enables collaborative training across decentralized clients, but most methods assume aligned feature schemas, an assumption that rarely holds in tabular settings where clients observe only partially overlapping feature subsets. In these heterogeneous feature spaces, parameter..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "GeoGS-CE: Learning Delay--Beam Channel Priors with 3D Gaussians for High-Mobility Scenarios",
+      "link": "https://arxiv.org/abs/2605.16094v1",
+      "summary": "Wideband channel estimation (CE) in high-mobility scenarios remains challenging because channel responses vary rapidly, while practical systems can allocate only sparse pilots to accommodate dense users. Fortunately, many high-mobility environments, such as high-speed railways, exhibit scheduled tra..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Centralized vs Decentralized Federated Learning: A trade-off performance analysis",
+      "link": "https://arxiv.org/abs/2605.16089v1",
+      "summary": "Federated Learning (FL) has emerged as a promising paradigm for collaborative model training across distributed edge devices while preserving data privacy especially with the huge increase amount of data due to the adoption of technologies which contributes to the growing number of IoT devices. Stor..."
     }
   ],
-  "timestamp": "2026-05-17T22:53:09.709422",
-  "total_items": 576
+  "timestamp": "2026-05-18T23:00:21.709736",
+  "total_items": 647
 }
