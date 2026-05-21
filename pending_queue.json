@@ -4505,8 +4505,434 @@
       "title": "CAMERA: Adapting to Semantic Camouflage in Unsupervised Text-Attributed Graph Fraud Detection",
       "link": "https://arxiv.org/abs/2605.20032v1",
       "summary": "Text-attributed graph fraud detection (TAGFD) plays a critical role in preventing fraudulent activities on online social and e-commerce platforms. However, to evade detection, fraudsters continuously evolve their camouflaging strategies by deliberately mimicking textual responses of benign users, th..."
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "summary": "..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Shira: Anti Phishing Training Platform",
+      "link": "https://shira.app/",
+      "summary": "<p>Article URL: <a href=\"https://shira.app/\">https://shira.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48229313\">https://news.ycombinator.com/item?id=48229313</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Open-source .docx editor library for building document apps",
+      "link": "https://github.com/eigenpal/docx-editor",
+      "summary": "<p>We are working on an open-source .docx editor library for apps that need to edit Word documents in the browser. We just shipped 1.0.<p>A lot of existing approaches convert .docx into HTML and lose document semantics along the way. Our editor parses OOXML directly and uses its own rendering+layout..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+      "link": "https://arxiv.org/abs/2605.12460",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2605.12460\">https://arxiv.org/abs/2605.12460</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48227923\">https://news.ycombinator.com/item?id=48227923</a></p>\n<p>Points: 35</p>\n<p># Comments: 2</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Using Kagi Search with Low Vision",
+      "link": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+      "summary": "<p>Article URL: <a href=\"https://veroniiiica.com/using-kagi-search-with-low-vision/\">https://veroniiiica.com/using-kagi-search-with-low-vision/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48227860\">https://news.ycombinator.com/item?id=48227860</a></p>\n<p>Points: 74</p>\n<p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "link": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+      "summary": "<p>Article URL: <a href=\"https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/\">https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48227397\">https..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "BBEdit 16",
+      "link": "https://www.barebones.com/products/bbedit/bbedit16.html",
+      "summary": "<p>Article URL: <a href=\"https://www.barebones.com/products/bbedit/bbedit16.html\">https://www.barebones.com/products/bbedit/bbedit16.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48226944\">https://news.ycombinator.com/item?id=48226944</a></p>\n<p>Points: 235</p>\n<p># Com..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Where are all the UK red telephone kiosks?",
+      "link": "https://www.thek6project.co.uk/",
+      "summary": "<p>Article URL: <a href=\"https://www.thek6project.co.uk/\">https://www.thek6project.co.uk/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48226703\">https://news.ycombinator.com/item?id=48226703</a></p>\n<p>Points: 61</p>\n<p># Comments: 37</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+      "link": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+      "summary": "<p>Article URL: <a href=\"https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/\">https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48226588\">https://news.ycombinator.co..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Chewing gum restores dad's taste and smell years after Covid",
+      "link": "https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/",
+      "summary": "<p>Article URL: <a href=\"https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/\">https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48226038\">htt..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers",
+      "link": "https://news.ycombinator.com/item?id=48225852",
+      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48225852\">https://news.ycombinator.com/item?id=48225852</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "News outlets are limiting the Internet Archive’s access to their journalism",
+      "link": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
+      "summary": "<p>Article URL: <a href=\"https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/\">https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/</a></p>\n<p>Com..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
+      "link": "https://news.ycombinator.com/item?id=48225596",
+      "summary": "<p>Hi HN! We're Haakam, Michael, and Adi from AgentMail- a ycs25 company. We give AI agents their own email inboxes. Recently, we ran an experiment called Agent.Email. It's a signup flow designed specifically for AI agents instead of humans.<p>The inspiration came from a few comments we received whe..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
+      "link": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/\">https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Spotify will start reserving concert tickets for fans",
+      "link": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/",
+      "summary": "<p>Article URL: <a href=\"https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/\">https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/</a></p>\n<p>C..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Project Hail Mary – Stellar Navigation Chart",
+      "link": "https://valhovey.github.io/gaia-mary/",
+      "summary": "<p>Article URL: <a href=\"https://valhovey.github.io/gaia-mary/\">https://valhovey.github.io/gaia-mary/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48225297\">https://news.ycombinator.com/item?id=48225297</a></p>\n<p>Points: 425</p>\n<p># Comments: 111</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+      "link": "https://www.runtm.com/",
+      "summary": "<p>Hey HN, We're Gus and Carlos from Runtime (<a href=\"https://runtm.com\">https://runtm.com</a>). We're building infra that lets your whole team (including non-engineers) ship with Claude Code, Codex, and other agents without engineering having to handhold every session.<p>After Mentum (YC S21) was ..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Museum of Pocket Calculating Devices",
+      "link": "https://www.calculators.de/",
+      "summary": "<p>Article URL: <a href=\"https://www.calculators.de/\">https://www.calculators.de/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48224768\">https://news.ycombinator.com/item?id=48224768</a></p>\n<p>Points: 61</p>\n<p># Comments: 13</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+      "link": "https://freenet.org/",
+      "summary": "<p>For the past 5 years or so I've been working on a ground-up redesign of Freenet, my peer-to-peer project from the early 2000s (now renamed Hyphanet).<p>The new Freenet has been up and running since December along with some early applications like River[1], our decentralized group chat and Delta -..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+      "link": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+      "summary": "<p>Article URL: <a href=\"https://blog.simbastack.com/indexed-a-year-of-video-locally/\">https://blog.simbastack.com/indexed-a-year-of-video-locally/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48222733\">https://news.ycombinator.com/item?id=48222733</a></p>\n<p>Points: 250</p..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Google's Antigravity bait and switch",
+      "link": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+      "summary": "<p>Article URL: <a href=\"https://www.0xsid.com/blog/antigravity-bait-n-switch\">https://www.0xsid.com/blog/antigravity-bait-n-switch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48222529\">https://news.ycombinator.com/item?id=48222529</a></p>\n<p>Points: 476</p>\n<p># Comments:..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Variance Reduction for Expectations with Diffusion Teachers",
+      "link": "https://arxiv.org/abs/2605.21489v1",
+      "summary": "Pretrained diffusion models serve as frozen teachers feeding downstream pipelines such as text-to-3D, single-step distillation, and data attribution. The teacher gradients these pipelines consume are Monte Carlo (MC) expectations over noise levels and Gaussian noise samples; their estimator variance..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning",
+      "link": "https://arxiv.org/abs/2605.21488v1",
+      "summary": "Scaling test-time compute by iteratively updating a latent state has emerged as a powerful paradigm for reasoning. Yet the internal mechanisms that enable these iterative models to generalize beyond memorized patterns remain unclear. We hypothesize that generalizable reasoning arises from learning t..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate",
+      "link": "https://arxiv.org/abs/2605.21486v1",
+      "summary": "Hyperparameter transfer allows extrapolating optimal optimization hyperparameters from small to large scales, making it critical for training large language models (LLMs). This is done either by fitting a scaling law to the hyperparameters or by a judicious choice of parameterization, such as Maxima..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation",
+      "link": "https://arxiv.org/abs/2605.21485v1",
+      "summary": "Equivariant graph neural network (GNN) methods for antibody complementarity-determining region (CDR) design achieve the highest sequence recovery but suffer from severe vocabulary collapse. The current best GNN methods over-predict very few amino acids, such as tyrosine and glycine, while ignoring f..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction",
+      "link": "https://arxiv.org/abs/2605.21483v1",
+      "summary": "Precise measurement of the kinematic Sunyaev-Zel'dovich (kSZ) effect - a probe of the large-scale distribution of baryonic matter, a key observable for cosmological inference - requires accurate reconstruction of galaxy velocities from spectroscopic surveys. The signal-to-noise ratio (SNR) of kSZ me..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation",
+      "link": "https://arxiv.org/abs/2605.21482v1",
+      "summary": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep research products score high on existing benchmarks, making it difficult to distinguish their capabilities ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists",
+      "link": "https://arxiv.org/abs/2605.21481v1",
+      "summary": "Recent advances in artificial intelligence (AI) have accelerated the growth of both human-authored and AI-generated research outputs, placing increasing strain on traditional academic publishing systems and challenging the scalability of conference- and journal-centered paradigms amid rising submiss..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wikipedia and Wikidata",
+      "link": "https://arxiv.org/abs/2605.21479v1",
+      "summary": "Visual Question Answering (VQA) benchmarks have largely emphasized perception-based tasks that can be solved from visual content alone. In contrast, many real-world scenarios require external knowledge that is not directly observable in the image to answer correctly. We introduce WikiVQABench, a hum..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning",
+      "link": "https://arxiv.org/abs/2605.21475v1",
+      "summary": "Relational prediction tasks are fundamental in many real-world applications, where data are naturally stored in relational databases (RDBs). Relational Deep Learning (RDL) addresses this problem by modeling RDBs as graphs and applying graph neural networks (GNNs) for end-to-end learning. However, th..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling",
+      "link": "https://arxiv.org/abs/2605.21470v1",
+      "summary": "Computer-use agents (CUA) automate tasks specified with natural language such as \"order the cheapest item from Taco Bell\" by generating sequences of calls to tools such as click, type, and scroll on a browser. Current implementations follow a sequential fetch-screenshot-execute loop where each itera..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories",
+      "link": "https://arxiv.org/abs/2605.21468v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) has become a dominant paradigm for improving reasoning in large language models (LLMs), yet the underlying geometry of the resulting parameter trajectories remains underexplored. In this work, we demonstrate that RLVR weight trajectories are extr..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards",
+      "link": "https://arxiv.org/abs/2605.21467v1",
+      "summary": "Reinforcement learning from verifiable rewards (RLVR) has emerged as a central technique for improving the reasoning capabilities of large language models. Despite its effectiveness, how response-level rewards translate into token-level probability changes remains poorly understood. We introduce a d..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Leveraging LLMs for Grammar Adaptation: A Study on Metamodel-Grammar Co-Evolution",
+      "link": "https://arxiv.org/abs/2605.21465v1",
+      "summary": "In model-driven engineering, metamodel evolution leads to the need to adapt corresponding grammars to maintain consistency, which typically requires tedious manual work. Existing rule-based methods can achieve partial automation but have limitations when handling complex grammar scenarios. This pape..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Mem-$π$: Adaptive Memory through Learning When and What to Generate",
+      "link": "https://arxiv.org/abs/2605.21463v1",
+      "summary": "We present Mem-$π$, a framework for adaptive memory in large language model (LLM) agents, where useful guidance is generated on demand rather than retrieved from external memory stores. Existing memory-augmented agents typically rely on similarity-based retrieval from episodic memory banks or skill ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "A Machine Learning Framework for Weighted Least Squares GNSS Positioning based on Activation Functions",
+      "link": "https://arxiv.org/abs/2605.21461v1",
+      "summary": "Global Navigation Satellite Systems (GNSS) are widely used to provide position, velocity, and timing (PVT) information for various applications, including transportation, location-based communication services, and intelligent agriculture. In urban canyons, high-rise buildings and narrow streets can ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "HITL-D: Human In The Loop Diffusion Assisted Shared Control",
+      "link": "https://arxiv.org/abs/2605.21460v1",
+      "summary": "Autonomous manipulation systems have achieved remarkable capabilities, yet the integration of human expertise with diffusion-based policies in shared control remains relatively unexplored. In this paper, we propose Human-In-The-Loop Diffusion (HITL-D), a shared control framework that enhances user p..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Mind the Sim-to-Real Gap & Think Like a Scientist",
+      "link": "https://arxiv.org/abs/2605.21458v1",
+      "summary": "Suppose a planner has a pre-trained simulator of a sequential decision problem and the option to run real experiments in the field. The simulator is cheap to query but inherits confounding and drift from its calibration data. Experimentation is unbiased but consumes one real unit per trial. We study..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Mitigating Label Bias with Interpretable Rubric Embeddings",
+      "link": "https://arxiv.org/abs/2605.21455v1",
+      "summary": "Statistical decision algorithms are increasingly deployed in domains where ground-truth labels are hard to obtain, such as hiring, university admissions, and content moderation. In these settings, models are typically trained on historical human evaluations -- for example, using past hiring decision..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Quality and Security Signals in AI-Generated Python Refactoring Pull Requests",
+      "link": "https://arxiv.org/abs/2605.21453v1",
+      "summary": "As AI agents increasingly contribute to code development and maintenance, there is still limited empirical evidence on the quality and risk characteristics of their changes in real-world projects, particularly for refactoring-oriented contributions. It remains unclear how agent-authored refactoring ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Approximation Theory for Neural Networks: Old and New",
+      "link": "https://arxiv.org/abs/2605.21451v1",
+      "summary": "Universal approximation theorems provide a mathematical explanation for the expressive power of neural networks. They assert that, under mild conditions on the activation function, feedforward neural networks are dense in broad function classes, such as continuous functions on compact subsets of $\\m..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Lost in Fog: Sensor Perturbations Expose Reasoning Fragility in Driving VLAs",
+      "link": "https://arxiv.org/abs/2605.21446v1",
+      "summary": "Interpretable autonomous driving planners depend not only on generating explanations, but also on those explanations remaining reliable under real-world sensor degradation. In this paper we present a controlled perturbation study of Vision-Language-Action (VLA) robustness in autonomous driving, eval..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "TempGlitch: Evaluating Vision-Language Models for Temporal Glitch Detection in Gameplay Videos",
+      "link": "https://arxiv.org/abs/2605.21443v1",
+      "summary": "Vision-language models (VLMs) are increasingly being explored for video game quality assurance, especially gameplay glitch detection. Most existing evaluations, however, treat glitches as static visual anomalies, asking models to detect failures from a single frame. We argue that this framing misses..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "torchtune: PyTorch native post-training library",
+      "link": "https://arxiv.org/abs/2605.21442v1",
+      "summary": "Modern LLMs typically require multistage training pipelines to achieve strong downstream performance, with post-training serving as the main interface for adapting open-weight models. We introduce torchtune, a PyTorch-native library designed to streamline the post-training lifecycle of LLMs, enablin..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Neural Negative Binomial Regression for Weekly Seismicity Forecasting: Per-Cell Dispersion Estimation and Tail Risk Assessment",
+      "link": "https://arxiv.org/abs/2605.21437v1",
+      "summary": "Standard approaches to forecasting the weekly number of earthquakes on a spatial grid rely on the Poisson distribution with a single global dispersion assumption. We show that this assumption is systematically violated in seismic data from Central Asia (2010-2024), where a likelihood-ratio test with..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Gaussian Sheaf Neural Networks",
+      "link": "https://arxiv.org/abs/2605.21435v1",
+      "summary": "Graph Neural Networks (GNNs) have become the de facto standard for learning on relational data. While traditional GNNs' message passing is well suited for vector-valued node features, there are cases in which node features are better represented by probability distributions than real vectors. Concre..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "roto 2.0: The Robot Tactile Olympiad",
+      "link": "https://arxiv.org/abs/2605.21429v1",
+      "summary": "Tactile-based reinforcement learning (RL) is currently hindered by fragmented research and a focus on over-saturated orientation tasks. We introduce v2 of the Robot Tactile Olympiad (\\texttt{roto 2.0}), a GPU-parallelised benchmark designed to standardise tactile-based RL across four distinct roboti..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Polynomial-Time Robust Multiclass Linear Classification under Gaussian Marginals",
+      "link": "https://arxiv.org/abs/2605.21428v1",
+      "summary": "We study the task of agnostic learning of multiclass linear classifiers under the Gaussian distribution. Given labeled examples $(x, y)$ from a distribution over $\\mathbb{R}^d \\times [k]$, with Gaussian $x$-marginal, the goal is to output a hypothesis whose error is comparable to that of the best $k..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "PALS: Power-Aware LLM Serving for Mixture-of-Experts Models",
+      "link": "https://arxiv.org/abs/2605.21427v1",
+      "summary": "Large language model (LLM) inference has become a dominant workload in modern data centers, driving significant GPU utilization and energy consumption. While prior systems optimize throughput and latency by batching, scheduling, and parallelism, they largely treat GPU power as a static constraint ra..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Adaptive Signal Resuscitation: Channel-wise Post-Pruning Repair for Sparse Vision Networks",
+      "link": "https://arxiv.org/abs/2605.21426v1",
+      "summary": "One-shot magnitude pruning can cause severe accuracy collapse in the high-sparsity regime, even when the pruning mask preserves the largest weights. We argue that this failure reflects a granularity mismatch in post-pruning repair. Under global magnitude pruning, nearly collapsed channels can coexis..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Preference-aware Influence-function-based Data Selection Method for Efficient Fine-Tuning",
+      "link": "https://arxiv.org/abs/2605.21422v1",
+      "summary": "As LLMs continue to scale, improving training efficiency increasingly depends on using data more effectively. Data selection addresses this problem by allocating a limited training budget to samples that best promote a target behavior. Existing methods usually represent the target behavior with a se..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "HiRes: Inspectable Precedent Memory for Reaction Condition Recommendation",
+      "link": "https://arxiv.org/abs/2605.21420v1",
+      "summary": "Reaction condition recommendation sits immediately after retrosynthetic disconnection selection, and in practice, chemists require both accurate predictions and the precedents that justify them. We present HiRes (Hierarchical Reaction Representations), a retrieval-augmented condition recommendation ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "FedCritic: Serverless Federated Critic Learning-based Resource Allocation for Multi-Cell OFDMA in 6G",
+      "link": "https://arxiv.org/abs/2605.21418v1",
+      "summary": "In sixth-generation (6G) ultra-dense networks, aggressive frequency reuse amplifies inter-cell interference (ICI), making multi-cell orthogonal frequency-division multiple access (OFDMA) scheduling and power control strongly coupled across neighboring cells. We study distributed downlink resource ma..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Ordering Matters: Rank-Aware Selective Fusion for Blended Emotion Recognition",
+      "link": "https://arxiv.org/abs/2605.21417v1",
+      "summary": "Blended emotion recognition is challenging because emotions are often expressed as mixtures of subtle and overlapping multimodal cues rather than a single dominant signal. We propose a rank-aware multi-encoder framework that selectively combines complementary representations from diverse pre-extract..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Teaching AI Through Benchmark Construction: QuestBench as a Course-Based Practice for Accountable Knowledge Work",
+      "link": "https://arxiv.org/abs/2605.21413v1",
+      "summary": "As AI becomes part of everyday learning, many courses teach students to use it mainly as a productivity tool: how to prompt, search, summarize, write, code, and use tools more efficiently. We argue that AI education also needs a setting in which students learn to test AI and understand their own rol..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Stdlib or Third-Party? Empirical Performance and Correctness of LLM-Assisted Zero-Dependency Python Libraries",
+      "link": "https://arxiv.org/abs/2605.21405v1",
+      "summary": "Third-party Python libraries introduce dependency management overhead, supply chain risk, and deployment friction in constrained environments. A natural question is how much of this ecosystem can be replicated using only Python's standard library -- and at what correctness and performance cost. We a..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "What Twelve LLM Agent Benchmark Papers Disclose About Themselves: A Pilot Audit and an Open Scoring Schema",
+      "link": "https://arxiv.org/abs/2605.21404v1",
+      "summary": "We read twelve well-known LLM agent benchmark papers and recorded, dimension by dimension, what each paper actually says about how its evaluation was run. The motivation came from a familiar frustration: two papers will report results on the same benchmark with the same model name and disagree, and ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Quantifying the cross-linguistic effects of syncretism on agreement attraction",
+      "link": "https://arxiv.org/abs/2605.21403v1",
+      "summary": "Agreement attraction errors, in which a verb erroneously agrees with an intervening noun rather than its grammatical head, are amplified by morphological syncretism in some languages (English, German, Russian) but not others (Turkish, Armenian), a cross-linguistic pattern without a principled accoun..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Memorisation, convergence and generalisation in generative models",
+      "link": "https://arxiv.org/abs/2605.21402v1",
+      "summary": "Generative neural networks learn how to produce highly realistic images from a large, but finite number of examples - or do they simply memorise their training set? To settle this question, Kadkhodaie, Guth, Simoncelli and Mallat (ICLR '24) trained diffusion models independently on disjoint subsets ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Open-source LLMs administer maximum electric shocks in a Milgram-like obedience experiment",
+      "link": "https://arxiv.org/abs/2605.21401v1",
+      "summary": "Large language models (LLMs) are increasingly deployed as autonomous agents that make sequences of decisions over extended interactions in high-stakes domains. However, the behavior of LLMs under sustained authority pressure is still an open question with direct implications for the safety of agenti..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Towards Resilient and Autonomous Networks: A BlueSky Vision on AI-Native 6G",
+      "link": "https://arxiv.org/abs/2605.21395v1",
+      "summary": "The proliferation of emerging applications, such as autonomous driving and immersive experiences, demands cellular networks that are not only faster, but fundamentally more resilient and autonomous. This paper presents a BlueSky vision on how Artificial Intelligence will be natively integrated into ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Post-Hoc Understanding of Metaphor Processing in Decoder-Only Language Models via Conditional Scale Entropy",
+      "link": "https://arxiv.org/abs/2605.21391v1",
+      "summary": "Metaphor requires a language model to resolve a token whose contextual meaning diverges from its basic literal sense. Understanding how transformer models organize this reinterpretation across depth remains an open problem in mechanistic interpretability. We introduce conditional scale entropy (CSE)..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Designing Conversations with the Dead: How People Engage with Generative Ghosts",
+      "link": "https://arxiv.org/abs/2605.21390v1",
+      "summary": "We examine how people experience two choices in the design of generative ghosts, AI systems that are trained on data of the dead: representation, where an AI speaks about a deceased person in the third person, and reincarnation, where the AI speaks as the deceased in the first person. Through a qual..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "On the Regularity and Generalization of One-Step Wasserstein-guided Generative Models for PDE-Induced Measures",
+      "link": "https://arxiv.org/abs/2605.21388v1",
+      "summary": "Despite the remarkable empirical success of generative models, the available theory on their statistical accuracy in scientific computing remains largely pessimistic. This paper develops a theoretical framework for understanding the regularity of transport maps and the generalization properties of o..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "SpecBench: Measuring Reward Hacking in Long-Horizon Coding Agents",
+      "link": "https://arxiv.org/abs/2605.21384v1",
+      "summary": "As long-horizon coding agents produce more code than any developer can review, oversight collapses onto a single surface: the automated test suite. Reward hacking naturally arises in this setup, as the agent optimizes for passing tests while deviating from the users true goal. We study this reward h..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Disentangling Generation and Regression in Stochastic Interpolants for Controllable Image Restoration",
+      "link": "https://arxiv.org/abs/2605.21381v1",
+      "summary": "Recent advances in Image Restoration (IR) have been largely driven by generative methods such as Diffusion Models and Flow Matching, which excel in synthesizing realistic textures while suffering from slow multi-step inference and compromised pixel fidelity. In contrast, classical regression-based I..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "How to Build Marcus's Algebraic Mind: Algebro-Deterministic Substrate over Galois Fields",
+      "link": "https://arxiv.org/abs/2605.21379v1",
+      "summary": "In The Algebraic Mind, Gary Marcus identified three components essential for any adequate cognitive architecture: operations over variables, recursively structured representations, and a distinction between mental representations of individuals and kinds. He argued that standard multilayer perceptro..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Closed Loop Dynamic Driving Data Mixture for Real-Synthetic Co-Training",
+      "link": "https://arxiv.org/abs/2605.21372v1",
+      "summary": "Data scaling is fundamental to modern deep learning, and grows increasingly critical as autonomous driving shifts to end-to-end learning. Real-world driving data is expensive to annotate and scene-biased, making real-synthetic co-training with near-infinite synthetic data a promising direction. Howe..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Findings of the Fifth Shared Task on Multilingual Coreference Resolution: Expanding Datasets for Long-Range Entities",
+      "link": "https://arxiv.org/abs/2605.21369v1",
+      "summary": "This paper describes the fifth edition of the Shared Task on Multilingual Coreference Resolution, held in conjunction with the CODI-CRAC 2026 workshop. Building on previous iterations, the task required participants to develop systems capable of mention identification and identity-based coreference ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "\"I didn't Make the Micro Decisions\": Measuring, Inducing, and Exposing Goal-Level AI Contributions in Collaboration",
+      "link": "https://arxiv.org/abs/2605.21363v1",
+      "summary": "As large language models (LLMs) increasingly shape how users form, refine, and extend their goals, attributing contributions in human-AI collaboration becomes critical for users calibrating their own reliance and for evaluators assessing AI-assisted work. Yet existing methods focus on final artifact..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "LASH: Adaptive Semantic Hybridization for Black-Box Jailbreaking of Large Language Models",
+      "link": "https://arxiv.org/abs/2605.21362v1",
+      "summary": "Jailbreak attacks expose a persistent gap between the intended safety behavior of aligned large language models and their behavior under adversarial prompting. Existing automated methods are increasingly effective but each commits to a single attack family (e.g., one refinement loop, one tree search..."
     }
   ],
-  "timestamp": "2026-05-20T23:12:33.414633",
-  "total_items": 751
+  "timestamp": "2026-05-21T23:03:02.187759",
+  "total_items": 822
 }
