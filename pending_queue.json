@@ -5339,8 +5339,134 @@
       "title": "Forecasting Scientific Progress with Artificial Intelligence",
       "link": "https://arxiv.org/abs/2605.22681v1",
       "summary": "Artificial intelligence (AI) is increasingly embedded in scientific discovery, yet whether it can anticipate scientific progress remains unclear. To study this question, we introduce a temporally grounded evaluation framework for forecasting scientific progress under controlled knowledge constraints..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "summary": "..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Polsia raised $30M; source map: fake ARR, dead users, god-mode over your company",
+      "link": "https://zero-arr.vercel.app",
+      "summary": "<p>Article URL: <a href=\"https://zero-arr.vercel.app\">https://zero-arr.vercel.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48252194\">https://news.ycombinator.com/item?id=48252194</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Don't Roll Your Own",
+      "link": "https://susam.net/do-not-roll-your-own.html",
+      "summary": "<p>Article URL: <a href=\"https://susam.net/do-not-roll-your-own.html\">https://susam.net/do-not-roll-your-own.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48252192\">https://news.ycombinator.com/item?id=48252192</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "CA declares state of emergency as fire crews race to contain toxic chemical leak",
+      "link": "https://www.bbc.com/news/articles/c3w2l249j8go",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c3w2l249j8go\">https://www.bbc.com/news/articles/c3w2l249j8go</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48252060\">https://news.ycombinator.com/item?id=48252060</a></p>\n<p>Points: 28</p>\n<p># Comments: 5</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "We reduced a real Node.js production Docker image from 1.2GB to 78MB",
+      "link": "https://the-practical-developer.online/posts/docker-image-from-1gb-to-80mb/",
+      "summary": "<p>Article URL: <a href=\"https://the-practical-developer.online/posts/docker-image-from-1gb-to-80mb/\">https://the-practical-developer.online/posts/docker-image-from-1gb-to-80mb/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48251946\">https://news.ycombinator.com/item?id=4825..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "A self-powered computer in actual credit-card size (~1mm thick)",
+      "link": "https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/",
+      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/\">https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "It's time to talk about my writerdeck",
+      "link": "https://veronicaexplains.net/my-first-writerdeck/",
+      "summary": "<p>Article URL: <a href=\"https://veronicaexplains.net/my-first-writerdeck/\">https://veronicaexplains.net/my-first-writerdeck/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48250144\">https://news.ycombinator.com/item?id=48250144</a></p>\n<p>Points: 196</p>\n<p># Comments: 109</..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Texas woman arrested for Facebook post about town water quality",
+      "link": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
+      "summary": "<p>Article URL: <a href=\"https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality\">https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48249747\">https://news...."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
+      "link": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
+      "summary": "<p>Article URL: <a href=\"https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html\">https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48248954\">https://news.ycombinator.com/item?id=48248954..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Italy moves to Airbus A330 tankers",
+      "link": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+      "summary": "<p>Article URL: <a href=\"https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift\">https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Lisp in Vim (2019)",
+      "link": "https://susam.net/lisp-in-vim.html",
+      "summary": "<p>Article URL: <a href=\"https://susam.net/lisp-in-vim.html\">https://susam.net/lisp-in-vim.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48248238\">https://news.ycombinator.com/item?id=48248238</a></p>\n<p>Points: 46</p>\n<p># Comments: 6</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "z386: An Open-Source 80386 Built Around Original Microcode",
+      "link": "https://nand2mario.github.io/posts/2026/z386/",
+      "summary": "<p>Article URL: <a href=\"https://nand2mario.github.io/posts/2026/z386/\">https://nand2mario.github.io/posts/2026/z386/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48248014\">https://news.ycombinator.com/item?id=48248014</a></p>\n<p>Points: 110</p>\n<p># Comments: 22</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Oura says it gets government demands for user data",
+      "link": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
+      "summary": "<p>Article URL: <a href=\"https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/\">https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "On The <dl> (2021)",
+      "link": "https://benmyers.dev/blog/on-the-dl/",
+      "summary": "<p>Article URL: <a href=\"https://benmyers.dev/blog/on-the-dl/\">https://benmyers.dev/blog/on-the-dl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48247325\">https://news.ycombinator.com/item?id=48247325</a></p>\n<p>Points: 325</p>\n<p># Comments: 102</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The Art of Money Getting",
+      "link": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
+      "summary": "<p>Article URL: <a href=\"https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/\">https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48247208\">https://news.ycombinator.com/item?id=48247208</a></p>\n<p>Poin..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "80386 Microcode Disassembled",
+      "link": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+      "summary": "<p>Article URL: <a href=\"https://www.reenigne.org/blog/80386-microcode-disassembled/\">https://www.reenigne.org/blog/80386-microcode-disassembled/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48247004\">https://news.ycombinator.com/item?id=48247004</a></p>\n<p>Points: 205</p>\n..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Making Deep Learning Go Brrrr from First Principles (2022)",
+      "link": "https://horace.io/brrr_intro.html",
+      "summary": "<p>Article URL: <a href=\"https://horace.io/brrr_intro.html\">https://horace.io/brrr_intro.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48246889\">https://news.ycombinator.com/item?id=48246889</a></p>\n<p>Points: 141</p>\n<p># Comments: 56</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "-​-dangerously-skip-reading-code",
+      "link": "https://olano.dev/blog/dangerously-skip/",
+      "summary": "<p>Article URL: <a href=\"https://olano.dev/blog/dangerously-skip/\">https://olano.dev/blog/dangerously-skip/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48246232\">https://news.ycombinator.com/item?id=48246232</a></p>\n<p>Points: 79</p>\n<p># Comments: 93</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Spanish court declines to fine NordVPN over LaLiga piracy blocking order",
+      "link": "https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/",
+      "summary": "<p>Article URL: <a href=\"https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/\">https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48245..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Rubish: A Unix shell written in pure Ruby",
+      "link": "https://github.com/amatsuda/rubish",
+      "summary": "<p>Article URL: <a href=\"https://github.com/amatsuda/rubish\">https://github.com/amatsuda/rubish</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48245262\">https://news.ycombinator.com/item?id=48245262</a></p>\n<p>Points: 164</p>\n<p># Comments: 98</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "SpaceX launches Starship v3 rocket",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight",
+      "summary": "<p><a href=\"https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505\" rel=\"nofollow\">https://www.nbcnews.com/now/video/spacex-successfully-launch...</a> [video]</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48242959\">https:/..."
     }
   ],
-  "timestamp": "2026-05-22T22:57:36.395062",
-  "total_items": 890
+  "timestamp": "2026-05-23T22:52:18.418722",
+  "total_items": 911
 }
