@@ -6761,8 +6761,428 @@
       "title": "When Do LLM Agents Treat Surface Noise Differently from Semantic Noise? A 68-Cell Measurement Study with a Held-Out Trace-Level Validation",
       "link": "https://arxiv.org/abs/2605.25981v1",
       "summary": "We document an empirical phenomenon in chain-of-thought and ReAct agents driven by ten large language models from seven architecture families: meaning-bearing perturbations (e.g., paraphrase, synonym) alter final answers more often than presentation perturbations (e.g., formatting, reordering) of co..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+      "link": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "summary": "..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Reachy Mini goes fully local",
+      "link": "https://huggingface.co/blog/local-reachy-mini-conversation",
+      "summary": "..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+      "link": "https://huggingface.co/blog/delta-weight-sync",
+      "summary": "..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Internet Traffic in Iran Increasing",
+      "link": "https://radar.cloudflare.com/traffic/ir?dateRange=28d",
+      "summary": "<p>Article URL: <a href=\"https://radar.cloudflare.com/traffic/ir?dateRange=28d\">https://radar.cloudflare.com/traffic/ir?dateRange=28d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48301603\">https://news.ycombinator.com/item?id=48301603</a></p>\n<p>Points: 9</p>\n<p># Comments:..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Warm up your MacBook",
+      "link": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
+      "summary": "<p>Article URL: <a href=\"https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/\">https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48300342\">https://news.ycombinator.com/item?id=48300342</a></p>\n<p>Points: 22</p>\n<p># ..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "YouTube to automatically label AI-generated videos",
+      "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "summary": "<p><a href=\"https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/\" rel=\"nofollow\">https://variety.com/2026/digital/news/youtube-ai-video-label...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48299753\">https://news.ycombinator.c..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
+      "link": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
+      "summary": "<p>Article URL: <a href=\"https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/\">https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48299..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Rust (and Slint) on a Jailbroken Kindle",
+      "link": "https://sverre.me/blog/rust-on-kindle/",
+      "summary": "<p>Article URL: <a href=\"https://sverre.me/blog/rust-on-kindle/\">https://sverre.me/blog/rust-on-kindle/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48299623\">https://news.ycombinator.com/item?id=48299623</a></p>\n<p>Points: 69</p>\n<p># Comments: 8</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "On Labubu and the Hyperreal",
+      "link": "https://2earth.github.io/website/20260525.html",
+      "summary": "<p>Article URL: <a href=\"https://2earth.github.io/website/20260525.html\">https://2earth.github.io/website/20260525.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48299335\">https://news.ycombinator.com/item?id=48299335</a></p>\n<p>Points: 52</p>\n<p># Comments: 53</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "What Apple and Google are doing to push notifications",
+      "link": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+      "summary": "<p>Article URL: <a href=\"https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications\">https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4829922..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+      "link": "https://arxiv.org/abs/2605.21779",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2605.21779\">https://arxiv.org/abs/2605.21779</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48297723\">https://news.ycombinator.com/item?id=48297723</a></p>\n<p>Points: 38</p>\n<p># Comments: 4</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "SimCity 3k in 4k (2025)",
+      "link": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+      "summary": "<p>Article URL: <a href=\"https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html\">https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48297645\">https://news.ycombinator.com/item?id=48297645</a></p>\n<p>Points: 236</p..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+      "link": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
+      "summary": "<p>Article URL: <a href=\"https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/\">https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48297467\">https://news.yc..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
+      "link": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft\">https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48296994\">https://news.ycombinator...."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "link": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/May/27/product-market-fit/\">https://simonwillison.net/2026/May/27/product-market-fit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48296794\">https://news.ycombinator.com/item?id=48296794</a></p>\n<p>Points: 550</p>\n<p>#..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "summary": "<p>Article URL: <a href=\"https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/\">https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-followi..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Stress disrupts hippocampal integration of overlapping events, memory inference",
+      "link": "https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08",
+      "summary": "<p>Article URL: <a href=\"https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08\">https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48296622\">https://news.ycombinator...."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Last.fm is now independent",
+      "link": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+      "summary": "<p>Article URL: <a href=\"https://support.last.fm/t/last-fm-is-now-independent/118591\">https://support.last.fm/t/last-fm-is-now-independent/118591</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48295892\">https://news.ycombinator.com/item?id=48295892</a></p>\n<p>Points: 576</p>\n..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/\">https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48295679\">https://news.ycom..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
+      "link": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
+      "summary": "<p>Article URL: <a href=\"https://www.githubstatus.com/incidents/xy1tt3hs572m\">https://www.githubstatus.com/incidents/xy1tt3hs572m</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48293080\">https://news.ycombinator.com/item?id=48293080</a></p>\n<p>Points: 241</p>\n<p># Comments: 1..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Private equity bought America's essential services",
+      "link": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
+      "summary": "<p>Article URL: <a href=\"https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/\">https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48292941\">https://news.ycombi..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Algorithmic Monocultures in Hiring",
+      "link": "https://arxiv.org/abs/2605.27371v1",
+      "summary": "Many employers screen job applicants with algorithms built by the same few algorithm vendors. We hypothesize that algorithmic monoculture leads to the same individuals and members of the same racial groups facing rejection. We acquire and analyze a novel dataset of 3 million applicants submitting 4 ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation",
+      "link": "https://arxiv.org/abs/2605.27366v1",
+      "summary": "Large language model (LLM) agents rely on reusable skills to solve complex tasks. However, existing skill creation approaches treat skills as isolated and static artifacts, limiting their reusability, reliability, and long-term improvement. We propose MUSE-Autoskill Agent (Memory-Utilizing Skill Evo..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding",
+      "link": "https://arxiv.org/abs/2605.27365v1",
+      "summary": "Vision-language models (VLMs) commonly formulate visual grounding and detection as a coordinate-token generation problem, serializing each 2D box into multiple 1D tokens that are learned and decoded largely independently. This token-by-token decoding mismatches the coupled structure of box geometry ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Natural Language Query to Configuration for Retrieval Agents",
+      "link": "https://arxiv.org/abs/2605.27361v1",
+      "summary": "Modern retrieval agents expose many configuration choices -- LLM, retriever, number of documents, number of hops, and synthesis strategy -- each shaping both answer quality and serving cost. Today, these pipelines are typically hand-tuned once per workload, leaving substantial per-query optimization..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing",
+      "link": "https://arxiv.org/abs/2605.27360v1",
+      "summary": "Cellular research and development (R&D) is throttled by six structural processes that each consume months of manual engineering work per iteration: (i) synthesizing new features from standards or research papers into production code; (ii) conformance and interoperability testing; (iii) hardening aga..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "MobileMoE: Scaling On-Device Mixture of Experts",
+      "link": "https://arxiv.org/abs/2605.27358v1",
+      "summary": "Mixture-of-Experts (MoE) has become the de facto architecture for hundred-billion-parameter language models, yet its advantages at sub-billion scales for on-device deployment remain largely unexplored. To close this gap, we present MobileMoE, a family of on-device MoE language models with sub-billio..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases",
+      "link": "https://arxiv.org/abs/2605.27355v1",
+      "summary": "Reinforcement Learning from Human Feedback (RLHF) is the standard method to align Large Language Models (LLMs) with human preferences. In this work, we introduce alignment tampering, a potential vulnerability where the LLM undergoing alignment influences the preference dataset, causing RLHF to ampli..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders",
+      "link": "https://arxiv.org/abs/2605.27354v1",
+      "summary": "Model internals encode rich information about how a large language model (LLM) processes its training data; however, post-training data engineering largely relies on external signals and ignores rich intrinsic signals lying in model internals. We propose SAERL, a data engineering framework for LLM r..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "From Scores to Gibbs Correctors: Accelerating Uniform-Rate Discrete Diffusion Models",
+      "link": "https://arxiv.org/abs/2605.27352v1",
+      "summary": "Discrete diffusion models have achieved strong empirical performance in text and other symbolic domains, but, especially for uniform-rate models, they often require many steps to generate a single sample. Existing acceleration methods either rely on training additional quantities or suffer from slow..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "When Eyes Betray AI: Social Gaze Consistency as a Semantic Cue for AI-Generated Image Detection",
+      "link": "https://arxiv.org/abs/2605.27348v1",
+      "summary": "Recent generative models have largely closed the gap on low-level artifacts - pixel fingerprints, frequency anomalies, upsampling traces - particularly in person-centric and partial-edit settings where the manipulated region is small and surrounded by photometrically authentic content. We introduce ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "MATCHA: Matching Text via Contrastive Semantic Alignment",
+      "link": "https://arxiv.org/abs/2605.27345v1",
+      "summary": "Reliable evaluation is essential for understanding large language model (LLM) performance, yet today's go-to metrics, namely token-overlap scores (e.g., ROUGE) and embedding-based measures (e.g., BERTScore), often misjudge semantic similarity of documents. Our study shows that both token-overlap met..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Towards Controllable Image Generation through Representation-Conditioned Diffusion Models",
+      "link": "https://arxiv.org/abs/2605.27343v1",
+      "summary": "Diffusion models have emerged as powerful tools for high-quality image generation and editing, but guiding these models to produce specific outputs remains a challenge. Conventional approaches rely on conditioning mechanisms, such as text prompts or semantic maps, which require extensively annotated..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "2-ASP(Q) programs with weak constraints: Complexity and efficient implementation",
+      "link": "https://arxiv.org/abs/2605.27338v1",
+      "summary": "ASP(Q) extends Answer Set Programming (ASP) with Quantifiers over answer sets. In this paper we focus on the class of ASP(Q) programs with two quantifiers and weak constraints, denoted as 2-ASP(Q)^w. 2-ASP(Q)^w is a practically relevant fragment of ASP(Q) that is expressive enough to capture optimiz..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "FinHarness: An Inline Lifecycle Safety Harness for Finance LLM Agents",
+      "link": "https://arxiv.org/abs/2605.27333v1",
+      "summary": "Finance LLM agents must simultaneously block prompt-induced unauthorized actions and approve legitimate multi-step business workflows. However, boundary filters often miss irreversible mid-trajectory tool calls, while post-hoc LLM judges perform auditing only after termination -- too late for interv..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "EdgeFlow: Edge-Map Augmented VLM-Based Flowchart Processing for Industrial Requirements Engineering",
+      "link": "https://arxiv.org/abs/2605.27332v1",
+      "summary": "Flowcharts are widely used in industrial requirements, but usually remain embedded as static images. Vision Language Models (VLMs) show promise in the conversion of these flowcharts into machine-readable models for RE activities, yet, when directly applied to flowchart conversion, they often fail on..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Maat: The Agentic Legal Research Assistant for Competition Protection",
+      "link": "https://arxiv.org/abs/2605.27331v1",
+      "summary": "Competition law experts conducting legal research must review extensive volumes of cases, decisions, and judicial reports to identify precedents and assess key elements in competition and merger cases. Although general research assistants such as Claude and ChatGPT and legal assistants such as SaulL..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Governed Evolution of Agent Runtimes through Executable Operational Cognition",
+      "link": "https://arxiv.org/abs/2605.27328v1",
+      "summary": "Recent advances in agentic systems increasingly treat code as an executable operational substrate rather than as a disposable output artifact. Prior work such as \\emph{Code as Agent Harness} frames validated agent-generated artifacts as runtime entities that can be created, executed, revised, persis..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Semantic Gradients Interactions in SSD: A Case Study in Racial Identity and Hate Speech",
+      "link": "https://arxiv.org/abs/2605.27322v1",
+      "summary": "We introduce interaction SSD, an extension of Supervised Semantic Differential that models how semantic meaning varies across moderators such as groups, traits, or conditions making this variation testable and interpretable. The method estimates a main semantic gradient, an interaction gradient, and..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Modeling Agentic Technical Debt and Stochastic Tax: A Standalone Framework for Measurement, Simulation, and Dashboarding",
+      "link": "https://arxiv.org/abs/2605.27320v1",
+      "summary": "Agentic AI systems combine probabilistic reasoning with delegated action through tools, context, memory, orchestration, and external workflow integration. This note develops a formal and managerially usable model that distinguishes Agentic Technical Debt from Stochastic Tax. Agentic Technical Debt i..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Probabilistic Smoothing with Ratio-Monotone Transforms for Global Optimization",
+      "link": "https://arxiv.org/abs/2605.27316v1",
+      "summary": "Probabilistic smoothing is a standard tool for global optimization, but existing methods rely on Gaussian kernels and specific transforms, often resulting in strong hyperparameter sensitivity and limited robustness. We propose a general smoothing framework that combines flexible symmetric unimodal k..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Real Images, Worse Judgments: Evaluating Vision-Language Models on Concreteness and Imagery",
+      "link": "https://arxiv.org/abs/2605.27315v1",
+      "summary": "Visual inputs are often assumed to improve language understanding in multimodal models. We examine this assumption by asking whether vision-language models (VLMs) can distinguish useful visual evidence from incidental image context in lexical judgments. We use human concreteness and imagery ratings ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "When Does Demographic Information Help? Data and Modeling Regimes for Perspective-Aware Hate Speech Detection",
+      "link": "https://arxiv.org/abs/2605.27313v1",
+      "summary": "Demographic information is often used to model annotator perspectives in subjective tasks such as hate speech detection, but its benefit is inconsistent: it improves performance in some settings and behaves as noise in others. This paper asks when demographic features help. We analyze demographic ga..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Chartographer: Counterfactual Chart Generation for Evaluating Vision-Language Models",
+      "link": "https://arxiv.org/abs/2605.27311v1",
+      "summary": "Chart question-answering (QA) benchmarks aim to pose questions that require visual reasoning to correctly answer, but models can often reach solutions through shortcuts or prior familiarity with a chart based on their own background knowledge. To strictly evaluate visual reasoning, we propose counte..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Greening AI Inference with Accuracy and Latency-aware User Incentives",
+      "link": "https://arxiv.org/abs/2605.27309v1",
+      "summary": "The widespread use of AI services has raised concerns for its environmental sustainability, towards which recent studies have identified carbon emissions of AI inference as the major contributor. This paper introduces a framework for designing AI inference incentives based on the users' valuation fo..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Normal Guidance is what Attention Needs",
+      "link": "https://arxiv.org/abs/2605.27306v1",
+      "summary": "We consider training classifiers for 3D medical images using only one binary label for the entire volume rather than a label for each 2D slice. In such weakly supervised settings, can we learn accurate classifiers for slice-level predictions? Attention-based multiple instance learning (MIL) can prod..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Risk Averse Alert Prioritization for IDS Using Subnormal Gaussian Fuzzy Models",
+      "link": "https://arxiv.org/abs/2605.27299v1",
+      "summary": "Modern intrusion detection systems generate thousands of alerts daily, but alert fatigue severely limits security operations effectiveness due to too many false positives or low-impact events. We address this by proposing a principled framework for alert prioritization based on subnormal Gaussian fu..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Self-Ensembling Vision-Language Models for Chart Data Extraction",
+      "link": "https://arxiv.org/abs/2605.27298v1",
+      "summary": "Charts effectively convey quantitative information, but the underlying data are often locked in image form, hindering reuse and analysis. Manually digitizing charts is time-consuming and error-prone, motivating automatic chart-to-table extraction. Recent approaches use specialized vision-language mo..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Probing Cultural Awareness in LLMs: A Case Study of Cross-Culture Aesthetic Stylistics",
+      "link": "https://arxiv.org/abs/2605.27296v1",
+      "summary": "Large Language Models (LLMs) are increasingly deployed in diverse cultural contexts, yet their ability to master aesthetic stylistics, i.e., the strategic use of language to evoke cultural resonance, remains underexplored. We curate C4STYLI, a benchmark of highly stylized translated movie titles and..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Separating Semantic Competition from Context Length in RAG Reading",
+      "link": "https://arxiv.org/abs/2605.27294v1",
+      "summary": "Retrieval-augmented generation (RAG) systems can respond incorrectly even when the correct passage was retrieved. The model must still read the retrieved passages and identify which one contains the answer among others that look relevant. This passage-reading model is called the reader. Does it fail..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "BASIS: Batchwise Advantage Estimation from Single-Rollout Information Sharing for LLM Reasoning",
+      "link": "https://arxiv.org/abs/2605.27293v1",
+      "summary": "Reinforcement learning with verifiable rewards has become a standard recipe for improving the reasoning abilities of large language models. Existing algorithms face a tradeoff between computational efficiency and sample efficiency in value estimation and policy learning. We introduce BASIS, a critic..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "It's Not Always Sycophancy: Measuring LLM Conformity as a Function of Epistemic Uncertainty",
+      "link": "https://arxiv.org/abs/2605.27288v1",
+      "summary": "Large language models (LLMs) are known to abandon their initial stance to conform to user pushback. While prior research largely attributes this behavior to sycophancy learned during reinforcement learning from human feedback, we hypothesize that conformity is also driven by a model's epistemic unce..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Falcon-X: A Time Series Foundation Model for Heterogeneous Multivariate Modeling",
+      "link": "https://arxiv.org/abs/2605.27286v1",
+      "summary": "Time series foundation models (TSFMs) are transforming the forecasting paradigm through large-scale cross-domain pretraining. However, most existing TSFMs remain univariate, and recent efforts to enable cross-variate modeling still operate directly within the raw variate space. This design introduce..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies",
+      "link": "https://arxiv.org/abs/2605.27284v1",
+      "summary": "Vision-Language-Action (VLA) models are increasingly expected to not only complete robot tasks, but also follow human instructions about how those tasks should be executed. However, existing robot datasets usually pair trajectories with coarse goal-level language, leaving execution-critical details ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Causal Risk Minimization for High-Dimensional Treatments",
+      "link": "https://arxiv.org/abs/2605.27281v1",
+      "summary": "Predicting the effect of interventions with many possible variations, e.g., therapeutic content that affects mental health outcomes or an earnings call transcript that drives movement in share price, is useful across several domains. However, classical causal estimators tend to assume that all possi..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "SIA: Self Improving AI with Harness & Weight Updates",
+      "link": "https://arxiv.org/abs/2605.27276v1",
+      "summary": "Humans are the bottleneck in building and improving AI. Both the models and the agents that wrap them are written, tuned, and corrected by people. The long-horizon goal of an AI that can figure out how to improve itself remains open. Two largely disjoint research lines attack this bottleneck. The ha..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Transfer Learning using 66 Diseases for Disease Forecasting Applications",
+      "link": "https://arxiv.org/abs/2605.27269v1",
+      "summary": "Disease forecasting models typically rely on a single data stream, making models brittle when histories are short or noisy. Recent top-performing models have shown that synthesizing multiple reporting systems for the same disease improves performance. Other recent work takes this idea a step further..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Lost in Sampling: Assessing Lexical Reachability in LLMs via the Word Coverage Score (WCS)",
+      "link": "https://arxiv.org/abs/2605.27268v1",
+      "summary": "Modern Large Language Models (LLMs) are often criticized for producing repetitive and homogeneous text, despite possessing vast latent vocabularies. While previous research has focused on model knowledge and training data, we investigate the role of decoding mechanics in suppressing linguistic diver..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Kan Extension Transformers: A Categorical Unification of Attention, Diffusion, and Predict-Detach Self-Conditioning",
+      "link": "https://arxiv.org/abs/2605.27259v1",
+      "summary": "We propose Kan Extension Transformers (KETs) as a unifying categorical framework for a diverse group of Transformer implementations. The core claim is that a Transformer layer can be viewed as a weighted structured extension operator: standard attention is the singleton-neighborhood case, Geometric ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "PilotTTS: A Disciplined Modular Recipe for Competitive Speech Synthesis",
+      "link": "https://arxiv.org/abs/2605.27258v1",
+      "summary": "Building state-of-the-art text-to-speech (TTS) systems typically demands millions of hours of proprietary data and complex multi-stage architectures, creating substantial barriers for resource-constrained research teams. In this report, we present PilotTTS, a lightweight autoregressive TTS system th..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Pair-In, Pair-Out: Latent Multi-Token Prediction for Efficient LLMs",
+      "link": "https://arxiv.org/abs/2605.27255v1",
+      "summary": "Long chain-of-thought reasoning has made autoregressive decoding the dominant inference cost of modern large language models. Existing methods target either the input side (latent compression) or the output side (speculative decoding and multi-token prediction, MTP), but the two lines of work have b..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "LUCoS: Latent Unsupervised Context Selection for Tabular Foundation Models",
+      "link": "https://arxiv.org/abs/2605.27254v1",
+      "summary": "Selecting which instances to label is a key challenge in low-label tabular learning. For recent Tabular Foundation Models such as TabPFN, context selection directly determines predictive performance. Supervised oracle experiments show that carefully chosen labeled context sets can strongly outperfor..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Gumbel Machine: Counterfactual Student Writing Generation via Gumbel Noise Steering",
+      "link": "https://arxiv.org/abs/2605.27249v1",
+      "summary": "An effective method of teaching across disciplines is to provide examples of high-quality work. However, an example may be significantly different from a student's current work, making it challenging for them to emulate. An ideal learning demonstration is a counterfactual version of the student work..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Many Logics, One Methodology: A Plea for Logical Pluralism in Formalised Reasoning (preprint)",
+      "link": "https://arxiv.org/abs/2605.27246v1",
+      "summary": "This position statement looks back on two decades of work on shallow embeddings of non-classical logics in classical higher-order logic (HOL), a line of research that expanded into a range of logic embeddings in HOL and inspired the LogiKEy logic-pluralistic knowledge representation and reasoning me..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Symbolic Regression via Latent Iterative Refinement",
+      "link": "https://arxiv.org/abs/2605.27245v1",
+      "summary": "Symbolic regression (SR) seeks closed-form mathematical expressions that fit observed data. Neural SR methods amortize the search by training an encoder to map observations directly to expressions in a single pass, but this amortized inference leaves a residual amortization gap between its one-shot ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "ENPMR-Bench: Benchmarking Proactive Memory Retrieval for Emotional Support Agents",
+      "link": "https://arxiv.org/abs/2605.27240v1",
+      "summary": "Memory-augmented language agents are increasingly deployed in affective applications such as emotional support, where understanding and responding to users' latent emotional needs is critical. However, existing research often treats memory as a tool for factual retrieval, overlooking its role in sha..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Temporal Simultaneity Predicts Annotation Quality in Sentiment Corpora",
+      "link": "https://arxiv.org/abs/2605.27239v1",
+      "summary": "Annotation quality is difficult to sustain when campaigns span weeks or months with small annotator pools. We present a Setswana sentiment dataset of 3,565 tweets annotated by three native-speaker annotators across eight batches and examine why inter-annotator agreement (IAA) declines over time. Des..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Explainable Comparison of Feature-Based and Deep Learning Models for TROPOMI Methane Plume Screening",
+      "link": "https://arxiv.org/abs/2605.27236v1",
+      "summary": "Continuous and global detection of large methane emissions is a crucial step for global warming mitigation. Satellite observations, such as from S5P/TROPOMI, combined with plume detection algorithms, can play a key role in this effort. However, not all TROPOMI plume detections that look like methane..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "The Coverage Illusion: From Pre-retrieval Routing Failure to Post-retrieval Cascades in a Production RAG System",
+      "link": "https://arxiv.org/abs/2605.27220v1",
+      "summary": "In modern RAG pipelines, query augmentation methods such as HyDE and query expansion are applied to every query, resulting in substantial LLM inference costs and increased end-to-end latency. The empirical justification for this overhead in real production traffic remains largely unexplored. We pres..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Nonlinear Data Integration via Kernel Methods for Data Collaboration Analysis",
+      "link": "https://arxiv.org/abs/2605.27219v1",
+      "summary": "Collaborative analysis of decentralized confidential datasets is important, but direct sharing of original datasets is often restricted by privacy and institutional constraints. Data collaboration (DC) analysis transforms each dataset into privacy-preserving intermediate representations via party-sp..."
     }
   ],
-  "timestamp": "2026-05-26T23:09:34.314427",
-  "total_items": 1127
+  "timestamp": "2026-05-27T23:16:33.433354",
+  "total_items": 1197
 }
