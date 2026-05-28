@@ -7181,8 +7181,320 @@
       "title": "Nonlinear Data Integration via Kernel Methods for Data Collaboration Analysis",
       "link": "https://arxiv.org/abs/2605.27219v1",
       "summary": "Collaborative analysis of decentralized confidential datasets is important, but direct sharing of original datasets is often restricted by privacy and institutional constraints. Data collaboration (DC) analysis transforms each dataset into privacy-preserving intermediate representations via party-sp..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation\">https://www.tomshardware.com/tech-..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Protestware for Coding Agents",
+      "link": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
+      "summary": "<p>Article URL: <a href=\"https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html\">https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48315440\">https://news.ycombinator.com/item?id=48315440</a></p>\n<p>Points..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "I Made a Million Dollar Product from My Dorm Room (2025)",
+      "link": "https://nick.winans.io/blog/nice-nano/",
+      "summary": "<p>Article URL: <a href=\"https://nick.winans.io/blog/nice-nano/\">https://nick.winans.io/blog/nice-nano/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48314951\">https://news.ycombinator.com/item?id=48314951</a></p>\n<p>Points: 82</p>\n<p># Comments: 6</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+      "link": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+      "summary": "<p>Article URL: <a href=\"https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection\">https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48314136\">https://n..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Announcing Rust 1.96",
+      "link": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
+      "summary": "<p>Article URL: <a href=\"https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/\">https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48314069\">https://news.ycombinator.com/item?id=48314069</a></p>\n<p>Points: 70</p>\n<p># Comments: 7</p..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+      "link": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+      "summary": "<p>Article URL: <a href=\"https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/\">https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48314002\">https://news.ycombinator.com/item?id=48314002</a></p>\n<p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Separate the Cord from the Device",
+      "link": "https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html",
+      "summary": "<p>Article URL: <a href=\"https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html\">https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48313990\">https://news.ycombinator.com/item?id=48313990</a></p>\n<p>Points: 30</p>\n<p># ..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Various LLM Smells",
+      "link": "https://shvbsle.in/various-llm-smells/",
+      "summary": "<p>Article URL: <a href=\"https://shvbsle.in/various-llm-smells/\">https://shvbsle.in/various-llm-smells/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48313810\">https://news.ycombinator.com/item?id=48313810</a></p>\n<p>Points: 138</p>\n<p># Comments: 99</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Just Use Postgres for Durable Workflows",
+      "link": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+      "summary": "<p>Article URL: <a href=\"https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution\">https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48313530\">https://news.ycombinator.com/item?id=48313530</..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The Lone Lisp Heap",
+      "link": "https://www.matheusmoreira.com/articles/lone-lisp-heap",
+      "summary": "<p>Article URL: <a href=\"https://www.matheusmoreira.com/articles/lone-lisp-heap\">https://www.matheusmoreira.com/articles/lone-lisp-heap</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48313142\">https://news.ycombinator.com/item?id=48313142</a></p>\n<p>Points: 31</p>\n<p># Commen..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "link": "https://www.anthropic.com/news/series-h",
+      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/series-h\">https://www.anthropic.com/news/series-h</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48313048\">https://news.ycombinator.com/item?id=48313048</a></p>\n<p>Points: 212</p>\n<p># Comments: 187</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Bitburner, programming-based incremental game",
+      "link": "https://bitburner-official.github.io/",
+      "summary": "<p>Article URL: <a href=\"https://bitburner-official.github.io/\">https://bitburner-official.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48312616\">https://news.ycombinator.com/item?id=48312616</a></p>\n<p>Points: 66</p>\n<p># Comments: 13</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "I hated writing until I learned there’s a science to it (2024)",
+      "link": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
+      "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it\">https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48312528\">https://new..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Py-SQL-cleaner – format SQL embedded in Python strings",
+      "link": "https://github.com/enumura1/py-sql-cleaner",
+      "summary": "<p>Hi HN, I built py-sql-cleaner, a CLI for formatting SQL embedded in Python files.<p>Python formatters handle Python syntax. They do not format SQL written inside Python code. \nOn the other hand, SQL formatters usually target SQL files or raw SQL text, not SQL embedded inside a Python file.<p>Stil..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Legislation Killed Would Have Effectively Blocked Police LPR, Including Flock",
+      "link": "https://ipvm.com/reports/bipartisan-alpr-amendment-killed",
+      "summary": "<p>Article URL: <a href=\"https://ipvm.com/reports/bipartisan-alpr-amendment-killed\">https://ipvm.com/reports/bipartisan-alpr-amendment-killed</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48312082\">https://news.ycombinator.com/item?id=48312082</a></p>\n<p>Points: 84</p>\n<p># ..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Claude Opus 4.8",
+      "link": "https://www.anthropic.com/news/claude-opus-4-8",
+      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-opus-4-8\">https://www.anthropic.com/news/claude-opus-4-8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48311647\">https://news.ycombinator.com/item?id=48311647</a></p>\n<p>Points: 1103</p>\n<p># Comments: 881</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Trivial Pursuits",
+      "link": "https://www.lrb.co.uk/the-paper/v48/n10/david-runciman/trivial-pursuits",
+      "summary": "<p>Article URL: <a href=\"https://www.lrb.co.uk/the-paper/v48/n10/david-runciman/trivial-pursuits\">https://www.lrb.co.uk/the-paper/v48/n10/david-runciman/trivial-pursuits</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48311539\">https://news.ycombinator.com/item?id=48311539</a>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Endive: A JVM native WebAssembly runtime",
+      "link": "https://github.com/bytecodealliance/endive",
+      "summary": "<p>Article URL: <a href=\"https://github.com/bytecodealliance/endive\">https://github.com/bytecodealliance/endive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48311490\">https://news.ycombinator.com/item?id=48311490</a></p>\n<p>Points: 44</p>\n<p># Comments: 13</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The Permanent Upper Crow",
+      "link": "https://permanent-upper-crow.jasonwu.ink/",
+      "summary": "<p>Article URL: <a href=\"https://permanent-upper-crow.jasonwu.ink/\">https://permanent-upper-crow.jasonwu.ink/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48310280\">https://news.ycombinator.com/item?id=48310280</a></p>\n<p>Points: 140</p>\n<p># Comments: 50</p>..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "A new dataset with more that 100M hi-quality, curated images, with captions and meta data! [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tq2vxa/a_new_dataset_with_more_that_100m_hiquality/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone.</p> <p>The new dataset is named MONET, is Apache 2.0 and available on HF:</p> <p><a href=\"https://huggingface.co/datasets/jasperai/monet\">https://huggingface.co/datasets/jasperai/monet</a></p> <p><strong>MONET is open, Apache 2.0-licensed image–text ..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "ACM MM 2026 review discussion [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tpvw6q/acm_mm_2026_review_discussion_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The AC email says the rebuttal is between 28 to 4th. The June 4th on website is the deadline. So I created this post for the discussion. I know it's a MM conference and less about ML but I think many people here are still submitting there. </p> </div><!-- SC_ON --> ..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Training GPT-like model on non-language series [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tprt80/training_gptlike_model_on_nonlanguage_series_r/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am responsible for a research project that is supposed to train a GPT-like model (Transformer-decoder) with 100M, 250M and 500M model variants.</p> <hr /> <h1>params</h1> <h2>training dataset</h2> <ul> <li><p>750M tokens</p></li> <li><p>vocabulary is ~15k to ~100k..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "STEM PhD's transitioning to MLE/Data [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tpnuhi/stem_phds_transitioning_to_mledata_r/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm hoping for some advice from any former PhD's outside of machine learning. If you made it into machine learning engineering and/or data science, what was the key for you? Any tips for this job market? It seems like non computer science PhD's are especially in tro..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Social Simulation with LLMs - Fidelity in Applications (CFP @ COLM'26) [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tqhdoe/social_simulation_with_llms_fidelity_in/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>🌟 Announcing the 2nd Workshop on <strong>Social Simulation with LLMs (Social Sim'26)</strong> @ COLM </p> <p>📣 Welcoming Submissions! Submission here:.</p> <p>🗓️ Deadline: <strong>June 23, 2026 (AoE)</strong> </p> <p>This year's theme is <strong>&quot;Fidelity in Ap..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Wall-OSS-0.5: 4B VLA with open training code and zero-shot real-robot evaluation[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tq8v8m/walloss05_4b_vla_with_open_training_code_and/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Wall-OSS-0.5 is a new 4B VLA release from X Square Robot, built on a 3B VLM backbone with action experts in a Mixture-of-Transformers layout. What caught my eye is that the report evaluates the pretrained checkpoint on real robots before task-specific fine tuning, i..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Your Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tqaoio/your_agents_are_aging_too_agent_lifespan/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong><em>Are agents aging after deployment?</em>: <a href=\"https://arxiv.org/abs/2605.26302\">https://arxiv.org/abs/2605.26302</a></strong></p> <p>On a new longitudinal deployment benchmark, switching the Claude Code CLI agent from Sonnet 4.6 to Opus 4.7 dropped P..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Kept context-switching between arxiv, OpenReview, GitHub, and HuggingFace for every paper, so I built this. Chrome extension + website with everything inline, plus citation graph + SPECTER2 neighbors. 3M papers, free, feedback welcome [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tq53il/kept_contextswitching_between_arxiv_openreview/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1tq53il/kept_contextswitching_between_arxiv_openreview/\"> <img alt=\"Kept context-switching between arxiv, OpenReview, GitHub, and HuggingFace for every paper, so I built this. Chrome extension + website with everything inlin..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Vulnerability found in framework used by VLLM, many MCP servers, and other LLM tools",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tpp2th/vulnerability_found_in_framework_used_by_vllm/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tpp2th/vulnerability_found_in_framework_used_by_vllm/\"> <img alt=\"Vulnerability found in framework used by VLLM, many MCP servers, and other LLM tools\" src=\"https://external-preview.redd.it/wrqQUnSWuCTpvqxiG_3DlA-NncVV8d3b5hKS-S..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Zai replaced the network architecture running GLM-5.1 inference and the gains are pretty wild",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tq35a0/zai_replaced_the_network_architecture_running/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tq35a0/zai_replaced_the_network_architecture_running/\"> <img alt=\"Zai replaced the network architecture running GLM-5.1 inference and the gains are pretty wild\" src=\"https://preview.redd.it/r2ad9gqtnv3h1.jpeg?width=640&amp;crop=..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "I've just benchmarked myself:",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqbnpq/ive_just_benchmarked_myself/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tqbnpq/ive_just_benchmarked_myself/\"> <img alt=\"I've just benchmarked myself:\" src=\"https://preview.redd.it/2fgenoeh6x3h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c9598e7a6b2df9c972569520a367c68c18c10b8d\" title=\"I've jus..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "My new home office radiator 🥵",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tpx984/my_new_home_office_radiator/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tpx984/my_new_home_office_radiator/\"> <img alt=\"My new home office radiator 🥵\" src=\"https://preview.redd.it/85y8oifr7u3h1.jpg?width=140&amp;height=105&amp;auto=webp&amp;s=febf1f91579f4b250b8ea71abab6e209a5d0282e\" title=\"My new h..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "HF models page now has a \"Base only\" toggle to filter out finetunes/quants/etc",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tq2ce9/hf_models_page_now_has_a_base_only_toggle_to/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tq2ce9/hf_models_page_now_has_a_base_only_toggle_to/\"> <img alt=\"HF models page now has a &quot;Base only&quot; toggle to filter out finetunes/quants/etc\" src=\"https://preview.redd.it/c127ne2thv3h1.png?width=640&amp;crop=smart&a..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Reachy Mini goes fully local!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tq4x48/reachy_mini_goes_fully_local/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tq4x48/reachy_mini_goes_fully_local/\"> <img alt=\"Reachy Mini goes fully local!\" src=\"https://external-preview.redd.it/NTVvM2Fnbmx6djNoMUbEuDQX_dG_zPQMhUClQe5uW2qNh1Ar9V0yl9uSgZE7.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "LiquidAI/LFM2.5-8B-A1B · Hugging Face",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tq8a40/liquidailfm258ba1b_hugging_face/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tq8a40/liquidailfm258ba1b_hugging_face/\"> <img alt=\"LiquidAI/LFM2.5-8B-A1B · Hugging Face\" src=\"https://external-preview.redd.it/P0nWxlGVytH_DgxSHh2Eay7RoFsSLLHY7HF9bQuZWg0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=45d377..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen/Qwen-Image-Bench · Hugging Face",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tpww8m/qwenqwenimagebench_hugging_face/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tpww8m/qwenqwenimagebench_hugging_face/\"> <img alt=\"Qwen/Qwen-Image-Bench · Hugging Face\" src=\"https://external-preview.redd.it/hxuY2Qu0zFBUl3cIGarLcn2YwFTllgsqvblt-lm1I6g.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d879b1..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "PaddlePaddle/PaddleOCR-VL-1.6",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tq1jpt/paddlepaddlepaddleocrvl16/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tq1jpt/paddlepaddlepaddleocrvl16/\"> <img alt=\"PaddlePaddle/PaddleOCR-VL-1.6\" src=\"https://external-preview.redd.it/q2meJGrou1n9m-S5IYUzFX0bAv6yzFwNiKpSfZqSE-8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=04c6868335ec8534e52d..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Gemma-4-Harmonia-31B-Uncensored-Heretic Is Out Now, a Merge of Multiple gemma-4-31B-it Finetunes Designed for a Targeted Approach to Deep Neural Consolidation, Minimizing Regression While Amplifying Unique Capability Boundaries. With KLD 0.0047 and 9/100 Refusals!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tpp2vp/gemma4harmonia31buncensoredheretic_is_out_now_a/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tpp2vp/gemma4harmonia31buncensoredheretic_is_out_now_a/\"> <img alt=\"Gemma-4-Harmonia-31B-Uncensored-Heretic Is Out Now, a Merge of Multiple gemma-4-31B-it Finetunes Designed for a Targeted Approach to Deep Neural Consolidation, ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "CrankGPT by Squeez Labs - hand-cranked edge AI - talk about local AI!!!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tpm7m3/crankgpt_by_squeez_labs_handcranked_edge_ai_talk/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I met Katrin from Squeez Labs at an event hosted by Pathway AI (the team behind Baby Dragon Hatchling) where she told me about CrankGPT, a literally hand-cranked device for running local LLMs. It's apparently real. It's appearently launched. It's apparently glorious..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "The frontier reasoning race is starting to look like a crowded subway station",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tpu5d3/the_frontier_reasoning_race_is_starting_to_look/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tpu5d3/the_frontier_reasoning_race_is_starting_to_look/\"> <img alt=\"The frontier reasoning race is starting to look like a crowded subway station\" src=\"https://preview.redd.it/y1c31d8vct3h1.jpeg?width=640&amp;crop=smart&amp;auto..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Nvidia LocateAnything - Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding. (10x faster than Qwen3-VL)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tpvldv/nvidia_locateanything_fast_and_highquality/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://huggingface.co/nvidia/LocateAnything-3B\">https://huggingface.co/nvidia/LocateAnything-3B</a></p> <p><a href=\"https://github.com/NVlabs/Eagle\">https://github.com/NVlabs/Eagle</a></p> <p>demo</p> <p><a href=\"https://huggingface.co/spaces/nvidia/Locate..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "\"Western Open-Weight SOTA is between Gemma4-31B and Nemotron3-Super-120B\"",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tq41pa/western_openweight_sota_is_between_gemma431b_and/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>These are fine models, but it's one hell of a gut punch to realize this. There's a 4-way debate of Chinese mid to heavyweight SOTA-chasing models right now with valid points all around.</p> <p>I miss Meta man.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a hre..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen3.6 35B - TXT vs Markdown vs HTML vs HTML+CSS",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tq7yeq/qwen36_35b_txt_vs_markdown_vs_html_vs_htmlcss/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Theres been talk of late about using HTML rather than markdown in Claude Code. I was curious how this worked with a local model so loaded up Qwen3.6 35B A3B at Q8 and F16 KV cache.</p> <p>Then I gave it the same prompt <code>write a detailed explanation of the Blazo..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "What's your favorite local MCP server?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tpwg33/whats_your_favorite_local_mcp_server/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've seen so many rag this, memory that projects. What projects are people actually using day to day for agentic workloads. I only use 4, and I still consider that too much honestly.</p> <p>I just want to see what projects people recommend so I can bulk up or trim d..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Upgrade path from 4x 3090s",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqfzvs/upgrade_path_from_4x_3090s/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, looking for some upgrade advice.</p> <p>Right now, I’m running 4x 3090s hosting Qwen 3.6 27B 128K in full precision. It's a great model, but I'm looking for a step up and trying to figure out the best &quot;middle-tier&quot; hardware path.</p> <p>I've ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Krasis update: Qwen3.6-35B-A3B (Q4) at reading speed, 1x 8GB 3070 Mobile laptop (32GB RAM)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tpyqng/krasis_update_qwen3635ba3b_q4_at_reading_speed_1x/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Context</h1> <p>Krasis is an LLM runtime for running models that don't fit into VRAM. Krasis streams the model through VRAM from system RAM efficiently and handles prefill and decode as separate architectures and optimised usecases.</p> <h1>Latest results (v1.0 rel..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Mimo 2.5 Pro - 40t/s on 8x Nvidia Spark/GB10 cluster",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqf5mi/mimo_25_pro_40ts_on_8x_nvidia_sparkgb10_cluster/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I got Mimo 2.5 Pro running on my 8x Asus Nvidia GB10 cluster using mtp-2, single user request, coding:<br /> 40 t/s - 1k context,<br /> 32t/s - 30k context,<br /> 25t/s - 125k context,<br /> 17t/s - 250k context.</p> <p>2 parallel reached 60t/s and in 4 parallel rea..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "VLLM gives 5x speed of llama but quants not available (unsloth/gguf). What to do?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tq633w/vllm_gives_5x_speed_of_llama_but_quants_not/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tq633w/vllm_gives_5x_speed_of_llama_but_quants_not/\"> <img alt=\"VLLM gives 5x speed of llama but quants not available (unsloth/gguf). What to do?\" src=\"https://preview.redd.it/nemkqy2y6w3h1.png?width=640&amp;crop=smart&amp;auto=..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Granite 4.1 Architecture Changes?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqas55/granite_41_architecture_changes/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey all. Anyone know why IBM decided to return to a pure transformer model for Granite 4.1? They mention in their release post that it's easier to fine-tune than Granite 4, but surely the drawbacks outweigh this benefit, especially for a model that is often used for..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen3.6-35B-A3B-APEX / 128K ctx on RTX 3060 12GB — 37 t/s gen with 72k ctx filled, PPL 3.25, offloading 17GB model",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tq0h1p/qwen3635ba3bapex_128k_ctx_on_rtx_3060_12gb_37_ts/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm posting this because it may be helpful to squeeze the 12GB VRAM in the 3060.</p> <p>All credit goes to <strong>spiritbuun's fork</strong> (<a href=\"https://github.com/spiritbuun/buun-llama-cpp\">github.com/spiritbuun/buun-llama-cpp</a>) and <strong>mudler's APEX ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Might they?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqfmh7/might_they/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tqfmh7/might_they/\"> <img alt=\"Might they?\" src=\"https://preview.redd.it/qk34pk69vx3h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=30bee12aad4462737bf8d2c3e243c66868ff11bc\" title=\"Might they?\" /> </a> </td><td> &#32; submit..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "How much total VRAM (or shared RAM for Mac/Halo/etc) do you have on your local server/PC?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqh44n/how_much_total_vram_or_shared_ram_for_machaloetc/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.reddit.com/poll/1tqh44n\">View Poll</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/panchovix\"> /u/panchovix </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tqh44n/how_much_total..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "I implemented Laguna (XS.2) as a model in Llama.cpp",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tq62j6/i_implemented_laguna_xs2_as_a_model_in_llamacpp/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/linuxid10t\"> /u/linuxid10t </a> <br /> <span><a href=\"https://github.com/linuxid10t/llama.cpp-add-laguna/tree/master\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tq62j6/i_implemented_laguna_xs2_as_..."
     }
   ],
-  "timestamp": "2026-05-27T23:16:33.433354",
-  "total_items": 1197
+  "timestamp": "2026-05-28T23:15:02.536586",
+  "total_items": 1249
 }
