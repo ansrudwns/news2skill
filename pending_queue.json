@@ -7493,8 +7493,332 @@
       "title": "I implemented Laguna (XS.2) as a model in Llama.cpp",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tq62j6/i_implemented_laguna_xs2_as_a_model_in_llamacpp/",
       "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/linuxid10t\"> /u/linuxid10t </a> <br /> <span><a href=\"https://github.com/linuxid10t/llama.cpp-add-laguna/tree/master\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tq62j6/i_implemented_laguna_xs2_as_..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+      "link": "https://huggingface.co/blog/torch-profiler",
+      "summary": "..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "MCP Is Dead",
+      "link": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+      "summary": "<p>Article URL: <a href=\"https://www.quandri.io/engineering-blog/mcp-is-dead\">https://www.quandri.io/engineering-blog/mcp-is-dead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48330436\">https://news.ycombinator.com/item?id=48330436</a></p>\n<p>Points: 15</p>\n<p># Comments: 2<..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+      "link": "https://github.com/secluso/core",
+      "summary": "<p>Hey everyone,<p>I previously introduced an open source private home security camera in 2024, which uses OpenMLS for end-to-end encryption: <a href=\"https://news.ycombinator.com/item?id=42284412\">https://news.ycombinator.com/item?id=42284412</a>.<p>It was called Privastead then and it's now rename..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Free full BGP feed. IPv4 and IPv6",
+      "link": "https://lukasz.bromirski.net/post/bgp-w-labie-3/",
+      "summary": "<p>Article URL: <a href=\"https://lukasz.bromirski.net/post/bgp-w-labie-3/\">https://lukasz.bromirski.net/post/bgp-w-labie-3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48330088\">https://news.ycombinator.com/item?id=48330088</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Why I collect DLES",
+      "link": "https://dles.gg/blog/dles-gg-manifesto",
+      "summary": "<p>Article URL: <a href=\"https://dles.gg/blog/dles-gg-manifesto\">https://dles.gg/blog/dles-gg-manifesto</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48328932\">https://news.ycombinator.com/item?id=48328932</a></p>\n<p>Points: 20</p>\n<p># Comments: 5</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "A Trillion Characters",
+      "link": "https://characters.fastserial.com",
+      "summary": "<p>Article URL: <a href=\"https://characters.fastserial.com\">https://characters.fastserial.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48328843\">https://news.ycombinator.com/item?id=48328843</a></p>\n<p>Points: 24</p>\n<p># Comments: 12</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The California state assembly has passed the 'Protect Our Games Act'",
+      "link": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
+      "summary": "<p>Article URL: <a href=\"https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill\">https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill</a></p..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "link": "https://github.com/jmaczan/tiny-vllm",
+      "summary": "<p>Article URL: <a href=\"https://github.com/jmaczan/tiny-vllm\">https://github.com/jmaczan/tiny-vllm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48328184\">https://news.ycombinator.com/item?id=48328184</a></p>\n<p>Points: 57</p>\n<p># Comments: 7</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Microsoft 0-day feud escalates as researcher threatens another exploit dump",
+      "link": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085\">https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/52..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Shift will clean homes for free to train future robots",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning\">https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "On Rendering Diffs",
+      "link": "https://pierre.computer/writing/on-rendering-diffs",
+      "summary": "<p>Article URL: <a href=\"https://pierre.computer/writing/on-rendering-diffs\">https://pierre.computer/writing/on-rendering-diffs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48327809\">https://news.ycombinator.com/item?id=48327809</a></p>\n<p>Points: 123</p>\n<p># Comments: 31<..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Rothko for your current weather conditions",
+      "link": "https://rothko.joonas.wtf/",
+      "summary": "<p>Article URL: <a href=\"https://rothko.joonas.wtf/\">https://rothko.joonas.wtf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48327367\">https://news.ycombinator.com/item?id=48327367</a></p>\n<p>Points: 106</p>\n<p># Comments: 11</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "SQLite is all you need for durable workflows",
+      "link": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "summary": "<p>Article URL: <a href=\"https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/\">https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48326802\">https://news.ycombinator.com/item?id=48326802</a></p>\n<p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Letter from the Duke of Wellington to the British Foreign Office (1809)",
+      "link": "https://wellsoc.org/society-member-pages/anecdotes-of-wellington/",
+      "summary": "<p>Slightly more readable link: <a href=\"https://cns.gatech.edu/CNS/GTaccountProcs.pdf\" rel=\"nofollow\">https://cns.gatech.edu/CNS/GTaccountProcs.pdf</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48326561\">https://news.ycombinator.com/item?id=48326561</a></p>\n<p>Points..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: TV Explorer. Adding advanced UI to free online TV",
+      "link": "https://tvexplorer.live",
+      "summary": "<p>Article URL: <a href=\"https://tvexplorer.live\">https://tvexplorer.live</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48325624\">https://news.ycombinator.com/item?id=48325624</a></p>\n<p>Points: 87</p>\n<p># Comments: 20</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Notes from the Mistral AI Now Summit",
+      "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "summary": "<p>Article URL: <a href=\"https://koenvangilst.nl/lab/mistral-ai-now-summit\">https://koenvangilst.nl/lab/mistral-ai-now-summit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48325340\">https://news.ycombinator.com/item?id=48325340</a></p>\n<p>Points: 291</p>\n<p># Comments: 97</p..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+      "link": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+      "summary": "<p>Article URL: <a href=\"https://www.liquid.ai/blog/lfm2-5-8b-a1b\">https://www.liquid.ai/blog/lfm2-5-8b-a1b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48325306\">https://news.ycombinator.com/item?id=48325306</a></p>\n<p>Points: 134</p>\n<p># Comments: 39</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "CAPTCHAs can still detect AI agents",
+      "link": "https://research.roundtable.ai/captchas-detect-ai/",
+      "summary": "<p>Article URL: <a href=\"https://research.roundtable.ai/captchas-detect-ai/\">https://research.roundtable.ai/captchas-detect-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48324910\">https://news.ycombinator.com/item?id=48324910</a></p>\n<p>Points: 56</p>\n<p># Comments: 47</..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "You can just say it",
+      "link": "https://noperator.dev/posts/you-can-just-say-it/",
+      "summary": "<p>Article URL: <a href=\"https://noperator.dev/posts/you-can-just-say-it/\">https://noperator.dev/posts/you-can-just-say-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48324853\">https://news.ycombinator.com/item?id=48324853</a></p>\n<p>Points: 25</p>\n<p># Comments: 3</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The dead economy theory",
+      "link": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "summary": "<p>Article URL: <a href=\"https://www.owenmcgrann.com/p/the-dead-economy-theory\">https://www.owenmcgrann.com/p/the-dead-economy-theory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48324712\">https://news.ycombinator.com/item?id=48324712</a></p>\n<p>Points: 574</p>\n<p># Comment..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "GTA 6 Developers Unionize",
+      "link": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+      "summary": "<p>Article URL: <a href=\"https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/\">https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48324499\">https://news.ycombinator.com/item?id=48324499..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "How long does it realistically take for you to produce an ICML/NeurIPS/ICLR-level paper? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tr9fa1/how_long_does_it_realistically_take_for_you_to/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>Since there are many researchers here who regularly publish at top-tier ML conferences like ICML, NeurIPS, and ICLR, I wanted to ask about realistic paper timelines.</p> <p>In your lab or research setting, how long does it usually take to develo..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Making LLMs tell you how confident they really are through probe-targeted fine tuning.[R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tqrtkn/making_llms_tell_you_how_confident_they_really/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just wanted to share my research regarding probe-targeted fine-tuning (LoRa) for verbal confidence calibration., </p> <p>If you probe the hidden states of an instruct-tuned LLM, it can tell correct from incorrect answers at 0.76–0.88 AUROC. But when you ask it direc..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "How Much of a Shortcut Are Connections in Top AI Lab Hiring for PhD grads? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tr80ll/how_much_of_a_shortcut_are_connections_in_top_ai/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>hi everyone.</p> <p>I'm trying to calibrate my expectations and would appreciate full honest perspectives from people involved/ with experience in hiring at places like Anthropic, OpenAI, Google DeepMind, Meta, etc (haven't started interviewing yet).</p> <p>I'm at a..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "ICML paper checker is down? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tr127y/icml_paper_checker_is_down_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was getting ready to upload my camera-ready paper to ICML (few minutes before the deadline... no comments), but the paper checker site seemingly went down before I could finish... I emailed the publication chairs already but i just wanted to know if anyone else wa..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Building a monokernel for LLM inference on AMD MI300X - up to 3,300 output tokens/s per request [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tqvuz9/building_a_monokernel_for_llm_inference_on_amd/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>We built a monokernel that runs the full decode sequence as one GPU-resident program on AMD MI300X, with some neat optimizations. The die topology is central to the result, we map memory access patterns to the physical layout, compute units group by their associated..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Does anyone have a copy of the ICDAR2013 Chinese Handwriting Competition Dataset? [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tr9cls/does_anyone_have_a_copy_of_the_icdar2013_chinese/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I understand that this is a little unorthodox, but I'm desperately trying to download a copy of the ICDAR2013 Chinese Handwriting Recognition Competition Dataset.</p> <p>Unfortunately, the linked page in the Conference Archive: <code>https://nlpr.ia.ac.cn/databases/..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Hopfield Memory in VLA [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tqwxqe/hopfield_memory_in_vla_r/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am currently doing a research internship (2 months) in VLA and I have come across the Hopfield network based on the paper Hopfield Networks is All You Need and seeing the potential advantages of using this as a memory module over the transformer architecture based..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "What's the theoretical basis for using llm consensus as a probability estimator for real world events [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tr3xpa/whats_the_theoretical_basis_for_using_llm/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This is a genuine technical question here. I've been looking at systems that use an ensemble of ai models to generate probability estimates for open ended real world events. The claim is that consensus across multiple models produces more calibrated estimates than a..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "PSA",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tr7hzw/psa/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tr7hzw/psa/\"> <img alt=\"PSA\" src=\"https://preview.redd.it/qnozk34it34h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e488a426c73d10537fb8d2241348c0d8a1331576\" title=\"PSA\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Beware!! Users trying to fork and steal your projects",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqnx5n/beware_users_trying_to_fork_and_steal_your/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tqnx5n/beware_users_trying_to_fork_and_steal_your/\"> <img alt=\"Beware!! Users trying to fork and steal your projects\" src=\"https://preview.redd.it/tr1qn58gjz3h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f0eedcee7c965a9716..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "StepFun 3.7 Flash",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqloii/stepfun_37_flash/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>StepFun dropped Step 3.7 Flash, 196B total / 11B active MoE, runs locally on 128GB RAM</p> <p>It's a multimodal MoE (196B total params, only 11B active) with a built-in 1.8B ViT for vision.</p> <p>Benchmark highlights vs. other flash-tier models:</p> <p>- SWE-Bench ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "llama: use f16 mask for FA to save VRAM by am17an · Pull Request #23764 · ggml-org/llama.cpp",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqupcr/llama_use_f16_mask_for_fa_to_save_vram_by_am17an/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tqupcr/llama_use_f16_mask_for_fa_to_save_vram_by_am17an/\"> <img alt=\"llama: use f16 mask for FA to save VRAM by am17an · Pull Request #23764 · ggml-org/llama.cpp\" src=\"https://external-preview.redd.it/HsKiqZHGyeUdcqFxb2uoDS32gpz..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Liquid AI releases LFM2.5-8B-A1B",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqqnsl/liquid_ai_releases_lfm258ba1b/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tqqnsl/liquid_ai_releases_lfm258ba1b/\"> <img alt=\"Liquid AI releases LFM2.5-8B-A1B\" src=\"https://preview.redd.it/qnmtsi0r404h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8fda9a7be5ca754b36cca79344a293cf61def50c\" title=\"Li..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Breaking the music supply constraint",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1treuy3/breaking_the_music_supply_constraint/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1treuy3/breaking_the_music_supply_constraint/\"> <img alt=\"Breaking the music supply constraint\" src=\"https://preview.redd.it/j3qncb2j054h1.jpg?width=140&amp;height=134&amp;auto=webp&amp;s=0483218721af215919ab3463dc24c5e5e2550101\"..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen3.6-27B Quantization Benchmark",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tr9vzn/qwen3627b_quantization_benchmark/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tr9vzn/qwen3627b_quantization_benchmark/\"> <img alt=\"Qwen3.6-27B Quantization Benchmark\" src=\"https://preview.redd.it/awcfprb5744h1.png?width=140&amp;height=105&amp;auto=webp&amp;s=80295b9c977b7615680ea4cef470dd684b51692c\" title..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "A moment of thanks for DeepSeek",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqyl20/a_moment_of_thanks_for_deepseek/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Even when I'm not using their models, they're sharing their R&amp;D which benefits the whole ecosystem and consumers, esp. those that make AI cheaper and more efficient. And by setting low prices, they are pushing costs down and reducing prices for us all.</p> </div..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1trdnap/fed_up_with_vibe_coders_dev_sneaks_datanuking/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1trdnap/fed_up_with_vibe_coders_dev_sneaks_datanuking/\"> <img alt=\"Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code\" src=\"https://external-preview.redd.it/shYuWDFSizaQAwPlKyO6UxTlITA2WWjQjPg8cyWmYu..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Shoutout to Gemma4 as a conversational assistant / agent",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqy2iv/shoutout_to_gemma4_as_a_conversational_assistant/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm seriously impressed by Gemma4 26B A4B. On my M5 Pro (so not much memory bandwidth by GPU standards), it's blazingly fast and it's a very good generalist / everyday local LLM.</p> <p>It has a little bit of personality to its responses, and seems to perform decent..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Use HTML as the primary chat language for your agents so they can draw diagrams",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqt12p/use_html_as_the_primary_chat_language_for_your/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tqt12p/use_html_as_the_primary_chat_language_for_your/\"> <img alt=\"Use HTML as the primary chat language for your agents so they can draw diagrams\" src=\"https://preview.redd.it/luol40p0r04h1.png?width=140&amp;height=97&amp;auto=..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "llama : website + unified `llama` binary · ggml-org/llama.cpp · Discussion #23875",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tr78bg/llama_website_unified_llama_binary/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tr78bg/llama_website_unified_llama_binary/\"> <img alt=\"llama : website + unified `llama` binary · ggml-org/llama.cpp · Discussion #23875\" src=\"https://external-preview.redd.it/OkEj1Q6Km01MqdYP4ylFM5aivwieNZvWpjRH8mv-BpM.png?widt..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "StepFun 3.7 Flash - Speed Benchmark in M5 Max",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqqebc/stepfun_37_flash_speed_benchmark_in_m5_max/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tqqebc/stepfun_37_flash_speed_benchmark_in_m5_max/\"> <img alt=\"StepFun 3.7 Flash - Speed Benchmark in M5 Max\" src=\"https://preview.redd.it/322rt8n4304h1.png?width=140&amp;height=104&amp;auto=webp&amp;s=7bf11f94c35c09973742ffbb74..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Step 3.7 Flash passes the car wash test",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tr34fg/step_37_flash_passes_the_car_wash_test/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tr34fg/step_37_flash_passes_the_car_wash_test/\"> <img alt=\"Step 3.7 Flash passes the car wash test\" src=\"https://preview.redd.it/5neatq3v334h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7e7ce94f1c474a9fa5f35f446f8bce33d01e..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen 3.6 27B overdoing it",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqwetn/qwen_36_27b_overdoing_it/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Although I'm very impressed with Qwen3.6 and is my most used model, I feel that sometimes it being too proactive and start doing things I didn't ask, from creating tests for the last modification to reverting changes I made - eg removing an hardcoded value - that it..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "New LFM2.5 8b A1b model!!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqsz1j/new_lfm25_8b_a1b_model/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tqsz1j/new_lfm25_8b_a1b_model/\"> <img alt=\"New LFM2.5 8b A1b model!!\" src=\"https://preview.redd.it/lx2cd0zrq04h1.png?width=140&amp;height=109&amp;auto=webp&amp;s=97bb45779b0b399512612d892da5bc5c73cf37ea\" title=\"New LFM2.5 8b A1b..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "vLLM PR adding native HIP W4A16 kernel was merged",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tr0end/vllm_pr_adding_native_hip_w4a16_kernel_was_merged/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tr0end/vllm_pr_adding_native_hip_w4a16_kernel_was_merged/\"> <img alt=\"vLLM PR adding native HIP W4A16 kernel was merged\" src=\"https://external-preview.redd.it/N6xlRH-N1Hdfkc7Jr2awaXA3I52eXy7YfoN91Aun7OA.png?width=640&amp;crop=sm..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Me train LLM on 8GB from Scratch. Me happy",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1treb2z/me_train_llm_on_8gb_from_scratch_me_happy/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I made post yesterday: <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tqjuzg/why_is_there_no_community_project_for_training/\">https://www.reddit.com/r/LocalLLaMA/comments/1tqjuzg/why_is_there_no_community_project_for_training/</a></p> <p>i program today:<br ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Got searxng working on windows without docker/wsl",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqkbj0/got_searxng_working_on_windows_without_dockerwsl/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tqkbj0/got_searxng_working_on_windows_without_dockerwsl/\"> <img alt=\"Got searxng working on windows without docker/wsl\" src=\"https://preview.redd.it/xeurux5wpy3h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d5ee245ce64a4a94..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "We gave a Reachy Mini a real-time voice brain",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tr57ci/we_gave_a_reachy_mini_a_realtime_voice_brain/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tr57ci/we_gave_a_reachy_mini_a_realtime_voice_brain/\"> <img alt=\"We gave a Reachy Mini a real-time voice brain\" src=\"https://external-preview.redd.it/d3ZtcmF5dGd1MjRoMRa5Etp1rS309wo_jfbjQasft7PnxZMC7fMAEyhkiaAa.png?width=640&amp..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Linux Kernel 7.0 Brings Out-of-the-Box Support of Intel ARC B50 to Linux Mint",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqk5o6/linux_kernel_70_brings_outofthebox_support_of/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>As someone may have tried, it was pretty difficult to deal with Intel B50 on Linux Mint. I read that Ubuntu and other distros had better support, but today I updated Linux Mint 22.3 to Kernel 7.0 and BOOM! - everything works :)</p> <p>FYI, on Linux, Intel drivers ar..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Nvidia teases new PC laptop chip to be announced at Computex June 2",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tracb5/nvidia_teases_new_pc_laptop_chip_to_be_announced/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://x.com/nvidia/status/2060390710797328574\">https://x.com/nvidia/status/2060390710797328574</a></p> <p>The coordinates are Taipai, Taiwan. Likely a reference to Computex starting June 2. The new chip is expected to be an ARM laptop PC chip, similar to ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "FP16 on Qwen 3.6 27B",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tr0gh5/fp16_on_qwen_36_27b/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Have there been any notable difference between Q8 and FP16 on both the weights and the cache? I know the jump to Q8 is significant. I would test myself, but FP16 on my setup is painfully slow.</p> <p>Also side question, is ~14TPS around the number I should be expect..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "If you had $150K for building a production-class local inference server to serve 300 people, what would you buy?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tr7b0n/if_you_had_150k_for_building_a_productionclass/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I know we usually focus on home lab stuff here for the most part, but I’m in a position where I’m trying to purchase a failover server for our production inference server for under $150K. Our main production server has 4 H100s, so I’m looking for something that is c..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Llama.cpp B9406 MTP mmproj fix",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tr1ir4/llamacpp_b9406_mtp_mmproj_fix/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/ggml-org/llama.cpp/releases/tag/b9406\">B9406</a></p> <p>Been waiting for this one. Building now.</p> <p>Report your results if you test!</p> <blockquote> <p>GGML_ASSERT(i01 &gt;= 0 &amp;&amp; i01 &lt; ne01) crash in get_rows / mtmd_helper..."
     }
   ],
-  "timestamp": "2026-05-28T23:15:02.536586",
-  "total_items": 1249
+  "timestamp": "2026-05-29T23:11:27.470915",
+  "total_items": 1303
 }
