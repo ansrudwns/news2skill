@@ -7817,8 +7817,326 @@
       "title": "Llama.cpp B9406 MTP mmproj fix",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tr1ir4/llamacpp_b9406_mtp_mmproj_fix/",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/ggml-org/llama.cpp/releases/tag/b9406\">B9406</a></p> <p>Been waiting for this one. Building now.</p> <p>Report your results if you test!</p> <blockquote> <p>GGML_ASSERT(i01 &gt;= 0 &amp;&amp; i01 &lt; ne01) crash in get_rows / mtmd_helper..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Design Engineering Magazine",
+      "link": "https://interfaces.dev/",
+      "summary": "<p>Article URL: <a href=\"https://interfaces.dev/\">https://interfaces.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48340448\">https://news.ycombinator.com/item?id=48340448</a></p>\n<p>Points: 26</p>\n<p># Comments: 4</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
+      "link": "https://github.com/wolfSSL/wolfCOSE",
+      "summary": "<p>Article URL: <a href=\"https://github.com/wolfSSL/wolfCOSE\">https://github.com/wolfSSL/wolfCOSE</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48340422\">https://news.ycombinator.com/item?id=48340422</a></p>\n<p>Points: 26</p>\n<p># Comments: 1</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Domain expertise has always been the real moat",
+      "link": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+      "summary": "<p>Article URL: <a href=\"https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/\">https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48340411\">https://news...."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Dusklight – GC Twilight Princess Decompiled",
+      "link": "https://twilitrealm.dev/",
+      "summary": "<p>Article URL: <a href=\"https://twilitrealm.dev/\">https://twilitrealm.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48340262\">https://news.ycombinator.com/item?id=48340262</a></p>\n<p>Points: 40</p>\n<p># Comments: 4</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Parallel Reconstruction of Lawful TLS Wiretapping",
+      "link": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/",
+      "summary": "<p>Article URL: <a href=\"https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/\">https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48339943\">https://news.ycombinator.com/item?id=48339943</a></p>\n<p>Points: 37</..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
+      "link": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
+      "summary": "<p>Article URL: <a href=\"https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/\">https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48339894\">https://news.ycombinator.com/item?id=48339894</a></p>\n<p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
+      "link": "https://ajin.im/is/building/omen.ops/",
+      "summary": "<p>Article URL: <a href=\"https://ajin.im/is/building/omen.ops/\">https://ajin.im/is/building/omen.ops/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48339753\">https://news.ycombinator.com/item?id=48339753</a></p>\n<p>Points: 60</p>\n<p># Comments: 7</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Meta is reportedly developing an AI pendant",
+      "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/\">https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48339605\">https://news.ycombinator.com/item?i..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "EY Canada published a cybersecurity report and most citations were hallucinated",
+      "link": "https://gptzero.me/investigations/ey",
+      "summary": "<p>Article URL: <a href=\"https://gptzero.me/investigations/ey\">https://gptzero.me/investigations/ey</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48339580\">https://news.ycombinator.com/item?id=48339580</a></p>\n<p>Points: 253</p>\n<p># Comments: 114</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Hormuz crisis side effect: a sharp rise in container shipping rates",
+      "link": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates",
+      "summary": "<p>Article URL: <a href=\"https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates\">https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Zig ELF Linker Improvements Devlog",
+      "link": "https://ziglang.org/devlog/2026/#2026-05-30",
+      "summary": "<p>Article URL: <a href=\"https://ziglang.org/devlog/2026/#2026-05-30\">https://ziglang.org/devlog/2026/#2026-05-30</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48338673\">https://news.ycombinator.com/item?id=48338673</a></p>\n<p>Points: 145</p>\n<p># Comments: 28</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "OpenRouter raises $113M Series B",
+      "link": "https://openrouter.ai/announcements/series-b",
+      "summary": "<p>Article URL: <a href=\"https://openrouter.ai/announcements/series-b\">https://openrouter.ai/announcements/series-b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48338660\">https://news.ycombinator.com/item?id=48338660</a></p>\n<p>Points: 323</p>\n<p># Comments: 143</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Microcode inside the Intel 8087 floating-point chip: register exchange",
+      "link": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
+      "summary": "<p>Article URL: <a href=\"https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html\">https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48338656\">https://news.ycombinator.com/item?id=48338656</..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Accenture to acquire Ookla",
+      "link": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
+      "summary": "<p><a href=\"https://www.theverge.com/tech/889234/downdetector-ookla-speedtest-sold-accenture\" rel=\"nofollow\">https://www.theverge.com/tech/889234/downdetector-ookla-spee...</a>, <a href=\"https://archive.ph/FR8ND\" rel=\"nofollow\">https://archive.ph/FR8ND</a><p><a href=\"https://arstechnica.com/informat..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Werner Herzog in conversation with Paul Cronin (2014)",
+      "link": "https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/",
+      "summary": "<p>Article URL: <a href=\"https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/\">https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48337808\">https..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Voxel Space (2017)",
+      "link": "https://s-macke.github.io/VoxelSpace/",
+      "summary": "<p>Article URL: <a href=\"https://s-macke.github.io/VoxelSpace/\">https://s-macke.github.io/VoxelSpace/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48336564\">https://news.ycombinator.com/item?id=48336564</a></p>\n<p>Points: 238</p>\n<p># Comments: 48</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
+      "link": "https://helios.southlondonscientific.com/",
+      "summary": "<p>Plug-in solar panels (no electrician needed) have just become legal in the UK and will go on sale soon. Helios estimates how much electricity a typical installation could generate at a given address and what that's worth against your tariff.<p>It uses UK government LIDAR data to reflect the actua..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
+      "link": "https://github.com/kristapsdz/openrsync",
+      "summary": "<p>Article URL: <a href=\"https://github.com/kristapsdz/openrsync\">https://github.com/kristapsdz/openrsync</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48334854\">https://news.ycombinator.com/item?id=48334854</a></p>\n<p>Points: 296</p>\n<p># Comments: 130</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Leo's first encyclical attacks technological messianism",
+      "link": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism\">https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48334..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Pandoc Templates",
+      "link": "https://pandoc-templates.org/",
+      "summary": "<p>Article URL: <a href=\"https://pandoc-templates.org/\">https://pandoc-templates.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48334515\">https://news.ycombinator.com/item?id=48334515</a></p>\n<p>Points: 348</p>\n<p># Comments: 46</p>..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Graduating Without a PhD Internship [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1trn6ye/graduating_without_a_phd_internship_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>In early 2022, I was deciding between PhD offers. The deal maker was a prospective supervisor telling me that through their connections with big tech, I would be able to do a PhD internship each summer, which was one of my main goals for the PhD.</p> <p>During my fi..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Why do the output layer weights become word vectors in Word2Vec? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1trvuxb/why_do_the_output_layer_weights_become_word/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm trying to understand the intuition behind Word2Vec training using a neural network.</p> <p>In Word2Vec (CBOW or Skip-gram), we often hear that the weight matrices learned during training contain the vector representations (embeddings) of words. However, I don't ..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Requesting reduction in reviewer load for NeuRIPS? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1trqnbn/requesting_reduction_in_reviewer_load_for_neurips/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I didn't submit any but did place bids on some papers. I got assigned four papers. I have a bit of travel coming up and I don't think I will be able to do justice to as many the papers, especially in the rebuttal period. Is this the standard reviewing load? In other..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Workshop submission for main conference paper under review [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ts2m9n/workshop_submission_for_main_conference_paper/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have an ECCV paper main conf. Can I submit the same to a workshop at some other place happening before ECCV? The other workshop (non archival) will be after the final decisions of eccv come. Under any result in eccv- acceptance or rejection, how will this affect i..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Query about non-archival workshop at CVPR-2026 [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1trwork/query_about_nonarchival_workshop_at_cvpr2026_r/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>My paper was recently accepted to a workshop at CVPR-2026 as non-archival acceptance. Is it mandatory for me to register to the conference as I won't be able to attend(visa issues), but my friend will be there in the conference and can present on my behalf.</p> <p>I..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Event like spiking neuron lib that fits into the CPU cache [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1trq5o3/event_like_spiking_neuron_lib_that_fits_into_the/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I benchmarked it against PyTorch with a Wikipedia dataset.</p> <p>I heavily used Gemini Flash 3.5 to build out my vision</p> <p><a href=\"https://huggingface.co/etoxin/neuronguard-wikipedia-classifier\">https://huggingface.co/etoxin/neuronguard-wikipedia-classifier</a..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Before we spend months processing open-source robotics datasets, tell us why this is a bad idea [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tryf0a/before_we_spend_months_processing_opensource/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Ps. Not pitching anything; Just trying to understand where reality differs from the narrative</p> <p>We're a couple of ML students, mostly worked on ML/software before, but over the last few months we've been playing with VLAs, robot datasets, and trying to understa..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "What I learned building a debugger for PyTorch training loops and how it changed how I think about failure diagnosis [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1trui0b/what_i_learned_building_a_debugger_for_pytorch/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey <a href=\"/r/ML\">r/ML</a>,</p> <p>I spent the last few months building a tool that hooks into PyTorch training loops to automatically detect and localize failures (vanishing gradients, exploding gradients, data anomalies). Along the way, I learned some things abo..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "I compared all specs of the major GPUs/machines that are being used here, because bandwidth is not everything. Some of ya'll need a reality check.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1trkze4/i_compared_all_specs_of_the_major_gpusmachines/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1trkze4/i_compared_all_specs_of_the_major_gpusmachines/\"> <img alt=\"I compared all specs of the major GPUs/machines that are being used here, because bandwidth is not everything. Some of ya'll need a reality check.\" src=\"https://..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Is he crazy to say that?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1trlzvw/is_he_crazy_to_say_that/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1trlzvw/is_he_crazy_to_say_that/\"> <img alt=\"Is he crazy to say that?\" src=\"https://preview.redd.it/p1ry1vx2h64h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f9cc5dd64adcacea1c60e539671b48ee1b2fa924\" title=\"Is he crazy to s..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "125 tok/s for Qwen3.6 q4xl on 2x 4060ti is insane perf/dollar",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tryp2q/125_toks_for_qwen36_q4xl_on_2x_4060ti_is_insane/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tryp2q/125_toks_for_qwen36_q4xl_on_2x_4060ti_is_insane/\"> <img alt=\"125 tok/s for Qwen3.6 q4xl on 2x 4060ti is insane perf/dollar\" src=\"https://preview.redd.it/3sthvqggm94h1.png?width=140&amp;height=87&amp;auto=webp&amp;s=ea4177..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "nvidia/Qwen3.6-35B-A3B-NVFP4 · Hugging Face",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ts6j6j/nvidiaqwen3635ba3bnvfp4_hugging_face/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ts6j6j/nvidiaqwen3635ba3bnvfp4_hugging_face/\"> <img alt=\"nvidia/Qwen3.6-35B-A3B-NVFP4 · Hugging Face\" src=\"https://external-preview.redd.it/08Y1LhdDbGFZYvC6g92f--j5ndHy1Vg0-HCvkblPmV0.png?width=640&amp;crop=smart&amp;auto=webp&a..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "All DGX Spark clones side by side in one image",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1trms2k/all_dgx_spark_clones_side_by_side_in_one_image/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1trms2k/all_dgx_spark_clones_side_by_side_in_one_image/\"> <img alt=\"All DGX Spark clones side by side in one image\" src=\"https://preview.redd.it/76b8947kn64h1.png?width=140&amp;height=96&amp;auto=webp&amp;s=f70a73dfa73599e8211dc7..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Gryphe/Pantheon-Reasoning-27B · Hugging Face",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1trvo30/gryphepantheonreasoning27b_hugging_face/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1trvo30/gryphepantheonreasoning27b_hugging_face/\"> <img alt=\"Gryphe/Pantheon-Reasoning-27B · Hugging Face\" src=\"https://external-preview.redd.it/nAtzO7oxc5PE-hLOQbkdcfGgRQKQCiTpVE3Y5v9SK1A.png?width=640&amp;crop=smart&amp;auto=we..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Open source : Turning vocal imitations into sound effects. (New UX for sound generation)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1trve9e/open_source_turning_vocal_imitations_into_sound/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1trve9e/open_source_turning_vocal_imitations_into_sound/\"> <img alt=\"Open source : Turning vocal imitations into sound effects. (New UX for sound generation)\" src=\"https://external-preview.redd.it/cnR3ajl5eTh3ODRoMVvdTbPwXNOq7d6z..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "this new Moss tts 1.5 is damn good with voice cloning",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1trq8kq/this_new_moss_tts_15_is_damn_good_with_voice/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1trq8kq/this_new_moss_tts_15_is_damn_good_with_voice/\"> <img alt=\"this new Moss tts 1.5 is damn good with voice cloning\" src=\"https://external-preview.redd.it/bGhoZXh5bWdoNzRoMR4XYgnkJELYGhB81QaTFfxVIQCLwcHjVfyAHqhM7W69.png?width..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Cost Analysis of my $6.4k Local LLM Server",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tsbl9j/cost_analysis_of_my_64k_local_llm_server/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I haven't seen any of these done, so I just wanted to share my experience in case it is useful for anyone. The purpose of this post is to show total cost of ownership of my local llm server versus API equivalent. Before you look at the final numbers, note that most ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Got Really lucky and need your advice",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1trrjjo/got_really_lucky_and_need_your_advice/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So, I got the chance to get either a rig of like 8 RTX PRO 6000s or the GB300. Which should I take? Its gonna be used by like 10 people, but im the primary user.</p> <p>Edit: Thought I'd add some context: The RTX6000s would be PCIe Boards. So if I shard the model ac..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Fulloch V2: 100% Local Voice Assistant for Home Assistant & Obsidian (Runs on 16GB VRAM)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1trw5ym/fulloch_v2_100_local_voice_assistant_for_home/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1trw5ym/fulloch_v2_100_local_voice_assistant_for_home/\"> <img alt=\"Fulloch V2: 100% Local Voice Assistant for Home Assistant &amp; Obsidian (Runs on 16GB VRAM)\" src=\"https://external-preview.redd.it/YmsxMm91a20yOTRoMdODVpd5yEC3o8..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Someone out there likely needs this",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tsd41n/someone_out_there_likely_needs_this/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tsd41n/someone_out_there_likely_needs_this/\"> <img alt=\"Someone out there likely needs this\" src=\"https://preview.redd.it/qr9kyi1gmc4h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4621c1c9d90ec916d8632d12e71c8d5865ab5c6e\" ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Keeping multi-GPU rigs cool?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1trst5s/keeping_multigpu_rigs_cool/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1trst5s/keeping_multigpu_rigs_cool/\"> <img alt=\"Keeping multi-GPU rigs cool?\" src=\"https://preview.redd.it/4hml75wx584h1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=a15c0626833daacd17e159636d7e2ccc24d75874..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "STT -> LLM -> TTS pipeline",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ts0jjb/stt_llm_tts_pipeline/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys, I’m trying to learn about how to better create a STT LLM TTS pipeline.</p> <p>My current setup is running a 3090 on Ubuntu. I use llama.cpp to run Qwen 3.6 27B Q4 with pi-agent for tool calling, and I just run everything in the terminal, I haven’t really b..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Anyone using Flash Attention 2 (ai-bond) on their V100's? How is the performance?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1trjm6a/anyone_using_flash_attention_2_aibond_on_their/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I just Installed Flash Attention 2 from here: <a href=\"https://github.com/ai-bond/flash-attention-v100\">https://github.com/ai-bond/flash-attention-v100</a>&quot;</p> <p>I did some basic benchmarks and I am getting from 4x-7x memory utilization. However, benchmarks d..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Can't get over 250TPS on RTX5090 with Qwen3.5-4B",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ts049w/cant_get_over_250tps_on_rtx5090_with_qwen354b/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>My main model is qwen3.6-27b-mtp and I'm getting around 100tps and 2500tps prefill, which is great. I've tried adding a second small model for auxiliary tasks, and even when it's the only model running, it doesn't go over 200-250tps.</p> <p>I'm building llama.cpp an..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen 3.6 coding choice–27B vs 35B quants",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tryukc/qwen_36_coding_choice27b_vs_35b_quants/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been using Qwen 3.6 35BA3B for a while in Q8_0 quant, KV Q8_0 as well. I'm trying to explore Qwen 2.6 27B. Any tips on which quant to use?</p> <p>Context size is 262144</p> <ol> <li><p>Q4KM with full KV quant (fp16)</p></li> <li><p>Q6K with Q8_0 KV quant</p></l..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "anybody got llama-swap working answering concurrent requests for a single model?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ts072f/anybody_got_llamaswap_working_answering/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>EDIT</strong>: Solved. Works after the update, thanks everyone.</p> <p>been trying this out for a bit, I have qwen 3.6 35b a3b running via this config:</p> <pre><code>qwen-36-35b-a3b: aliases: - qwen-a3b cmd: | env __GLX_VENDOR_LIBRARY_NAME=nvidia __NV_PRIME..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Running Qwen 3.6 35b MoE With Zoo Code On M1 Max is Amazing! Fully local, battery-powered coding powerhouse!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tsasg2/running_qwen_36_35b_moe_with_zoo_code_on_m1_max/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tsasg2/running_qwen_36_35b_moe_with_zoo_code_on_m1_max/\"> <img alt=\"Running Qwen 3.6 35b MoE With Zoo Code On M1 Max is Amazing! Fully local, battery-powered coding powerhouse!\" src=\"https://external-preview.redd.it/YXdqMHR6amg1..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Has anyone experimented with stabilizing low quant models with lower temp and top p?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ts94t8/has_anyone_experimented_with_stabilizing_low/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was thinking about trying some bigger models out on my 80GB VRAM setup, but everything MoE is too slow with CPU offload. Otherwise there aren't many models that are purpose built for 80GB VRAM. Most of the bigger models require using a heavily quantized version. A..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Parallax: Parameterized Local Linear Attention for Language Modeling",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ts79rg/parallax_parameterized_local_linear_attention_for/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Large Language Models (LLMs) have become the central paradigm in artificial intelligence, yet the core computational primitive of attention has remained structurally unchanged. Local Linear Attention (LLA) is an attention mechanism derived from nonparametric statist..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Would a MacBook M5 16/24/32GB be an upgrade, complement, or waste next to my RTX 4060 laptop?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tsb56u/would_a_macbook_m5_162432gb_be_an_upgrade/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I’m trying to understand whether buying a future/possible MacBook M5 with 16GB, 24GB, or 32GB unified memory would make sense for my local AI workflow, or whether it would mostly be a waste given my current setup.</p> <p>My main machine is:</p> <..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Fine tuning on DGX spark vs 4x 3090?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ts4on0/fine_tuning_on_dgx_spark_vs_4x_3090/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>hey, my research direction don’t focus on inference or eval benchmarks. specifically, it’s mech interp research direction, analyzing how models do computation etc</p> <p>i dont have GPU, mostly using cloud GPUs loaned by third parties. i saved up some scholarship mo..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "For those creating personal assistants locally - how has short/long term memory impacted your experience?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ts7wk8/for_those_creating_personal_assistants_locally/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>With the release of Qwen 3.5 27B, I created my first truly autonomous agent. That alone completely blows my mind. I can give her tasks and go make dinner and come back and she's made an app for me. She knows how to work through problems on her own, search the intern..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Whisper.cpp is underwhelming",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tsas63/whispercpp_is_underwhelming/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi, I'm running whisper.cpp with the best model I could find (ggml-large-v3) but after about 20 min of transcription it hallucinates a sentence that it will repeat endlessly until the end.</p> <p>Is there something I'm missing or should I cut my files to about 20 mi..."
     }
   ],
-  "timestamp": "2026-05-29T23:11:27.470915",
-  "total_items": 1303
+  "timestamp": "2026-05-30T22:57:03.537642",
+  "total_items": 1356
 }
