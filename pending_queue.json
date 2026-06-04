@@ -10589,8 +10589,350 @@
       "title": "PyraMathBench: Evaluating and Improving Mathematical Capability in Large Language Models",
       "link": "https://arxiv.org/abs/2606.03858v1",
       "summary": "Despite the pivotal role of numerical reasoning as the cornerstone of mathematical capabilities in large language models (LLMs) across applications, few benchmarks evaluate LLMs by integrating numerical processing and mathematical reasoning, hindering the interpretability of failures in math tasks. ..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "summary": "..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "summary": "..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "link": "https://huggingface.co/blog/hf-cli-for-agents",
+      "summary": "..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "link": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "summary": "..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Adding MCP Tools to Reachy Mini",
+      "link": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "summary": "..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
+      "link": "https://github.com/schildep/verified-polygon-intersection",
+      "summary": "<p>To my knowledge, this is the first formally verified implementation of an intersection algorithm for polygons.<p>The experience of working with AI agents on this project changed a lot with recent model releases, as I describe in the readme. Opus 4.8 is able to provide algorithm implementation wit..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "IPv6 zones in URLs are a mistake",
+      "link": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+      "summary": "<p>Article URL: <a href=\"https://xeiaso.net/notes/2026/ipv6-zones-go-url/\">https://xeiaso.net/notes/2026/ipv6-zones-go-url/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48405019\">https://news.ycombinator.com/item?id=48405019</a></p>\n<p>Points: 34</p>\n<p># Comments: 18</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Queen bees emerge from special wax chambers",
+      "link": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06",
+      "summary": "<p>Article URL: <a href=\"https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06\">https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48404905\">https://news.ycom..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
+      "link": "https://www.mercek.dev/",
+      "summary": "<p>Hey HN\nI've been using ECS for a while now and found it annoying having to log into the console everytime<p>I use Lens for Kubernetes but couldnt find an equivalent for ECS so i built one!<p>The project is open source as well\n<a href=\"https://github.com/utibeabasi6/mercek\" rel=\"nofollow\">https://..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
+      "link": "https://github.com/tejaswigowda/ffmpeg-webCLI",
+      "summary": "<p>Built a browser-based FFmpeg editor that runs entirely client-side via WebAssembly. Your files never leave your device -- all processing happens in a Web Worker. Works offline as an installable PWA after first load.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4840422..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Iran Shock Jolts Asia and Europe to Speed Up Energy Transition",
+      "link": "https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/",
+      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/\">https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48404063\">https://news.ycombinator.com/item?id=48404063</a></p>\n<p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "link": "https://github.com/anthropics/defending-code-reference-harness",
+      "summary": "<p>Article URL: <a href=\"https://github.com/anthropics/defending-code-reference-harness\">https://github.com/anthropics/defending-code-reference-harness</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48403980\">https://news.ycombinator.com/item?id=48403980</a></p>\n<p>Points: 17..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Castor: CERN Advanced STORage Manager",
+      "link": "https://castor.web.cern.ch/content/home.html",
+      "summary": "<p>Article URL: <a href=\"https://castor.web.cern.ch/content/home.html\">https://castor.web.cern.ch/content/home.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48403753\">https://news.ycombinator.com/item?id=48403753</a></p>\n<p>Points: 38</p>\n<p># Comments: 15</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Meta's ships facial recognition on smart glasses",
+      "link": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+      "summary": "<p>Article URL: <a href=\"https://www.buchodi.com/meta-glasses-facial-recognition/\">https://www.buchodi.com/meta-glasses-facial-recognition/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48403588\">https://news.ycombinator.com/item?id=48403588</a></p>\n<p>Points: 174</p>\n<p># C..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Hitoku Draft – Context aware local assistant",
+      "link": "https://hitoku.me/draft/",
+      "summary": "<p>Hi guys.<p>I have been working on Hitoku Draft, an open-source, voice-first AI assistant that runs entirely locally. I posted about it already, and now it has also transcription with voice editing. Looking for feedback, as I found that outside tech circles other people still do not use this tech ..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "link": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/institute/recursive-self-improvement\">https://www.anthropic.com/institute/recursive-self-improvement</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48400842\">https://news.ycombinator.com/item?id=48400842</a></p>\n<p>Points: 24..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Retro-Tech Parenting",
+      "link": "https://havenweb.org/2026/05/28/retro-tech.html",
+      "summary": "<p>Article URL: <a href=\"https://havenweb.org/2026/05/28/retro-tech.html\">https://havenweb.org/2026/05/28/retro-tech.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48400588\">https://news.ycombinator.com/item?id=48400588</a></p>\n<p>Points: 218</p>\n<p># Comments: 151</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "link": "https://github.com/huawei-csl/KVarN",
+      "summary": "<p>Article URL: <a href=\"https://github.com/huawei-csl/KVarN\">https://github.com/huawei-csl/KVarN</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48399974\">https://news.ycombinator.com/item?id=48399974</a></p>\n<p>Points: 107</p>\n<p># Comments: 11</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "AI, Ashby Engineering, and the future",
+      "link": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
+      "summary": "<p>Article URL: <a href=\"https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future\">https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48399528\">https://news.ycombinator.com/item?id=48..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Ask HN: Gin rummy strategies",
+      "link": "https://news.ycombinator.com/item?id=48398358",
+      "summary": "<p>Hi HN, I am having AI build me a local Gin Rummy trainer and it cannot figure out medium and hard bot strategies, they keep losing to easy! The point of this is to help me learn so I don't really know how to advise it on strategies. Right now it's just looping through tests and modifying but it k..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "VoidZero Is Joining Cloudflare",
+      "link": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+      "summary": "<p><a href=\"https://voidzero.dev/posts/voidzero-cloudflare\" rel=\"nofollow\">https://voidzero.dev/posts/voidzero-cloudflare</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48398055\">https://news.ycombinator.com/item?id=48398055</a></p>\n<p>Points: 537</p>\n<p># Comments: 24..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Ian's Secure Shoelace Knot",
+      "link": "https://www.fieggen.com/shoelace/secureknot.htm",
+      "summary": "<p>Article URL: <a href=\"https://www.fieggen.com/shoelace/secureknot.htm\">https://www.fieggen.com/shoelace/secureknot.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48397028\">https://news.ycombinator.com/item?id=48397028</a></p>\n<p>Points: 463</p>\n<p># Comments: 179</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Gaussian Point Splatting",
+      "link": "https://momentsingraphics.de/Siggraph2026.html",
+      "summary": "<p>Article URL: <a href=\"https://momentsingraphics.de/Siggraph2026.html\">https://momentsingraphics.de/Siggraph2026.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48396792\">https://news.ycombinator.com/item?id=48396792</a></p>\n<p>Points: 169</p>\n<p># Comments: 65</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+      "link": "https://uruky.com/?il=en",
+      "summary": "<p>You can get a 2h free trial by solving a proof-of-work captcha when topping up your account for the first time.<p>If you'd like to learn more, an independent interview was posted a couple of weeks ago [1], and the FAQ [2] has a lot of information as well.<p>For the source code sharing, we've talk..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "KVarN: Variance-Normalized KV-Cache Quantization [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1twnj5r/kvarn_variancenormalized_kvcache_quantization_r/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Excited to share some of my own work here :) </p> <p><strong>KVarN</strong> is our new KV-Cache quantization method. In very brief, we combine Hadamard rotations with variance-normalization <em>on both axes</em> of the K and V matrices, then round to nearest. Simple..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "How do ML researchers actually use AI tools to improve their writing? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1twtpmb/how_do_ml_researchers_actually_use_ai_tools_to/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>As an ML researcher, how do you use AI tools in your daily work? Do you mostly use them to clean up grammar and wording, or also to rewrite, structure, or draft technical text?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ho..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "[R] Measuring the Symmetry--Data Exchange Rate",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tx32hg/r_measuring_the_symmetrydata_exchange_rate/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1tx32hg/r_measuring_the_symmetrydata_exchange_rate/\"> <img alt=\"[R] Measuring the Symmetry--Data Exchange Rate\" src=\"https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&amp;crop=smart&a..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "How Do You Handle Ablation Studies When the Original Model Is Already Trained?[R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1twkfec/how_do_you_handle_ablation_studies_when_the/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm running into an issue with an ablation study for a paper I'm preparing. I trained a model. The model achieved my best result, and I saved the trained checkpoint (<code>.pth</code> file). Now my supervisor wants me to perform an ablation study by removing compone..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Repo for implementations of various Transformer Attn mechanisms [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1twhhnq/repo_for_implementations_of_various_transformer/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Initially, I developed this so I can easily switch between different Attention mechanisms for my Small Language Model (SLM) experiments and benchmarking. However, I also realized that these implementations can be applicable in Computer Vision, modernize Vision Encod..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "We built a source-available LLM reliability library (free for research / personal / internal eval) that can cut inference cost by half at matched quality, and you adopt it by changing one import [P] [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1twtdob/we_built_a_sourceavailable_llm_reliability/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1twtdob/we_built_a_sourceavailable_llm_reliability/\"> <img alt=\"We built a source-available LLM reliability library (free for research / personal / internal eval) that can cut inference cost by half at matched quality, and y..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Faithful uncertainty in LLM agents: calibration vs utility tradeoff in practice[D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1twq0h3/faithful_uncertainty_in_llm_agents_calibration_vs/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The Google paper on metacognition for hallucination reduction makes a distinction that is underappreciated in benchmarks. Calibration is not about being right more often. It is about matching confidence to correctness. A perfectly calibrated model can still be wrong..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Best Visual Reasoning Model in 2026 (Including APIs) [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1twccr2/best_visual_reasoning_model_in_2026_including/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>For example, suppose I have a one-hour video and I provide it to ChatGPT or another AI model. If I ask complex reasoning questions about the video, which models are best suited for long-horizon video understanding and reasoning? Which models can produce the most rel..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Me visiting this sub",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tw8eul/me_visiting_this_sub/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tw8eul/me_visiting_this_sub/\"> <img alt=\"Me visiting this sub\" src=\"https://preview.redd.it/ab1w8wzwy55h1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=7026307e05102dee4d9945688fda0d8a6b617298\" title=\"Me visiting this sub\" />..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Nvidia's been paying shills on LinkedIn",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1twrvts/nvidias_been_paying_shills_on_linkedin/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1twrvts/nvidias_been_paying_shills_on_linkedin/\"> <img alt=\"Nvidia's been paying shills on LinkedIn\" src=\"https://preview.redd.it/xjj6rznnfa5h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e9143fa814e2dbc59a123ffecb43bcb4028..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "KVarN: new KV-cache quant from Huawei. 3–5× KV cache compression with actual speed-up instead of slow-down, and unlike TurboQuant it holds up on reasoning (Apache 2.0, vLLM single flag)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1twptw2/kvarn_new_kvcache_quant_from_huawei_35_kv_cache/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1twptw2/kvarn_new_kvcache_quant_from_huawei_35_kv_cache/\"> <img alt=\"KVarN: new KV-cache quant from Huawei. 3–5× KV cache compression with actual speed-up instead of slow-down, and unlike TurboQuant it holds up on reasoning (Apac..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16 · Hugging Face",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1twla1k/nvidianvidianemotron3ultra550ba55bbf16_hugging/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1twla1k/nvidianvidianemotron3ultra550ba55bbf16_hugging/\"> <img alt=\"nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16 · Hugging Face\" src=\"https://external-preview.redd.it/SYWPdNi10HCp2771NvLU21deO0yBffz9XcMeE5wwULI.png?width=640&amp..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Today made me realize just how bad things have gotten without Meta",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1twqvmp/today_made_me_realize_just_how_bad_things_have/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1twqvmp/today_made_me_realize_just_how_bad_things_have/\"> <img alt=\"Today made me realize just how bad things have gotten without Meta\" src=\"https://preview.redd.it/eyny8512aa5h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "VibeOS - Fully Hallucinated Operating System",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1twpv8r/vibeos_fully_hallucinated_operating_system/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1twpv8r/vibeos_fully_hallucinated_operating_system/\"> <img alt=\"VibeOS - Fully Hallucinated Operating System\" src=\"https://external-preview.redd.it/91K9FescYNPMEeGFsHVf6Tk7LiSTMhPFOkmKXhY1A9g.jpeg?width=320&amp;crop=smart&amp;aut..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Gemma 4 QAT confirmed to release soon!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1twid14/gemma_4_qat_confirmed_to_release_soon/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>It seems like this comment has gone widely unnoticed.</p> <p><a href=\"https://old.reddit.com/r/LocalLLaMA/comments/1tvtn6m/googlegemma412b_hugging_face/opjj681/\">https://old.reddit.com/r/LocalLLaMA/comments/1tvtn6m/googlegemma412b_hugging_face/opjj681/</a></p> <p>Ma..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "You guys were right - Qwen 3.6 35B IS good...and KV Cache DOES matter.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1twyoqe/you_guys_were_right_qwen_36_35b_is_goodand_kv/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>WARNING:</strong> <em>I'm speed typing this, no time to organizea/format, so if short paragraph chunks bother you, just keep it moving.</em></p> <p>When Qwen 3.6 35B dropped, a lot of people were heaping praises and I thought they were just glazing it becaus..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Gemma 4 12b 8Q Heretic Oneshot Coding",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1twelo6/gemma_4_12b_8q_heretic_oneshot_coding/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1twelo6/gemma_4_12b_8q_heretic_oneshot_coding/\"> <img alt=\"Gemma 4 12b 8Q Heretic Oneshot Coding\" src=\"https://external-preview.redd.it/Nm9xeTc2dXljNzVoMcMa91fWY6Aufx7YPk-xxFVwCcLDAeayl-MBNBc7r43e.png?width=640&amp;crop=smart&amp..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Nemotron 3 Ultra. 550 billion parameters, 55B active. 1 million context",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1twtlhe/nemotron_3_ultra_550_billion_parameters_55b/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1twtlhe/nemotron_3_ultra_550_billion_parameters_55b/\"> <img alt=\"Nemotron 3 Ultra. 550 billion parameters, 55B active. 1 million context\" src=\"https://external-preview.redd.it/SYWPdNi10HCp2771NvLU21deO0yBffz9XcMeE5wwULI.png?width..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "The first Gemma 4 12B finetunes are ready",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1twbi9y/the_first_gemma_4_12b_finetunes_are_ready/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Now you can start building your Gemma 4 12B collection :)</p> <p><a href=\"https://huggingface.co/igorls/gemma-4-12B-it-heretic-GGUF\">https://huggingface.co/igorls/gemma-4-12B-it-heretic-GGUF</a></p> <p><a href=\"https://huggingface.co/ReadyArt/Melody1437-12B-v0.4-GGU..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Trump signs narrower executive order on AI oversight after industry objections",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tw70v7/trump_signs_narrower_executive_order_on_ai/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/\">https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/</a></p> <p>I presume open we..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "AMD & Intel, now onwards it's your turn to release your own models",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1twnugh/amd_intel_now_onwards_its_your_turn_to_release/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>What are you doing AMD &amp; Intel? NVIDIA just released a <a href=\"https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16\">550B model</a> after so many tiny/small/medium/big models.</p> <p>Models are becoming(or already?) the commodity for NVIDIA. </p..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "The DeepSWE benchmark was runned rather incompetently and the results are completely invalid",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1twsffj/the_deepswe_benchmark_was_runned_rather/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1twsffj/the_deepswe_benchmark_was_runned_rather/\"> <img alt=\"The DeepSWE benchmark was runned rather incompetently and the results are completely invalid\" src=\"https://external-preview.redd.it/CzSPS7dBmZQ8WEHIA50YPjkIvPn7oq0SxMJN..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Gemma4 12B update",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tw6swu/gemma4_12b_update/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>A couple hours ago, the full content of the Gemma4-12B HuggingFace repos; including models weights, have been &quot;updated&quot;. I can't find information about what was the reason behind this update, does anyone know what's up with that? Do we need updated quants ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Unsloth on Apple Silicon- Pre-announcement announcement",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tws1u0/unsloth_on_apple_silicon_preannouncement/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/openSourcerer9000\"> /u/openSourcerer9000 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tvhv4b/calling_it_now_microsoft_is_buying_unsloth/opkrt6u/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "nex-agi/Nex-N2-mini • Huggingface",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1twjvep/nexaginexn2mini_huggingface/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://huggingface.co/nex-agi/Nex-N2-mini\">https://huggingface.co/nex-agi/Nex-N2-mini</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/External_Mood4719\"> /u/External_Mood4719 </a> <br /> <span><a href=\"https://www..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen 3.6 27B 30GB Same top p: 98.358 ± 0.033 % vs UD Q8 K XL 33GB Same top p: 97.426 ± 0.041 %",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1twu9r6/qwen_36_27b_30gb_same_top_p_98358_0033_vs_ud_q8_k/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1twu9r6/qwen_36_27b_30gb_same_top_p_98358_0033_vs_ud_q8_k/\"> <img alt=\"Qwen 3.6 27B 30GB Same top p: 98.358 ± 0.033 % vs UD Q8 K XL 33GB Same top p: 97.426 ± 0.041 %\" src=\"https://preview.redd.it/w0jhv0pxua5h1.png?width=140&amp;h..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "I accidentally crippled my 4x RTX 3090 LLM rig with a hidden PCIe 2.0 x4 slot and fixing it doubled Mistral 128B performance",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1twt7n4/i_accidentally_crippled_my_4x_rtx_3090_llm_rig/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’m posting this as a warning for anyone building multi-GPU local LLM rigs with older workstation/HEDT boards.</p> <p>My setup (Node #04)</p> <ul> <li>Gigabyte X399 Designare EX</li> <li>Threadripper 1950X</li> <li>128GB DDR4</li> <li>4x RTX 3090</li> <li>10GbE TP-L..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Higgs Audio v3 TTS 4B. Built for voice chat. Support 100 languages and inline control.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tx2mot/higgs_audio_v3_tts_4b_built_for_voice_chat/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tx2mot/higgs_audio_v3_tts_4b_built_for_voice_chat/\"> <img alt=\"Higgs Audio v3 TTS 4B. Built for voice chat. Support 100 languages and inline control.\" src=\"https://external-preview.redd.it/Rpjz3NLa9zBybBIItZQZS1r-vXGqeIXYM-dSEHN..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "I Built a Practical Guide to LLM Engineering: RAG, Retrieval, Rerankers, and Evaluation",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1twocnx/i_built_a_practical_guide_to_llm_engineering_rag/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>If you’re building LLM apps and feel confused about when to use keyword search, embeddings, rerankers, or vector databases, this repo is for that.</p> <p>I built a docs-first repo on practical LLM system design patterns, covering pre-filtering, hybrid retrieval, rer..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "MTP has no impact on my Qwen3.6 MoE performance",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1twfnqw/mtp_has_no_impact_on_my_qwen36_moe_performance/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello I have an rtx 5060Ti and I tried running unsloth's Qwen3.6-35B GGUF with MTP. However in both cases I have around 60 tok/s.</p> <p>Here are my flags:</p> <pre><code>llama-server -hf unsloth/Qwen3.6-35B-A3B-GGUF:UD-Q4_K_M --temp 0.6 --top-p 0.95 --top-k 20 --mi..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "BeeLlama v0.3.1 – latest llama.cpp with extras! DFlash, MTP, q6_0 cache, TurboQuant. Single RTX 3090: Qwen 3.6 27B & Gemma 4 31B up to 177.8 tps (4.93x over baseline)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tx12t1/beellama_v031_latest_llamacpp_with_extras_dflash/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>BeeLlama v0.3.0 and v0.3.1 are here!</strong> Big architectural update to align the fork with upstream llama.cpp and integrate all its additions like MTP and Gemma 4 12B support, while also updating DFlash to handle complex configurations like multi-slot and..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Run (your largest) local models from your iPhone",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1twuczn/run_your_largest_local_models_from_your_iphone/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1twuczn/run_your_largest_local_models_from_your_iphone/\"> <img alt=\"Run (your largest) local models from your iPhone\" src=\"https://external-preview.redd.it/iV9RIjX9O8o_Gc1eqbfpF5vbwALYvtGLrTBUUVQaJR4.png?width=640&amp;crop=smart&..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Gemma 4 12B: incompatible with opencode, or just awful at tool calling?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1twmw4o/gemma_4_12b_incompatible_with_opencode_or_just/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Yesterday I tried out Gemma 4 12B on a significant coding challenge, to compare it to prior results with Qwen models. I ran the 8-bit quant, so I'm not dumbing it down much at all.</p> <p>Judging from the partial results, it seemed capable of grasping the task, but ..."
     }
   ],
-  "timestamp": "2026-06-03T23:42:18.995594",
-  "total_items": 1765
+  "timestamp": "2026-06-04T23:07:46.810621",
+  "total_items": 1822
 }
