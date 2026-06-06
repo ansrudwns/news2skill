@@ -11531,8 +11531,308 @@
       "title": "Maximising the Set-Piece Return: Optimising Football Corner Tactics with Graph Reinforcement Learning",
       "link": "https://arxiv.org/abs/2606.06353v1",
       "summary": "Machine learning is increasingly employed for the evaluation of football tactics. However, existing approaches focus on characterising historical actions or analyst-specified counterfactual scenarios. In this work, we seek to go beyond the imitation of historically observed patterns towards discover..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Five labs, five minds: building a multi-model finance drama on small models",
+      "link": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+      "summary": "..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "New U.S. college grads now have higher unemployment than the average worker",
+      "link": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
+      "summary": "<p>Article URL: <a href=\"https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/\">https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48428763\">https://news.ycombinator.com/item?id=48428763</a></p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
+      "link": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+      "summary": "<p>Article URL: <a href=\"https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/\">https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48428647\">https://news.ycombinator.com/it..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
+      "link": "https://ataraxy-labs.github.io/sem/",
+      "summary": "<p>Article URL: <a href=\"https://ataraxy-labs.github.io/sem/\">https://ataraxy-labs.github.io/sem/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48428475\">https://news.ycombinator.com/item?id=48428475</a></p>\n<p>Points: 19</p>\n<p># Comments: 7</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Home alone: Remote work, isolation, and mental health",
+      "link": "https://www.science.org/doi/10.1126/science.aec7671",
+      "summary": "<p>Article URL: <a href=\"https://www.science.org/doi/10.1126/science.aec7671\">https://www.science.org/doi/10.1126/science.aec7671</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48428356\">https://news.ycombinator.com/item?id=48428356</a></p>\n<p>Points: 81</p>\n<p># Comments: 75..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "link": "https://ntsc.rs/",
+      "summary": "<p>Article URL: <a href=\"https://ntsc.rs/\">https://ntsc.rs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48428025\">https://news.ycombinator.com/item?id=48428025</a></p>\n<p>Points: 193</p>\n<p># Comments: 33</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "summary": "<p>Article URL: <a href=\"https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/\">https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/</a></p>\n<p>Comments URL: <a href=\"https:..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+      "link": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+      "summary": "<p>Article URL: <a href=\"https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565\">https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565</a></p>\n<p>Comme..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "You Can Run",
+      "link": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
+      "summary": "<p>Article URL: <a href=\"https://magazine.atavist.com/2026/mccann-cocaine-fugitives\">https://magazine.atavist.com/2026/mccann-cocaine-fugitives</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48426202\">https://news.ycombinator.com/item?id=48426202</a></p>\n<p>Points: 84</p>\n<p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "link": "https://su3.io/posts/introducing-zeroserve",
+      "summary": "<p>Article URL: <a href=\"https://su3.io/posts/introducing-zeroserve\">https://su3.io/posts/introducing-zeroserve</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48425723\">https://news.ycombinator.com/item?id=48425723</a></p>\n<p>Points: 161</p>\n<p># Comments: 40</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Motorola effectively bricked its entire line of WiFi routers without explanation",
+      "link": "https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down",
+      "summary": "<p>Article URL: <a href=\"https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down\">https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48425611\">https://news.ycombinator...."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Running Python code in a sandbox with MicroPython and WASM",
+      "link": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
+      "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/\">https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48425347\">https://news.ycombinator.com/item?id=48425347</a></p>\n<p>Points: 68..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Benchmarks in Leipzig",
+      "link": "https://arxiv.org/abs/2606.05818",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2606.05818\">https://arxiv.org/abs/2606.05818</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48425247\">https://news.ycombinator.com/item?id=48425247</a></p>\n<p>Points: 120</p>\n<p># Comments: 43</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+      "link": "https://arxiv.org/abs/2605.00414",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2605.00414\">https://arxiv.org/abs/2605.00414</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48424674\">https://news.ycombinator.com/item?id=48424674</a></p>\n<p>Points: 40</p>\n<p># Comments: 7</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+      "link": "https://twitter.com/lemire/status/2062880075117113739",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/lemire/status/2062880075117113739\">https://twitter.com/lemire/status/2062880075117113739</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48424605\">https://news.ycombinator.com/item?id=48424605</a></p>\n<p>Points: 209</p>\n<p># Comment..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/\">https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48423990\">https://news.ycombinato..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+      "link": "https://pokeemerald.com/",
+      "summary": "<p>Article URL: <a href=\"https://pokeemerald.com/\">https://pokeemerald.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48423762\">https://news.ycombinator.com/item?id=48423762</a></p>\n<p>Points: 243</p>\n<p># Comments: 65</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+      "link": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+      "summary": "<p>Article URL: <a href=\"https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/\">https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Ask HN: Why is the HN crowd so anti-AI?",
+      "link": "https://news.ycombinator.com/item?id=48420827",
+      "summary": "<p>Genuine question.<p>Over the past six months, there hasn’t been a single day where I’ve checked the HN Best RSS feed without seeing a post about how AI “writes bad code,” “introduces bugs,” “creates technical debt,” or something along those lines.<p>I’ll probably make a lot of enemies by saying t..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Anyone here with experience submitting to Nature Machine Intelligence? [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tylgoq/anyone_here_with_experience_submitting_to_nature/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm planning to submit a paper to either NMI, but this will be my first paper to a nature-like venue. Would love a quick chat with anyone that has experience.</p> <p>My paper's specifically more geared towards signal processing with ML for a specific subfield of eng..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Does it make sense to use alternative quantizations of QAT models? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tyo8gf/does_it_make_sense_to_use_alternative/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>From TF's website:</p> <blockquote> <p>Quantization aware training emulates inference-time quantization, creating a model that downstream tools will use to produce actually quantized models.</p> </blockquote> <p>So is it designed to work with a very specific quantiz..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Sources for ML news? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tyq81n/sources_for_ml_news_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I need a break from social media and all the bots.. Aside from Arxiv are there any sources that do a good job of aggregating the good stuff and filtering out all the junk? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Tiny_A..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Building a Custom Drones MuJoCo Environment [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ty60zo/building_a_custom_drones_mujoco_environment_p/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all, Lately I have been working on creating a package for Multi Agent RL based drone environments with different objectives, all bundled into a single GitHub repository: <a href=\"https://github.com/tau-intelligence/MuJoCo-drones-gym\">https://github.com/tau-intell..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Training-free graph SSL matches GCN with 5× fewer labels — live demo [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tyovlr/trainingfree_graph_ssl_matches_gcn_with_5_fewer/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>I have been working on this method based on a hunch along with many llm for quite some time. Though first it was being engineered by me but I was learning in supervised ml area but this hunch took to semi-supervised ml and that to too deep. I then bec..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Using FC26 to simulate the world cup ? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tybqrx/using_fc26_to_simulate_the_world_cup_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>maybe this should be asked in the Fc26 game subreddit but not sure. Anyway I just saw a video of someone predicting the winner of the world cup using the simulate match feature in the game but he only did it once. Would running this feature 100-1000 times give a sig..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Cohere's unreleased coding model (early access for localllama)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tylzy2/coheres_unreleased_coding_model_early_access_for/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tylzy2/coheres_unreleased_coding_model_early_access_for/\"> <img alt=\"Cohere's unreleased coding model (early access for localllama)\" src=\"https://external-preview.redd.it/v3Xn5US2tImdVoHz_sn1ZvWp4JwxaclSVEncXie33mg.png?width=640..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "DeepSeek V4 Flash is amazing! (WIP llama.cpp PR #24162)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tyb3np/deepseek_v4_flash_is_amazing_wip_llamacpp_pr_24162/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>In case you're not aware already, the DeepSeek V4 series is finally getting supported on llama.cpp <a href=\"https://github.com/ggml-org/llama.cpp/pull/24162\">with this PR</a>!</p> <p>The PR is at a very early stage right now, so only try it if you're consciously wil..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "AA comparison of the latest local models",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tya05j/aa_comparison_of_the_latest_local_models/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tya05j/aa_comparison_of_the_latest_local_models/\"> <img alt=\"AA comparison of the latest local models\" src=\"https://preview.redd.it/1r2tp1sg0m5h1.png?width=140&amp;height=68&amp;auto=webp&amp;s=ca28e7d5f72bfd998ca3b123547dfbcaa1..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "120 tok/s on 12GB VRAM with Gemma 4 12B QAT MTP",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1typjmc/120_toks_on_12gb_vram_with_gemma_4_12b_qat_mtp/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Google just released the QAT (Quantization-Aware Training) variant of their Gemma 4 models, including 12B, so it was only natural for me to benchmark it on my 12GB GPU since it fits entirely in VRAM. I was pleasantly surprised with the result!</p> <p>By using llama...."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Another 1-click admin account takeover in pewdiepie's AI tool (language in video nsfw)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tys1wj/another_1click_admin_account_takeover_in/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/theonejvo\"> /u/theonejvo </a> <br /> <span><a href=\"https://v.redd.it/z4k5twjx2q5h1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tys1wj/another_1click_admin_account_takeover_in/\">[comments]</a></sp..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "KV cache quant benchmarks: KVarN 6-bit matches q8_0, 4-bit matches q5_0. Massive!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tyockn/kv_cache_quant_benchmarks_kvarn_6bit_matches_q8_0/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>TL;DR Based on long context KLD benchmarks, KVarN appears to be</strong> <strong><em>just better</em></strong> <strong>than usual llama.cpp KV cache quants. At every size, KVarN matches precision of usual quants of one bit higher.</strong></p> <p>A number of..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Gemma 4 QAT Unquantized Heretic is here",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tynv0p/gemma_4_qat_unquantized_heretic_is_here/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tynv0p/gemma_4_qat_unquantized_heretic_is_here/\"> <img alt=\"Gemma 4 QAT Unquantized Heretic is here\" src=\"https://external-preview.redd.it/DO_pCxk93T4BafA-LE5rHS_-aJBmnyohT1XQWuJmvCg.png?width=640&amp;crop=smart&amp;auto=webp&am..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Github Copilot finally supporting custom endpoints",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ty68yx/github_copilot_finally_supporting_custom_endpoints/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ty68yx/github_copilot_finally_supporting_custom_endpoints/\"> <img alt=\"Github Copilot finally supporting custom endpoints\" src=\"https://preview.redd.it/082gnmin1l5h1.png?width=140&amp;height=74&amp;auto=webp&amp;s=accf882c49f8a1..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "A quick Gemma4 31B comparison (Q4_k_M, QAT, heretic)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ty84rj/a_quick_gemma4_31b_comparison_q4_k_m_qat_heretic/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>No numbers. Not sure if anybody cares…</p> <p>I’ve run the UD version of Q4_k_m for a month. I talk to this model nicely, because it’s a functional nervous wreck. And initially I thought that might be an alignment thing, so I also have the heretic version when I nee..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen3.6-35B-A3B-Uncensored-Claude-4.6-Genesis-APEX-GGUF",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tyb6u7/qwen3635ba3buncensoredclaude46genesisapexgguf/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Here model:</strong> <a href=\"https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Claude-4.6-Genesis-APEX-GGUF\">https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Claude-4.6-Genesis-APEX-GGUF</a></p> <p><strong>New features:</strong></p>..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "MoQ GGUFs and GSQ: Low-Bit GGUFs Are About to Get Much Better",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tyjkfh/moq_ggufs_and_gsq_lowbit_ggufs_are_about_to_get/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tyjkfh/moq_ggufs_and_gsq_lowbit_ggufs_are_about_to_get/\"> <img alt=\"MoQ GGUFs and GSQ: Low-Bit GGUFs Are About to Get Much Better\" src=\"https://external-preview.redd.it/oUzoIRGbQXW5Y_4YulEMeJhhvwUtRchgn_eLwZrMFts.jpeg?width=640&..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "RTX 3090 EBay Pricing is Crazy!!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tysbyj/rtx_3090_ebay_pricing_is_crazy/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Couple of years ago, before Local LLMs were in vogue, I bought 8 RTX 3090 @ $700 each to build a AI rig, it been working great and I was looking to build another to increase my capacity but looking at EBay those are now selling for 1,300 -1,500 range!</p> <p>That pr..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Z.ai, we need Air! GLM GGUF wen?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tyresc/zai_we_need_air_glm_gguf_wen/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>First we never saw an upgraded Air model after 4.5. Then GLM 4.7 Turbo was great, but quickly surpassed for coding. Now GLM 5.1 is a coding beast, but too huge for most to run locally, and even slow on API. Will we ever get another Air model with frontier reasoning ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Domino: Decoupling Causal Modeling from Autoregressive Drafting in Speculative Decoding",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tyfqmp/domino_decoupling_causal_modeling_from/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tyfqmp/domino_decoupling_causal_modeling_from/\"> <img alt=\"Domino: Decoupling Causal Modeling from Autoregressive Drafting in Speculative Decoding\" src=\"https://preview.redd.it/klo1qzrrln5h1.png?width=140&amp;height=70&amp;auto=..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Gemma 4 QAT Q4_0 Bench on Strix Halo",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tyilv7/gemma_4_qat_q4_0_bench_on_strix_halo/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Gemma 4 QAT Q4_0 Bench on Strix Halo</h1> <p>These are Google's official Gemma 4 QAT Q4_0 GGUF models, served locally through llama.cpp Vulkan/RADV on a Strix Halo APU.</p> <p>QAT means <strong>quantization-aware training</strong>. Instead of taking a normal model ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "A cooling chamber for dgx spark and gb10 machines at computex 2026",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tyg7h9/a_cooling_chamber_for_dgx_spark_and_gb10_machines/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tyg7h9/a_cooling_chamber_for_dgx_spark_and_gb10_machines/\"> <img alt=\"A cooling chamber for dgx spark and gb10 machines at computex 2026\" src=\"https://preview.redd.it/lcabdhwmqn5h1.jpg?width=140&amp;height=140&amp;crop=1:1,smart..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Has there been any recent new development on which quant is considered optimal?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tyfnqi/has_there_been_any_recent_new_development_on/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I recall in earlier days, q4 was said to be optimal. </p> <p>That is to say, if you have a: </p> <p>small q8 model<br /> medium q4 model<br /> large q2 </p> <p>Assuming they use the same amount of GPU VRAM, medium q4 would be the best-performing model.</p> <p>I also..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "StepFun 3.7 Flash MTP Bench Strix Halo",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tyj86p/stepfun_37_flash_mtp_bench_strix_halo/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This is the StepFun Step-3.7-Flash <code>UD-IQ4_XS</code> main model with the official StepFun MTP <code>Q8_0</code> draft model, served through a patched llama.cpp Vulkan/RADV build.</p> <h1>Host</h1> <ul> <li>System: AMD Ryzen AI Max+ 395 / Radeon 8060S (<code>gfx..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "dvlt.cu: inference engine written from scratch in CUDA/C++ for NVIDIA's DVLT 3D transformer model",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tyu79c/dvltcu_inference_engine_written_from_scratch_in/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tyu79c/dvltcu_inference_engine_written_from_scratch_in/\"> <img alt=\"dvlt.cu: inference engine written from scratch in CUDA/C++ for NVIDIA's DVLT 3D transformer model\" src=\"https://external-preview.redd.it/djcxbXM4NjhqcTVoMe70lbX..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "What are you running on 16Gb VRAM + 64Gb Ram?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tyqet9/what_are_you_running_on_16gb_vram_64gb_ram/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I know this gets asked a lot, but I can only find threads that are at least a couple of months old, so I thought I'd ask to see what people are running these days.</p> <p>I have an RTX5080 and 64Gb Ddr5 RAM. What's the best I can run for coding? And for agentic work..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Gemma 4 QAT accuracy inconsistencies",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tynhd1/gemma_4_qat_accuracy_inconsistencies/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tynhd1/gemma_4_qat_accuracy_inconsistencies/\"> <img alt=\"Gemma 4 QAT accuracy inconsistencies\" src=\"https://external-preview.redd.it/ksRJC2bKGwjrMfOqsioi-B4oIm5QWQUM7Vf03KwieGM.jpeg?width=140&amp;height=68&amp;auto=webp&amp;s=de..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Experimentation with Qwen 3.6 and Gemma 4 - Guidance needed",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tyjc8z/experimentation_with_qwen_36_and_gemma_4_guidance/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’m a web developer doing mostly coding, but also project management, requirements analysis, testing, etc. I recently started experimenting with local LLMs, mostly because agentic stuff finally made them feel useful. Note: This text was fed to chartgpt to fix my mes..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "AMD MI50 on Debian Testing is doing great and getting better.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1typr7o/amd_mi50_on_debian_testing_is_doing_great_and/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>There is probably some relevant information to other cards here but my benchmarks are on dual MI50 32GB cards because that is what I have, and thought I would share with the community. Install instructions at the end. I'll put a dump of the full llama-benchy tables ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "It felt good to return my Asus Spark",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tyo03k/it_felt_good_to_return_my_asus_spark/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>It's an incredible little package but too expensive of a price to pay for the performance and I simply didn't want to be part of the great &quot;Superchip lie&quot; - it could be super, but its super ruined by its limited memory bandwidth even though it *could* be 2..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen 3.6 27B MTP - Adding spec-type and spec-draft-n-max is dropping tps and reducing GPU utilization",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tyd9ct/qwen_36_27b_mtp_adding_spectype_and_specdraftnmax/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have a 5090 power limited to 475W. When I run the following command, it barely hits 300W and I get something like 30 t/s:</p> <p><code>bash ./llama-server \\ -m ~/myp/models/unsloth_mtp_Qwen3.6-27B-UD-Q5_K_XL.gguf \\ --host 0.0.0.0 \\ --port 8080 \\ --chat-template-kw..."
     }
   ],
-  "timestamp": "2026-06-05T23:08:04.931527",
-  "total_items": 1922
+  "timestamp": "2026-06-06T23:02:35.384434",
+  "total_items": 1972
 }
