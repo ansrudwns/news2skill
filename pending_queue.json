@@ -11831,8 +11831,284 @@
       "title": "Qwen 3.6 27B MTP - Adding spec-type and spec-draft-n-max is dropping tps and reducing GPU utilization",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tyd9ct/qwen_36_27b_mtp_adding_spectype_and_specdraftnmax/",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have a 5090 power limited to 475W. When I run the following command, it barely hits 300W and I get something like 30 t/s:</p> <p><code>bash ./llama-server \\ -m ~/myp/models/unsloth_mtp_Qwen3.6-27B-UD-Q5_K_XL.gguf \\ --host 0.0.0.0 \\ --port 8080 \\ --chat-template-kw..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Amazing Digital Dentures (a failed project)",
+      "link": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+      "summary": "..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "VibeOS: First ever AI-native operating system",
+      "link": "https://vibeos.sh/",
+      "summary": "<p>Article URL: <a href=\"https://vibeos.sh/\">https://vibeos.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48438754\">https://news.ycombinator.com/item?id=48438754</a></p>\n<p>Points: 7</p>\n<p># Comments: 6</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The architecture of the internet creates risks for democracy",
+      "link": "https://www.science.org/doi/10.1126/science.aei2409",
+      "summary": "<p>Article URL: <a href=\"https://www.science.org/doi/10.1126/science.aei2409\">https://www.science.org/doi/10.1126/science.aei2409</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48438212\">https://news.ycombinator.com/item?id=48438212</a></p>\n<p>Points: 67</p>\n<p># Comments: 84..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Nightwatch, The open-source, read-only AI SRE",
+      "link": "https://github.com/ninoxAI/nightwatch",
+      "summary": "<p>nightwatch is a local-first, read-only layer on top of your monitoring. it groups alert storm into incidents, flags noisy checks and has an agent that can investigate for you live systems. You can e.g. jump from the incident into the agent directly.<p>the reason for this weekend project is that w..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Why isn't the U.S. better at soccer?",
+      "link": "https://www.natesilver.net/p/why-isnt-the-us-better-at-soccer",
+      "summary": "<p>Article URL: <a href=\"https://www.natesilver.net/p/why-isnt-the-us-better-at-soccer\">https://www.natesilver.net/p/why-isnt-the-us-better-at-soccer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48437848\">https://news.ycombinator.com/item?id=48437848</a></p>\n<p>Points: 41</..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "How's Linear so fast? A technical breakdown",
+      "link": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+      "summary": "<p>Article URL: <a href=\"https://performance.dev/how-is-linear-so-fast-a-technical-breakdown\">https://performance.dev/how-is-linear-so-fast-a-technical-breakdown</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48437609\">https://news.ycombinator.com/item?id=48437609</a></p>\n<p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
+      "link": "https://arxiv.org/abs/2605.31514",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2605.31514\">https://arxiv.org/abs/2605.31514</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48437568\">https://news.ycombinator.com/item?id=48437568</a></p>\n<p>Points: 73</p>\n<p># Comments: 50</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Building from zero after addiction, prison, and a felony",
+      "link": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+      "summary": "<p>Article URL: <a href=\"https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony\">https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48437406\">https://news.ycombinator.co..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "My automated doubt development process",
+      "link": "https://www.alexself.dev/blog/automated-doubt",
+      "summary": "<p>Article URL: <a href=\"https://www.alexself.dev/blog/automated-doubt\">https://www.alexself.dev/blog/automated-doubt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48437305\">https://news.ycombinator.com/item?id=48437305</a></p>\n<p>Points: 40</p>\n<p># Comments: 15</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Making peace with your unlived dreams (2023)",
+      "link": "https://nik.art/making-peace-with-your-unlived-dreams/",
+      "summary": "<p>Article URL: <a href=\"https://nik.art/making-peace-with-your-unlived-dreams/\">https://nik.art/making-peace-with-your-unlived-dreams/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48437290\">https://news.ycombinator.com/item?id=48437290</a></p>\n<p>Points: 96</p>\n<p># Commen..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The complete IPv4 address space, mapped",
+      "link": "https://worldip.io/",
+      "summary": "<p>Article URL: <a href=\"https://worldip.io/\">https://worldip.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48437279\">https://news.ycombinator.com/item?id=48437279</a></p>\n<p>Points: 26</p>\n<p># Comments: 11</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
+      "link": "https://github.com/yukiyokotani/office-open-xml-viewer",
+      "summary": "<p>Article URL: <a href=\"https://github.com/yukiyokotani/office-open-xml-viewer\">https://github.com/yukiyokotani/office-open-xml-viewer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48436863\">https://news.ycombinator.com/item?id=48436863</a></p>\n<p>Points: 105</p>\n<p># Comme..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Powering up a module from the IBM 604: an electronic calculator from 1948",
+      "link": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
+      "summary": "<p>Article URL: <a href=\"https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html\">https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48436819\">https://news.ycombinator.com/item?id=48436819</a></p>\n<p>Points..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The gamers taking on the industry to stop it switching off games",
+      "link": "https://www.bbc.com/news/articles/c8e8e7g0r82o",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c8e8e7g0r82o\">https://www.bbc.com/news/articles/c8e8e7g0r82o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48436246\">https://news.ycombinator.com/item?id=48436246</a></p>\n<p>Points: 94</p>\n<p># Comments: 102</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Podman 6: machine usability improvements (2025)",
+      "link": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
+      "summary": "<p>Article URL: <a href=\"https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/\">https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48434963\">https://news.ycombinator.com/item?id=48434963</a>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "link": "https://github.com/anthropics/claude-code/issues/65697",
+      "summary": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/65697\">https://github.com/anthropics/claude-code/issues/65697</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48434436\">https://news.ycombinator.com/item?id=48434436</a></p>\n<p>Points: 416</p>\n<p># Comme..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "link": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+      "summary": "<p>Article URL: <a href=\"https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/\">https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/</a></p>\n<p>Comments URL: <a href=\"https://ne..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "link": "https://github.com/devenjarvis/lathe",
+      "summary": "<p>Hey HN!<p>Lathe is an experiment in using LLMs to teach me something new, instead of doing the work for me. It generates a hands-on, source-backed tutorial for any technical topic you want to learn. Then you work through it yourself by reading and typing the code by hand (<i>gasp</i>) in a local ..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+      "link": "https://www.ioccc.org/2025/",
+      "summary": "<p>Article URL: <a href=\"https://www.ioccc.org/2025/\">https://www.ioccc.org/2025/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48432199\">https://news.ycombinator.com/item?id=48432199</a></p>\n<p>Points: 353</p>\n<p># Comments: 85</p>..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "ML reading group to read recent interesting and trending papers from ICML/ICLR/NeurIPS [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tyy0vj/ml_reading_group_to_read_recent_interesting_and/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi, I am a PhD student and trying to run a ML reading group focused on interpretability and robustness every weekend. Its always nice to hear different takes and opinions on a paper and this discussion group could serve the purpose. If you are a fellow PhD student o..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Research collection of Arxiv whitepapers [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1tz7014/research_collection_of_arxiv_whitepapers_r/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1tz7014/research_collection_of_arxiv_whitepapers_r/\"> <img alt=\"Research collection of Arxiv whitepapers [R]\" src=\"https://preview.redd.it/8csrq7533v5h1.png?width=140&amp;height=77&amp;auto=webp&amp;s=02c3b93ef2ffa8e82db3dff..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "llama.cpp Gemma4 MTP support merged!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tzbcyp/llamacpp_gemma4_mtp_support_merged/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tzbcyp/llamacpp_gemma4_mtp_support_merged/\"> <img alt=\"llama.cpp Gemma4 MTP support merged!\" src=\"https://external-preview.redd.it/bSr-Y4dM8Q3RgE39kdpX9pRCwmLWRanIcqDazSAYyqE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cc37..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "You don't need a GPU to run gemma-4-26B-A4B",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tz5ffp/you_dont_need_a_gpu_to_run_gemma426ba4b/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been running LLMs on my old potato i5-8500 with 32GB of RAM and *no GPU* for awhile now, running up to 12B dense models which run slow but perfectly useable. But this Gemma-4-26B-A4B simply flies on this CPU - only machine using Koboldcpp on Linux.</p> <p>That'..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen 3.6 27B KV cache quant benchmarks: 75 pairs, q8/q6/q5/q4, KVarN, Turbo/TCQ",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tza4ji/qwen_36_27b_kv_cache_quant_benchmarks_75_pairs/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tza4ji/qwen_36_27b_kv_cache_quant_benchmarks_75_pairs/\"> <img alt=\"Qwen 3.6 27B KV cache quant benchmarks: 75 pairs, q8/q6/q5/q4, KVarN, Turbo/TCQ\" src=\"https://preview.redd.it/g981ohkfku5h1.png?width=140&amp;height=88&amp;auto=..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Control a 3D avatar with language instead of buttons",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tzgn87/control_a_3d_avatar_with_language_instead_of/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tzgn87/control_a_3d_avatar_with_language_instead_of/\"> <img alt=\"Control a 3D avatar with language instead of buttons\" src=\"https://preview.redd.it/82pv29fmzv5h1.gif?width=320&amp;crop=smart&amp;s=ee9a5148fa1eb22f5b25f76e7ea222e..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Guys, it just happened",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tzfr6z/guys_it_just_happened/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tzfr6z/guys_it_just_happened/\"> <img alt=\"Guys, it just happened\" src=\"https://preview.redd.it/pk38butytv5h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a749e8f96858a623b7d3385e1cb8a11aa6169239\" title=\"Guys, it just happen..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "GMKtec Crams OCuLink, Wi-Fi 7 and Dual PCIe 4.0 Into the EVO-X3, With a 192GB Ryzen AI MAX+ 495 Monster Following Later This Year",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tzgafl/gmktec_crams_oculink_wifi_7_and_dual_pcie_40_into/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tzgafl/gmktec_crams_oculink_wifi_7_and_dual_pcie_40_into/\"> <img alt=\"GMKtec Crams OCuLink, Wi-Fi 7 and Dual PCIe 4.0 Into the EVO-X3, With a 192GB Ryzen AI MAX+ 495 Monster Following Later This Year\" src=\"https://external-previ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "What’s your most unusual non-LLM AI you actually use daily?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tzbxsm/whats_your_most_unusual_nonllm_ai_you_actually/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>What’s your most unusual or underrated non-LLM AI tool you actually use daily (weird, niche, or non-obvious stuff), and what do you swear by that most people don’t talk about?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Hit..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "QAT variant of Gemma4 26B A4B is not working well for me",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tzib7d/qat_variant_of_gemma4_26b_a4b_is_not_working_well/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tzib7d/qat_variant_of_gemma4_26b_a4b_is_not_working_well/\"> <img alt=\"QAT variant of Gemma4 26B A4B is not working well for me\" src=\"https://preview.redd.it/albcm4kp0w5h1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen 3.6 27B on DeepSWE",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tzmq5y/qwen_36_27b_on_deepswe/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Overview:</p> <ul> <li>It scored 2% (1.79% rounded up)</li> <li>It is 18/20th place scoring above Haiku 4.5 and Minimax M2.7</li> <li>Full benchmark took 70 hours</li> <li>Average time per task 32m</li> <li>Average output tokens per task: 44k</li> </ul> <p>Perspecti..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Qwen3.6 35B-A3B on a Laptop: My Zero to One Moment",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tzernu/qwen36_35ba3b_on_a_laptop_my_zero_to_one_moment/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, I'm new here - because I only have a laptop and I only just realized local models are actually good enough now. So I'd like to share my experience, in case it helps others, and also to learn from the more experienced people here. </p> <p>This is the fir..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "5 Months Later: open-deepthink Now Has Full Knowledge Distillation Mode",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tz0zwy/5_months_later_opendeepthink_now_has_full/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey <a href=\"/r/LocalLLaMA\">r/LocalLLaMA</a>,</p> <p>Some of you might remember when I posted about this project back around September last year (it was called local-deepthink then). The core idea was to move past the usual flat multi-agent setups and instead build ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "I can't wait for all the x250 sample distills of Mythos and GPT-5.6",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tyzh4f/i_cant_wait_for_all_the_x250_sample_distills_of/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just kidding.</p> <p>Are there any distills that actually improve a model's quality? I remember the Qwen R1 8B distill improved the model, but since then, I don't remember ever using a distilled model that was better than the base model. Unless Mythos (or GPT-5.6) i..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Gemma 4 31B QAT Q4 vs standard Q4 — Top1 KLD benchmark results have me confused. Someone please explain or poke holes in this.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tyxu55/gemma_4_31b_qat_q4_vs_standard_q4_top1_kld/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Edited -</p> <p>After digging into this some more and reviewing unsloth post for better understanding, the divergence APPEARS to stem from I did not use the BF16 QAT model as the &quot;reference&quot; model....</p> <p>The QAT vs standard Q4 comparison in our benchma..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Cool stuff to do with NVIDIA RTX 6000 PRO 96GB VRAM",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tz2p8h/cool_stuff_to_do_with_nvidia_rtx_6000_pro_96gb/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have been a C++ dev for 3 years as long as have done PyTorch in my free time (not that good in the latter). </p> <p>Now, I was lucky enough to get a brand new GPU from a colleague. What are some cool side projects I can build to learn tons about ML and inference/i..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Gemma4 12B - Experiences?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tyxyzi/gemma4_12b_experiences/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Anyone check out the new Gemma4 12B that dropped 3 days ago? Integrated vision and audio recognition, no mmpro needed plus tool use. Q4 quant is like 8gb RAM. Crazy fast and great quality for it's size. No, it's not as good as a 27B or 31B. But it's damn close. Curi..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Clustering 3x Jetson Nano Orin Supers",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tz7s8n/clustering_3x_jetson_nano_orin_supers/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tz7s8n/clustering_3x_jetson_nano_orin_supers/\"> <img alt=\"Clustering 3x Jetson Nano Orin Supers\" src=\"https://preview.redd.it/g0xzofvk0u5h1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=f20f2f020f72c3c6feb3..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "How to compare Original vs QAT Gemma 4 31B Q4 quants",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tz5nbn/how_to_compare_original_vs_qat_gemma_4_31b_q4/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I just came across the following post, where a user found some confusing divergence results between Q4 quants of the original and QAT models with a Q8/unquantized reference of the original model.</p> <p><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tyxu55/g..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "NVFP4 on llama.cpp?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tzjahj/nvfp4_on_llamacpp/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>Even through I check the subreddit daily, some things are a bit hard to grasp for me due to the speed at progress is made (really impressive!). I tried doing research using deepseek v4 but it left me even more puzzled.</p> <p>Recently I saw NVFP..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Dockerized Nemotron 3.5 ASR — Switched from Parakeet, better multilingual support + streaming (4.5x realtime speed on cpu)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tz958s/dockerized_nemotron_35_asr_switched_from_parakeet/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was originally using Parakeet for my speech recognition pipeline but decided to give Nemotron 3.5 a shot. After</p> <p>testing it on some multilingual audio clips, it's been working great so far.</p> <p>What sold me:</p> <p>- Better language support (40+ locales f..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "2-bit QAT model releases",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tzlt37/2bit_qat_model_releases/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So far model releases that take advantage of Quantization Aware Training (QAT) have been focused on 4-bit.</p> <p>I’m curious what could be accomplished with a larger MoE model around 120b up to 400b. Obviously the model could not approach 8/16 bit performance, but ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "Alternatives to ChromaDB for easy RAG search",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tz2akk/alternatives_to_chromadb_for_easy_rag_search/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm disappointed that ChromaDB's local, free &quot;single node&quot; version is still getting second-class, hand-me-down features while the &quot;distributed&quot; version (a SaaS offering, unsurprisingly) gets built in hybrid search, BM25, etc. I tried to give the ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "A handy llama-server launcher with easy model and configuration customisation",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tzdbwr/a_handy_llamaserver_launcher_with_easy_model_and/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I wanted something that I could easily configure to manage a set of sensible defaults, that supports multiple llama-server binaries, with per-model over-rides, and command line over-rides.</p> <p>The utility is here: <a href=\"https://github.com/stew675/start-llama\">..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "llama-server router: a model pinned to one GPU still grabs a CUDA context on every card, so it OOMs when my others are full. Am I missing a flag or is this just how it is?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tzo5lb/llamaserver_router_a_model_pinned_to_one_gpu/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Running into something annoying with llama-server in router mode (`--models-preset`) and I can't tell if I'm missing a flag or if this is just how it works. </p> <p>My rig is 2x 3090, 2x 4060 Ti (one's unplugged at the moment, riser got repurposed) and a 5060 Ti. I ..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "How are you all managing multiple MCP servers on startup?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tzeir9/how_are_you_all_managing_multiple_mcp_servers_on/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello! I'm using openCode and loading a bunch of different MCP servers at startup. This starts becoming a mess, it eats up tokens and pollutes the context window before I even type a single prompt.</p> <p>How are you all handling this locally? Are you using a proxy/..."
+    },
+    {
+      "source": "Reddit (r/LocalLLaMA)",
+      "title": "MTP and QTA - what is the relation?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tzkyuw/mtp_and_qta_what_is_the_relation/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm an old guy and I hate when things change so fast surrounded by noise and breaking news!<br /> MTP, I know what the acronym means and where it excels.</p> <p>Gemma4 31b dense is my target.</p> <p>Unsloth, Google, GUFF, tensors... too many overlapped informations...."
     }
   ],
-  "timestamp": "2026-06-06T23:02:35.384434",
-  "total_items": 1972
+  "timestamp": "2026-06-07T23:03:56.864253",
+  "total_items": 2018
 }
