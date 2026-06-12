@@ -14321,8 +14321,326 @@
       "title": "Beyond Third-Person Audits: Situated Interaction Auditing for User-Centered LLM Bias Research",
       "link": "https://arxiv.org/abs/2606.12247v1",
       "summary": "Research on bias in large language models (LLMs) has predominantly focused on third-person audits, which study how models represent or evaluate demographic groups as external subjects. However, this paradigm overlooks a structural blind spot because the user is absent from the audit. In practice, LL..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "link": "https://huggingface.co/blog/allenai/olmo-eval",
+      "summary": "..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "MICCAI 2026 Results [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1u3nims/miccai_2026_results_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Results are almost here. Good luck to everyone waiting for the final decision 🙂</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Sea_Muscle_4281\"> /u/Sea_Muscle_4281 </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLea..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "hubert.cpp, a C++ implementation of distilHuBERT [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1u3omwk/hubertcpp_a_c_implementation_of_distilhubert_p/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've written a C++ implementation of distilHuBERT.</p> <p><a href=\"https://github.com/pfeatherstone/hubert.cpp\">https://github.com/pfeatherstone/hubert.cpp</a></p> <p>It has no runtime dependencies, the weights are compiled into the library, it supports dynamic size..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Building an Open Source Edge Semantic Cache for LLMs in Rust/WASM – Sanity check on the architecture? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1u3quwk/building_an_open_source_edge_semantic_cache_for/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I am planning out a new open-source infrastructure project and want to get some brutal feedback on the architecture and use-case validity from people running high volume LLM workloads in production.</p> <p><strong>The Problem:</strong> Python-ba..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
+      "link": "https://arxiv.org/abs/2606.13681v1",
+      "summary": "Large language model (LLM) agents have achieved strong performance on a wide range of benchmarks, yet most evaluations assume static environments. In contrast, real-world deployment is inherently dynamic, requiring agents to continually align their knowledge, skills, and behavior with changing envir..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+      "link": "https://arxiv.org/abs/2606.13680v1",
+      "summary": "Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly suited for complex reasoning tasks: a semantically similar problem may demand an entirely different s..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Mana: Dexterous Manipulation of Articulated Tools",
+      "link": "https://arxiv.org/abs/2606.13677v1",
+      "summary": "Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focused on rigid objects, articulated tool use remains underexplored because of its physical complexity ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
+      "link": "https://arxiv.org/abs/2606.13673v1",
+      "summary": "Spatial reasoning, the ability to determine where objects are, how they relate, and how they move in 3D, remains a fundamental challenge for vision-language models (VLMs). Tool-augmented agents attempt to address this by augmenting VLMs with specialist perception modules, yet their effectiveness is ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Understanding Truncated Positional Encodings for Graph Neural Networks",
+      "link": "https://arxiv.org/abs/2606.13671v1",
+      "summary": "Positional encodings (PEs) enhance the power of graph neural networks (GNNs), both theoretically and empirically. Two of the most popular families of PEs - spectral (e.g., Laplacian eigenspaces, effective resistance) and walk-based (polynomials of the adjacency matrix) - are theoretically equivalent..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Automated reproducibility assessments in the social and behavioral sciences using large language models",
+      "link": "https://arxiv.org/abs/2606.13670v1",
+      "summary": "Reproducibility in the social and behavioral sciences is typically evaluated by independent researchers who reanalyze the original data to assess whether the published findings can be recovered. However, such approaches are resource-intensive and difficult to scale. Here, we show that large language..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Agents-K1: Towards Agent-native Knowledge Orchestration",
+      "link": "https://arxiv.org/abs/2606.13669v1",
+      "summary": "Current LLM-based research agents have advanced through agent orchestration, yet largely overlook scientific knowledge orchestration. Existing works often reduce papers to abstracts, surface mentions, and flat \\texttt{cites} edges, omitting key entities, claims, evidence, mechanisms, and method line..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution",
+      "link": "https://arxiv.org/abs/2606.13668v1",
+      "summary": "With the growth of LLMs' (Large Language Models) capabilities, there has been an increasing push to curate high quality datasets by filtering samples in the training data. In general, Data Attribution (DA) methods aim to estimate how individual samples in a training dataset can precondition a model ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents",
+      "link": "https://arxiv.org/abs/2606.13663v1",
+      "summary": "Tool-augmented LLM agents commonly rely on step-wise atomic tool calls, where each invocation, observation, and value transfer is exposed in the main reasoning trace. This creates an \\emph{execution-granularity mismatch}: locally deterministic tool workflows are unfolded into repeated model-visible ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
+      "link": "https://arxiv.org/abs/2606.13662v1",
+      "summary": "LLM-based agents have shown increasing potential in automating scientific discovery. Given an optimizable metric and an execution environment, they can propose, validate, and iterate scientific solutions, and have produced results that outperform human-designed approaches. As model capabilities cont..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization",
+      "link": "https://arxiv.org/abs/2606.13658v1",
+      "summary": "This paper examines three recent frameworks for understanding the cognitive and epistemic consequences of artificial intelligence: Tri-System Theory, Thinkframes, and System 0. It argues that while the first two capture important dimensions of AI's influence on individual reasoning and collective ep..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Operadic consistency: a label-free signal for compositional reasoning failures in LLMs",
+      "link": "https://arxiv.org/abs/2606.13649v1",
+      "summary": "Detecting LLM reasoning failures at inference time without ground-truth labels has motivated a wide range of confidence baselines, including self-consistency, semantic entropy, and P(True), built on within-question sampling and self-evaluation. Operad theory, the formalism for systems built by itera..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "SkMTEB: Slovak Massive Text Embedding Benchmark and Model Adaptation",
+      "link": "https://arxiv.org/abs/2606.13647v1",
+      "summary": "We introduce SkMTEB, the first comprehensive MTEB-style text embedding benchmark for Slovak, a low-resource West Slavic language, comprising 31 datasets across 7 task types -- nearly 4$\\times$ the depth of existing multilingual benchmark coverage for Slovak. Our evaluation of 31 embedding models rev..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Recursive Agent Harnesses",
+      "link": "https://arxiv.org/abs/2606.13643v1",
+      "summary": "Recursive language models (RLMs) showed that recursion over model calls is an effective strategy for long-context reasoning, and production coding agents have begun to write code that spawns subagents at scale, most recently in Anthropic's dynamic workflows. We name and study the pattern between the..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "The Stable Recovery Manifold: Geometric Principles Governing Recoverability in Continual Learning",
+      "link": "https://arxiv.org/abs/2606.13637v1",
+      "summary": "Catastrophic forgetting is often viewed as the destruction of previously learned knowledge during sequential learning. Building on the Accessibility Collapse framework, we investigate the geometric structure of recoverability in continual learning. Using Split CIFAR-100 and a sequentially trained Re..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Operads for compositional reasoning in LLMs",
+      "link": "https://arxiv.org/abs/2606.13634v1",
+      "summary": "Question decomposition, i.e. breaking a complex query into simpler sub-queries whose answers are composed to produce a final answer, is a widely used strategy for improving LLM reasoning, yet it currently lacks a rigorous mathematical foundation. In this paper, we propose operads, mathematical struc..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Aerial Wildfire Suppression Planning with a Hybrid CNN-Cellular Automata Fire Model",
+      "link": "https://arxiv.org/abs/2606.13633v1",
+      "summary": "Aerial wildfire suppression requires not only predicting fire spread, but also designing effective intervention strategies under operational and environmental uncertainty. We present a modeling and optimization framework for aerial wildfire suppression that combines a hybrid neural-cellular automato..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "From Tokens to Faces: Investigating Discrete Speech Representations for 3D Facial Animation",
+      "link": "https://arxiv.org/abs/2606.13630v1",
+      "summary": "The choice of speech representation is critical in speech-driven 3D facial animation. Representations differ in what they encode: SSL features emphasize segmental and semantic cues, neural codecs yield latents optimized for acoustic reconstruction, and ASR-style objectives produce label-based spaces..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Valid Inference with Synthetic Data via Task Exchangeability",
+      "link": "https://arxiv.org/abs/2606.13629v1",
+      "summary": "There is a proliferation of work arguing for the use of synthetic data in scientific research. For example, social scientists are arguing for the use of LLM-generated \"silicon samples\" in pilot studies; AI evaluations increasingly rely on \"LLM-as-a-judge\" outputs; and proteomics research is accelera..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Generative Modeling of Bach-Style Symbolic Music: A Comparative Study of Autoregressive, Latent-Variable, and Adversarial Approaches",
+      "link": "https://arxiv.org/abs/2606.13626v1",
+      "summary": "We study generative modeling of Bach-style symbolic piano music using a shared MIDI corpus and three model families: autoregressive LSTMs with attention, latent-variable models including recurrent VAEs and vector-quantized VAEs, and generative adversarial networks. We compare their ability to model ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Beyond Uniform Tokens: Adaptive Compression for Time Series Language Models",
+      "link": "https://arxiv.org/abs/2606.13624v1",
+      "summary": "Large language models (LLMs) have enabled time series (TS) analysis by jointly modeling numerical observations and textual context through a shared token interface. However, TS tokens and prompt tokens exhibit fundamentally different information structures, making uniform token processing inefficien..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Beyond Runtime Enforcement: Shield Synthesis as Defensibility Analysis for Adversarial Networks",
+      "link": "https://arxiv.org/abs/2606.13621v1",
+      "summary": "Shielded reinforcement learning is typically presented as a runtime safety mechanism that compiles temporal-logic specifications into automata restricting an agent's actions. We argue this is the wrong product. The same automata-theoretic machinery -- specification compilation, product game construc..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Majority-of-Three is Optimal",
+      "link": "https://arxiv.org/abs/2606.13614v1",
+      "summary": "We give a short proof that the majority vote of three independent consistent classifiers is an optimal learner in the realizable PAC setting. This proves optimality for the simplest voting scheme, while simplifying both the algorithmic structure and the probabilistic analysis of previous voting lear..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders",
+      "link": "https://arxiv.org/abs/2606.13610v1",
+      "summary": "Search-augmented LLMs increasingly mediate everyday consumer recommendations by retrieving live web content. This creates a new risk: generative recommenders may consume polluted web content, such as fake reviews and promotional pages crafted to mislead recommendations. We ask: to what extent do sea..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility",
+      "link": "https://arxiv.org/abs/2606.13608v1",
+      "summary": "Agent systems are advancing quickly across domains, but their evaluation remains fragmented. Most benchmarks rely on fixed, LLM-centric harnesses that require heavy integration, create test-production mismatch, and limit fair comparison across diverse agent designs. The root problem is the lack of a..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Reasoning as Pattern Matching: Shared Mechanisms in Human and LLM Everyday Reasoning",
+      "link": "https://arxiv.org/abs/2606.13607v1",
+      "summary": "When large language models (LLMs) fail to generalize or make haphazard errors in reasoning, it is often taken as evidence that LLMs are not truly reasoning, but rather performing a kind of pattern matching. The implication is that people's behavior does not exhibit the same types of failures because..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Distribution-Agnostic Robust Trajectory Optimization via Chance-Constrained Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2606.13605v1",
+      "summary": "This paper presents a distribution-agnostic robust trajectory-optimization framework based on chance-constrained reinforcement learning. The uncertainty is represented here through initial conditions and process noise, with the only requirement being that it can be sampled. A deterministic nominal t..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Multi-Agent Reinforcement Learning from Delayed Marketplace Feedback for Objective-Weight Adaptation in Three-Sided Dispatch",
+      "link": "https://arxiv.org/abs/2606.13604v1",
+      "summary": "Dispatch in three-sided marketplaces provides a natural setting for reinforcement learning from world feedback: decisions are evaluated by delayed operational outcomes such as delivery speed, courier utilization, and merchant congestion. We present a deployed reinforcement learning system at DoorDas..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Beyond the Commitment Boundary: Probing Epiphenomenal Chain-of-Thought in Large Reasoning Models",
+      "link": "https://arxiv.org/abs/2606.13603v1",
+      "summary": "Chain-of-thought (CoT) reasoning is the dominant paradigm for inference-time scaling in language models, yet the causal influence of individual steps on the final answer poorly understood. We estimate each step's causal importance via early exit and use this measure to study how answers form across ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "EpiBench: Verifiable Evaluation of AI Agents on Epigenomics Analysis",
+      "link": "https://arxiv.org/abs/2606.13602v1",
+      "summary": "We introduce EpiBench, a verifiable benchmark for short-horizon epigenomics analysis. EpiBench evaluates whether agents can make well-defined analysis decisions from realistic workflow states and return deterministically gradable answers. The benchmark includes 106 evaluations across CUT\\&Tag/CUT\\&R..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Reward Modeling for Multi-Agent Orchestration",
+      "link": "https://arxiv.org/abs/2606.13598v1",
+      "summary": "Multi-Agent Systems (MAS) built on Large Language Models (LLMs) require effective orchestration to coordinate specialized agents, yet training such orchestrators is hindered by limited supervision and high computational cost. We propose Orchestration Reward Modeling (OrchRM), a self-supervised frame..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Multiagent Protocols with Aggregated Confidence Signals",
+      "link": "https://arxiv.org/abs/2606.13591v1",
+      "summary": "Confidence is used for reliability, oversight, and a range of downstream decision tasks in Natural Language Processing (NLP), yet no existing method produces or evaluates a confidence for the output of a multiagent system. Prior work uses confidence within multiagent debate (MAD) to weight messages,..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Simplex-Constrained Sparse Bagging: Transitioning from Uniform Priors to Sparse Posteriors in Ensemble Learning",
+      "link": "https://arxiv.org/abs/2606.13589v1",
+      "summary": "We present Simplex-Constrained Sparse Bagging (SCSB), a mathematically rigorous framework for post-training compression and probability calibration of bootstrap-based bagging ensembles. Standard bagging ensembles (such as Random Forests, Bagged SVMs, and Bagged Neural Networks) assign uniform voting..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "The Tone of Awareness: Topic, Sentiment, and Toxicity Maps During Mental Health Month on TikTok",
+      "link": "https://arxiv.org/abs/2606.13581v1",
+      "summary": "Despite raising concerns about the mental health effects associated with the usage of TikTok, little is known about how related content is framed by creators and received by audiences. We collect the content of 28,341 TikTok videos and 80,130 comments from Mental Health Awareness Month (May) in 2023..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "EvTexture++: Event-Driven Texture Enhancement for Video Super-Resolution",
+      "link": "https://arxiv.org/abs/2606.13580v1",
+      "summary": "Event-based vision has drawn increasing attention owing to its distinctive properties, including ultra-high temporal resolution and extreme dynamic range. Recent works have introduced it to video super-resolution (VSR) to enhance flow estimation and temporal alignment. In contrast, this paper shifts..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories",
+      "link": "https://arxiv.org/abs/2606.13578v1",
+      "summary": "Scientific laboratories increasingly rely on AI systems to reason about experiments, but the physical act of doing science remains largely outside their reach. AI can help read literature, generate hypotheses, and plan protocols, yet the execution of those protocols at the bench still requires a hum..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Learning with Simulators: No Regret in a Computationally Bounded World",
+      "link": "https://arxiv.org/abs/2606.13576v1",
+      "summary": "Understanding the minimal assumptions necessary for generalization is the fundamental question in learning theory. Unfortunately, most results rely heavily on independence (or some proxy thereof) of the data-generating process, while results for strongly dependent data are far more limited. Towards ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages",
+      "link": "https://arxiv.org/abs/2606.13572v1",
+      "summary": "Multimodal Large Language Models (MLLMs) have shown promising reasoning capabilities in general domains, yet their performance remains limited in specialized settings such as healthcare, especially in multilingual and low-resource scenarios. This gap is critical in regions like rural India, where pa..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Existence Precedes Value: Joint Modeling of Observational Existence and Evolving States in Time Series Forecasting",
+      "link": "https://arxiv.org/abs/2606.13571v1",
+      "summary": "Real-world time series are often highly incomplete and irregular due to sensor dormancy, transmission delays, and event-driven sampling, making reliable forecasting fundamentally challenging. Existing methods have evolved from impute-then-forecast pipelines to continuous-time models such as Neural O..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Adjusted Cup-Product Neural Layer",
+      "link": "https://arxiv.org/abs/2606.13568v1",
+      "summary": "Many important observables in physics and geometry are cup products of cochains. The adjusted cup product neural layer has been introduced in this paper. It is a neural primitive that hard wires the cup product with an adjustment term from higher gauge theory. This creates a readout that is gauge in..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "A Three-Layer Framework for AI in Scientific Discovery",
+      "link": "https://arxiv.org/abs/2606.13566v1",
+      "summary": "Current discussions of AI in scientific discovery are often dominated by two visible capabilities: search over existing knowledge and execution through optimization, simulation, and automation. Both are important, but neither fully captures the central act of discovery: the formation and evolution o..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "A2D2: Fine-Tuning Any-Length Discrete Diffusion for Adaptive Decoding",
+      "link": "https://arxiv.org/abs/2606.13565v1",
+      "summary": "Discrete diffusion models offer a simple and stable likelihood-based framework for sequence generation, recently extended to any-length settings via token insertion. Principled reward-guided fine-tuning for any-length discrete diffusion, however, remains largely unexplored. We introduce Fine-Tuning ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Contrast-Informed Augmentation and Domain-Adversarial Training for Adult-to-Neonatal MR Reconstruction Generalization",
+      "link": "https://arxiv.org/abs/2606.13562v1",
+      "summary": "Purpose: To investigate whether contrast-informed data augmentation and domain-adversarial training improve the adult-to-neonatal generalization of the E2E-VarNet. Methods: Three training regimes were investigated: (1) adult-only training with unaugmented adult data, (2) mixed training with paired u..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Edit the Bits, Diff the Codes: Bitwise Residual Editing for Visual Autoregressive Models",
+      "link": "https://arxiv.org/abs/2606.13558v1",
+      "summary": "Text-guided image editing with visual autoregressive (VAR) generators requires controlling both what the model samples and where the sampled change is written back into the image code. Existing VAR editors mainly operate on token streams, features, or flat next-token logits, leaving two native struc..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Is It You or Your Environment? A Bayesian Inference Framework for Genomically-Anchored Personalized Physiological Interpretation",
+      "link": "https://arxiv.org/abs/2606.13556v1",
+      "summary": "Personalized health AI systems face a fundamental cold-start problem: machine learning models for physiological interpretation require weeks of individual behavioral data before they can distinguish constitutional variation from environmentally driven deviation. We propose a solution grounded in cau..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Uncertainty-Aware Hybrid Retrieval for Long-Document RAG",
+      "link": "https://arxiv.org/abs/2606.13550v1",
+      "summary": "Retrieval augmented generation (RAG) depends critically on the quality and granularity of retrieved evidence. Large retrieval units preserve context but often introduce irrelevant content, which can dilute answer bearing evidence and worsen long context utilization. Fine-grained units are more compa..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Adaptive Turn-Taking for Real-time Multi-Party Voice Agents",
+      "link": "https://arxiv.org/abs/2606.13544v1",
+      "summary": "Turn-taking in multi-party spoken conversations remains a fundamental challenge for voice-based agents, particularly under dynamic floor competition and varying user expectations. We propose ModeratorLM, a role-playing voice agent that conditions turn-taking behavior on an explicitly assigned role i..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "NetCause: Counterfactual Learning for Root Cause Analysis in Large-Scale Networks",
+      "link": "https://arxiv.org/abs/2606.13543v1",
+      "summary": "Can a learned model capture how faults propagate through a large-scale network and use this knowledge to causally attribute customer impact to its underlying root cause? Existing root cause analysis techniques often rely on static rules, correlation heuristics, or topology-local reasoning, which str..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "When Does Mixing Help? Analyzing Query Embedding Interpolation in Multilingual Dense Retrieval",
+      "link": "https://arxiv.org/abs/2606.13537v1",
+      "summary": "While mixed-language querying is ubiquitous in multilingual communities, the sensitivity of dense retrievers to such queries remains poorly understood. We present a ratio-controlled study on mMARCO that systematically evaluates retrieval performance by varying the mixing proportion of parallel query..."
     }
   ],
-  "timestamp": "2026-06-11T23:20:19.171373",
-  "total_items": 2387
+  "timestamp": "2026-06-12T23:15:38.351576",
+  "total_items": 2440
 }
