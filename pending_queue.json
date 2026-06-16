@@ -15425,8 +15425,434 @@
       "title": "Free Heavy-Tailed Lunch for Muon: A Theoretical Justification of Empirical Success",
       "link": "https://arxiv.org/abs/2606.14560v1",
       "summary": "Non-Euclidean optimisation methods with matrix-valued updates, such as Muon and Scion, have recently shown strong empirical performance for training Transformer models, yet their theoretical advantages over Euclidean methods remain poorly understood. We address this gap in the heavy-tailed non-conve..."
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions...."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "NLnet announces funding for 67 more open-source projects",
+      "link": "https://nlnet.nl/news/2026/20260616-67-new-projects.html",
+      "summary": "<p>Article URL: <a href=\"https://nlnet.nl/news/2026/20260616-67-new-projects.html\">https://nlnet.nl/news/2026/20260616-67-new-projects.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48563569\">https://news.ycombinator.com/item?id=48563569</a></p>\n<p>Points: 5</p>\n<p># Com..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Humiliating IIS servers for fun and jail time",
+      "link": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "summary": "<p>Article URL: <a href=\"https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/\">https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48563394\">https://news.ycombinator.com/item?id=48563394</a></p>\n<p>Points: 6</p..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "GrapheneOS has been ported to Android 17 and official releases are coming soon",
+      "link": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+      "summary": "<p>Article URL: <a href=\"https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon\">https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon</a></p>\n<p>Comments URL: <a href=\"http..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
+      "link": "https://github.com/nvlabs/cutile-rs",
+      "summary": "<p>Article URL: <a href=\"https://github.com/nvlabs/cutile-rs\">https://github.com/nvlabs/cutile-rs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48561410\">https://news.ycombinator.com/item?id=48561410</a></p>\n<p>Points: 15</p>\n<p># Comments: 4</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Frood, an Alpine Initramfs NAS (2024)",
+      "link": "https://words.filippo.io/frood/",
+      "summary": "<p>Article URL: <a href=\"https://words.filippo.io/frood/\">https://words.filippo.io/frood/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48561402\">https://news.ycombinator.com/item?id=48561402</a></p>\n<p>Points: 23</p>\n<p># Comments: 8</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves",
+      "link": "https://voicedraw.com/",
+      "summary": "<p>I was frustated by having to draw system design diagrams by hand when discussing it with my team mates or in an interview. So I thought \"Wouldn't it be great if someone draws it for me, while I think out loud?\".<p>That is when I came up with VoiceDraw. You can just think out loud or discuss your ..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Apple is about to make Hide My Email useless",
+      "link": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+      "summary": "<p>Article URL: <a href=\"https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/\">https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48559935\">https://news.ycombina..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "GPT‑NL: a sovereign language model for the Netherlands",
+      "link": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "summary": "<p>Article URL: <a href=\"https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/\">https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48559188\">https://news.ycombinator.com/item?id=48559188</a></p>\n<p>Points: 120<..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module",
+      "link": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
+      "summary": "<p>Article URL: <a href=\"https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus\">https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48559083\">https://news.ycombinator.com/item..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Has AI already killed self-help nonfiction books?",
+      "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+      "summary": "<p>Article URL: <a href=\"https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/\">https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48558489\">https://news.ycombinator.com/item?id=48558489</a></p>\n<p>Points: 108<..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Stop Using JWTs",
+      "link": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+      "summary": "<p>Article URL: <a href=\"https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452\">https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48558147\">https://news.ycombinator.com/item?id=48558147</a></p>\n<p>Points: ..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Is Meta destroying its engineering organization?",
+      "link": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+      "summary": "<p>Article URL: <a href=\"https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering\">https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48558045\">https://news.ycombinator.com/..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+      "link": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+      "summary": "<p>Article URL: <a href=\"https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/\">https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48558018\">https://news.ycombinator.com/item?id=48558018</a></p>\n<p>Points: 214</p>\n<p..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Making ast.walk 220x Faster",
+      "link": "https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/",
+      "summary": "<p>Article URL: <a href=\"https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/\">https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48557768\">https://news.ycombinator.com/item?id=48557768</a></p>\n<p>Points: 78</..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Apple's weird anti-nausea dots cured my car sickness",
+      "link": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
+      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work\">https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48557530\">https://news.ycombinator.com/..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Calvin and Hobbes and the price of integrity",
+      "link": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+      "summary": "<p>Article URL: <a href=\"https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of\">https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48557079\">https://news.ycombinator.com/item?i..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "SubQ 1.1 Small",
+      "link": "https://subq.ai/subq-1-1-small-technical-report",
+      "summary": "<p>Article URL: <a href=\"https://subq.ai/subq-1-1-small-technical-report\">https://subq.ai/subq-1-1-small-technical-report</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48556163\">https://news.ycombinator.com/item?id=48556163</a></p>\n<p>Points: 102</p>\n<p># Comments: 45</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Running local models is good now",
+      "link": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "summary": "<p>Article URL: <a href=\"https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/\">https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48555993\">https://news.ycombinator.com/item?id=48555993</a></p>\n<..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "[ECCV 2026] Final Decisions [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1u7gouq/eccv_2026_final_decisions_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>ECCV 2026 final decisions are expected to be released on <strong>June 17, 2026</strong>. Since there was no exact release time specified, results will likely roll out within 48 hours.</p> <p>This thread is for everyone to share updates, discuss outcomes, and support..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "quicktok: a faster tokenizer (exact and byte-identical with tiktoken) [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1u73c5r/quicktok_a_faster_tokenizer_exact_and/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Been working on this a while! Should be useful for anyone trying to speed up their tokenization workflows.</p> <p><strong>quicktok</strong> is a fast/exact BPE tokenizer written in C++. Token ids are byte-identical to <code>tiktoken</code> and encoding runs <strong>..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "I built a leakage-clean verifier for robot manipulation, is this useful? Am I solving a non-problem? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1u7hxem/i_built_a_leakageclean_verifier_for_robot/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Spent the last few weeks on a benchmark/harness that tries to answer one question honestly: <em>did a robot arm actually do the demonstrated task, or did the success metric just get fooled?</em></p> <p>The setup: compile a human demo into an object-centric graph (wh..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "ICML 2026 spotlight: Universal Aesthetic Alignment Narrows Artistic Expression \\[R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1u7sz7w/icml_2026_spotlight_universal_aesthetic_alignment/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I wanted to share an ICML 2026 spotlight position paper on a failure mode in</p> <p>image-generation alignment: aesthetic preference optimization may override</p> <p>explicit user intent when the requested output is anti-aesthetic or outside</p> <p>mainstream visual..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Source code for LLMs. [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1u79uwi/source_code_for_llms_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was digging through Hugging Face’s Transformers repo and found<br /> <a href=\"https://github.com/huggingface/transformers/blob/main/src/transformers/models/gpt_oss/modeling_gpt_oss.py\">https://github.com/huggingface/transformers/blob/main/src/transformers/models/g..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "The Value Axis: Language Models Encode Whether They're on the Right Track",
+      "link": "https://arxiv.org/abs/2606.17056v1",
+      "summary": "We investigate whether language models internally track the value of their current trajectory, defined as the likelihood that their ongoing strategy will achieve their goals. Using synthetic, in-context reinforcement learning data, we construct a \"value\" axis for Qwen3-8B. We find that activations a..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Context-Aware RL for Agentic and Multimodal LLMs",
+      "link": "https://arxiv.org/abs/2606.17053v1",
+      "summary": "Large language models (LLMs) often fail when answering requires identifying a small but decisive piece of evidence within a long or complex context, such as a single line in a tool trace or a subtle detail in an image. We propose ContextRL, a context-aware reinforcement learning (RL) method that imp..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Exact Posterior Score Estimation for Solving Linear Inverse Problems",
+      "link": "https://arxiv.org/abs/2606.17048v1",
+      "summary": "Diffusion and flow-based models learn powerful data priors by training a denoiser to reverse Gaussian corruption. To use this prior to solve a linear inverse problem, one needs to sample from the posterior, but the score that the prior provides is the unconditional score, not the posterior score. Ex..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes",
+      "link": "https://arxiv.org/abs/2606.17043v1",
+      "summary": "When pretrained VLA policies are fine-tuned through online RL, each rollout episode produces only a single binary outcome (success or failure), yet the actor update requires per-transition supervision. Existing approaches commonly reduce this sparse outcome to a single scalar reward or advantage sig..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio",
+      "link": "https://arxiv.org/abs/2606.17041v1",
+      "summary": "Meta-analysis is a demanding form of evidence synthesis that combines literature retrieval, PI/ECO-guided study selection, and statistical aggregation. Its structured, verifiable workflow makes it an ideal substrate for evaluating systematic scientific reasoning, yet existing benchmarks lack ground ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Test of Image Classifiers",
+      "link": "https://arxiv.org/abs/2606.17037v1",
+      "summary": "Oppenheim and Lim (1981) showed that natural images stay recognizable when reconstructed from their Fourier phase alone, while the magnitude carries little of their identity. We ask whether trained image classifiers reproduce this asymmetry inside their hidden layers, and we test it causally: given ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing",
+      "link": "https://arxiv.org/abs/2606.17034v1",
+      "summary": "Post-hoc context erasing over the KV cache is challenging because a local edit has a global consequence: once a span has been processed, its influence propagates into the cached states of all subsequent tokens. This issue arises naturally in long-context LLM applications, where stale retrieved facts..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "DEEPRUBRIC: Evidence-Tree Rubric Supervision for Efficient Reinforcement Learning of Deep Research Agents",
+      "link": "https://arxiv.org/abs/2606.17029v1",
+      "summary": "Deep research agents synthesize long-form reports by searching and reasoning over retrieved evidence. Reinforcement learning with rubric-based rewards improves these agents by optimizing them against checkable criteria that translate report quality into reward signals, but its efficiency depends on ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "HAMON: Passive Optical Sequence Mixing for Long-Horizon Forecasting",
+      "link": "https://arxiv.org/abs/2606.17028v1",
+      "summary": "Simple linear and frequency-domain models remain surprisingly competitive in long-horizon time-series forecasting, and recent mechanistic evidence suggests that standard forecasting benchmarks may not require the dense superposed representations that make transformers powerful in other domains. This..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "ExpRL: Exploratory RL for LLM Mid-Training",
+      "link": "https://arxiv.org/abs/2606.17024v1",
+      "summary": "Sparse reward reinforcement learning (RL) has become a standard tool for improving LLM reasoning, but its success depends critically on the coverage present in the base model. In practice, models are often primed for RL through \\emph{mid-training} on curated reasoning traces that teach useful primit..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Learning the Geometry of Data: A Mathematical Review of Shape Space Analysis",
+      "link": "https://arxiv.org/abs/2606.17022v1",
+      "summary": "A central objective of machine learning is to identify structure and patterns in data. Advances in data acquisition have increasingly produced datasets whose observations possess rich geometric form, giving rise to shape spaces that encode variability in object geometry. Such datasets arise across a..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Vision-Language Foundation Models",
+      "link": "https://arxiv.org/abs/2606.17020v1",
+      "summary": "Remote sensing vision-language models have advanced Earth observation understanding, but most existing work remains centered on RGB imagery, leaving the complementary information in infrared data underexplored. Infrared images provide distinctive cues, including thermal intensity structures, object ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "TokenPilot: Cache-Efficient Context Management for LLM Agents",
+      "link": "https://arxiv.org/abs/2606.17016v1",
+      "summary": "As LLM agents are deployed in long-horizon sessions, context accumulation drives up inference costs. Existing approaches utilize text pruning or dynamic memory eviction to minimize token footprints; however, their unconstrained sequence mutations alter layouts, introducing prefix mismatches and cach..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Filtered Conformal Ellipsoids for Graph-Native Time Series",
+      "link": "https://arxiv.org/abs/2606.17014v1",
+      "summary": "Joint prediction sets for multivariate time series should control a single event while adapting to cross-coordinate dependence. We study filtered conformal ellipsoids: a frozen state-space filter emits a one-step predictive mean and covariance, and split-conformal calibration is applied to the resul..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Exploding and vanishing gradients in deep neural networks: the effect of residual connections",
+      "link": "https://arxiv.org/abs/2606.17013v1",
+      "summary": "The well known phenomenon of exploding and vanishing gradients in deep neural networks is analyzed using multiplicative ergodic theory. The effect of adding a residual connection is explained in this context. Specifically, a characterization of Liapunov exponents due to Furstenberg and Kifer is expl..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "ROVE: Unlocking Human Interventions for Humanoid Manipulation via Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2606.17011v1",
+      "summary": "Human interventions provide crucial corrective signals for post-training Vision-Language-Action (VLA) models. However, enabling seamless humanoid interventions is a formidable systems challenge due to complex whole-body kinematics and dexterous-hand control. Consequently, the collected intervention ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "TuneJury: An Open Metric for Improving Music Generation Preference Alignment",
+      "link": "https://arxiv.org/abs/2606.17006v1",
+      "summary": "We introduce TuneJury, an open, instance-level pairwise reward model for text-to-music that predicts a music preference score from a text prompt and an audio clip. The released checkpoint is trained on publicly available human-preference labels covering arena-style (A vs. B) votes, metric-alignment ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Bayesian Inference and Decision Audits for Public Archives of Frontier AI Evaluations",
+      "link": "https://arxiv.org/abs/2606.17005v1",
+      "summary": "Public AI evaluations are often read as terminal leaderboards, yet the underlying evidence is a selective time series shaped by reporting rules, benchmark revisions, and missingness. Repeated public archives for LiveBench and Open LLM Leaderboard v2 serve as the primary longitudinal record; LMArena ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "The Complexity of Min-Max Optimization for Quadratic Polynomials",
+      "link": "https://arxiv.org/abs/2606.17000v1",
+      "summary": "We prove that computing approximate stationary points of min-max optimization over the hypercube is PPAD-hard for quadratic polynomials. This holds even when the polynomials are multilinear, each variable appears in at most three monomials, and the approximation factor is inverse polynomial. As a di..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Selection Without Signal, Recovery Through Expression: A Measurement Study of Post-Hoc Falsification Operators for Frozen Small Code Models",
+      "link": "https://arxiv.org/abs/2606.16999v1",
+      "summary": "Frozen small code models (<=1.5B parameters, run locally without fine-tuning) suit offline and privacy-constrained use, but often emit plausible-but-wrong programs. A natural remedy is a post-hoc operator that selects, verifies, repairs, or re-processes the model's samples without retraining; in pri..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "ActiveSAM: Image-Conditional Class Pruning for Fast and Accurate Open-Vocabulary Segmentation",
+      "link": "https://arxiv.org/abs/2606.16996v1",
+      "summary": "Segment Anything Model 3 (SAM 3) provides a strong frozen backbone for concept-prompted segmentation, but applying it directly to open-vocabulary semantic segmentation (OVSS) is inefficient: full-resolution decoding is typically run over the entire dataset vocabulary, whereas each image contains onl..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "When in Doubt, Plan It Out: Committed Small Language Model Deliberation for Reactive Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2606.16995v1",
+      "summary": "Reinforcement Learning (RL) policies often degrade in unfamiliar environments because they lack explicit deliberation. We propose Plan, Align, Commit, Think (PACT), a hybrid architecture that combines a fast, reactive RL policy with a slow, deliberative Small Language Model (SLM) planner. PACT invok..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "A Multi-Center Benchmark for Abdominal Disease Diagnosis and Report Generation from Non-Contrast CT",
+      "link": "https://arxiv.org/abs/2606.16991v1",
+      "summary": "Multiphasic contrast-enhanced CT (CECT) is widely used for abdominal lesion characterization, yet it carries inherent risks of contrast-induced nephropathy, escalates acquisition burden, and heavily contributes to radiologist workload. To address these challenges, we introduce a novel multi-center b..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Analytic Torsion and Spectral Gap Capture Persistent-Laplacian Performance",
+      "link": "https://arxiv.org/abs/2606.16990v1",
+      "summary": "While persistent Laplacians (PL) offer a richer geometric representation of data than persistent homology, utilizing their full eigenspectrum for learning tasks is often hampered by high dimensionality and the ``varying length'' problem across different filtration scales. We propose a compact spectr..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Stable Menus of Public Goods: AI-Enabled Progress",
+      "link": "https://arxiv.org/abs/2606.16989v1",
+      "summary": "Using an open problem from the EC 2025 paper \"Stable Menus of Public Goods\" as a testbed, we conduct experiments to understand the effectiveness of different AI-for-EconCS research workflows. Specifically, we study three questions: Does providing human intuition in the prompt help? Does automated mu..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Agent trajectories as programs: fingerprinting and programming coding-agent behavior",
+      "link": "https://arxiv.org/abs/2606.16988v1",
+      "summary": "Benchmark scores tell you what an agent got right; they do not tell you how it got there. In this work, we introduce methods for comparing agents procedurally in different contexts, where the model, tasks, and approaches vary. We compare ten agents and find that they are identifiable by their behavi..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Consensus-based Agentic Large Language Model Framework for Harmonized Tariff Schedule Code Classification",
+      "link": "https://arxiv.org/abs/2606.16987v1",
+      "summary": "Accurate Harmonized Tariff Schedule (HTS) code classification is essential for customs clearance, duty assessment, trade statistics, and regulatory compliance in maritime logistics. However, exact HTS classification remains challenging because product descriptions are often short, incomplete, or amb..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Dynestyx: A Probabilistic Programming Library for Dynamical Systems",
+      "link": "https://arxiv.org/abs/2606.16985v1",
+      "summary": "State-space models (SSMs) are the standard formalism for Bayesian treatment of dynamical systems, with natural applications in statistics, signal processing, and machine learning. Despite their importance in both theory and application, dynamical systems have proven difficult to incorporate in moder..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Decoupling Inference from State Updates in Low-Latency Feature Engines via Probabilistic Thinning",
+      "link": "https://arxiv.org/abs/2606.16981v1",
+      "summary": "Streaming data systems increasingly underpin Machine Learning workflows that maintain large numbers of continuously updated aggregations. In production settings, each incoming event typically triggers read-modify-write operations to persistent storage, making high-frequency state updates a dominant ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Scalable Pairwise Kernel Learning with Stochastic Vec Trick",
+      "link": "https://arxiv.org/abs/2606.16979v1",
+      "summary": "Pairwise learning is a specialized form of supervised learning that focuses on predicting outcomes for pairs of objects. In this work, we introduce SPaiK, a new scalable kernel learning method tailored for pairwise settings. Our approach preserves the expressive power of kernel methods while substan..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Task-Error Residual Learning for Real-Robot Five-Ball Juggling",
+      "link": "https://arxiv.org/abs/2606.16978v1",
+      "summary": "For residual learning that refines existing behavior, sample efficiency depends on two things: how much information each rollout returns, and how efficiently the learner uses that information. Reinforcement learning's standard scalar reward carries far less information than the directional task erro..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Sobolev Approximation by Fixed-Size Neural Networks with Arbitrary Accuracy",
+      "link": "https://arxiv.org/abs/2606.16975v1",
+      "summary": "In this work, we investigate new activation functions for achieving arbitrary-accuracy Sobolev approximation by fixed-size neural networks. We first show that any function in $W^{2,\\infty}((a,b)^d)$ can be approximated with arbitrary accuracy, measured in the $W^{1,\\infty}$-norm, by a fixed-size neu..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "The embrace of open science: An analysis of a decade of AI research and 56 800 conference papers",
+      "link": "https://arxiv.org/abs/2606.16974v1",
+      "summary": "The reproducibility crisis has directed the AI research community toward improving documentation practices. Several studies have identified methodological issues, and in response, the most impactful venues in the field have introduced reproducibility checklists. We seek to understand whether documen..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "How Much Do Reviews Really Contribute? A Study on Text-Enriched Matrix Factorization for Recommendations",
+      "link": "https://arxiv.org/abs/2606.16973v1",
+      "summary": "Incorporating textual reviews into a Recommender System has become a prominent strategy for enriching collaborative signals with semantic information. However, the actual contribution of review-derived representations remains an open question, particularly when strong collaborative baselines are emp..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Probing Low Frame Rate Degradation in Neural Audio Codecs",
+      "link": "https://arxiv.org/abs/2606.16969v1",
+      "summary": "Low frame rates in neural audio codecs are attractive for autoregressive speech synthesis, where the generation cost scales linearly with the sequence length. Recent work has demonstrated that codecs can operate at 12.5 Hz and below, but the mechanisms underlying low frame rate degradation remain in..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Beyond the Smile: A Hybrid Convolutional VAE for Crypto Volatility Surfaces",
+      "link": "https://arxiv.org/abs/2606.16961v1",
+      "summary": "We present a convolutional variational autoencoder for cryptocurrency implied-volatility surfaces, together with a deployable predictor that combines it with a quadratic smile re-fit through a deterministic per-tenor routing rule. Trained on 6,034 fully-filled hourly Binance Options surfaces of BTC ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data",
+      "link": "https://arxiv.org/abs/2606.16952v1",
+      "summary": "The rapid adoption of generative AI and Large Language Models (LLMs) has spurred interest in synthetic data as a privacy-preserving alternative to sensitive real-world datasets. However, generating high-utility synthetic data often carries the risk of memorizing and regurgitating private information..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Latent space mapping of interpretable structural coordinates from stochastic single-molecule signals",
+      "link": "https://arxiv.org/abs/2606.16950v1",
+      "summary": "Nanopores are versatile single-molecular sensors, but their utility is fundamentally constrained by stochastic translocation dynamics warping any encoded information. We resolve it by shifting from time-domain analysis to a learned latent-space mapping via a contrastive encoder trained exclusively o..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "A Causal Model of Theory of Mind in Conflict for Artificial Intelligence",
+      "link": "https://arxiv.org/abs/2606.16944v1",
+      "summary": "Theory of mind (ToM), the capacity to ascribe mental states to others and use those ascriptions for prediction and inference, is widely assumed to be essential for effective human-machine integration. Existing AI-ToM models address \\emph{how} to mentalize, but leave the question of when largely unad..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "A nonparametric two-sample test using a parametric integral probability metric",
+      "link": "https://arxiv.org/abs/2606.16941v1",
+      "summary": "Detecting distributional differences between two independent samples is a fundamental problem in statistics and machine learning. Nonparametric two-sample testing provides a principled framework for determining whether two samples are drawn from the same underlying distribution, without assuming any..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Scalable Circuit Learning for Interpreting Large Language Models",
+      "link": "https://arxiv.org/abs/2606.16939v1",
+      "summary": "A prominent research direction in mechanistic interpretability is learning sparse circuits over LLM components to reveal how they jointly produce model behavior. However, raw neurons are polysemantic, making learned circuits hard to interpret. Sparse autoencoder (SAE) features alleviate this, but th..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "CrossMaps: Confidence-Aware Open-Vocabulary Semantic Mapping for Rover Navigation",
+      "link": "https://arxiv.org/abs/2606.16935v1",
+      "summary": "Rovers rely on perception to maintain spatial maps that encode both objects and sensor quality (e.g., range reliability, lighting artifacts, data density), guiding data fusion, embedding updates, and navigation under partial observability. To study these coupled perception-navigation processes, we p..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter",
+      "link": "https://arxiv.org/abs/2606.16934v1",
+      "summary": "Reasoning with a Code Interpreter (CI) has emerged as an effective paradigm for enhancing the reasoning capabilities of large language models (LLMs) through executable computation and iterative verification. Despite its growing adoption, the behavioral properties underlying effective code reasoning ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "A Unified Causal-Origin Taxonomy of Distributional Shifts in Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2606.16933v1",
+      "summary": "Reinforcement learning (RL) systems often degrade when operating conditions differ from those previously encountered, reflecting distributional shifts in the underlying data-generating process. Such shifts may occur between training and evaluation, as in In-Distribution (ID) and Out-of-Distribution ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Functional Gradient Descent with Adaptive Representations",
+      "link": "https://arxiv.org/abs/2606.16926v1",
+      "summary": "Functional optimization problems are typically solved by optimizing the parameters of a fixed representation, such as a neural network, resulting in highly nonconvex losses that complicate both training and theoretical analysis. An interesting alternative is functional gradient descent (FGD), that i..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "RAID: Semantic Graph Diffusion for True Cold-Start and Cross-Lingual Forecasting",
+      "link": "https://arxiv.org/abs/2606.16925v1",
+      "summary": "Time-series foundation models show strong transfer performance when given a non-empty history window. However, true cold-start scenarios, where a new item has no prior observations, violate this assumption. We propose RAID (Retrieval-Augmented Iterative Diffusion) a framework, which replaces history..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "MA-SBI: Misspecification-Aware Simulation-Based Inference via Side-Channel Guidance",
+      "link": "https://arxiv.org/abs/2606.16923v1",
+      "summary": "Simulation-based inference (SBI) of latent parameters is often hindered by simulator misspecification, the mismatch between simulated and real-world observations caused by inherent modeling simplifications. RoPE, the recent state-of-the-art for robust SBI, addresses this through optimal transport be..."
     }
   ],
-  "timestamp": "2026-06-15T23:44:03.588743",
-  "total_items": 2571
+  "timestamp": "2026-06-16T23:23:07.921508",
+  "total_items": 2642
 }
