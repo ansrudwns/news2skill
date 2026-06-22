@@ -17537,8 +17537,140 @@
       "title": "I released a softmax-free attention model at GPT-2 Medium scale (~354M params, 11.5B tokens): structural sparsity + tile-skipping kernels for long-context VRAM savings. Open weights + custom Triton kernels [R]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1ubmybr/i_released_a_softmaxfree_attention_model_at_gpt2/",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1ubmybr/i_released_a_softmaxfree_attention_model_at_gpt2/\"> <img alt=\"I released a softmax-free attention model at GPT-2 Medium scale (~354M params, 11.5B tokens): structural sparsity + tile-skipping kernels for long-context..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "summary": "..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Unsloth GLM-5.2 – How to Run Locally",
+      "link": "https://unsloth.ai/docs/models/glm-5.2",
+      "summary": "<p>Article URL: <a href=\"https://unsloth.ai/docs/models/glm-5.2\">https://unsloth.ai/docs/models/glm-5.2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48636377\">https://news.ycombinator.com/item?id=48636377</a></p>\n<p>Points: 50</p>\n<p># Comments: 14</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Job application asked for my SAT scores",
+      "link": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
+      "summary": "<p>Article URL: <a href=\"https://mrmarket.lol/job-application-asked-for-my-sat-scores/\">https://mrmarket.lol/job-application-asked-for-my-sat-scores/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48636062\">https://news.ycombinator.com/item?id=48636062</a></p>\n<p>Points: 30</..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs",
+      "link": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks",
+      "summary": "<p>Article URL: <a href=\"https://spur.us/blog/smart-tv-apps-residential-proxy-sdks\">https://spur.us/blog/smart-tv-apps-residential-proxy-sdks</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48635954\">https://news.ycombinator.com/item?id=48635954</a></p>\n<p>Points: 103</p>\n<p>#..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Walt Disney Company is the most successful at monetizing human nostalgia [audio]",
+      "link": "https://www.acquired.fm/episodes/the-walt-disney-company",
+      "summary": "<p>Article URL: <a href=\"https://www.acquired.fm/episodes/the-walt-disney-company\">https://www.acquired.fm/episodes/the-walt-disney-company</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48635409\">https://news.ycombinator.com/item?id=48635409</a></p>\n<p>Points: 48</p>\n<p># Co..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Japanese symbols that speak without words",
+      "link": "https://arun.is/blog/japan-symbols/",
+      "summary": "<p>Article URL: <a href=\"https://arun.is/blog/japan-symbols/\">https://arun.is/blog/japan-symbols/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48634803\">https://news.ycombinator.com/item?id=48634803</a></p>\n<p>Points: 70</p>\n<p># Comments: 15</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "British Columbia, Time Zones, and Postgres",
+      "link": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+      "summary": "<p>Article URL: <a href=\"https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes\">https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48634787\">https://news.ycombinator.com/item?id=48634787</a>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+      "link": "https://github.com/dorukkumkumoglu/optocamzero",
+      "summary": "<p>Article URL: <a href=\"https://github.com/dorukkumkumoglu/optocamzero\">https://github.com/dorukkumkumoglu/optocamzero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48634778\">https://news.ycombinator.com/item?id=48634778</a></p>\n<p>Points: 66</p>\n<p># Comments: 15</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+      "link": "https://ipvm.com/reports/police-chiefs-track",
+      "summary": "<p>Article URL: <a href=\"https://ipvm.com/reports/police-chiefs-track\">https://ipvm.com/reports/police-chiefs-track</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48634694\">https://news.ycombinator.com/item?id=48634694</a></p>\n<p>Points: 203</p>\n<p># Comments: 66</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Canada is looking to build up to 10 new nuclear reactors over the next 15 years",
+      "link": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+      "summary": "<p>Article URL: <a href=\"https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509\">https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48634585\">https://news.ycombinator.com/item?id=48634585</a></p>\n<p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Memory crisis is getting so bad that even retro RAM prices are going to the Moon",
+      "link": "https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627\">https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Linux and Secure Boot certificate expiration (2025)",
+      "link": "https://lwn.net/Articles/1029767/",
+      "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1029767/\">https://lwn.net/Articles/1029767/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48633941\">https://news.ycombinator.com/item?id=48633941</a></p>\n<p>Points: 83</p>\n<p># Comments: 46</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Finding the Best Dog Treat with Statistics",
+      "link": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
+      "summary": "<p>Article URL: <a href=\"https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html\">https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48633410\">https://news.ycombinator.com/item?id=48633410</a></p>\n<p>Points: 68</..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Steam Machine launches today",
+      "link": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+      "summary": "<p><a href=\"https://store.steampowered.com/sale/steammachine\" rel=\"nofollow\">https://store.steampowered.com/sale/steammachine</a><p><a href=\"https://www.lttlabs.com/articles/2026/06/22/the-newell-nucleus-steam-machine-ltt-companion-article\" rel=\"nofollow\">https://www.lttlabs.com/articles/2026/06/22/..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "DisplayMate",
+      "link": "https://www.displaymate.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.displaymate.com/\">https://www.displaymate.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632613\">https://news.ycombinator.com/item?id=48632613</a></p>\n<p>Points: 77</p>\n<p># Comments: 24</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Oak – Git alternative designed for agents",
+      "link": "https://oak.space/oak/oak",
+      "summary": "<p>Oak is a version control system I've been working on designed for agents (<a href=\"https://oak.space\" rel=\"nofollow\">https://oak.space</a>). It improves the speed and context your agents need when working on serious projects. With virtual mounts, agents locally and in the cloud no longer need a f..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The text in Claude Code’s “Extended Thinking” output",
+      "link": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "summary": "<p>Article URL: <a href=\"https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/\">https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48630535\">htt..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "link": "https://hustvl.github.io/Moebius/",
+      "summary": "<p>Article URL: <a href=\"https://hustvl.github.io/Moebius/\">https://hustvl.github.io/Moebius/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48630171\">https://news.ycombinator.com/item?id=48630171</a></p>\n<p>Points: 201</p>\n<p># Comments: 60</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center",
+      "link": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
+      "summary": "<p>Article URL: <a href=\"https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center\">https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center</a></p>\n<p>Comments URL: <a href..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Some new updates to Papers with Code [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ucm508/some_new_updates_to_papers_with_code_p/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1ucm508/some_new_updates_to_papers_with_code_p/\"> <img alt=\"Some new updates to Papers with Code [P]\" src=\"https://preview.redd.it/wawma8paeu8h1.png?width=140&amp;height=39&amp;auto=webp&amp;s=8546e40b7710c5a3566b17f2c4635b1..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Recommendations for speech annotation tools [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ucuohi/recommendations_for_speech_annotation_tools_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm looking for human-in-the-loop platforms that allow you to automatically transcribe audio followed by manually fixing the transcriptions and fine tuning the model. Is there a local (not an online service) installable platform for doing this?</p> </div><!-- SC_ON ..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Syntactically robust NLI for semantics of imperfectly generated text? [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ucy7p3/syntactically_robust_nli_for_semantics_of/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>I'm looking for literature on relatively specific tooling. </p> <p>In autoregressive LLMs, there is substantial published work that used NLI on sub-claims produced by LLMs to gauge correctness of LLM answers. </p> <p>In diffusion (or D-) LLMs, the SoT..."
     }
   ],
-  "timestamp": "2026-06-21T23:11:35.689253",
-  "total_items": 2923
+  "timestamp": "2026-06-22T23:18:06.599636",
+  "total_items": 2945
 }
