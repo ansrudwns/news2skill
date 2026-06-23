@@ -17669,8 +17669,500 @@
       "title": "Syntactically robust NLI for semantics of imperfectly generated text? [R]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1ucy7p3/syntactically_robust_nli_for_semantics_of/",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>I'm looking for literature on relatively specific tooling. </p> <p>In autoregressive LLMs, there is substantial published work that used NLI on sub-claims produced by LLMs to gauge correctness of LLM answers. </p> <p>In diffusion (or D-) LLMs, the SoT..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "summary": "..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "summary": "..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "link": "https://huggingface.co/blog/cross-origin-storage",
+      "summary": "..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "link": "https://huggingface.co/blog/local-models-pr-triage",
+      "summary": "..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "California AB 2047 makes 3d printers off-limits to students, educators, business",
+      "link": "https://www.the3dprintingnerd.com/ab2047",
+      "summary": "<p>Article URL: <a href=\"https://www.the3dprintingnerd.com/ab2047\">https://www.the3dprintingnerd.com/ab2047</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48652184\">https://news.ycombinator.com/item?id=48652184</a></p>\n<p>Points: 113</p>\n<p># Comments: 43</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "United Wizards of the Coast recognized by NLRB",
+      "link": "https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union",
+      "summary": "<p>Article URL: <a href=\"https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union\">https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48652028\">https://news.ycombinator.com/item?id=48652028</a></p>\n<p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "ATProto Permissioned Data Proposal Draft",
+      "link": "https://github.com/bluesky-social/proposals/pull/94",
+      "summary": "<p>Article URL: <a href=\"https://github.com/bluesky-social/proposals/pull/94\">https://github.com/bluesky-social/proposals/pull/94</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48651727\">https://news.ycombinator.com/item?id=48651727</a></p>\n<p>Points: 12</p>\n<p># Comments: 2<..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Trains halted across Germany because of communication system problem",
+      "link": "https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b",
+      "summary": "<p>Article URL: <a href=\"https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b\">https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b</a></p>\n<p>Comments URL:..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Don't verify email addresses by sending spam to them",
+      "link": "https://milek7.pl/mailverifyspam/",
+      "summary": "<p>Article URL: <a href=\"https://milek7.pl/mailverifyspam/\">https://milek7.pl/mailverifyspam/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48650837\">https://news.ycombinator.com/item?id=48650837</a></p>\n<p>Points: 108</p>\n<p># Comments: 29</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Algorithmic Monocultures in Hiring",
+      "link": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+      "summary": "<p><a href=\"https://algorithmichiring.github.io/\" rel=\"nofollow\">https://algorithmichiring.github.io/</a><p><a href=\"https://arxiv.org/abs/2605.27371\" rel=\"nofollow\">https://arxiv.org/abs/2605.27371</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48649673\">https://news...."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Jerry's Map",
+      "link": "http://www.jerrysmap.com/the-map",
+      "summary": "<p><a href=\"https://www.openculture.com/2026/06/this-man-has-been-drawing-a-map-of-an-imaginary-land-since-1963.html\" rel=\"nofollow\">https://www.openculture.com/2026/06/this-man-has-been-drawin...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48649435\">https://news.yc..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Fired by Google for creating the Google workspace CLI",
+      "link": "https://twitter.com/JPoehnelt/status/2069482265953087602",
+      "summary": "<p><a href=\"https://xcancel.com/JPoehnelt/status/2069482265953087602\" rel=\"nofollow\">https://xcancel.com/JPoehnelt/status/2069482265953087602</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48649011\">https://news.ycombinator.com/item?id=48649011</a></p>\n<p>Points: 181</..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "In memory of the man who put red and green squiggles under words",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+      "summary": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451\">https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48648959\">https://news.ycombinator.com/item?id=48648959</a></p>\n<p>Points..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Swift Package Index joins Apple",
+      "link": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+      "summary": "<p>Article URL: <a href=\"https://swiftpackageindex.com/blog/swift-package-index-joins-apple\">https://swiftpackageindex.com/blog/swift-package-index-joins-apple</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48648779\">https://news.ycombinator.com/item?id=48648779</a></p>\n<p>Po..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "FUTO Swipe – A new swipe typing model",
+      "link": "https://swipe.futo.tech/",
+      "summary": "<p>Article URL: <a href=\"https://swipe.futo.tech/\">https://swipe.futo.tech/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48648619\">https://news.ycombinator.com/item?id=48648619</a></p>\n<p>Points: 172</p>\n<p># Comments: 63</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Claude Tag",
+      "link": "https://www.anthropic.com/news/introducing-claude-tag",
+      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/introducing-claude-tag\">https://www.anthropic.com/news/introducing-claude-tag</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48648039\">https://news.ycombinator.com/item?id=48648039</a></p>\n<p>Points: 222</p>\n<p># Comment..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "San Diego photologs from the 1970s",
+      "link": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
+      "summary": "<p>Article URL: <a href=\"https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/\">https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48647823\">https://news.ycombinator.com/item?id=48647823</a>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "F3",
+      "link": "https://github.com/future-file-format/f3",
+      "summary": "<p>Article URL: <a href=\"https://github.com/future-file-format/f3\">https://github.com/future-file-format/f3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48647799\">https://news.ycombinator.com/item?id=48647799</a></p>\n<p>Points: 584</p>\n<p># Comments: 126</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The worthlessness of Vitamin D is mildly exaggerated",
+      "link": "https://dynomight.net/vitamin-d/",
+      "summary": "<p>Article URL: <a href=\"https://dynomight.net/vitamin-d/\">https://dynomight.net/vitamin-d/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48647486\">https://news.ycombinator.com/item?id=48647486</a></p>\n<p>Points: 154</p>\n<p># Comments: 111</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Digital euro clears key hurdle as EU seeks to break free from U.S. credit cards",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/ecb-secures-key-parliamentary-backing-102718449.html",
+      "summary": "<p>Article URL: <a href=\"https://finance.yahoo.com/markets/currencies/articles/ecb-secures-key-parliamentary-backing-102718449.html\">https://finance.yahoo.com/markets/currencies/articles/ecb-secures-key-parliamentary-backing-102718449.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "AI's Affordability Crisis",
+      "link": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+      "summary": "<p>Article URL: <a href=\"https://blog.dshr.org/2026/06/ais-affordability-crisis.html\">https://blog.dshr.org/2026/06/ais-affordability-crisis.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48646276\">https://news.ycombinator.com/item?id=48646276</a></p>\n<p>Points: 219</p>\n..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
+      "link": "https://lift4d.github.io/",
+      "summary": "<p>Article URL: <a href=\"https://lift4d.github.io/\">https://lift4d.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48645721\">https://news.ycombinator.com/item?id=48645721</a></p>\n<p>Points: 102</p>\n<p># Comments: 11</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+      "link": "https://tikz.dev/editor/",
+      "summary": "<p>Hi all! TikZ is a widely-used LaTeX package for drawing figures in papers. It uses commands like \\draw[->] (0,0) -- (1,2); to draw lines, shapes, text, etc. Academics usually code up their figures by hand, so there is lots of twiddling around with the coordinates and recompiling until things look..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Mistral OCR 4",
+      "link": "https://mistral.ai/news/ocr-4/",
+      "summary": "<p>Article URL: <a href=\"https://mistral.ai/news/ocr-4/\">https://mistral.ai/news/ocr-4/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48645152\">https://news.ycombinator.com/item?id=48645152</a></p>\n<p>Points: 418</p>\n<p># Comments: 109</p>..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Just landed a Computer Vision internship, here's the preparation list I used [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ud8ovs/just_landed_a_computer_vision_internship_heres/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I recently landed a Computer Vision internship after prepping with this checklist I put together. It starts with core math and ML fundamentals, then moves into the specialized CV topics that actually come up in interviews.</p> <p>I compressed it..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Are model security risks (extraction, poisoning) actually being tested in production? [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uddtws/are_model_security_risks_extraction_poisoning/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Talk to a lot of ML teams who ship models but skip any adversarial testing before deployment. Feels like security review for models is way behind where it is for regular software. Anyone here actually doing this at their job?</p> </div><!-- SC_ON --> &#32; submitted..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "What's your biggest pain point when choosing between cloud GPU providers for LLM inference?[R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1udfovh/whats_your_biggest_pain_point_when_choosing/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Trying to understand how other people make this decision. Do you compare $/hr, $/token, throughput, reliability? Is there a tool or resource you rely on, or are you just doing the math manually?</p> <p>Asking because I'm an ML engineer who's been doing this in sprea..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "WACV supp. mat. video [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1udgv9h/wacv_supp_mat_video_r/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello,</p> <p>WACV conference submission deadline is by the end of this week, good luck everyone!</p> <p>Does anyone know what the expected format/duration of the video for the supp. mat. is? The guidelines only mention:</p> <ul> <li>The supplementary material can b..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Non-deterministic Vulnerability Detection Benchmark System [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ud0rft/nondeterministic_vulnerability_detection/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I work in firmware adjacent to AI, so not an ML guy exactly, so that's why I've come here. For work we got a bit concerned about Mythos and all the hype made me explore some benchmarking work. I now have this pretty cool benchmark that's about 80% done sitting aroun..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Will I be desk rejected for this[R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1udsfgk/will_i_be_desk_rejected_for_thisr/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>so I submitted a paper to a conference, and literally went one line on a 2 column submission so literally half a line over the page limit. im really paranoid that this will be a desk rejection..</p> <p>has anyone ever had this happen before? will it be desk rejected..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Miccai grants results [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1udneyh/miccai_grants_results_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Do you guys get a miccai grants result? I do not receive any mail. Don’t I accept? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/CrazyIndependent7436\"> /u/CrazyIndependent7436 </a> <br /> <span><a href=\"https://www.reddit.co..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Found a potential mistake in an ICLR 2026 blogpost [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ud9i2g/found_a_potential_mistake_in_an_iclr_2026/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I think I found a mistake in an ICLR 2026 blog post. I created an issue and have been trying to contact the author and organizers, but I haven't received a response after several weeks. Could anyone please take a look and let me know your thoughts? (I'm just curious..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection",
+      "link": "https://arxiv.org/abs/2606.23689v1",
+      "summary": "Learning robust dexterous grasping requires real-world data that records the physical outcomes of grasp attempts. Such data is hard to obtain at scale: teleoperation yields valid physical outcomes but is slow and operator-biased, while simulation-based generation is cheap and scalable but cannot cer..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
+      "link": "https://arxiv.org/abs/2606.23687v1",
+      "summary": "Large language models (LLMs) are typically pretrained on short sequences and then extended to work on longer sequences with additional training. However, such LLMs still struggle to further generalize to very long sequences. We propose Randomized YaRN, a training method that improves length generali..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation",
+      "link": "https://arxiv.org/abs/2606.23680v1",
+      "summary": "Humanoid loco-manipulation is often simplified into a stop-and-go process: walking to an object, stopping to manipulate it, and then resuming locomotion. It also commonly relies on low degree-of-freedom (DoF) end effectors that behave like an open-close grasp primitive. We introduce CoorDex, a learn..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Semantic Browsing: Controllable Diversity for Image Generation",
+      "link": "https://arxiv.org/abs/2606.23679v1",
+      "summary": "Modern text-to-image models excel in visual fidelity and prompt adherence. However, this strict adherence comes at the cost of diversity: generated samples tend to collapse into a single visual interpretation. Existing methods to improve diversity produce outputs driven by incidental variations rath..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "AIR: Adaptive Interleaved Reasoning with Code in MLLMs",
+      "link": "https://arxiv.org/abs/2606.23678v1",
+      "summary": "Following the paradigm shift initiated by OpenAI o3, interleaved reasoning with code to enhance multimodal large language models (MLLMs) has become a pivotal research frontier. The existing literature focuses primarily on tool-use within vision-perception tasks. However, such approaches typically re..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?",
+      "link": "https://arxiv.org/abs/2606.23676v1",
+      "summary": "AdamW is the de facto optimizer for training large language models (LLMs), yet the theory behind it still lives mostly in finite-variance regimes. This is increasingly unsatisfying, as empirical evidence indicates that stochastic gradient noise in LLM pretraining is typically heavy-tailed. Recent wo..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support",
+      "link": "https://arxiv.org/abs/2606.23673v1",
+      "summary": "Mental health assessment commonly relies on isolated screening instruments or data-driven models that often lack interpretability and multi-dimensional integration. Existing approaches frequently focus on individual indicators such as depression or anxiety while providing limited support for compreh..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Teaching LLMs String Matching, Backtracking, and Error Recovery to Deduce Bases and Truth Tables for the Combinatorially Exploding Bit Manipulation Puzzles",
+      "link": "https://arxiv.org/abs/2606.23672v1",
+      "summary": "This paper presents our algorithmic innovations for the NVIDIA Nemotron Model Reasoning Challenge, focusing on Bit Manipulation Puzzles. In this task, the objective is to discover a hidden logical rule transforming input binary strings to outputs, then apply it to unseen inputs. Large Language Model..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Can LLMs Reliably Self-Report Adversarial Prefills, and How?",
+      "link": "https://arxiv.org/abs/2606.23671v1",
+      "summary": "Prior work shows that large language models (LLMs) exhibit introspective capability on benign tasks. We extend the question to safety contexts and examine how reliably a model can recognize that its own prior response was elicited by an adversarial prefill attack. Across ten open-weight instruction-..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Tapered Language Models",
+      "link": "https://arxiv.org/abs/2606.23670v1",
+      "summary": "Modern language models, including transformer, recurrent, and memory-based variants, share a common chassis: a stack of identical layers in which parameters are allocated uniformly across depth. This is a default inherited from the original transformer and largely unchanged since, yet a growing body..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "On the Limits of Prompt-Conditioned Language Models as General-Purpose Learners",
+      "link": "https://arxiv.org/abs/2606.23668v1",
+      "summary": "Large Language Models (LLMs) are frequently portrayed as general-purpose solvers capable of solving arbitrary tasks. We argue that this view overlooks a fundamental constraint: language is a compressed and capacity-limited interface for conveying task information. Modelling User--System interaction ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "MAS-PromptBench: When Does Prompt Optimization Improve Multi-Agent LLM Systems?",
+      "link": "https://arxiv.org/abs/2606.23664v1",
+      "summary": "Multi-agent systems (MAS) offer a scalable path forward for agentic AI, comprising multiple LLM-based agents, each assigned a system prompt and a position within a workflow that governs inter-agent coordination and output aggregation. System prompts thus form a critical and accessible optimization s..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Action-BED: Task-Driven Bayesian Experimental Design with Singly Intractable Objectives",
+      "link": "https://arxiv.org/abs/2606.23662v1",
+      "summary": "Bayesian experimental design (BED) has traditionally been based on maximising expected uncertainty reductions from prior to posterior. A major shortfall of this approach is that it leads to doubly intractable objectives that are difficult to optimise, while customising them to particular downstream ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Dynamic estimation of slowly varying sequences",
+      "link": "https://arxiv.org/abs/2606.23655v1",
+      "summary": "We consider the problem of sequentially approximating functions of each element in a slowly-varying sequence, i.e. one where the magnitude $α_i$ of the difference between the elements at positions $i$ and $i-1$ is small. Recent work on implicit trace estimation shows that when $α_t$ is small, reusin..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions",
+      "link": "https://arxiv.org/abs/2606.23654v1",
+      "summary": "Enterprise agents increasingly operate inside workspaces: they read heterogeneous files, invoke tools, and deliver business artifacts. We introduce EnterpriseClawBench, an enterprise agent benchmark constructed from proprietary, real-world agent sessions. Starting from a large archive of workplace s..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "TailorMind: Towards Preference-Aligned Multimodal Content Generation",
+      "link": "https://arxiv.org/abs/2606.23643v1",
+      "summary": "Personalized content systems depend on available UGC and struggle when suitable content is absent, delayed, or costly to create. Although multimodal generators can synthesize content on demand, how to translate behavioral traces into generation-ready preferences remains underexplored. We study perso..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Learning Process Rewards via Success Visitation Matching for Efficient RL",
+      "link": "https://arxiv.org/abs/2606.23640v1",
+      "summary": "In many modern applications of reinforcement learning (RL), the natural reward for a task of interest is inherently sparse: a reward of 0 is given everywhere except when the task is completed, when a reward of +1 is given. Training a policy to maximize such a sparse reward requires solving a challen..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Muown Implicitly Performs Angular Step-size Decay",
+      "link": "https://arxiv.org/abs/2606.23637v1",
+      "summary": "Matrix-aware optimizers such as Muon and Muown have recently shown strong empirical performance for pre-training Transformers. In particular, Muown separates each weight matrix into row magnitudes and an un-normalized direction variable, updating the former with Adam and the latter with Muon. We sho..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "AI Exposure Scores: what they measure, what they miss, and what comes next",
+      "link": "https://arxiv.org/abs/2606.23633v1",
+      "summary": "A set of exposure scores calculated in 2023 has become a central empirical input to the future of work debate. Produced by Eloundou et al. (2023) and referred to here as the GPTs are GPTs scores, they define exposure as the share of occupational tasks a large language model can assist with. This wor..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "AI-driven Optimisation of Quality of Recovery (QoR) in Remote Patient Monitoring",
+      "link": "https://arxiv.org/abs/2606.23631v1",
+      "summary": "Remote patient monitoring depends on patient-reported data to capture the subjective dimension of recovery that devices cannot measure. The Quality of Recovery (QoR-15) survey is the gold-standard instrument for this purpose. It was designed and validated for occasional in-hospital assessment, yet r..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Diffusion Models Adapt to Low-Dimensional Structure Under Flexible Coefficient Choices",
+      "link": "https://arxiv.org/abs/2606.23627v1",
+      "summary": "Diffusion models are known to exploit unknown low-dimensional structure to accelerate sampling. However, existing convergence theory under low-dimensional data structure has largely focused on update rules with narrowly prescribed coefficient choices. This raises a fundamental question: is adaptatio..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "DiT-Reward: Generative Representations for Text-to-Image Reward Modeling",
+      "link": "https://arxiv.org/abs/2606.23626v1",
+      "summary": "Can representations learned for image generation also support the evaluation of generated images? We study text-to-image reward prediction as a downstream task of generative representation learning. To this end, we introduce DiT-Reward, which converts a pretrained text-to-image Diffusion Transformer..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "RECALL: Recovery Experience Collection for Active Lifelong Learning in Vision-Language-Action Models",
+      "link": "https://arxiv.org/abs/2606.23617v1",
+      "summary": "Vision-Language-Action (VLA) models are commonly fine-tuned through passive imitation learning, where additional demonstrations are collected for tasks where the policy performs poorly. This approach incurs several downsides: it requires the robot to fail before data collection is triggered, provide..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Hedgementation = Hedgerow Segmentation: A Remote Sensing Benchmark",
+      "link": "https://arxiv.org/abs/2606.23615v1",
+      "summary": "We propose Hedgementation: a new benchmark to evaluate machine learning models for hedgerow mapping from remote sensing data at country scale and 10m$^2$ spatial resolution. We combine and harmonize multiple remote sensing data products and ground truth labels sourced from a hedgerow inventory in Fr..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Data Selection Through Iterative Self-Filtering for Vision-Language Settings",
+      "link": "https://arxiv.org/abs/2606.23611v1",
+      "summary": "The availability of large amounts of clean data is paramount to training neural networks. However, at large scales, manual oversight is impractical, resulting in sizeable datasets that can be very noisy. Attempts to mitigate this obstacle to producing performant vision-language models have so far in..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Discovering Latent Groups for Robust Classification",
+      "link": "https://arxiv.org/abs/2606.23609v1",
+      "summary": "Machine learning models exploit spurious correlations, achieving high average accuracy but failing disproportionately on underrepresented subgroups. Existing methods address this by adjusting network parameters, guided either by subgroup annotations or inferred pseudo-group labels. Yet at inference,..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Causal Discovery in the Era of Agents",
+      "link": "https://arxiv.org/abs/2606.23608v1",
+      "summary": "Recent attempts to combine large language models (LLMs) with causal discovery ask models to infer pairwise directions, propose graph structures, or inject language-model outputs as priors and constraints. These approaches promise faster analysis, but they also obscure whether a causal evidence is su..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Scaling Linear Mode Connectivity and Merging to Billion Parameter Pretrained Transformers",
+      "link": "https://arxiv.org/abs/2606.23607v1",
+      "summary": "Linear mode connectivity (LMC) provides a promising foundation for understanding and merging independently trained neural networks, but existing methods typically optimize the interpolation path from only one model endpoint, limiting their scalability and effectiveness for large pretrained transform..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Polycepta: Object-Centric Appearance Estimation for Multi-Object Tracking",
+      "link": "https://arxiv.org/abs/2606.23604v1",
+      "summary": "The tracking-by-detection paradigm in multi-object tracking (MOT) typically relies on static appearance descriptors to complement motion estimation. However, these descriptors are frame-independent, limiting their robustness as visual cues. Since such descriptors are often obtained from computationa..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "MORL-A2C: Multi-Objective Reinforcement Learning Reranker for Optimizing Healthiness in MOPI-HFRS",
+      "link": "https://arxiv.org/abs/2606.23603v1",
+      "summary": "Unhealthy dietary behavior continues to be a persistent public health issue in the United States, exacerbated by recommendation systems that prioritize user preference without considering nutritional health. The Multi-Objective Personalized Interpretable Health-aware Food Recommendation System (MOPI..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Neural Networks as Linear Regression: An Introduction for Statisticians",
+      "link": "https://arxiv.org/abs/2606.23601v1",
+      "summary": "Neural networks are a commonly used prediction tool in computer science and statistics. However, the barrier to entry of this interesting field remains high, particularly for classical statisticians trained in a frequentist perspective. In this letter, we demystify neural networks by describing netw..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Against Proxy Optimization",
+      "link": "https://arxiv.org/abs/2606.23597v1",
+      "summary": "I discuss conditions under which maximizing a proxy utility function is harmful and suggest this poses problems for applying decision theory...."
+    },
+    {
+      "source": "ArXiv",
+      "title": "SPIRAL: Learning to Search and Aggregate",
+      "link": "https://arxiv.org/abs/2606.23595v1",
+      "summary": "Language model reasoning can be substantially improved at test time via scaffolds that scale inference compute across different primitives -- sequential reasoning within a trace, independently sampled parallel traces, and aggregation of multiple reasoning traces into a final response. During post-tr..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Quantifying the Agreement Between Data-Influence and Data-Similarity to Understand LLM Behavior",
+      "link": "https://arxiv.org/abs/2606.23591v1",
+      "summary": "One way to understand LLM behavior is to trace its output back to the training data. Two types of measures are commonly used for output tracing: data-similarity and data-influence. The former is cheaper while the latter is believed to be more accurate. Even though many works have compared them for g..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "The Topology of Ill-Posed Questions: Persistent Homology for Detection and Steering in LLMs",
+      "link": "https://arxiv.org/abs/2606.23590v1",
+      "summary": "Ill-posed questions, including ambiguous, underspecified, or contradictory queries, may admit no valid answer or multiple plausible answers, posing a challenge for large language models (LLMs). Existing approaches largely analyze ill-posedness through model outputs and often focus on specific subcla..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "A Generative Model for Closed-Loop Microsimulation of Signalized Intersections",
+      "link": "https://arxiv.org/abs/2606.23588v1",
+      "summary": "Traffic microsimulators rely on hand-crafted behavior models that reproduce aggregate flow but miss the heterogeneous interactions between vehicles at signalized intersections. Learned trajectory predictors capture richer interactions but are short-horizon and tend to be unstable when run in closed ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "It's Much Easier for Neural Networks to learn Game of Life Dynamics with the Right Activation Function: Polynomial Kolmogorov-Arnold Networks",
+      "link": "https://arxiv.org/abs/2606.23587v1",
+      "summary": "Previous work has found a gap between the scale of neural networks that reliably learn Conway's Game of Life, and minimal networks capable of representing the classic cellular automaton with hard-coded parameter values. Viewing neural network learning as a search process suggests a dependence on net..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Decentralized Autonomous Traffic Management through Corridor Networks",
+      "link": "https://arxiv.org/abs/2606.23585v1",
+      "summary": "As autonomous aircraft are introduced at scale and traffic density increases, centralized management becomes insufficient to coordinate the large numbers of crewed and uncrewed aircraft. Dedicated Advanced Air Mobility (AAM) corridors have therefore been proposed for organizing high-density autonomo..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Evaluation Awareness Is Not One Capability: Evidence from Open Language Models",
+      "link": "https://arxiv.org/abs/2606.23583v1",
+      "summary": "Safety benchmarks assume that test-condition behavior predicts deployment behavior, an assumption that fails if models detect evaluation cues and adapt. This opens a gap between benchmark performance and deployment behavior: compliance measured under test conditions becomes an optimistic upper bound..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Kamera: Unified Position-Invariant Multimodal KV Cache for Training-Free Reuse",
+      "link": "https://arxiv.org/abs/2606.23581v1",
+      "summary": "Multimodal agents repeatedly re-examine the same video frames, UI screenshots, and rendered artifacts as their context window slides and reasoning iterates, yet every look-back re-encodes from scratch, because prefix caches serve reuse only at a fixed leading position. We show this recompute is avoi..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Solve for the Hyperparameter, Skip the Search: Kolmogorov-Optimal Scaling Laws for Spline Regression",
+      "link": "https://arxiv.org/abs/2606.23575v1",
+      "summary": "Hyperparameter tuning almost always means search: fit the model at every value on a grid, score each by cross-validation, and keep the winner. For spline regression that search is unnecessary. The optimal resolution can be solved for in closed form, to the accuracy an exhaustive search reaches, at a..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "A Spectral Theory of Normalized Corrected GNN Propagation",
+      "link": "https://arxiv.org/abs/2606.23572v1",
+      "summary": "We develop a spectral theory for \\emph{normalized corrected GNN propagation}. The object of study is the symmetric normalized adjacency with its degree-stationary component removed, matching the normalization used by standard GCN-style models while isolating the stationary direction most directly ti..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Patient-Aware Contrastive Learning Preserves Per-Patient Structure in RR-Interval Representations",
+      "link": "https://arxiv.org/abs/2606.23570v1",
+      "summary": "Contrastive representation learning struggles on physiological signals when each subject contributes a distinct baseline pattern. If class differences overlap with subject differences,class-level objectives such as supervised contrastive learning tend to merge per-subject structure into a single per..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "SVD-Surgeon: Optimal Singular-Value Surgery for Large Language Model Compression",
+      "link": "https://arxiv.org/abs/2606.23568v1",
+      "summary": "Large language models (LLMs) achieve remarkable performance across a wide range of tasks, but their deployment is constrained by substantial memory and compute requirements. Low-rank compression via singular value decomposition (SVD) is an effective remedy, but existing methods focus on how to facto..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Scheduling Thoughts: Learning the Order of Thought in Diffusion Language Models",
+      "link": "https://arxiv.org/abs/2606.23567v1",
+      "summary": "Masked diffusion language models decode by iteratively unmasking tokens, where the unmasking order defines an \"order of thought\" that strongly influences generation quality yet is typically chosen heuristically. We derive a tractable upper bound on the sequential decoding mismatch, measured by the K..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "LangMAP: A Language-Adaptive Approach to Tokenization",
+      "link": "https://arxiv.org/abs/2606.23566v1",
+      "summary": "Language-specific tokenizers improve tokenization quality and the downstream performance of models on those languages. However, using such a tokenizer comes at a cost: either a new model must be trained from scratch, or the vocabulary of an existing pretrained model must be adapted. We propose Langu..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "Approximating velocity fields with planted attractors via Neural-ODEs for classification purposes",
+      "link": "https://arxiv.org/abs/2606.23550v1",
+      "summary": "In this work, Neural ODEs equipped with a curated collection of equilibrium points have been successfully employed for classification tasks.The planted attractors serve as indicators for the target classes, while the velocity field leveraging the universal approximation capabilities of the architect..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "SuperCond-GNN: Scalable Graph Neural Network Surrogate for Superconducting Circuit Simulations",
+      "link": "https://arxiv.org/abs/2606.23548v1",
+      "summary": "This paper presents SuperCond-GNN, a graph neural network-based surrogate model for predicting the voltage distribution in high-temperature superconducting (HTS) magnets. HTS magnets are modeled as lumped-element equivalent circuits and mapped onto graph representations, enabling message passing GNN..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "The Energy Consumption of Transformer Fine-Tuning: A Roofline-Inspired Scaling Model",
+      "link": "https://arxiv.org/abs/2606.23546v1",
+      "summary": "Transformer-based models underpin modern natural language processing but incur rapidly growing computational and energy costs. As training scales in both model size and parallelism, accurately predicting energy consumption has become critical for sustainable and cost-aware system design. We present ..."
+    },
+    {
+      "source": "ArXiv",
+      "title": "VeriEvol: Scaling Multimodal Mathematical Reasoning via Verifiable Evol-Instruct",
+      "link": "https://arxiv.org/abs/2606.23543v1",
+      "summary": "Scaling reinforcement learning for visual mathematical reasoning requires more than generating harder questions: as data volume grows, the reward labels themselves must remain reliable. Yet existing data pipelines scale supervision while trusting the labeller, and policy-side methods assume the unde..."
     }
   ],
-  "timestamp": "2026-06-22T23:18:06.599636",
-  "total_items": 2945
+  "timestamp": "2026-06-23T23:07:56.136536",
+  "total_items": 3027
 }
