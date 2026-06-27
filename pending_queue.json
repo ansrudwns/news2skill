@@ -19523,8 +19523,152 @@
       "title": "Automating Potential-based Reward Shaping with Vision Language Model Guidance",
       "link": "https://arxiv.org/abs/2606.27180v1",
       "summary": "Sparse rewards are inherently challenging for reinforcement learning agents as they lack intermediate feedback to guide exploration and to correctly attribute the sparse success rewards to relevant parts of the trajectory. Naive reward shaping can induce reward hacking, yielding policies that exploi..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "GLP-1 drugs led to weight loss and reversed depression-like behavior in mice",
+      "link": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis",
+      "summary": "<p>Article URL: <a href=\"https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis\">https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Enhancing X11 Application Security with LXC",
+      "link": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+      "summary": "<p>Article URL: <a href=\"https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/\">https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48701936\">https://news.ycombinator.com/item?id=48..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "'Careless People' author claims Meta surveilled her for 12mos to enforce silence",
+      "link": "https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/",
+      "summary": "<p>Article URL: <a href=\"https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/\">https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48701822\">https://news.ycombi..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+      "link": "https://github.com/kageroumado/adrafinil",
+      "summary": "<p>A month ago there was a wave of posts and tweets about engineers walking around cafes and parks with their MacBooks propped half-open, as fully closing the lid forces sleep that stops their AI agents. Some people made snarky comments about using tmux or Amphetamine, and some defended their choice..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
+      "link": "https://ipcrawl.com/",
+      "summary": "<p>Article URL: <a href=\"https://ipcrawl.com/\">https://ipcrawl.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48700834\">https://news.ycombinator.com/item?id=48700834</a></p>\n<p>Points: 167</p>\n<p># Comments: 86</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Turn your site into a place people can bump into each other",
+      "link": "https://cauenapier.com/blog/townsquare_release/",
+      "summary": "<p>Related: <i>Show HN: TownSquare, a tiny presence layer for websites</i> - https://news.ycombinator.com/item?id=48608570 - June 2026 (166 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48699928\">https://news.ycombinator.com/item?id=48699928</a></p>\n<p>Points: 1..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Zuckerberg's war on whistleblowers",
+      "link": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+      "summary": "<p>Article URL: <a href=\"https://pluralistic.net/2026/06/27/zuckerstreisand-2/\">https://pluralistic.net/2026/06/27/zuckerstreisand-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48698684\">https://news.ycombinator.com/item?id=48698684</a></p>\n<p>Points: 573</p>\n<p># Comment..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "link": "https://github.com/bikini/exploitarium",
+      "summary": "<p>Article URL: <a href=\"https://github.com/bikini/exploitarium\">https://github.com/bikini/exploitarium</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48698617\">https://news.ycombinator.com/item?id=48698617</a></p>\n<p>Points: 590</p>\n<p># Comments: 232</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+      "link": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+      "summary": "<p>Article URL: <a href=\"https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/\">https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48698559\">https://news.yc..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Running a software jam in a world of slop",
+      "link": "https://foxmoss.com/blog/radish/",
+      "summary": "<p>I'm Fox. I'm a 16 year old, and I've been working mostly working on making projects I thought were cool & would do well on the internet over the last year. You can check out my other blog posts if you want to get a sense of what that means: <<a href=\"https://foxmoss.com/blog\" rel=\"nofollow\">https..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Suspicious Discontinuities (2020)",
+      "link": "https://danluu.com/discontinuities/",
+      "summary": "<p>Article URL: <a href=\"https://danluu.com/discontinuities/\">https://danluu.com/discontinuities/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48698151\">https://news.ycombinator.com/item?id=48698151</a></p>\n<p>Points: 191</p>\n<p># Comments: 47</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Asian AI startups launch Mythos-like models",
+      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\">https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/</a></p>\n<p>Comments URL: <a href=\"https://news.y..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "OpenRA",
+      "link": "https://www.openra.net/",
+      "summary": "<p>Article URL: <a href=\"https://www.openra.net/\">https://www.openra.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697560\">https://news.ycombinator.com/item?id=48697560</a></p>\n<p>Points: 523</p>\n<p># Comments: 98</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The case for physical media ownership",
+      "link": "https://dervis.de/physical/",
+      "summary": "<p>Article URL: <a href=\"https://dervis.de/physical/\">https://dervis.de/physical/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697335\">https://news.ycombinator.com/item?id=48697335</a></p>\n<p>Points: 332</p>\n<p># Comments: 221</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Fintech Engineering Handbook",
+      "link": "https://w.pitula.me/fintech-engineering-handbook/",
+      "summary": "<p>Article URL: <a href=\"https://w.pitula.me/fintech-engineering-handbook/\">https://w.pitula.me/fintech-engineering-handbook/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48696982\">https://news.ycombinator.com/item?id=48696982</a></p>\n<p>Points: 433</p>\n<p># Comments: 149</..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "summary": "<p>Article URL: <a href=\"https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf\">https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48696585\">https://news.ycombinator.com/item?id=48696585</a></p>\n<p>Po..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "MathFormer: Testing whether symbolic math is pattern matching or reasoning [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uhatw8/mathformer_testing_whether_symbolic_math_is/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Repo link and results - <a href=\"https://github.com/Abhinand20/MathFormer\">https://github.com/Abhinand20/MathFormer</a></p> <p>Task: Given a factorized expression like (7-3*z)*(-5*z-9), predict the expanded form -&gt; 15*z\\*2-8\\*z-63</p> <p>Key takeaway: A tiny (4M ..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Hiding messages in the least significant mantissa bits of fine-tuned ONNX model weights [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uh61uw/hiding_messages_in_the_least_significant_mantissa/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1uh61uw/hiding_messages_in_the_least_significant_mantissa/\"> <img alt=\"Hiding messages in the least significant mantissa bits of fine-tuned ONNX model weights [P]\" src=\"https://external-preview.redd.it/xL20TWLoDXtutsGuMHS1qd..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Built an LLM training framework that actually runs on older GPUs without crashing [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uh7ib3/built_an_llm_training_framework_that_actually/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys,</p> <p>I was playing around with Nanotron recently and got super frustrated by how many heavy, hardware-specific dependencies it imports at the module level ( flash-attn , triton, functorch , etc.). If you try to run it on older or budget GPUs like a T4 or..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "I silently break training codes or configs so I made pybench [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ugv7u3/i_silently_break_training_codes_or_configs_so_i/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>It is like pytest but for statistical tests: it ensures no regression of your metrics at a statistical level.</p> <p>It manages tedious things such that seeds, past benchmark results, ...</p> <p>Simple CLI working like pytest but with benchmarks/ directory instead o..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Benchmarking Self-Hosted Gemma 2 9B vs. Frontier APIs: The FP8 Quantization Prefill Tax and VRAM Realities on an NVIDIA L4 [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uhdxnb/benchmarking_selfhosted_gemma_2_9b_vs_frontier/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>When evaluating migrating production LLM workloads off commercial cloud APIs, the conversation usually gets oversimplified into a trade-off between quality and infrastructure cost. To look past clean, isolated averages, I built a repeatable evaluation matrix using a..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Late Submission of NeurIPS Review [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ugtjov/late_submission_of_neurips_review_r/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I submitted one of my NeurIPS review ~6 hrs later than the official deadline. Will this still affect my own submission?</p> <p>Asking because I’m a first time reviewer. I pinged the AC a day before that I might be a few hours late, but didn’t hear back. So wondering..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Showcase: Building ML models that \"watch\" MMA fights and label events and positional changes making these moments all searchable on a timeline [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ugwrmz/showcase_building_ml_models_that_watch_mma_fights/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey all, a bit of background - I'm an ex Amateur MMA fighter and BJJ brown belt and am also in the AI/ML space ... weird combo but wanted to know if anyone else was at the intersection of ML/AI and MMA/BJJ.</p> <p>In short, I'm building AI models that &quot;watch&qu..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Do we still need to study algorithms now that AI writes most of our code? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uhdydj/do_we_still_need_to_study_algorithms_now_that_ai/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been thinking about this for a while.</p> <p>AI can now write functions, explain code, refactor projects, generate tests, and even solve many programming problems better than many junior developers.</p> <p>I've also noticed that Stack Overflow seems far less ac..."
     }
   ],
-  "timestamp": "2026-06-26T23:04:44.046369",
-  "total_items": 3254
+  "timestamp": "2026-06-27T23:01:05.451421",
+  "total_items": 3278
 }
