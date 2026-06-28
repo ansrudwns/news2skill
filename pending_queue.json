@@ -19667,8 +19667,146 @@
       "title": "Do we still need to study algorithms now that AI writes most of our code? [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1uhdydj/do_we_still_need_to_study_algorithms_now_that_ai/",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been thinking about this for a while.</p> <p>AI can now write functions, explain code, refactor projects, generate tests, and even solve many programming problems better than many junior developers.</p> <p>I've also noticed that Stack Overflow seems far less ac..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Knowledge Distillation of Black-Box Large Language Models",
+      "link": "https://arxiv.org/abs/2401.07013",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2401.07013\">https://arxiv.org/abs/2401.07013</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48712420\">https://news.ycombinator.com/item?id=48712420</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+      "link": "https://github.com/kamaludu/bash4llm/",
+      "summary": "<p>Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal.  I created it because I wanted something simple that worked without installing Python, Node, or any other runtime.<p>It uses only Bash, curl, and jq. You can send prompts, start a small chat, process files line by..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+      "link": "https://github.com/JustVugg/nanoeuler",
+      "summary": "<p>Hi everyone,<p>I started working on nanoeuler after the ban of anthropic's fable because my ambition and dream is to work in the AI   field in anthropic. The two interesting reasons that led me to create nanoeuler were (1) interfacing with llm does not mean understanding how they are composed and..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+      "link": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+      "summary": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number\">https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710775\">https://news.ycombinator.com/item?id=48710775</a></p>\n<p>Poin..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The US Used to Demand the Best Tech. Now We Ban It",
+      "link": "https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it",
+      "summary": "<p>Article URL: <a href=\"https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it\">https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710437\">https://news.ycombinator.com/it..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Do LLMs pass the mirror test?",
+      "link": "https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test",
+      "summary": "<p>Article URL: <a href=\"https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test\">https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710414\">https://news.ycombinator.com/item?id=48710414</a></p>\n<p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
+      "link": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
+      "summary": "<p><a href=\"http://i.stanford.edu/pub/cstr/reports/cs/tr/68/85/CS-TR-68-85.pdf\" rel=\"nofollow\">http://i.stanford.edu/pub/cstr/reports/cs/tr/68/85/CS-TR-68-...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710350\">https://news.ycombinator.com/item?id=48710350</a></p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "British Origami: the 1955 exhibition by Akira Yoshizawa",
+      "link": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
+      "summary": "<p>Article URL: <a href=\"https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/\">https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710325\">https://news.ycombina..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Librepods: AirPods liberated",
+      "link": "https://github.com/librepods-org/librepods",
+      "summary": "<p>Article URL: <a href=\"https://github.com/librepods-org/librepods\">https://github.com/librepods-org/librepods</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710232\">https://news.ycombinator.com/item?id=48710232</a></p>\n<p>Points: 207</p>\n<p># Comments: 61</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Historical memory prices 1960-2026",
+      "link": "https://dam.stanford.edu/memory-prices.html",
+      "summary": "<p>Article URL: <a href=\"https://dam.stanford.edu/memory-prices.html\">https://dam.stanford.edu/memory-prices.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710092\">https://news.ycombinator.com/item?id=48710092</a></p>\n<p>Points: 95</p>\n<p># Comments: 29</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "link": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "summary": "<p>Article URL: <a href=\"https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/\">https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4870967..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+      "link": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+      "summary": "<p>Article URL: <a href=\"http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html\">http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48709187\">https://news.ycombinator.com/item?id=487091..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: DRM-Free Books",
+      "link": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
+      "summary": "<p>After several years of mandatory DRM lockdowns from most commercial book sources, now authors have a choice when it comes to DRM for their books.  Pick authors and books that are DRM-free, or download DRM-free classics that are out of copyright.<p><a href=\"https://frequal.com/Perspectives/DrmFree..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Professor denounces mass AI fraud on an exam at Brown",
+      "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+      "summary": "<p>Article URL: <a href=\"https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html\">https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html</a></p>\n<p>Comments URL: <a href=\"https://news.yco..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "link": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "summary": "<p>Article URL: <a href=\"https://antoine.fi/mri-analysis-using-claude-code-opus\">https://antoine.fi/mri-analysis-using-claude-code-opus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708941\">https://news.ycombinator.com/item?id=48708941</a></p>\n<p>Points: 281</p>\n<p># Comme..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+      "link": "https://www.openculture.com/2020/10/daisugi.html",
+      "summary": "<p><a href=\"https://x.com/wrathofgnon/status/1250287741247426565\" rel=\"nofollow\">https://x.com/wrathofgnon/status/1250287741247426565</a>, <a href=\"https://xcancel.com/wrathofgnon/status/1250287741247426565\" rel=\"nofollow\">https://xcancel.com/wrathofgnon/status/1250287741247426565</a></p>\n<hr />\n<p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Tokenmaxxing is dead, long live tokenmaxxing",
+      "link": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
+      "summary": "<p>Article URL: <a href=\"https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing\">https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708795\">https://news.ycombinator.com/item?id=48708795</a></p>\n<p>Points: ..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
+      "link": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
+      "summary": "<p>Article URL: <a href=\"https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html\">https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708700\">https://news.ycombinator.com/item?id=48708700</a></p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Programmable Probabilistic Computer with 1M p-bits",
+      "link": "https://arxiv.org/abs/2606.25313",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2606.25313\">https://arxiv.org/abs/2606.25313</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708496\">https://news.ycombinator.com/item?id=48708496</a></p>\n<p>Points: 38</p>\n<p># Comments: 1</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Zanagrams",
+      "link": "https://zanagrams.com/",
+      "summary": "<p>Article URL: <a href=\"https://zanagrams.com/\">https://zanagrams.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708182\">https://news.ycombinator.com/item?id=48708182</a></p>\n<p>Points: 136</p>\n<p># Comments: 45</p>..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "I shrank a transformer until every number fitted on the screen and made the weights editable [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uhw7fu/i_shrank_a_transformer_until_every_number_fitted/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been teaching myself how LLMs actually work, not at the API level, but down to the matrix multiplications. To force myself to really understand the forward pass, I first built a complete transformer by hand in a spreadsheet from embeddings through to the loss. ..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "NagaTranslate: Building a translation and voice pipeline for low-resource Nagaland creoles (Whisper, VITS, LLMs) [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uhlvjv/nagatranslate_building_a_translation_and_voice/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1uhlvjv/nagatranslate_building_a_translation_and_voice/\"> <img alt=\"NagaTranslate: Building a translation and voice pipeline for low-resource Nagaland creoles (Whisper, VITS, LLMs) [P]\" src=\"https://preview.redd.it/bu6xsk4hv..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Evaluating long-term memory limits in stateless LLM chatbots — feedback needed [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ui27i1/evaluating_longterm_memory_limits_in_stateless/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>I’m working on a research project exploring how stateless LLM-based chatbots handle long conversations and whether important earlier information is still reliably retained over time.</p> <p>My idea is to:</p> <ul> <li>Run a chatbot using an LLM API wi..."
     }
   ],
-  "timestamp": "2026-06-27T23:01:05.451421",
-  "total_items": 3278
+  "timestamp": "2026-06-28T23:00:51.062086",
+  "total_items": 3301
 }
