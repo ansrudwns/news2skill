@@ -22277,8 +22277,170 @@
       "title": "Proposal: Use semantic compression as input diffusion to read sessions larger than the context window [R]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1un63hv/proposal_use_semantic_compression_as_input/",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been trying to come up with a solution for keeping extremely long ai sessions coherent. Sometimes there is too much substance to risk compaction. With so much buzz around diffusion going on it got me thinking, what if we treat the context like a progressive ren..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "DNSGlobe – Rust TUI to watch DNS propagate around the world",
+      "link": "https://github.com/514-labs/dnsglobe",
+      "summary": "<p>Article URL: <a href=\"https://github.com/514-labs/dnsglobe\">https://github.com/514-labs/dnsglobe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48798313\">https://news.ycombinator.com/item?id=48798313</a></p>\n<p>Points: 8</p>\n<p># Comments: 5</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Composite Video on the NES: Why's it so wobbly?",
+      "link": "https://nicole.express/2026/phase-altering-by-line.html",
+      "summary": "<p>Article URL: <a href=\"https://nicole.express/2026/phase-altering-by-line.html\">https://nicole.express/2026/phase-altering-by-line.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48798247\">https://news.ycombinator.com/item?id=48798247</a></p>\n<p>Points: 5</p>\n<p># Comme..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "CoCom regulations and GPS receivers for balloons and cubesats",
+      "link": "https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube",
+      "summary": "<p>Article URL: <a href=\"https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube\">https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube</a></p>\n<p>Comme..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Had an idea for a Rust editor with simple Vim mode for learning",
+      "link": "https://github.com/electronicsleep/rust-vim",
+      "summary": "<p>Article URL: <a href=\"https://github.com/electronicsleep/rust-vim\">https://github.com/electronicsleep/rust-vim</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48798187\">https://news.ycombinator.com/item?id=48798187</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+      "link": "https://homegames.io",
+      "summary": "<p>I'm making a platform for simple open source games you can play anywhere.<p>Games are all just JavaScript classes and you can read the source of every game on the platform.<p>I started working on initial \"games\" (mostly rendering tests) in 2018 and eventually built all of the platform stuff aroun..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Completing a Computer Science Degree on Coursera",
+      "link": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
+      "summary": "<p>Article URL: <a href=\"https://notesbylex.com/completing-a-computer-science-degree-on-coursera\">https://notesbylex.com/completing-a-computer-science-degree-on-coursera</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48798061\">https://news.ycombinator.com/item?id=48798061</a>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Reparaible and open source paper printer",
+      "link": "https://www.opentools.studio/",
+      "summary": "<p>Article URL: <a href=\"https://www.opentools.studio/\">https://www.opentools.studio/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48797916\">https://news.ycombinator.com/item?id=48797916</a></p>\n<p>Points: 184</p>\n<p># Comments: 51</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Dungeon Proof Crawler: learn how to write proofs with RPG",
+      "link": "https://dhilst.github.io/algae/game/index.html",
+      "summary": "<p>Article URL: <a href=\"https://dhilst.github.io/algae/game/index.html\">https://dhilst.github.io/algae/game/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48797895\">https://news.ycombinator.com/item?id=48797895</a></p>\n<p>Points: 19</p>\n<p># Comments: 9</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Pint in England",
+      "link": "https://dispatch-media.com/the-best-pint-in-england/",
+      "summary": "<p>Article URL: <a href=\"https://dispatch-media.com/the-best-pint-in-england/\">https://dispatch-media.com/the-best-pint-in-england/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48797865\">https://news.ycombinator.com/item?id=48797865</a></p>\n<p>Points: 19</p>\n<p># Comments: ..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Dependencies should be fetched directly from VCS",
+      "link": "https://www.arp242.net/deps-vcs.html",
+      "summary": "<p>Article URL: <a href=\"https://www.arp242.net/deps-vcs.html\">https://www.arp242.net/deps-vcs.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48797771\">https://news.ycombinator.com/item?id=48797771</a></p>\n<p>Points: 18</p>\n<p># Comments: 13</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Osint tool that finds exposed files on domains",
+      "link": "https://search.cerast-intelligence.com/",
+      "summary": "<p>hey guys, wanted to show one of my side projects i just made public.<p>the idea is basically another osint tool for pentesters and bug bounty\nhunters. it watches certificate transparency logs and checks newly-seen\ndomains for exposed stuff like .env files, open .git dirs, config files,\ndb dumps a..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Zero-copy in Go: sendfile, splice, and the cost of io.Copy",
+      "link": "https://segflow.github.io/post/zero-copy-sendfile-splice/",
+      "summary": "<p>Article URL: <a href=\"https://segflow.github.io/post/zero-copy-sendfile-splice/\">https://segflow.github.io/post/zero-copy-sendfile-splice/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48797655\">https://news.ycombinator.com/item?id=48797655</a></p>\n<p>Points: 32</p>\n<p># ..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Cursed circuits #5: capacitance multiplier",
+      "link": "https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier",
+      "summary": "<p>Article URL: <a href=\"https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier\">https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48797467\">https://news.ycombinator.com/item?id=48797467</a></p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The full stack of terminals explained",
+      "link": "https://ahmadawais.com/the-full-stack-of-terminals-explained-terminal-shell-tty-console-posix-ansi-escapes-ptys/",
+      "summary": "<p>Article URL: <a href=\"https://ahmadawais.com/the-full-stack-of-terminals-explained-terminal-shell-tty-console-posix-ansi-escapes-ptys/\">https://ahmadawais.com/the-full-stack-of-terminals-explained-terminal-shell-tty-console-posix-ansi-escapes-ptys/</a></p>\n<p>Comments URL: <a href=\"https://news.y..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
+      "link": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
+      "summary": "<p>Article URL: <a href=\"https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/\">https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/</a></p>\n<p>Comments UR..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "link": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "summary": "<p>Article URL: <a href=\"https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf\">https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48796817\">https://news.ycombinator.com/item?id=48796817</a></p>\n<p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "You need a webring",
+      "link": "https://shub.club/writings/2026/july/you-need-a-webring/",
+      "summary": "<p>Article URL: <a href=\"https://shub.club/writings/2026/july/you-need-a-webring/\">https://shub.club/writings/2026/july/you-need-a-webring/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48796792\">https://news.ycombinator.com/item?id=48796792</a></p>\n<p>Points: 40</p>\n<p># Co..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "The future of Flipper Zero development",
+      "link": "https://blog.flipper.net/future-of-flipper-zero-development/",
+      "summary": "<p>Article URL: <a href=\"https://blog.flipper.net/future-of-flipper-zero-development/\">https://blog.flipper.net/future-of-flipper-zero-development/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48796552\">https://news.ycombinator.com/item?id=48796552</a></p>\n<p>Points: 180</p..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Starring the Computer",
+      "link": "https://www.starringthecomputer.com/computers.html",
+      "summary": "<p>Article URL: <a href=\"https://www.starringthecomputer.com/computers.html\">https://www.starringthecomputer.com/computers.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48796093\">https://news.ycombinator.com/item?id=48796093</a></p>\n<p>Points: 141</p>\n<p># Comments: 33<..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Installing A/UX 1.1 like it's the 90s",
+      "link": "https://thomasw.dev/post/aux11/",
+      "summary": "<p>Article URL: <a href=\"https://thomasw.dev/post/aux11/\">https://thomasw.dev/post/aux11/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48795323\">https://news.ycombinator.com/item?id=48795323</a></p>\n<p>Points: 47</p>\n<p># Comments: 15</p>..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "If DeepMind or Anthropic is doing your exact research topic, do you still continue? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1unt64q/if_deepmind_or_anthropic_is_doing_your_exact/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>As someone who is <strong>not affiliated</strong> with any of the big tech companies, I find it particularly difficult to have the confidence or enthusiasm to approach any ML problem with an attitude that my professors probably had at my stage in life. I'm sure I am..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Is Intrinsic Motivation a Viable PhD Topic in 2026? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uo5kg6/is_intrinsic_motivation_a_viable_phd_topic_in/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I started a PhD in CS about a year an a half ago. Generally speaking my topic is on intrinsic motivation (more commonly people refer to it as unsupervised RL).</p> <p>Intrinsic motivation (IM) is a niche field within AI. It seeks to develop reward signals which are ..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Competence Gate: gating tool-use on a small model's internal confidence signal instead of its verbalised one — Qwen3.5-4B, open weights [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1unw5un/competence_gate_gating_tooluse_on_a_small_models/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I made a 10MB LoRA adapter for Qwen3.5-4B plus a small orchestration layer. It decides, per query, whether to answer directly, search the web, or retrieve from your own local documents and it refuses to make things up when it can't verify an answer.</p> <p>It runs l..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Is machine learning research worth it for now? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uo0dqi/is_machine_learning_research_worth_it_for_now_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am a scientist who just applied machine learning to my research (JEPA/Representation/Geometric branch) and it did wonder! Allowed me to see so many papers that I am still struggling to write up.</p> <p>From what I see, there are clearly a million possibilities not..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "ECCV travel support program [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1unx5f8/eccv_travel_support_program_d/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Has anyone gotten a response from the eccv travel support program listed on their website? <a href=\"https://eccv.ecva.net/Conferences/2026/DEI\">https://eccv.ecva.net/Conferences/2026/DEI</a></p> <p>Edit: also have anyone applied for this program as an accepted autho..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "I built an open, from-scratch MT pipeline + parallel corpus for Tunisian Darija (Arabizi) early baseline, and I'm growing it into a curated community corpus [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uo92vz/i_built_an_open_fromscratch_mt_pipeline_parallel/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm an 18-year-old independent student from Tunisia. I built and I'm leading an open, from-scratch machine-translation pipeline and parallel corpus for Tunisian Darija. Sharing it for feedback.</p> <p>Why: Tunisian Darija, written in Arabizi (Latin letters + numeral..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Best models for generating red-team attacks? Also looking for public datasets [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uoejrl/best_models_for_generating_redteam_attacks_also/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, I'm currently working on a framework to evaluate the security of LLM applications and AI agents, and I've been stuck on one part for a while.</p> <p>Most red-teaming frameworks rely on an LLM to generate adversarial prompts. My question is more about <s..."
     }
   ],
-  "timestamp": "2026-07-04T22:56:34.892687",
-  "total_items": 3713
+  "timestamp": "2026-07-05T22:59:42.029133",
+  "total_items": 3740
 }
