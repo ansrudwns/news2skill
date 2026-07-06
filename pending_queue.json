@@ -22439,8 +22439,188 @@
       "title": "Best models for generating red-team attacks? Also looking for public datasets [R]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1uoejrl/best_models_for_generating_redteam_attacks_also/",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, I'm currently working on a framework to evaluate the security of LLM applications and AI agents, and I've been stuck on one part for a while.</p> <p>Most red-teaming frameworks rely on an LLM to generate adversarial prompts. My question is more about <s..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "link": "https://huggingface.co/blog/lerobot-release-v060",
+      "summary": "..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "PRX Part 4: Our Data Strategy",
+      "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "summary": "..."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "🤗 Kernels: Major Updates",
+      "link": "https://huggingface.co/blog/revamped-kernels",
+      "summary": "..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "How little exercise can you get away with?",
+      "link": "https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with\">https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Full Writeup of the Windows GDID",
+      "link": "https://github.com/SmtimesIWndr/gdid-reversal",
+      "summary": "<p>Article URL: <a href=\"https://github.com/SmtimesIWndr/gdid-reversal\">https://github.com/SmtimesIWndr/gdid-reversal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48811081\">https://news.ycombinator.com/item?id=48811081</a></p>\n<p>Points: 8</p>\n<p># Comments: 3</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Titan's Resources and Their Utilization",
+      "link": "https://arxiv.org/abs/2606.06608",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2606.06608\">https://arxiv.org/abs/2606.06608</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48810841\">https://news.ycombinator.com/item?id=48810841</a></p>\n<p>Points: 7</p>\n<p># Comments: 3</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
+      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
+      "summary": "<p>Article URL: <a href=\"https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector\">https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector</a></p>\n<p>Comments URL: <a href..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Taiganet.com, Home of the WS4000 Simulator",
+      "link": "https://www.taiganet.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.taiganet.com/\">https://www.taiganet.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48810501\">https://news.ycombinator.com/item?id=48810501</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Learning to code is still worthwhile",
+      "link": "https://stevekrouse.com/learn-to-code",
+      "summary": "<p>Article URL: <a href=\"https://stevekrouse.com/learn-to-code\">https://stevekrouse.com/learn-to-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48810439\">https://news.ycombinator.com/item?id=48810439</a></p>\n<p>Points: 80</p>\n<p># Comments: 70</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "summary": "<p>Article URL: <a href=\"https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/\">https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48809877\">https://news.ycombinator.com/it..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "M/PC – A Concatenative OS",
+      "link": "https://wiki.xxiivv.com/site/m_pc.html",
+      "summary": "<p>Article URL: <a href=\"https://wiki.xxiivv.com/site/m_pc.html\">https://wiki.xxiivv.com/site/m_pc.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48809810\">https://news.ycombinator.com/item?id=48809810</a></p>\n<p>Points: 14</p>\n<p># Comments: 1</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Python 3.14 compiled to metal – no interpreter",
+      "link": "https://github.com/can1357/pon",
+      "summary": "<p>Article URL: <a href=\"https://github.com/can1357/pon\">https://github.com/can1357/pon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48809496\">https://news.ycombinator.com/item?id=48809496</a></p>\n<p>Points: 97</p>\n<p># Comments: 58</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "link": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "summary": "<p>Article URL: <a href=\"https://www.kapa.ai/blog/how-we-prune-rag-context\">https://www.kapa.ai/blog/how-we-prune-rag-context</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48809354\">https://news.ycombinator.com/item?id=48809354</a></p>\n<p>Points: 27</p>\n<p># Comments: 1</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "CoMaps – FOSS Offline Maps",
+      "link": "https://www.comaps.app/",
+      "summary": "<p>Article URL: <a href=\"https://www.comaps.app/\">https://www.comaps.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808928\">https://news.ycombinator.com/item?id=48808928</a></p>\n<p>Points: 235</p>\n<p># Comments: 44</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Linux on the Atari Jaguar",
+      "link": "https://cakehonolulu.github.io/linux-for-jaguar/",
+      "summary": "<p>Article URL: <a href=\"https://cakehonolulu.github.io/linux-for-jaguar/\">https://cakehonolulu.github.io/linux-for-jaguar/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808663\">https://news.ycombinator.com/item?id=48808663</a></p>\n<p>Points: 84</p>\n<p># Comments: 16</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Companies hire more after AI adoption",
+      "link": "https://ramp.com/data/heavy-ai-adopters-hire-more",
+      "summary": "<p>Article URL: <a href=\"https://ramp.com/data/heavy-ai-adopters-hire-more\">https://ramp.com/data/heavy-ai-adopters-hire-more</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808498\">https://news.ycombinator.com/item?id=48808498</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "OpenWrt One – Open Hardware Router",
+      "link": "https://openwrt.org/toh/openwrt/one",
+      "summary": "<p>Article URL: <a href=\"https://openwrt.org/toh/openwrt/one\">https://openwrt.org/toh/openwrt/one</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808482\">https://news.ycombinator.com/item?id=48808482</a></p>\n<p>Points: 330</p>\n<p># Comments: 142</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "A global workspace in language models",
+      "link": "https://www.anthropic.com/research/global-workspace",
+      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/global-workspace\">https://www.anthropic.com/research/global-workspace</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808002\">https://news.ycombinator.com/item?id=48808002</a></p>\n<p>Points: 212</p>\n<p># Comments: 7..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
+      "link": "https://github.com/V4bel/Januscape",
+      "summary": "<p>Article URL: <a href=\"https://github.com/V4bel/Januscape\">https://github.com/V4bel/Januscape</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48807908\">https://news.ycombinator.com/item?id=48807908</a></p>\n<p>Points: 64</p>\n<p># Comments: 17</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "link": "https://github.com/iOfficeAI/OfficeCLI",
+      "summary": "<p>Article URL: <a href=\"https://github.com/iOfficeAI/OfficeCLI\">https://github.com/iOfficeAI/OfficeCLI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48807225\">https://news.ycombinator.com/item?id=48807225</a></p>\n<p>Points: 100</p>\n<p># Comments: 30</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)",
+      "link": "https://news.ycombinator.com/item?id=48806976",
+      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48806976\">https://news.ycombinator.com/item?id=48806976</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Show HN: Pulpie – Models for Cleaning the Web",
+      "link": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
+      "summary": "<p>Hey HN, I'm Shreyash, founder of Feyn. We built Pulpie, a family of Pareto optimal models for cleaning the web. Pulpie strips boilerplate (ads, footers, sidebars) from raw HTML and returns just the main content as HTML or Markdown.<p>We match SOTA extraction quality while being 20x cheaper. Clean..."
+    },
+    {
+      "source": "Hacker News (Frontpage)",
+      "title": "Kani: A Model Checker for Rust",
+      "link": "https://arxiv.org/abs/2607.01504",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.01504\">https://arxiv.org/abs/2607.01504</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48806410\">https://news.ycombinator.com/item?id=48806410</a></p>\n<p>Points: 116</p>\n<p># Comments: 7</p>..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Machine learning industry job requirements used to be myopic, but now it feels impossible. Anyone else seeing this? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uov7or/machine_learning_industry_job_requirements_used/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Today I was just casually browsing some jobs with tags [machine learning] on one of those large popular job-sites. What I am seeing really had me astonished. I want to check with Reddit whether I am hallucinating.</p> <p>A non-FAANG/non-Deepmind/.../non-Anthropic in..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "LingBot-Vision: masked boundary modeling for self-supervised pretraining (0.296 NYUv2 linear-probe RMSE at 1.1B vs 0.309 for DINOv3-7B, trails on ImageNet); weights in 4 sizes[R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/\"> <img alt=\"LingBot-Vision: masked boundary modeling for self-supervised pretraining (0.296 NYUv2 linear-probe RMSE at 1.1B vs 0.309 for DINOv3-7B, trails on ImageNet); wei..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "TRACE: open-source hierarchical memory for LLM agents, 82.5% on MemoryAgentBench’s EventQA using gpt-oss-20B [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uoz5jo/trace_opensource_hierarchical_memory_for_llm/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Built a memory system called TRACE that organizes agent conversation history into a topic tree (branches + summaries) instead of flat RAG chunks, and benchmarked it on MemoryAgentBench (ICLR 2026), specifically the EventQA accurate-retrieval task.</p> <p>Its a pypi ..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Edge AI ASL Recognition on Raspberry Pi 5 – Looking for Feedback on My System Design [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1up3kby/edge_ai_asl_recognition_on_raspberry_pi_5_looking/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><blockquote> </blockquote> <p><strong>Body:</strong></p> <blockquote> </blockquote> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Unlikely_Let_9147\"> /u/Unlikely_Let_9147 </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLe..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "How should I encode both target and feature variable for a multiclass classification? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1upa8yc/how_should_i_encode_both_target_and_feature/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am preprocessing a CSV dataset for multiclass classification with XGBoost. My <strong>Feature variable</strong> contain <strong>numerical and categorical values</strong>, while <strong>the target variable contain many categorical value.</strong> For example, <stro..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "CPU TTS benchmark with UTMOS MOS scoring: Kokoro, Supertonic, Inflect-Nano, and Kyutai's new Pocket TTS [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1up0azr/cpu_tts_benchmark_with_utmos_mos_scoring_kokoro/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Sharing a CPU TTS benchmark with objective MOS scores in case it's useful for anyone evaluating small TTS models. Adding this because Kyutai's Pocket TTS is architecturally different from the others in the field and I hadn't seen a head-to-head with it yet.</p> <p><..."
+    },
+    {
+      "source": "Reddit (r/MachineLearning)",
+      "title": "Does anyone have a name for that subtle \"Sameness\" creeping into model outputs lately? [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uon503/does_anyone_have_a_name_for_that_subtle_sameness/",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been running a lot of comparative evals across recent model releases—both API and open-weight—and there's a pattern I can't unsee.</p> <p>After a certain number of turns, or when you push into niche territory, the outputs start converging. Same cadence. Same he..."
     }
   ],
-  "timestamp": "2026-07-05T22:59:42.029133",
-  "total_items": 3740
+  "timestamp": "2026-07-06T23:05:42.680879",
+  "total_items": 3770
 }
